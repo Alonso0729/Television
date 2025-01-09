@@ -16,13 +16,17 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/6000000001000029752/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226670/index.m3u8$甘肃移动百视通
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226670/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226670/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226670/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226670/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010011/
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
@@ -82,15 +86,17 @@ http://[2409:8087:5e00:24::2b]:6610/000000001000/1/5353323539453949720/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
 http://[2409:8087:5e00:24::2c]:6610/000000001000/1/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226676/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226676/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226676/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226676/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226676/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
@@ -150,15 +156,17 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/6000000001000022313/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/8378175926191110263/1.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
-http://[2409:8087:74d3:21::0a]/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
-http://[2409:8087:74d3:21::0b]/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
-http://[2409:8087:74d3:21::0c]/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
-http://[2409:8087:74d3:21::0d]/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
-http://[2409:8087:74d3:21::0e]/270000001128/9900000003/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010212/
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
@@ -216,15 +224,17 @@ http://[2409:8087:5e00:24::2a]:6610/000000001000/1/5000000011000265004/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
 http://[2409:8087:5e00:24::2b]:6610/000000001000/1/8183388942203045169/1.m3u8?channel-id=ystenlive&Contentid=8183388942203045169&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226539/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226539/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226539/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226539/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226539/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010017/
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
@@ -276,15 +286,17 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/5000000011000265005/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000001000016431/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
-http://[2409:8087:74d3:21::0a]/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
-http://[2409:8087:74d3:21::0b]/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
-http://[2409:8087:74d3:21::0c]/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
-http://[2409:8087:74d3:21::0d]/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
-http://[2409:8087:74d3:21::0e]/270000001128/9900000005/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010063/
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
@@ -346,15 +358,17 @@ http://[2409:8087:5e00:24::2a]:6610/000000001000/1/6000000001000015875/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
 http://[2409:8087:5e00:24::2b]:6610/000000001000/1/reallive-cctv5plus/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
-http://[2409:8087:74d3:21::0a]/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
-http://[2409:8087:74d3:21::0b]/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
-http://[2409:8087:74d3:21::0c]/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
-http://[2409:8087:74d3:21::0d]/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
-http://[2409:8087:74d3:21::0e]/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010202/
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
@@ -412,15 +426,17 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/6000000001000004574/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6117099895556651277/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226148/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226148/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226148/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226148/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226148/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010214/
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
@@ -482,15 +498,17 @@ http://[2409:8087:5e00:24::2b]:6610/000000001000/1/6000000001000009055/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
 http://[2409:8087:5e00:24::2c]:6610/000000001000/1/7050628689018054317/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226432/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226432/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226432/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226432/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226432/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010215/
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
@@ -546,15 +564,17 @@ http://[2409:8087:5e00:24::2b]:6610/000000001000/1/6000000001000001070/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
 http://[2409:8087:5e00:24::2c]:6610/000000001000/1/8871488051501921127/1.m3u8?channel-id=ystenlive&Contentid=8871488051501921127&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226150/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226150/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226150/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226150/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226150/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010216/
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
@@ -608,15 +628,17 @@ http://[2409:8087:5e00:24::23]:6610/000000001000/1/5000000010000018384/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/6000000001000032162/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226434/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226434/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226434/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226434/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226434/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
@@ -664,15 +686,17 @@ http://[2409:8087:5e00:24::2b]:6610/000000001000/1/6000000001000031506/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
 http://[2409:8087:5e00:24::2c]:6610/000000001000/1/7019587760656900133/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226164/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226164/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226164/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226164/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226164/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010203/
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
@@ -724,15 +748,17 @@ http://[2409:8087:5e00:24::23]:6610/000000001000/1/5000000011000031106/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/6351457414282570521/1.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226541/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226541/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226541/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226541/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226541/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010092/
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
@@ -780,15 +806,17 @@ http://[2409:8087:5e00:24::2b]:6610/000000001000/1/5325631075193490169/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
 http://[2409:8087:5e00:24::2c]:6610/000000001000/1/6000000001000022586/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226436/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226436/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::09]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226436/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226436/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226436/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010205/
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
@@ -838,15 +866,17 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/5000000011000031108/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
 http://[2409:8087:5e08:24::0d]:6610/000000001000/1/6918130250570453526/1.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226438/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226438/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226438/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226438/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226438/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010093/
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
@@ -890,15 +920,17 @@ http://[2409:8087:5e00:24::2b]:6610/000000001000/1/6000000001000013647/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
 http://[2409:8087:5e00:24::2c]:6610/000000001000/1/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226166/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226166/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226166/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226166/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226166/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
@@ -950,15 +982,17 @@ http://[2409:8087:5e00:24::23]:6610/000000001000/1/5000000005000018417/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226616/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226616/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226616/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226616/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226616/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010094/
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
@@ -1002,15 +1036,17 @@ http://[2409:8087:5e00:24::23]:6610/000000001000/1/5000000008000023253/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226413/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226413/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226413/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226413/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226413/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010142/
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
@@ -1050,15 +1086,17 @@ http://[2409:8087:5e00:24::22]:6610/000000001000/1/1000000006000268004/1.m3u8?ch
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
 http://[2409:8087:5e00:24::23]:6610/000000001000/1/2000000003000000038/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000038&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
-http://[2409:8087:74d3:21::0a]/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
-http://[2409:8087:74d3:21::0b]/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
-http://[2409:8087:74d3:21::0c]/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
-http://[2409:8087:74d3:21::0d]/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
-http://[2409:8087:74d3:21::0e]/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
@@ -1098,15 +1136,13 @@ http://[2409:8087:5e00:24::22]:6610/000000001000/1/6000000003000018981/1.m3u8?ch
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.zbds.top/logo/CETV1.png" group-title="央视",CETV-1
 http://[2409:8087:5e00:24::23]:6610/000000001000/1/7106250793420582078/1.m3u8?channel-id=ystenlive&Contentid=7106250793420582078&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.zbds.top/logo/CETV1.png" group-title="央视",CETV-1
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226672/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225753/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.zbds.top/logo/CETV1.png" group-title="央视",CETV-1
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226672/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225753/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.zbds.top/logo/CETV1.png" group-title="央视",CETV-1
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226672/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225753/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.zbds.top/logo/CETV1.png" group-title="央视",CETV-1
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226672/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.zbds.top/logo/CETV1.png" group-title="央视",CETV-1
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226672/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225753/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.zbds.top/logo/CETV1.png" group-title="央视",CETV-1
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010103/
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.zbds.top/logo/CETV1.png" group-title="央视",CETV-1
@@ -1140,16 +1176,6 @@ http://[2409:8087:5e00:24::2a]:6610/000000001000/1/2000000003000000047/1.m3u8?ch
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
 http://[2409:8087:5e00:24::2b]:6610/000000001000/1/5000000011000031201/1.m3u8?channel-id=bestzb&Contentid=5000000011000031201&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
-http://[2409:8087:74d3:21::0a]/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
-http://[2409:8087:74d3:21::0b]/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
-http://[2409:8087:74d3:21::0c]/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
-http://[2409:8087:74d3:21::0d]/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
-http://[2409:8087:74d3:21::0e]/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010104/
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
@@ -1175,16 +1201,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000006000012123/1.m3u8?ch
 http://[2409:8087:5e00:24::22]:6610/000000001000/1/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e00:24::23]:6610/000000001000/1/6000000005000042312/1.m3u8?channel-id=wasusyt&Contentid=6000000005000042312&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226279/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226279/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226279/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226279/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226279/index.m3u8$甘肃移动百视通
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010105/
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
@@ -1226,15 +1242,17 @@ http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000002000009569/1.m3u8?ch
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://[2409:8087:5e00:24::2b]:6610/000000001000/1/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
-http://[2409:8087:74d3:21::0a]/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
-http://[2409:8087:74d3:21::0b]/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
-http://[2409:8087:74d3:21::0c]/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
-http://[2409:8087:74d3:21::0d]/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
-http://[2409:8087:74d3:21::0e]/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010095/
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
@@ -1260,16 +1278,6 @@ http://[2409:8087:5e00:24::23]:6610/000000001000/1/1000000006000280001/1.m3u8?ch
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
-http://[2409:8087:74d3:21::0a]/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
-http://[2409:8087:74d3:21::0b]/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
-http://[2409:8087:74d3:21::0c]/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
-http://[2409:8087:74d3:21::0d]/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
-http://[2409:8087:74d3:21::0e]/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280001
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280001
@@ -1283,16 +1291,6 @@ http://[2409:8087:5e00:24::22]:6610/000000001000/1/1000000006000280004/1.m3u8?ch
 http://[2409:8087:5e00:24::23]:6610/000000001000/1/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
-http://[2409:8087:74d3:21::0a]/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
-http://[2409:8087:74d3:21::0b]/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
-http://[2409:8087:74d3:21::0c]/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
-http://[2409:8087:74d3:21::0d]/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
-http://[2409:8087:74d3:21::0e]/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280004
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
@@ -1308,16 +1306,6 @@ http://[2409:8087:5e00:24::23]:6610/000000001000/1/1000000006000280003/1.m3u8?ch
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
-http://[2409:8087:74d3:21::0a]/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
-http://[2409:8087:74d3:21::0b]/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
-http://[2409:8087:74d3:21::0c]/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
-http://[2409:8087:74d3:21::0d]/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
-http://[2409:8087:74d3:21::0e]/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280003
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280003
@@ -1331,16 +1319,6 @@ http://[2409:8087:5e00:24::22]:6610/000000001000/1/1000000006000280002/1.m3u8?ch
 http://[2409:8087:5e00:24::23]:6610/000000001000/1/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
-http://[2409:8087:74d3:21::0a]/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
-http://[2409:8087:74d3:21::0b]/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
-http://[2409:8087:74d3:21::0c]/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
-http://[2409:8087:74d3:21::0d]/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
-http://[2409:8087:74d3:21::0e]/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280002
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
@@ -1358,16 +1336,6 @@ http://[2409:8087:5e00:24::2a]:6610/000000001000/1/7114647837765104058/1.m3u8?ch
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://[2409:8087:5e00:24::2b]:6610/000000001000/1/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-http://[2409:8087:74d3:21::0a]/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-http://[2409:8087:74d3:21::0b]/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-http://[2409:8087:74d3:21::0c]/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-http://[2409:8087:74d3:21::0d]/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-http://[2409:8087:74d3:21::0e]/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
@@ -1380,17 +1348,11 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8428799834696888424
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
-http://www.tico2.eu.org:4022/rtp/239.69.1.87:10162
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.87:10162
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
 http://ds920.dsmynas.net:5555/rtp/226.0.2.218:9656$山西联通
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
@@ -1430,17 +1392,11 @@ http://vpn.rogerxlj.top:9998/udp/239.45.1.73:5140$上海电信
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
 http://218.78.183.200:8888/udp/239.45.1.73:5140$上海电信
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.zbds.top/logo/风云足球.png" group-title="央视",风云足球
-http://www.tico2.eu.org:4022/rtp/239.69.1.81:10126
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.zbds.top/logo/风云足球.png" group-title="央视",风云足球
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.zbds.top/logo/风云足球.png" group-title="央视",风云足球
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.zbds.top/logo/风云足球.png" group-title="央视",风云足球
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.zbds.top/logo/风云足球.png" group-title="央视",风云足球
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.zbds.top/logo/风云足球.png" group-title="央视",风云足球
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.81:10126
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.zbds.top/logo/风云足球.png" group-title="央视",风云足球
 http://ds920.dsmynas.net:5555/rtp/226.0.2.225:9712$山西联通
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.zbds.top/logo/风云足球.png" group-title="央视",风云足球
@@ -1484,27 +1440,23 @@ http://vpn.rogerxlj.top:9998/udp/239.45.1.75:5140$上海电信
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.zbds.top/logo/风云足球.png" group-title="央视",风云足球
 http://218.78.183.200:8888/udp/239.45.1.75:5140$上海电信
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
-http://www.tico2.eu.org:4022/rtp/239.69.1.86:10156
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
-http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$陕西移动
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
+http://www.tico2.eu.org:4022/rtp/239.69.1.86:10156
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
 http://ds920.dsmynas.net:5555/rtp/226.0.2.226:9720$山西联通
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.zbds.top/logo/女性时尚.png" group-title="央视",女性时尚
@@ -1556,17 +1508,11 @@ http://imlucky.win:10001/udp/239.77.0.212:5146$广东电信
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://live.zbds.top/logo/卫生健康.png" group-title="央视",卫生健康
 http://www.feizhu1212.top:9999/udp/239.77.0.212:5146$广东电信
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.zbds.top/logo/第一剧场.png" group-title="央视",第一剧场
-http://www.tico2.eu.org:4022/rtp/239.69.1.74:10084
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.zbds.top/logo/第一剧场.png" group-title="央视",第一剧场
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.zbds.top/logo/第一剧场.png" group-title="央视",第一剧场
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.zbds.top/logo/第一剧场.png" group-title="央视",第一剧场
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.zbds.top/logo/第一剧场.png" group-title="央视",第一剧场
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.zbds.top/logo/第一剧场.png" group-title="央视",第一剧场
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.74:10084
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.zbds.top/logo/第一剧场.png" group-title="央视",第一剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.221:9680$山西联通
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.zbds.top/logo/第一剧场.png" group-title="央视",第一剧场
@@ -1606,15 +1552,9 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.51:5140$上海电信
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.zbds.top/logo/第一剧场.png" group-title="央视",第一剧场
 http://218.78.183.200:8888/udp/239.45.0.51:5140$上海电信
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.zbds.top/logo/风云剧场.png" group-title="央视",风云剧场
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.zbds.top/logo/风云剧场.png" group-title="央视",风云剧场
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.zbds.top/logo/风云剧场.png" group-title="央视",风云剧场
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.zbds.top/logo/风云剧场.png" group-title="央视",风云剧场
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.zbds.top/logo/风云剧场.png" group-title="央视",风云剧场
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.zbds.top/logo/风云剧场.png" group-title="央视",风云剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.227:9728$山西联通
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.zbds.top/logo/风云剧场.png" group-title="央视",风云剧场
@@ -1652,17 +1592,11 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.50:5140$上海电信
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.zbds.top/logo/风云剧场.png" group-title="央视",风云剧场
 http://218.78.183.200:8888/udp/239.45.0.50:5140$上海电信
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.zbds.top/logo/风云音乐.png" group-title="央视",风云音乐
-http://www.tico2.eu.org:4022/rtp/239.69.1.90:10180
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.zbds.top/logo/风云音乐.png" group-title="央视",风云音乐
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.zbds.top/logo/风云音乐.png" group-title="央视",风云音乐
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.zbds.top/logo/风云音乐.png" group-title="央视",风云音乐
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.zbds.top/logo/风云音乐.png" group-title="央视",风云音乐
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.zbds.top/logo/风云音乐.png" group-title="央视",风云音乐
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.90:10180
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.zbds.top/logo/风云音乐.png" group-title="央视",风云音乐
 http://ds920.dsmynas.net:5555/rtp/226.0.2.220:9672$山西联通
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.zbds.top/logo/风云音乐.png" group-title="央视",风云音乐
@@ -1708,17 +1642,11 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.52:5140$上海电信
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.zbds.top/logo/风云音乐.png" group-title="央视",风云音乐
 http://218.78.183.200:8888/udp/239.45.0.52:5140$上海电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.zbds.top/logo/怀旧剧场.png" group-title="央视",怀旧剧场
-http://www.tico2.eu.org:4022/rtp/239.69.1.89:10174
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.zbds.top/logo/怀旧剧场.png" group-title="央视",怀旧剧场
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.zbds.top/logo/怀旧剧场.png" group-title="央视",怀旧剧场
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.zbds.top/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.zbds.top/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.zbds.top/logo/怀旧剧场.png" group-title="央视",怀旧剧场
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.89:10174
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.zbds.top/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.224:9704$山西联通
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.zbds.top/logo/怀旧剧场.png" group-title="央视",怀旧剧场
@@ -1768,25 +1696,9 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.49:5140$上海电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.zbds.top/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://218.78.183.200:8888/udp/239.45.0.49:5140$上海电信
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://[2409:8087:74d3:21::0a]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://[2409:8087:74d3:21::0b]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://[2409:8087:74d3:21::0c]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://[2409:8087:74d3:21::0d]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://[2409:8087:74d3:21::0e]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://www.tico2.eu.org:4022/rtp/239.69.1.83:10138
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
@@ -1832,15 +1744,9 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.48:5140$上海电信
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.zbds.top/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://218.78.183.200:8888/udp/239.45.0.48:5140$上海电信
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.zbds.top/logo/央视文化精品.png" group-title="央视",央视文化精品
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.zbds.top/logo/央视文化精品.png" group-title="央视",央视文化精品
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.zbds.top/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.zbds.top/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.zbds.top/logo/央视文化精品.png" group-title="央视",央视文化精品
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.zbds.top/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://ds920.dsmynas.net:5555/rtp/226.0.2.219:9664$山西联通
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.zbds.top/logo/央视文化精品.png" group-title="央视",央视文化精品
@@ -1884,17 +1790,11 @@ http://vpn.rogerxlj.top:9998/udp/239.45.1.17:5140$上海电信
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://live.zbds.top/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://218.78.183.200:8888/udp/239.45.1.17:5140$上海电信
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.zbds.top/logo/世界地理.png" group-title="央视",世界地理
-http://www.tico2.eu.org:4022/rtp/239.69.1.91:10186
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.zbds.top/logo/世界地理.png" group-title="央视",世界地理
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.zbds.top/logo/世界地理.png" group-title="央视",世界地理
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.zbds.top/logo/世界地理.png" group-title="央视",世界地理
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.zbds.top/logo/世界地理.png" group-title="央视",世界地理
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.zbds.top/logo/世界地理.png" group-title="央视",世界地理
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.91:10186
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.zbds.top/logo/世界地理.png" group-title="央视",世界地理
 http://ds920.dsmynas.net:5555/rtp/226.0.2.222:9688$山西联通
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.zbds.top/logo/世界地理.png" group-title="央视",世界地理
@@ -1940,17 +1840,11 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.46:5140$上海电信
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.zbds.top/logo/世界地理.png" group-title="央视",世界地理
 http://218.78.183.200:8888/udp/239.45.0.46:5140$上海电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.zbds.top/logo/央视台球.png" group-title="央视",央视台球
-http://www.tico2.eu.org:4022/rtp/239.69.1.98:10224
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.zbds.top/logo/央视台球.png" group-title="央视",央视台球
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.zbds.top/logo/央视台球.png" group-title="央视",央视台球
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.zbds.top/logo/央视台球.png" group-title="央视",央视台球
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.zbds.top/logo/央视台球.png" group-title="央视",央视台球
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.zbds.top/logo/央视台球.png" group-title="央视",央视台球
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.98:10224
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.zbds.top/logo/央视台球.png" group-title="央视",央视台球
 http://ds920.dsmynas.net:5555/rtp/226.0.2.216:9640$山西联通
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.zbds.top/logo/央视台球.png" group-title="央视",央视台球
@@ -1972,17 +1866,11 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.44:5140$上海电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.zbds.top/logo/央视台球.png" group-title="央视",央视台球
 http://218.78.183.200:8888/udp/239.45.0.44:5140$上海电信
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.zbds.top/logo/兵器科技.png" group-title="央视",兵器科技
-http://www.tico2.eu.org:4022/rtp/239.69.1.79:10114
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.zbds.top/logo/兵器科技.png" group-title="央视",兵器科技
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.zbds.top/logo/兵器科技.png" group-title="央视",兵器科技
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.zbds.top/logo/兵器科技.png" group-title="央视",兵器科技
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.zbds.top/logo/兵器科技.png" group-title="央视",兵器科技
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.zbds.top/logo/兵器科技.png" group-title="央视",兵器科技
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.79:10114
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.zbds.top/logo/兵器科技.png" group-title="央视",兵器科技
 http://ds920.dsmynas.net:5555/rtp/226.0.2.223:9696$山西联通
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.zbds.top/logo/兵器科技.png" group-title="央视",兵器科技
@@ -2128,15 +2016,17 @@ http://[2409:8087:5e00:24::29]:6610/000000001000/1/6081477947334326291/1.m3u8?ch
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="上海",东方卫视
 http://[2409:8087:5e00:24::29]:6610/000000001000/1/6131854485504331903/1.m3u8?channel-id=bestzb&Contentid=6131854485504331903&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226155/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226155/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226155/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226155/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="上海",东方卫视
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226155/index.m3u8$甘肃移动百视通
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/1.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="上海",东方卫视
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="上海",东方卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010054/
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="上海",东方卫视
@@ -6578,19 +6468,17 @@ http://zhyfans.mycloudnas.com:8000/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="CHANNELV" tvg-logo="https://live.zbds.top/logo/CHANNELV.png" group-title="娱乐",CHANNELV
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.7:2194
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-http://yulang132.cn:4022/rtp/239.93.42.5:5140
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
+http://[2409:8087:7008:20::09]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.241:11088
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://yulang132.cn:4022/rtp/239.93.42.5:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
@@ -6610,19 +6498,17 @@ http://218.78.183.200:8888/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-http://yulang132.cn:4022/rtp/239.93.42.6:5140
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
+http://[2409:8087:7008:20::09]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.243:11100
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://yulang132.cn:4022/rtp/239.93.42.6:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
@@ -6642,19 +6528,21 @@ http://218.78.183.200:8888/udp/239.45.0.40:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-http://yulang132.cn:4022/rtp/239.93.42.7:5140
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
+http://www.tico2.eu.org:4022/rtp/239.69.1.242:11094
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://yulang132.cn:4022/rtp/239.93.42.7:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
@@ -7350,16 +7238,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/8393829412396288037/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://live.zbds.top/logo/NewTV爱情喜剧.png" group-title="娱乐",NewTV爱情喜剧
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://live.zbds.top/logo/NewTV爱情喜剧.png" group-title="娱乐",NewTV爱情喜剧
-http://[2409:8087:74d3:21::0a]/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://live.zbds.top/logo/NewTV爱情喜剧.png" group-title="娱乐",NewTV爱情喜剧
-http://[2409:8087:74d3:21::0b]/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://live.zbds.top/logo/NewTV爱情喜剧.png" group-title="娱乐",NewTV爱情喜剧
-http://[2409:8087:74d3:21::0c]/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://live.zbds.top/logo/NewTV爱情喜剧.png" group-title="娱乐",NewTV爱情喜剧
-http://[2409:8087:74d3:21::0d]/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://live.zbds.top/logo/NewTV爱情喜剧.png" group-title="娱乐",NewTV爱情喜剧
-http://[2409:8087:74d3:21::0e]/270000001128/9900000104/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://live.zbds.top/logo/NewTV爱情喜剧.png" group-title="娱乐",NewTV爱情喜剧
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000010
 #EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://live.zbds.top/logo/NewTV爱情喜剧.png" group-title="娱乐",NewTV爱情喜剧
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8393829412396288037
@@ -7387,16 +7265,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000006000268003/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000032/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.zbds.top/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/2000000003000000032/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.zbds.top/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
-http://[2409:8087:74d3:21::0a]/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.zbds.top/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
-http://[2409:8087:74d3:21::0b]/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.zbds.top/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
-http://[2409:8087:74d3:21::0c]/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.zbds.top/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
-http://[2409:8087:74d3:21::0d]/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.zbds.top/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
-http://[2409:8087:74d3:21::0e]/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.zbds.top/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000032
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.zbds.top/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
@@ -7430,16 +7298,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000004000002120/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://live.zbds.top/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000031/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://live.zbds.top/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
-http://[2409:8087:74d3:21::0a]/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://live.zbds.top/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
-http://[2409:8087:74d3:21::0b]/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://live.zbds.top/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
-http://[2409:8087:74d3:21::0c]/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://live.zbds.top/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
-http://[2409:8087:74d3:21::0d]/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://live.zbds.top/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
-http://[2409:8087:74d3:21::0e]/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://live.zbds.top/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000031
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://live.zbds.top/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000012884
@@ -7472,16 +7330,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000004000007755/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://live.zbds.top/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000030/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://live.zbds.top/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
-http://[2409:8087:74d3:21::0a]/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://live.zbds.top/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
-http://[2409:8087:74d3:21::0b]/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://live.zbds.top/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
-http://[2409:8087:74d3:21::0c]/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://live.zbds.top/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
-http://[2409:8087:74d3:21::0d]/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://live.zbds.top/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
-http://[2409:8087:74d3:21::0e]/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://live.zbds.top/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000030
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://live.zbds.top/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000009204
@@ -7513,16 +7361,6 @@ http://[2409:8087:5e00:24::2b]:6610/000000001000/1/1000000004000023658/1.m3u8?ch
 http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.zbds.top/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000029/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000029&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.zbds.top/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
-http://[2409:8087:74d3:21::0a]/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.zbds.top/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
-http://[2409:8087:74d3:21::0b]/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.zbds.top/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
-http://[2409:8087:74d3:21::0c]/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.zbds.top/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
-http://[2409:8087:74d3:21::0d]/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.zbds.top/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
-http://[2409:8087:74d3:21::0e]/270000001128/9900000019/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.zbds.top/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000029
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.zbds.top/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
@@ -7560,16 +7398,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6516734029835465177/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.zbds.top/logo/NewTV潮妈辣婆.png" group-title="娱乐",NewTV潮妈辣婆
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.zbds.top/logo/NewTV潮妈辣婆.png" group-title="娱乐",NewTV潮妈辣婆
-http://[2409:8087:74d3:21::0a]/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.zbds.top/logo/NewTV潮妈辣婆.png" group-title="娱乐",NewTV潮妈辣婆
-http://[2409:8087:74d3:21::0b]/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.zbds.top/logo/NewTV潮妈辣婆.png" group-title="娱乐",NewTV潮妈辣婆
-http://[2409:8087:74d3:21::0c]/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.zbds.top/logo/NewTV潮妈辣婆.png" group-title="娱乐",NewTV潮妈辣婆
-http://[2409:8087:74d3:21::0d]/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.zbds.top/logo/NewTV潮妈辣婆.png" group-title="娱乐",NewTV潮妈辣婆
-http://[2409:8087:74d3:21::0e]/270000001128/9900000099/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.zbds.top/logo/NewTV潮妈辣婆.png" group-title="娱乐",NewTV潮妈辣婆
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000018
 #EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.zbds.top/logo/NewTV潮妈辣婆.png" group-title="娱乐",NewTV潮妈辣婆
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6516734029835465177
@@ -7597,16 +7425,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000006000032327/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000066/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000066&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://live.zbds.top/logo/NewTV哒啵电竞.png" group-title="娱乐",NewTV哒啵电竞
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/2000000003000000066/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000066&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://live.zbds.top/logo/NewTV哒啵电竞.png" group-title="娱乐",NewTV哒啵电竞
-http://[2409:8087:74d3:21::0a]/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://live.zbds.top/logo/NewTV哒啵电竞.png" group-title="娱乐",NewTV哒啵电竞
-http://[2409:8087:74d3:21::0b]/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://live.zbds.top/logo/NewTV哒啵电竞.png" group-title="娱乐",NewTV哒啵电竞
-http://[2409:8087:74d3:21::0c]/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://live.zbds.top/logo/NewTV哒啵电竞.png" group-title="娱乐",NewTV哒啵电竞
-http://[2409:8087:74d3:21::0d]/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://live.zbds.top/logo/NewTV哒啵电竞.png" group-title="娱乐",NewTV哒啵电竞
-http://[2409:8087:74d3:21::0e]/270000001128/9900000121/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://live.zbds.top/logo/NewTV哒啵电竞.png" group-title="娱乐",NewTV哒啵电竞
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000066
 #EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://live.zbds.top/logo/NewTV哒啵电竞.png" group-title="娱乐",NewTV哒啵电竞
@@ -7639,16 +7457,6 @@ http://[2409:8087:5e08:24::0d]:6610/000000001000/1/2000000003000000040/1.m3u8?ch
 http://[2409:8087:5e08:24::13]:6610/000000001000/1/5320946857686967621/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://live.zbds.top/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/2000000003000000039/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000039&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://live.zbds.top/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://[2409:8087:74d3:21::0a]/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://live.zbds.top/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://[2409:8087:74d3:21::0b]/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://live.zbds.top/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://[2409:8087:74d3:21::0c]/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://live.zbds.top/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://[2409:8087:74d3:21::0d]/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://live.zbds.top/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://[2409:8087:74d3:21::0e]/270000001128/9900000097/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://live.zbds.top/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000004
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://live.zbds.top/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
@@ -7692,16 +7500,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266013/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://live.zbds.top/logo/NewTV东北热剧.png" group-title="娱乐",NewTV东北热剧
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000051/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000051&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://live.zbds.top/logo/NewTV东北热剧.png" group-title="娱乐",NewTV东北热剧
-http://[2409:8087:74d3:21::0a]/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://live.zbds.top/logo/NewTV东北热剧.png" group-title="娱乐",NewTV东北热剧
-http://[2409:8087:74d3:21::0b]/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://live.zbds.top/logo/NewTV东北热剧.png" group-title="娱乐",NewTV东北热剧
-http://[2409:8087:74d3:21::0c]/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://live.zbds.top/logo/NewTV东北热剧.png" group-title="娱乐",NewTV东北热剧
-http://[2409:8087:74d3:21::0d]/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://live.zbds.top/logo/NewTV东北热剧.png" group-title="娱乐",NewTV东北热剧
-http://[2409:8087:74d3:21::0e]/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://live.zbds.top/logo/NewTV东北热剧.png" group-title="娱乐",NewTV东北热剧
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000051
 #EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://live.zbds.top/logo/NewTV东北热剧.png" group-title="娱乐",NewTV东北热剧
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266013
@@ -7727,16 +7525,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000004000018653/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.zbds.top/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.zbds.top/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
-http://[2409:8087:74d3:21::0a]/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.zbds.top/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
-http://[2409:8087:74d3:21::0b]/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.zbds.top/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
-http://[2409:8087:74d3:21::0c]/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.zbds.top/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
-http://[2409:8087:74d3:21::0d]/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.zbds.top/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
-http://[2409:8087:74d3:21::0e]/270000001128/9900000106/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.zbds.top/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000017
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.zbds.top/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
@@ -7770,16 +7558,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6859053933687922163/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://live.zbds.top/logo/NewTV古装剧场.png" group-title="娱乐",NewTV古装剧场
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://live.zbds.top/logo/NewTV古装剧场.png" group-title="娱乐",NewTV古装剧场
-http://[2409:8087:74d3:21::0a]/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://live.zbds.top/logo/NewTV古装剧场.png" group-title="娱乐",NewTV古装剧场
-http://[2409:8087:74d3:21::0b]/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://live.zbds.top/logo/NewTV古装剧场.png" group-title="娱乐",NewTV古装剧场
-http://[2409:8087:74d3:21::0c]/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://live.zbds.top/logo/NewTV古装剧场.png" group-title="娱乐",NewTV古装剧场
-http://[2409:8087:74d3:21::0d]/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://live.zbds.top/logo/NewTV古装剧场.png" group-title="娱乐",NewTV古装剧场
-http://[2409:8087:74d3:21::0e]/270000001128/9900000105/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://live.zbds.top/logo/NewTV古装剧场.png" group-title="娱乐",NewTV古装剧场
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000024
 #EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://live.zbds.top/logo/NewTV古装剧场.png" group-title="娱乐",NewTV古装剧场
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6859053933687922163
@@ -7805,16 +7583,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000004000019624/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://live.zbds.top/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://live.zbds.top/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
-http://[2409:8087:74d3:21::0a]/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://live.zbds.top/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
-http://[2409:8087:74d3:21::0b]/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://live.zbds.top/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
-http://[2409:8087:74d3:21::0c]/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://live.zbds.top/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
-http://[2409:8087:74d3:21::0d]/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://live.zbds.top/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
-http://[2409:8087:74d3:21::0e]/270000001128/9900000095/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://live.zbds.top/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000001
 #EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://live.zbds.top/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
@@ -7845,16 +7613,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000004000021734/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000002/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000002&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://live.zbds.top/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://live.zbds.top/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
-http://[2409:8087:74d3:21::0a]/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://live.zbds.top/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
-http://[2409:8087:74d3:21::0b]/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://live.zbds.top/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
-http://[2409:8087:74d3:21::0c]/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://live.zbds.top/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
-http://[2409:8087:74d3:21::0d]/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://live.zbds.top/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
-http://[2409:8087:74d3:21::0e]/270000001128/9900000096/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://live.zbds.top/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000002
 #EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://live.zbds.top/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
@@ -7895,16 +7653,6 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266012
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000050
 #EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://live.zbds.top/logo/NewTV欢乐剧场.png" group-title="娱乐",NewTV欢乐剧场
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000005000266012
-#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://live.zbds.top/logo/NewTV欢乐剧场.png" group-title="娱乐",NewTV欢乐剧场
-http://[2409:8087:74d3:21::0a]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://live.zbds.top/logo/NewTV欢乐剧场.png" group-title="娱乐",NewTV欢乐剧场
-http://[2409:8087:74d3:21::0b]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://live.zbds.top/logo/NewTV欢乐剧场.png" group-title="娱乐",NewTV欢乐剧场
-http://[2409:8087:74d3:21::0c]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://live.zbds.top/logo/NewTV欢乐剧场.png" group-title="娱乐",NewTV欢乐剧场
-http://[2409:8087:74d3:21::0d]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://live.zbds.top/logo/NewTV欢乐剧场.png" group-title="娱乐",NewTV欢乐剧场
-http://[2409:8087:74d3:21::0e]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.zbds.top/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000003000000012/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.zbds.top/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
@@ -7923,16 +7671,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000004000008284/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000012/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.zbds.top/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.zbds.top/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
-http://[2409:8087:74d3:21::0a]/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.zbds.top/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
-http://[2409:8087:74d3:21::0b]/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.zbds.top/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
-http://[2409:8087:74d3:21::0c]/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.zbds.top/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
-http://[2409:8087:74d3:21::0d]/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.zbds.top/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
-http://[2409:8087:74d3:21::0e]/270000001128/9900000108/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.zbds.top/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000012
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.zbds.top/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
@@ -7964,16 +7702,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000005/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://live.zbds.top/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://live.zbds.top/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
-http://[2409:8087:74d3:21::0a]/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://live.zbds.top/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
-http://[2409:8087:74d3:21::0b]/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://live.zbds.top/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
-http://[2409:8087:74d3:21::0c]/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://live.zbds.top/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
-http://[2409:8087:74d3:21::0d]/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://live.zbds.top/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
-http://[2409:8087:74d3:21::0e]/270000001128/9900000112/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://live.zbds.top/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000005
 #EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://live.zbds.top/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000026167
@@ -8004,16 +7732,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000015/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.zbds.top/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.zbds.top/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
-http://[2409:8087:74d3:21::0a]/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.zbds.top/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
-http://[2409:8087:74d3:21::0b]/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.zbds.top/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
-http://[2409:8087:74d3:21::0c]/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.zbds.top/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
-http://[2409:8087:74d3:21::0d]/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.zbds.top/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
-http://[2409:8087:74d3:21::0e]/270000001128/9900000113/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.zbds.top/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000015
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.zbds.top/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000024282
@@ -8043,16 +7761,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000004000013968/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000020/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://live.zbds.top/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://live.zbds.top/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
-http://[2409:8087:74d3:21::0a]/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://live.zbds.top/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
-http://[2409:8087:74d3:21::0b]/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://live.zbds.top/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
-http://[2409:8087:74d3:21::0c]/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://live.zbds.top/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
-http://[2409:8087:74d3:21::0d]/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://live.zbds.top/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
-http://[2409:8087:74d3:21::0e]/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://live.zbds.top/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000020
 #EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://live.zbds.top/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
@@ -8086,16 +7794,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6298506997017621594/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://live.zbds.top/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://live.zbds.top/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
-http://[2409:8087:74d3:21::0a]/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://live.zbds.top/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
-http://[2409:8087:74d3:21::0b]/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://live.zbds.top/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
-http://[2409:8087:74d3:21::0c]/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://live.zbds.top/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
-http://[2409:8087:74d3:21::0d]/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://live.zbds.top/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
-http://[2409:8087:74d3:21::0e]/270000001128/9900000109/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://live.zbds.top/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000013730
 #EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://live.zbds.top/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6298506997017621594
@@ -8124,16 +7822,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000067/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://live.zbds.top/logo/NewTV精品萌宠.png" group-title="娱乐",NewTV精品萌宠
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/2000000003000000067/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://live.zbds.top/logo/NewTV精品萌宠.png" group-title="娱乐",NewTV精品萌宠
-http://[2409:8087:74d3:21::0a]/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://live.zbds.top/logo/NewTV精品萌宠.png" group-title="娱乐",NewTV精品萌宠
-http://[2409:8087:74d3:21::0b]/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://live.zbds.top/logo/NewTV精品萌宠.png" group-title="娱乐",NewTV精品萌宠
-http://[2409:8087:74d3:21::0c]/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://live.zbds.top/logo/NewTV精品萌宠.png" group-title="娱乐",NewTV精品萌宠
-http://[2409:8087:74d3:21::0d]/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://live.zbds.top/logo/NewTV精品萌宠.png" group-title="娱乐",NewTV精品萌宠
-http://[2409:8087:74d3:21::0e]/270000001128/9900000122/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://live.zbds.top/logo/NewTV精品萌宠.png" group-title="娱乐",NewTV精品萌宠
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000067
 #EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://live.zbds.top/logo/NewTV精品萌宠.png" group-title="娱乐",NewTV精品萌宠
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000032328
@@ -8159,16 +7847,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000004000014634/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000021/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.zbds.top/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.zbds.top/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
-http://[2409:8087:74d3:21::0a]/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.zbds.top/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
-http://[2409:8087:74d3:21::0b]/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.zbds.top/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
-http://[2409:8087:74d3:21::0c]/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.zbds.top/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
-http://[2409:8087:74d3:21::0d]/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.zbds.top/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
-http://[2409:8087:74d3:21::0e]/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.zbds.top/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000021
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.zbds.top/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
@@ -8232,16 +7910,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/7485075951068666323/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://live.zbds.top/logo/NewTV军旅剧场.png" group-title="娱乐",NewTV军旅剧场
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://live.zbds.top/logo/NewTV军旅剧场.png" group-title="娱乐",NewTV军旅剧场
-http://[2409:8087:74d3:21::0a]/270000001128/9900000107/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://live.zbds.top/logo/NewTV军旅剧场.png" group-title="娱乐",NewTV军旅剧场
-http://[2409:8087:74d3:21::0b]/270000001128/9900000107/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://live.zbds.top/logo/NewTV军旅剧场.png" group-title="娱乐",NewTV军旅剧场
-http://[2409:8087:74d3:21::0c]/270000001128/9900000107/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://live.zbds.top/logo/NewTV军旅剧场.png" group-title="娱乐",NewTV军旅剧场
-http://[2409:8087:74d3:21::0d]/270000001128/9900000107/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://live.zbds.top/logo/NewTV军旅剧场.png" group-title="娱乐",NewTV军旅剧场
-http://[2409:8087:74d3:21::0e]/270000001128/9900000107/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://live.zbds.top/logo/NewTV军旅剧场.png" group-title="娱乐",NewTV军旅剧场
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000014
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://live.zbds.top/logo/NewTV军旅剧场.png" group-title="娱乐",NewTV军旅剧场
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7485075951068666323
@@ -8269,16 +7937,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000022/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://live.zbds.top/logo/NewTV军事评论.png" group-title="娱乐",NewTV军事评论
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://live.zbds.top/logo/NewTV军事评论.png" group-title="娱乐",NewTV军事评论
-http://[2409:8087:74d3:21::0a]/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://live.zbds.top/logo/NewTV军事评论.png" group-title="娱乐",NewTV军事评论
-http://[2409:8087:74d3:21::0b]/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://live.zbds.top/logo/NewTV军事评论.png" group-title="娱乐",NewTV军事评论
-http://[2409:8087:74d3:21::0c]/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://live.zbds.top/logo/NewTV军事评论.png" group-title="娱乐",NewTV军事评论
-http://[2409:8087:74d3:21::0d]/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://live.zbds.top/logo/NewTV军事评论.png" group-title="娱乐",NewTV军事评论
-http://[2409:8087:74d3:21::0e]/270000001128/9900000110/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://live.zbds.top/logo/NewTV军事评论.png" group-title="娱乐",NewTV军事评论
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000022
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://live.zbds.top/logo/NewTV军事评论.png" group-title="娱乐",NewTV军事评论
@@ -8338,16 +7996,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/7681593242002292003/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://live.zbds.top/logo/NewTV明星大片.png" group-title="娱乐",NewTV明星大片
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://live.zbds.top/logo/NewTV明星大片.png" group-title="娱乐",NewTV明星大片
-http://[2409:8087:74d3:21::0a]/270000001128/9900000116/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://live.zbds.top/logo/NewTV明星大片.png" group-title="娱乐",NewTV明星大片
-http://[2409:8087:74d3:21::0b]/270000001128/9900000116/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://live.zbds.top/logo/NewTV明星大片.png" group-title="娱乐",NewTV明星大片
-http://[2409:8087:74d3:21::0c]/270000001128/9900000116/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://live.zbds.top/logo/NewTV明星大片.png" group-title="娱乐",NewTV明星大片
-http://[2409:8087:74d3:21::0d]/270000001128/9900000116/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://live.zbds.top/logo/NewTV明星大片.png" group-title="娱乐",NewTV明星大片
-http://[2409:8087:74d3:21::0e]/270000001128/9900000116/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://live.zbds.top/logo/NewTV明星大片.png" group-title="娱乐",NewTV明星大片
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000016
 #EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://live.zbds.top/logo/NewTV明星大片.png" group-title="娱乐",NewTV明星大片
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7681593242002292003
@@ -8375,16 +8023,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000003/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.zbds.top/logo/NewTV农业致富.png" group-title="娱乐",NewTV农业致富
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.zbds.top/logo/NewTV农业致富.png" group-title="娱乐",NewTV农业致富
-http://[2409:8087:74d3:21::0a]/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.zbds.top/logo/NewTV农业致富.png" group-title="娱乐",NewTV农业致富
-http://[2409:8087:74d3:21::0b]/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.zbds.top/logo/NewTV农业致富.png" group-title="娱乐",NewTV农业致富
-http://[2409:8087:74d3:21::0c]/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.zbds.top/logo/NewTV农业致富.png" group-title="娱乐",NewTV农业致富
-http://[2409:8087:74d3:21::0d]/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.zbds.top/logo/NewTV农业致富.png" group-title="娱乐",NewTV农业致富
-http://[2409:8087:74d3:21::0e]/270000001128/9900000111/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.zbds.top/logo/NewTV农业致富.png" group-title="娱乐",NewTV农业致富
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000003
 #EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.zbds.top/logo/NewTV农业致富.png" group-title="娱乐",NewTV农业致富
@@ -8442,16 +8080,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000044/1.m3u8?ch
 #EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.zbds.top/logo/NewTV炫舞未来.png" group-title="娱乐",NewTV炫舞未来
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/2000000003000000044/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000044&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.zbds.top/logo/NewTV炫舞未来.png" group-title="娱乐",NewTV炫舞未来
-http://[2409:8087:74d3:21::0a]/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.zbds.top/logo/NewTV炫舞未来.png" group-title="娱乐",NewTV炫舞未来
-http://[2409:8087:74d3:21::0b]/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.zbds.top/logo/NewTV炫舞未来.png" group-title="娱乐",NewTV炫舞未来
-http://[2409:8087:74d3:21::0c]/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.zbds.top/logo/NewTV炫舞未来.png" group-title="娱乐",NewTV炫舞未来
-http://[2409:8087:74d3:21::0d]/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.zbds.top/logo/NewTV炫舞未来.png" group-title="娱乐",NewTV炫舞未来
-http://[2409:8087:74d3:21::0e]/270000001128/9900000098/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.zbds.top/logo/NewTV炫舞未来.png" group-title="娱乐",NewTV炫舞未来
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000044
 #EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.zbds.top/logo/NewTV炫舞未来.png" group-title="娱乐",NewTV炫舞未来
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000000515
@@ -8477,16 +8105,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000005000266011/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000023/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000023&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://live.zbds.top/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/7820874641606664941/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://live.zbds.top/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
-http://[2409:8087:74d3:21::0a]/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://live.zbds.top/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
-http://[2409:8087:74d3:21::0b]/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://live.zbds.top/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
-http://[2409:8087:74d3:21::0c]/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://live.zbds.top/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
-http://[2409:8087:74d3:21::0d]/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://live.zbds.top/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
-http://[2409:8087:74d3:21::0e]/270000001128/9900000103/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://live.zbds.top/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000023
 #EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://live.zbds.top/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
@@ -8519,16 +8137,6 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000009/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.zbds.top/logo/NewTV中国功夫.png" group-title="娱乐",NewTV中国功夫
 http://[2409:8087:5e08:24::17]:6610/000000001000/1/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.zbds.top/logo/NewTV中国功夫.png" group-title="娱乐",NewTV中国功夫
-http://[2409:8087:74d3:21::0a]/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.zbds.top/logo/NewTV中国功夫.png" group-title="娱乐",NewTV中国功夫
-http://[2409:8087:74d3:21::0b]/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.zbds.top/logo/NewTV中国功夫.png" group-title="娱乐",NewTV中国功夫
-http://[2409:8087:74d3:21::0c]/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.zbds.top/logo/NewTV中国功夫.png" group-title="娱乐",NewTV中国功夫
-http://[2409:8087:74d3:21::0d]/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.zbds.top/logo/NewTV中国功夫.png" group-title="娱乐",NewTV中国功夫
-http://[2409:8087:74d3:21::0e]/270000001128/9900000101/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.zbds.top/logo/NewTV中国功夫.png" group-title="娱乐",NewTV中国功夫
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000009
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.zbds.top/logo/NewTV中国功夫.png" group-title="娱乐",NewTV中国功夫
@@ -9612,16 +9220,6 @@ http://[2409:8087:5e00:24::2b]:6610/000000001000/1/2000000003000000026/1.m3u8?ch
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.zbds.top/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://[2409:8087:5e00:24::2c]:6610/000000001000/1/5000000011000031204/1.m3u8?channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.zbds.top/logo/北京纪实科教.png" group-title="北京",北京纪实科教
-http://[2409:8087:74d3:21::0a]/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.zbds.top/logo/北京纪实科教.png" group-title="北京",北京纪实科教
-http://[2409:8087:74d3:21::0b]/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.zbds.top/logo/北京纪实科教.png" group-title="北京",北京纪实科教
-http://[2409:8087:74d3:21::0c]/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.zbds.top/logo/北京纪实科教.png" group-title="北京",北京纪实科教
-http://[2409:8087:74d3:21::0d]/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.zbds.top/logo/北京纪实科教.png" group-title="北京",北京纪实科教
-http://[2409:8087:74d3:21::0e]/270000001128/9900000515/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.zbds.top/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.zbds.top/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
@@ -9785,16 +9383,6 @@ http://[2409:8087:5e00:24::22]:6610/000000001000/1/6000000003000002709/1.m3u8?ch
 http://[2409:8087:5e00:24::23]:6610/000000001000/1/7589856436881630561/1.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.zbds.top/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.zbds.top/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221225643/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.zbds.top/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221225643/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.zbds.top/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221225643/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.zbds.top/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221225643/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.zbds.top/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221225643/index.m3u8$甘肃移动百视通
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.zbds.top/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.zbds.top/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
@@ -10467,16 +10055,6 @@ http://[2409:8087:5e00:24::2c]:6610/000000001000/1/1000000002000025964/1.m3u8?ch
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/4739906347743456369/1.m3u8?channel-id=bestzb&Contentid=4739906347743456369&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.zbds.top/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000003000025508/1.m3u8?channel-id=wasusyt&Contentid=6000000003000025508&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.zbds.top/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221225681/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.zbds.top/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221225681/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.zbds.top/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221225681/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.zbds.top/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221225681/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.zbds.top/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221225681/index.m3u8$甘肃移动百视通
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.zbds.top/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010102/
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.zbds.top/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
@@ -14950,16 +14528,6 @@ http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000002000011724/1.m3u8?ch
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.zbds.top/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
 http://[2409:8087:5e00:24::2b]:6610/000000001000/1/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.zbds.top/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:74d3:21::0a]/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.zbds.top/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:74d3:21::0b]/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.zbds.top/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:74d3:21::0c]/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.zbds.top/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:74d3:21::0d]/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.zbds.top/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://[2409:8087:74d3:21::0e]/270000001128/9900000074/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.zbds.top/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010106/
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.zbds.top/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
 http://124.230.56.44:55555/udp/239.76.245.122:1234
@@ -14997,16 +14565,6 @@ http://[2409:8087:5e00:24::23]:6610/000000001000/1/6000000003000016791/1.m3u8?ch
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.zbds.top/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 http://[2409:8087:5e00:24::2b]:6610/000000001000/1/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.zbds.top/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:74d3:21::0a]/000000001000PLTV/88888888/224/3221226703/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.zbds.top/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:74d3:21::0b]/000000001000PLTV/88888888/224/3221226703/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.zbds.top/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:74d3:21::0c]/000000001000PLTV/88888888/224/3221226703/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.zbds.top/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:74d3:21::0d]/000000001000PLTV/88888888/224/3221226703/index.m3u8$甘肃移动百视通
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.zbds.top/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://[2409:8087:74d3:21::0e]/000000001000PLTV/88888888/224/3221226703/index.m3u8$甘肃移动百视通
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.zbds.top/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010107/
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.zbds.top/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
@@ -15535,16 +15093,6 @@ http://[2409:8087:5e00:24::23]:6610/000000001000/1/6000000003000030492/1.m3u8?ch
 http://[2409:8087:5e00:24::2a]:6610/000000001000/1/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.zbds.top/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
 http://[2409:8087:5e00:24::2b]:6610/000000001000/1/6000000003000030492/1.m3u8?channel-id=wasusyt&Contentid=6000000003000030492&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.zbds.top/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
-http://[2409:8087:74d3:21::0a]/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.zbds.top/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
-http://[2409:8087:74d3:21::0b]/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.zbds.top/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
-http://[2409:8087:74d3:21::0c]/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.zbds.top/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
-http://[2409:8087:74d3:21::0d]/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
-#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.zbds.top/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
-http://[2409:8087:74d3:21::0e]/270000001128/9900000070/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.zbds.top/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.zbds.top/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
@@ -16638,53 +16186,59 @@ http://139.170.104.58:8000/rtp/239.120.1.100:9128
 #EXTINF:-1 tvg-name="矿区生活" tvg-logo="https://live.zbds.top/logo/矿区生活.png" group-title="青海",矿区生活
 http://139.170.104.58:8000/rtp/239.120.1.145:8420
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://113.140.86.162:8009/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://120.192.226.35:8009/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://112.46.85.60:8009/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://live.zbds.top/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://113.140.86.162:8009/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://120.192.226.35:8009/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://112.46.85.60:8009/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://live.zbds.top/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://113.140.86.162:8009/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://120.192.226.35:8009/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://112.46.85.60:8009/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西",陕西银龄
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西影视" tvg-logo="https://live.zbds.top/logo/陕西影视.png" group-title="陕西",陕西影视
 http://113.140.86.162:8009/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="陕西影视" tvg-logo="https://live.zbds.top/logo/陕西影视.png" group-title="陕西",陕西影视
@@ -16698,43 +16252,37 @@ http://120.192.226.35:8009/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://live.zbds.top/logo/陕西秦腔.png" group-title="陕西",陕西秦腔
 http://112.46.85.60:8009/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
 http://113.140.86.162:8009/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
 http://120.192.226.35:8009/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
 http://112.46.85.60:8009/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://live.zbds.top/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://113.140.86.162:8009/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://120.192.226.35:8009/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://112.46.85.60:8009/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.zbds.top/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
-http://113.140.86.162:8009/hls/62/index.m3u8
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
-http://120.192.226.35:8009/hls/62/index.m3u8
-#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
-http://112.46.85.60:8009/hls/62/index.m3u8
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
@@ -16744,7 +16292,11 @@ http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8$陕西移动
+http://113.140.86.162:8009/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://120.192.226.35:8009/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://live.zbds.top/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://112.46.85.60:8009/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://live.zbds.top/logo/西安新闻综合.png" group-title="陕西",西安新闻综合
 http://113.140.86.162:8009/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://live.zbds.top/logo/西安新闻综合.png" group-title="陕西",西安新闻综合
@@ -16752,167 +16304,79 @@ http://120.192.226.35:8009/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://live.zbds.top/logo/西安新闻综合.png" group-title="陕西",西安新闻综合
 http://112.46.85.60:8009/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西",西安都市
+http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西",西安都市
+http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西",西安都市
 http://113.140.86.162:8009/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西",西安都市
 http://120.192.226.35:8009/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西",西安都市
 http://112.46.85.60:8009/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西",西安都市
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西",西安都市
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西",西安都市
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西",西安都市
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西",西安都市
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://live.zbds.top/logo/西安商务资讯.png" group-title="陕西",西安商务资讯
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://live.zbds.top/logo/西安商务资讯.png" group-title="陕西",西安商务资讯
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://live.zbds.top/logo/西安商务资讯.png" group-title="陕西",西安商务资讯
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://live.zbds.top/logo/西安商务资讯.png" group-title="陕西",西安商务资讯
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安商务资讯" tvg-logo="https://live.zbds.top/logo/西安商务资讯.png" group-title="陕西",西安商务资讯
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://live.zbds.top/logo/西安丝路.png" group-title="陕西",西安丝路
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://live.zbds.top/logo/西安丝路.png" group-title="陕西",西安丝路
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://live.zbds.top/logo/西安丝路.png" group-title="陕西",西安丝路
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://live.zbds.top/logo/西安丝路.png" group-title="陕西",西安丝路
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安丝路" tvg-logo="https://live.zbds.top/logo/西安丝路.png" group-title="陕西",西安丝路
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安教育" tvg-logo="https://live.zbds.top/logo/西安教育.png" group-title="陕西",西安教育
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安教育" tvg-logo="https://live.zbds.top/logo/西安教育.png" group-title="陕西",西安教育
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="西安教育" tvg-logo="https://live.zbds.top/logo/西安教育.png" group-title="陕西",西安教育
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="西安教育" tvg-logo="https://live.zbds.top/logo/西安教育.png" group-title="陕西",西安教育
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="西安教育" tvg-logo="https://live.zbds.top/logo/西安教育.png" group-title="陕西",西安教育
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://live.zbds.top/logo/咸阳综合.png" group-title="陕西",咸阳综合
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://live.zbds.top/logo/咸阳综合.png" group-title="陕西",咸阳综合
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://live.zbds.top/logo/咸阳综合.png" group-title="陕西",咸阳综合
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://live.zbds.top/logo/咸阳综合.png" group-title="陕西",咸阳综合
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="咸阳综合" tvg-logo="https://live.zbds.top/logo/咸阳综合.png" group-title="陕西",咸阳综合
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="咸阳公共" tvg-logo="https://live.zbds.top/logo/咸阳公共.png" group-title="陕西",咸阳公共
 http://hplayer1.juyun.tv/camera/129041160.m3u8
 #EXTINF:-1 tvg-name="延安综合" tvg-logo="https://live.zbds.top/logo/延安综合.png" group-title="陕西",延安综合
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="延安综合" tvg-logo="https://live.zbds.top/logo/延安综合.png" group-title="陕西",延安综合
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="延安综合" tvg-logo="https://live.zbds.top/logo/延安综合.png" group-title="陕西",延安综合
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="延安综合" tvg-logo="https://live.zbds.top/logo/延安综合.png" group-title="陕西",延安综合
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="延安综合" tvg-logo="https://live.zbds.top/logo/延安综合.png" group-title="陕西",延安综合
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="延安公共" tvg-logo="https://live.zbds.top/logo/延安公共.png" group-title="陕西",延安公共
 http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 #EXTINF:-1 tvg-name="延安公共" tvg-logo="https://live.zbds.top/logo/延安公共.png" group-title="陕西",延安公共
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="延安公共" tvg-logo="https://live.zbds.top/logo/延安公共.png" group-title="陕西",延安公共
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://live.zbds.top/logo/延安公共.png" group-title="陕西",延安公共
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://live.zbds.top/logo/延安公共.png" group-title="陕西",延安公共
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="延安公共" tvg-logo="https://live.zbds.top/logo/延安公共.png" group-title="陕西",延安公共
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://live.zbds.top/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://live.zbds.top/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://live.zbds.top/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://live.zbds.top/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="渭南新闻综合" tvg-logo="https://live.zbds.top/logo/渭南新闻综合.png" group-title="陕西",渭南新闻综合
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="榆林综合" tvg-logo="https://live.zbds.top/logo/榆林综合.png" group-title="陕西",榆林综合
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="榆林综合" tvg-logo="https://live.zbds.top/logo/榆林综合.png" group-title="陕西",榆林综合
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="榆林综合" tvg-logo="https://live.zbds.top/logo/榆林综合.png" group-title="陕西",榆林综合
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="榆林综合" tvg-logo="https://live.zbds.top/logo/榆林综合.png" group-title="陕西",榆林综合
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="榆林综合" tvg-logo="https://live.zbds.top/logo/榆林综合.png" group-title="陕西",榆林综合
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="榆林公共" tvg-logo="https://live.zbds.top/logo/榆林公共.png" group-title="陕西",榆林公共
-https://hplayer1.juyun.tv/camera/140909190.m3u8
 #EXTINF:-1 tvg-name="商洛综合" tvg-logo="https://live.zbds.top/logo/商洛综合.png" group-title="陕西",商洛综合
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="商洛综合" tvg-logo="https://live.zbds.top/logo/商洛综合.png" group-title="陕西",商洛综合
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="商洛综合" tvg-logo="https://live.zbds.top/logo/商洛综合.png" group-title="陕西",商洛综合
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="商洛综合" tvg-logo="https://live.zbds.top/logo/商洛综合.png" group-title="陕西",商洛综合
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="商洛综合" tvg-logo="https://live.zbds.top/logo/商洛综合.png" group-title="陕西",商洛综合
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="铜川综合" tvg-logo="https://live.zbds.top/logo/铜川综合.png" group-title="陕西",铜川综合
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="铜川综合" tvg-logo="https://live.zbds.top/logo/铜川综合.png" group-title="陕西",铜川综合
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="铜川综合" tvg-logo="https://live.zbds.top/logo/铜川综合.png" group-title="陕西",铜川综合
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="铜川综合" tvg-logo="https://live.zbds.top/logo/铜川综合.png" group-title="陕西",铜川综合
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="铜川综合" tvg-logo="https://live.zbds.top/logo/铜川综合.png" group-title="陕西",铜川综合
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="铜川公共" tvg-logo="https://live.zbds.top/logo/铜川公共.png" group-title="陕西",铜川公共
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="铜川公共" tvg-logo="https://live.zbds.top/logo/铜川公共.png" group-title="陕西",铜川公共
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="铜川公共" tvg-logo="https://live.zbds.top/logo/铜川公共.png" group-title="陕西",铜川公共
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="铜川公共" tvg-logo="https://live.zbds.top/logo/铜川公共.png" group-title="陕西",铜川公共
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="铜川公共" tvg-logo="https://live.zbds.top/logo/铜川公共.png" group-title="陕西",铜川公共
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="宝鸡综合" tvg-logo="https://live.zbds.top/logo/宝鸡综合.png" group-title="陕西",宝鸡综合
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="宝鸡综合" tvg-logo="https://live.zbds.top/logo/宝鸡综合.png" group-title="陕西",宝鸡综合
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="宝鸡综合" tvg-logo="https://live.zbds.top/logo/宝鸡综合.png" group-title="陕西",宝鸡综合
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="宝鸡综合" tvg-logo="https://live.zbds.top/logo/宝鸡综合.png" group-title="陕西",宝鸡综合
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="宝鸡综合" tvg-logo="https://live.zbds.top/logo/宝鸡综合.png" group-title="陕西",宝鸡综合
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="安康综合" tvg-logo="https://live.zbds.top/logo/安康综合.png" group-title="陕西",安康综合
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="安康综合" tvg-logo="https://live.zbds.top/logo/安康综合.png" group-title="陕西",安康综合
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="安康综合" tvg-logo="https://live.zbds.top/logo/安康综合.png" group-title="陕西",安康综合
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="安康综合" tvg-logo="https://live.zbds.top/logo/安康综合.png" group-title="陕西",安康综合
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="安康综合" tvg-logo="https://live.zbds.top/logo/安康综合.png" group-title="陕西",安康综合
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://live.zbds.top/logo/汉阴综合.png" group-title="陕西",汉阴综合
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://live.zbds.top/logo/汉阴综合.png" group-title="陕西",汉阴综合
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://live.zbds.top/logo/汉阴综合.png" group-title="陕西",汉阴综合
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://live.zbds.top/logo/汉阴综合.png" group-title="陕西",汉阴综合
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://live.zbds.top/logo/汉阴综合.png" group-title="陕西",汉阴综合
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.zbds.top/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.zbds.top/logo/山东齐鲁.png" group-title="山东",山东齐鲁
@@ -25357,62 +24821,66 @@ https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/chunklist_w418104290_b2130000
 https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 tvg-name="巴西 TV Santa Cruz" tvg-logo="https://live.zbds.top/logo/巴西 TV Santa Cruz.png" group-title="海外",巴西 TV Santa Cruz
 https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://yulang132.cn:4022/udp/239.93.1.9:2192
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://cdn.132.us.kg/live/fhzw/stream.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://eastscreen.tv/ooooo.php?id=fhws
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://php.jdshipin.com:8880/jydx.php?id=37
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://nas.jc-hqp.cn:9999/rtp/233.50.200.191:5140
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://yulang132.cn:4022/udp/239.93.1.4:2191
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
+http://[2409:8087:7008:20::05]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
+http://[2409:8087:7008:20::06]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
+http://[2409:8087:7008:20::07]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
