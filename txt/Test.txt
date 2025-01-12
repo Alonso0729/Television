@@ -16,13 +16,6 @@
 5e00-2c,http://[2409:8087:5e00:24::2c]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 5e00-2d,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 
-海南易视腾-暂时失效,#genre#
-5e08-0d,http://[2409:8087:5e08:24::0d]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-5e08-13,http://[2409:8087:5e08:24::13]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-5e08-14,http://[2409:8087:5e08:24::14]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-5e08-15,http://[2409:8087:5e08:24::15]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-5e08-16,http://[2409:8087:5e08:24::16]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-
 甘肃移动,#genre#
 74d3-04,http://[2409:8087:74d3:21::04]/270000001128/9900000501/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
 74d3-05,http://[2409:8087:74d3:21::05]/270000001128/9900000501/index.m3u8?channel-id=newtv&Ace$甘肃移动易视腾
@@ -306,6 +299,3 @@ CETV早期教育,http://yulang132.cn:4022/rtp/239.93.0.117:5140
 兵器科技,http://yulang132.cn:4022/rtp/239.93.1.235:5140
 怀旧剧场,http://yulang132.cn:4022/rtp/239.93.1.198:5140
 风云剧场,http://yulang132.cn:4022/rtp/239.93.1.156:5140
-
-国学频道测试,#genre#
-国学,http://live.nctv.top/5678/hntv.php?id=gxpd
