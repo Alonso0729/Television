@@ -8336,6 +8336,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 汉阴综合,http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
 
 山东,#genre#
+山东齐鲁,http://m.176178.xyz/sdtv/sdtv.php?id=sdql
 山东齐鲁,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8?IASHttpSessionId=$山东移动
 山东齐鲁,http://139.129.231.228:3529/udp/239.21.1.53:5002$山东电信
 山东齐鲁,http://115.29.140.201:9060/udp/239.21.1.53:5002$山东电信
@@ -8343,6 +8344,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 山东齐鲁,http://115.29.140.201:9060/udp/239.21.1.134:5002$山东电信
 山东齐鲁,http://39.88.46.255:8888/udp/239.253.254.114:8000
 山东齐鲁,http://112.226.139.82:9999/udp/239.253.254.114:8000
+山东文旅,http://m.176178.xyz/sdtv/sdtv.php?id=sdwl
 山东文旅,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000377/index.m3u8?IASHttpSessionId=$山东移动
 山东文旅,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000337/index.m3u8?IASHttpSessionId=$山东移动
 山东文旅,http://139.129.231.228:3529/udp/239.21.1.57:5002$山东电信
@@ -8351,6 +8353,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 山东文旅,http://115.29.140.201:9060/udp/239.21.1.176:5002$山东电信
 山东文旅,http://39.88.46.255:8888/udp/239.253.254.160:8000
 山东文旅,http://112.226.139.82:9999/udp/239.253.254.160:8000
+山东综艺,http://m.176178.xyz/sdtv/sdtv.php?id=sdzy
 山东综艺,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000378/index.m3u8?IASHttpSessionId=$山东移动
 山东综艺,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000338/index.m3u8?IASHttpSessionId=$山东移动
 山东综艺,http://39.88.46.255:8888/udp/239.253.254.159:8000
@@ -8359,6 +8362,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 山东综艺,http://115.29.140.201:9060/udp/239.21.1.55:5002$山东电信
 山东综艺,http://139.129.231.228:3529/udp/239.21.1.177:5002$山东电信
 山东综艺,http://115.29.140.201:9060/udp/239.21.1.177:5002$山东电信
+山东生活,http://m.176178.xyz/sdtv/sdtv.php?id=sdsh
 山东生活,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000336/index.m3u8?IASHttpSessionId=$山东移动
 山东生活,http://139.129.231.228:3529/udp/239.21.1.56:5002$山东电信
 山东生活,http://115.29.140.201:9060/udp/239.21.1.56:5002$山东电信
@@ -8366,18 +8370,20 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 山东生活,http://115.29.140.201:9060/udp/239.21.1.175:5002$山东电信
 山东生活,http://39.88.46.255:8888/udp/239.253.254.151:8000
 山东生活,http://112.226.139.82:9999/udp/239.253.254.151:8000
-山东体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000373/index.m3u8?IASHttpSessionId=$山东移动
-山东体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8?IASHttpSessionId=$山东移动
-山东体育,http://139.129.231.228:3529/udp/239.21.1.141:5002$山东电信
-山东体育,http://115.29.140.201:9060/udp/239.21.1.141:5002$山东电信
-山东体育,http://139.129.231.228:3529/udp/239.21.1.58:5002$山东电信
-山东体育,http://115.29.140.201:9060/udp/239.21.1.58:5002$山东电信
-山东体育,http://39.88.46.255:8888/udp/239.253.254.22:8000
-山东体育,http://112.226.139.82:9999/udp/239.253.254.22:8000
-山东体育,http://39.88.44.216:3333/udp/239.253.254.22:8000
-山东体育,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
-山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
+山东体育休闲,http://m.176178.xyz/sdtv/sdtv.php?id=sdty
+山东体育休闲,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000373/index.m3u8?IASHttpSessionId=$山东移动
+山东体育休闲,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8?IASHttpSessionId=$山东移动
+山东体育休闲,http://139.129.231.228:3529/udp/239.21.1.141:5002$山东电信
+山东体育休闲,http://115.29.140.201:9060/udp/239.21.1.141:5002$山东电信
+山东体育休闲,http://139.129.231.228:3529/udp/239.21.1.58:5002$山东电信
+山东体育休闲,http://115.29.140.201:9060/udp/239.21.1.58:5002$山东电信
+山东体育休闲,http://39.88.46.255:8888/udp/239.253.254.22:8000
+山东体育休闲,http://112.226.139.82:9999/udp/239.253.254.22:8000
+山东体育休闲,http://39.88.44.216:3333/udp/239.253.254.22:8000
+山东体育休闲,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
+山东体育休闲,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育休闲,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
+山东农科,http://m.176178.xyz/sdtv/sdtv.php?id=sdnk
 山东农科,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000339/index.m3u8?IASHttpSessionId=$山东移动
 山东农科,http://139.129.231.228:3529/udp/239.21.1.59:5002$山东电信
 山东农科,http://115.29.140.201:9060/udp/239.21.1.59:5002$山东电信
@@ -8385,6 +8391,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 山东农科,http://115.29.140.201:9060/udp/239.21.1.183:5002$山东电信
 山东农科,http://39.88.46.255:8888/udp/239.253.254.24:8000
 山东农科,http://112.226.139.82:9999/udp/239.253.254.24:8000
+山东新闻,http://m.176178.xyz/sdtv/sdtv.php?id=sdxw
 山东新闻,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000314/index.m3u8?IASHttpSessionId=$山东移动
 山东新闻,http://139.129.231.228:3529/udp/239.21.1.54:5002$山东电信
 山东新闻,http://115.29.140.201:9060/udp/239.21.1.54:5002$山东电信
@@ -8392,6 +8399,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 山东新闻,http://115.29.140.201:9060/udp/239.21.1.140:5002$山东电信
 山东新闻,http://39.88.46.255:8888/udp/239.253.254.23:8000
 山东新闻,http://112.226.139.82:9999/udp/239.253.254.23:8000
+山东少儿,http://m.176178.xyz/sdtv/sdtv.php?id=sdse
 山东少儿,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000375/index.m3u8?IASHttpSessionId=$山东移动
 山东少儿,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8?IASHttpSessionId=$山东移动
 山东少儿,http://139.129.231.228:3529/udp/239.21.1.60:5002$山东电信

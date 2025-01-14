@@ -16566,6 +16566,8 @@ http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212
 #EXTINF:-1 tvg-name="汉阴综合" tvg-logo="https://live.zbds.top/logo/汉阴综合.png" group-title="陕西",汉阴综合
 http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.zbds.top/logo/山东齐鲁.png" group-title="山东",山东齐鲁
+http://m.176178.xyz/sdtv/sdtv.php?id=sdql
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.zbds.top/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.zbds.top/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 http://139.129.231.228:3529/udp/239.21.1.53:5002$山东电信
@@ -16579,6 +16581,8 @@ http://115.29.140.201:9060/udp/239.21.1.134:5002$山东电信
 http://39.88.46.255:8888/udp/239.253.254.114:8000
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.zbds.top/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 http://112.226.139.82:9999/udp/239.253.254.114:8000
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.zbds.top/logo/山东文旅.png" group-title="山东",山东文旅
+http://m.176178.xyz/sdtv/sdtv.php?id=sdwl
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.zbds.top/logo/山东文旅.png" group-title="山东",山东文旅
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000377/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.zbds.top/logo/山东文旅.png" group-title="山东",山东文旅
@@ -16596,6 +16600,8 @@ http://39.88.46.255:8888/udp/239.253.254.160:8000
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.zbds.top/logo/山东文旅.png" group-title="山东",山东文旅
 http://112.226.139.82:9999/udp/239.253.254.160:8000
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.zbds.top/logo/山东综艺.png" group-title="山东",山东综艺
+http://m.176178.xyz/sdtv/sdtv.php?id=sdzy
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.zbds.top/logo/山东综艺.png" group-title="山东",山东综艺
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000378/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.zbds.top/logo/山东综艺.png" group-title="山东",山东综艺
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000338/index.m3u8?IASHttpSessionId=$山东移动
@@ -16612,6 +16618,8 @@ http://139.129.231.228:3529/udp/239.21.1.177:5002$山东电信
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.zbds.top/logo/山东综艺.png" group-title="山东",山东综艺
 http://115.29.140.201:9060/udp/239.21.1.177:5002$山东电信
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.zbds.top/logo/山东生活.png" group-title="山东",山东生活
+http://m.176178.xyz/sdtv/sdtv.php?id=sdsh
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.zbds.top/logo/山东生活.png" group-title="山东",山东生活
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000336/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.zbds.top/logo/山东生活.png" group-title="山东",山东生活
 http://139.129.231.228:3529/udp/239.21.1.56:5002$山东电信
@@ -16625,30 +16633,34 @@ http://115.29.140.201:9060/udp/239.21.1.175:5002$山东电信
 http://39.88.46.255:8888/udp/239.253.254.151:8000
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.zbds.top/logo/山东生活.png" group-title="山东",山东生活
 http://112.226.139.82:9999/udp/239.253.254.151:8000
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
+http://m.176178.xyz/sdtv/sdtv.php?id=sdty
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000373/index.m3u8?IASHttpSessionId=$山东移动
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8?IASHttpSessionId=$山东移动
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://139.129.231.228:3529/udp/239.21.1.141:5002$山东电信
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://115.29.140.201:9060/udp/239.21.1.141:5002$山东电信
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://139.129.231.228:3529/udp/239.21.1.58:5002$山东电信
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://115.29.140.201:9060/udp/239.21.1.58:5002$山东电信
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://39.88.46.255:8888/udp/239.253.254.22:8000
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://112.226.139.82:9999/udp/239.253.254.22:8000
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://39.88.44.216:3333/udp/239.253.254.22:8000
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.zbds.top/logo/山东体育.png" group-title="山东",山东体育
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.zbds.top/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.zbds.top/logo/山东农科.png" group-title="山东",山东农科
+http://m.176178.xyz/sdtv/sdtv.php?id=sdnk
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.zbds.top/logo/山东农科.png" group-title="山东",山东农科
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000339/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.zbds.top/logo/山东农科.png" group-title="山东",山东农科
@@ -16664,6 +16676,8 @@ http://39.88.46.255:8888/udp/239.253.254.24:8000
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.zbds.top/logo/山东农科.png" group-title="山东",山东农科
 http://112.226.139.82:9999/udp/239.253.254.24:8000
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.zbds.top/logo/山东新闻.png" group-title="山东",山东新闻
+http://m.176178.xyz/sdtv/sdtv.php?id=sdxw
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.zbds.top/logo/山东新闻.png" group-title="山东",山东新闻
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000314/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.zbds.top/logo/山东新闻.png" group-title="山东",山东新闻
 http://139.129.231.228:3529/udp/239.21.1.54:5002$山东电信
@@ -16677,6 +16691,8 @@ http://115.29.140.201:9060/udp/239.21.1.140:5002$山东电信
 http://39.88.46.255:8888/udp/239.253.254.23:8000
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.zbds.top/logo/山东新闻.png" group-title="山东",山东新闻
 http://112.226.139.82:9999/udp/239.253.254.23:8000
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.zbds.top/logo/山东少儿.png" group-title="山东",山东少儿
+http://m.176178.xyz/sdtv/sdtv.php?id=sdse
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.zbds.top/logo/山东少儿.png" group-title="山东",山东少儿
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000375/index.m3u8?IASHttpSessionId=$山东移动
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.zbds.top/logo/山东少儿.png" group-title="山东",山东少儿
