@@ -65,6 +65,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265001
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000029752
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000029752
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视",CCTV-1
+http://z.b.bkpcp.top/m.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
@@ -127,6 +129,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5353323539453949720
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000014161
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000014161
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视",CCTV-2
+http://z.b.bkpcp.top/m.php?id=cctv2
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
@@ -191,6 +195,8 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000022313
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8378175926191110263
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8378175926191110263
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视",CCTV-3
+http://z.b.bkpcp.top/m.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
@@ -243,6 +249,12 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265004
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8183388942203045169
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8183388942203045169
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4
+http://z.b.bkpcp.top/m.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.zbds.top/logo/CCTV4美洲.png" group-title="央视",CCTV-4美洲
+http://z.b.bkpcp.top/m.php?id=cctv4m
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.zbds.top/logo/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲
+http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000004794/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
@@ -313,6 +325,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265005
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000016431
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000016431
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5
+http://z.b.bkpcp.top/m.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
@@ -369,6 +383,8 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000015875
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=reallive-cctv5plus
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=reallive-cctv5plus
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.zbds.top/logo/CCTV5.png" group-title="央视",CCTV-5+
+http://z.b.bkpcp.top/m.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
@@ -433,6 +449,8 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000004574
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6117099895556651277
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6117099895556651277
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.zbds.top/logo/CCTV6.png" group-title="央视",CCTV-6
+http://z.b.bkpcp.top/m.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000017218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
@@ -491,6 +509,8 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000009055
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7050628689018054317
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7050628689018054317
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.zbds.top/logo/CCTV7.png" group-title="央视",CCTV-7
+http://z.b.bkpcp.top/m.php?id=cctv7
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000003736/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
@@ -549,6 +569,8 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000001070
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8871488051501921127
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8871488051501921127
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.zbds.top/logo/CCTV8.png" group-title="央视",CCTV-8
+http://z.b.bkpcp.top/m.php?id=cctv8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
@@ -597,6 +619,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018384
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000032162
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000032162
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.zbds.top/logo/CCTV9.png" group-title="央视",CCTV-9
+http://z.b.bkpcp.top/m.php?id=cctv9
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000023734/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
@@ -655,6 +679,8 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000031506
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7019587760656900133
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7019587760656900133
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视",CCTV-10
+http://z.b.bkpcp.top/m.php?id=cctv10
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
@@ -701,6 +727,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031106
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6351457414282570521
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6351457414282570521
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视",CCTV-11
+http://z.b.bkpcp.top/m.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000001640/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
@@ -759,6 +787,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5325631075193490169
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000022586
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000022586
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视",CCTV-12
+http://z.b.bkpcp.top/m.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
 http://[2409:8087:5e20:24::09]:6610/000000001000/1/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
@@ -799,6 +829,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031108
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6918130250570453526
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6918130250570453526
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视",CCTV-13
+http://z.b.bkpcp.top/m.php?id=cctv13
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000008170/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
@@ -857,6 +889,8 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000013647
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8203666801302077036
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8203666801302077036
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.zbds.top/logo/CCTV14.png" group-title="央视",CCTV-14
+http://z.b.bkpcp.top/m.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
@@ -903,6 +937,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000018417
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031109
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031109
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.zbds.top/logo/CCTV15.png" group-title="央视",CCTV-15
+http://z.b.bkpcp.top/m.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000233001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.zbds.top/logo/CCTV16.png" group-title="央视",CCTV-16
@@ -985,6 +1021,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265015
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000268004
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000268004
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.zbds.top/logo/CCTV17.png" group-title="央视",CCTV-17
+http://z.b.bkpcp.top/m.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4K
 http://a21709.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.zbds.top/logo/CCTV4.png" group-title="央视",CCTV-4K
@@ -1031,6 +1069,8 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000003000018981
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7106250793420582078
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.zbds.top/logo/CETV1.png" group-title="央视",CETV-1
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7106250793420582078
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.zbds.top/logo/CETV1.png" group-title="央视",CETV-1
+http://z.b.bkpcp.top/m.php?id=cetv1
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000005000266004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
@@ -1059,6 +1099,8 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000047
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031201
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031201
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.zbds.top/logo/CETV2.png" group-title="央视",CETV-2
+http://z.b.bkpcp.top/m.php?id=cetv2
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000005000025333/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
@@ -1087,6 +1129,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031126
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000005000042312
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000005000042312
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="央视",CETV-4
+http://z.b.bkpcp.top/m.php?id=cetv4
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://live.zbds.top/logo/CETV早期教育.png" group-title="央视",CETV早期教育
 http://vpn.rogerxlj.top:9998/udp/239.45.0.54:5140$上海电信
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://live.zbds.top/logo/CETV早期教育.png" group-title="央视",CETV早期教育
@@ -1131,6 +1175,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000009569
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7745129417417101820
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="央视",CGTN英语
+http://z.b.bkpcp.top/m.php?id=cgtn
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
@@ -1145,6 +1191,8 @@ http://[2409:8087:5e20:24::03]:6610/000000001000/1/1000000006000280001/1.m3u8?ch
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280001
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280001
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.zbds.top/logo/CGTN阿语.png" group-title="央视",CGTN阿语
+http://z.b.bkpcp.top/m.php?id=cgtna
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
@@ -1159,6 +1207,8 @@ http://[2409:8087:5e20:24::03]:6610/000000001000/1/1000000006000280004/1.m3u8?ch
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280004
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280004
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.zbds.top/logo/CGTN俄语.png" group-title="央视",CGTN俄语
+http://z.b.bkpcp.top/m.php?id=cgtnr
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
@@ -1173,6 +1223,8 @@ http://[2409:8087:5e20:24::03]:6610/000000001000/1/1000000006000280003/1.m3u8?ch
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280003
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280003
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
+http://z.b.bkpcp.top/m.php?id=cgtnf
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
@@ -1187,6 +1239,8 @@ http://[2409:8087:5e20:24::03]:6610/000000001000/1/1000000006000280002/1.m3u8?ch
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280002
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280002
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.zbds.top/logo/CGTN西语.png" group-title="央视",CGTN西语
+http://z.b.bkpcp.top/m.php?id=cgtne
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
@@ -1209,6 +1263,8 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7114647837765104058
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8428799834696888424
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.zbds.top/logo/CGTN纪录.png" group-title="央视",CGTN纪录
+http://z.b.bkpcp.top/m.php?id=cgtnjl
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.zbds.top/logo/电视指南.png" group-title="央视",电视指南
@@ -1776,6 +1832,8 @@ http://vpn.rogerxlj.top:9998/udp/239.45.1.74:5140$上海电信
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.zbds.top/logo/兵器科技.png" group-title="央视",兵器科技
 http://218.78.183.200:8888/udp/239.45.1.74:5140$上海电信
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.zbds.top/logo/老故事.png" group-title="央视",老故事
+http://z.b.bkpcp.top/m.php?id=lgs
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.zbds.top/logo/老故事.png" group-title="央视",老故事
 http://www.tico2.eu.org:4022/rtp/239.69.1.85:10150
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.zbds.top/logo/老故事.png" group-title="央视",老故事
 http://www.akw323.com:9527/rtp/238.255.2.35:5999$贵州电信
@@ -2067,6 +2125,8 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000004
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.zbds.top/logo/第一财经.png" group-title="上海",第一财经
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000027146
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.zbds.top/logo/第一财经.png" group-title="上海",第一财经
+http://z.b.bkpcp.top/m.php?id=dycj
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.zbds.top/logo/五星体育.png" group-title="上海",五星体育
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.zbds.top/logo/五星体育.png" group-title="上海",五星体育
@@ -4453,6 +4513,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000011619
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000045
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.zbds.top/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000045
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.zbds.top/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://z.b.bkpcp.top/m.php?id=dwqws
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.zbds.top/logo/东南卫视.png" group-title="卫视",东南卫视
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.zbds.top/logo/东南卫视.png" group-title="卫视",东南卫视
@@ -5820,6 +5882,8 @@ http://218.78.183.200:8888/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://z.b.bkpcp.top/m.php?id=jtyy
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://[2409:8087:7008:20::09]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
@@ -5849,6 +5913,8 @@ http://vpn.rogerxlj.top:9998/udp/239.45.0.40:5140
 http://218.78.183.200:8888/udp/239.45.0.40:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.zbds.top/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://z.b.bkpcp.top/m.php?id=dzdy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.zbds.top/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
@@ -9209,6 +9275,8 @@ http://www.lebaobei.top:6868/udp/239.255.30.108:8231
 http://60.164.128.167:8029/udp/239.255.30.106:8231
 #EXTINF:-1 tvg-name="临夏经济" tvg-logo="https://live.zbds.top/logo/临夏经济.png" group-title="甘肃",临夏经济
 http://www.lebaobei.top:6868/udp/239.255.30.106:8231
+#EXTINF:-1 tvg-name="临洮电视台" tvg-logo="https://live.zbds.top/logo/临洮电视台.png" group-title="甘肃",临洮电视台
+http://z.b.bkpcp.top/m.php?id=lttv
 #EXTINF:-1 tvg-name="崆峒综合频道" tvg-logo="https://live.zbds.top/logo/崆峒综合频道.png" group-title="甘肃",崆峒综合频道
 http://125.74.200.110:10080/hls/001/001_live.m3u8
 #EXTINF:-1 tvg-name="华池综合频道" tvg-logo="https://live.zbds.top/logo/华池综合频道.png" group-title="甘肃",华池综合频道
@@ -14292,6 +14360,8 @@ http://nas.tuyuannet.cn:8800/rtp/239.37.0.136:5540
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.zbds.top/logo/江苏城市.png" group-title="江苏",江苏城市
 http://live.nctv.top/6688/jstv.php?id=jscs
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.zbds.top/logo/江苏城市.png" group-title="江苏",江苏城市
+http://z.b.bkpcp.top/m.php?id=jscs
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.zbds.top/logo/江苏城市.png" group-title="江苏",江苏城市
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSCS/G_JSCS.m3u8
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.zbds.top/logo/江苏城市.png" group-title="江苏",江苏城市
 http://kms.yzcancer.cn:8888/rtp/239.49.0.17:8128
@@ -14325,6 +14395,8 @@ http://chr.460513.xyz:8800/rtp/239.49.0.17:8128
 http://www.zhantong.tech:8800/rtp/239.49.0.17:8128
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.zbds.top/logo/江苏综艺.png" group-title="江苏",江苏综艺
 http://live.nctv.top/6688/jstv.php?id=jszy
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.zbds.top/logo/江苏综艺.png" group-title="江苏",江苏综艺
+http://z.b.bkpcp.top/m.php?id=jszy
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.zbds.top/logo/江苏综艺.png" group-title="江苏",江苏综艺
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSZY/G_JSZY.m3u8
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.zbds.top/logo/江苏综艺.png" group-title="江苏",江苏综艺
@@ -14360,6 +14432,8 @@ http://www.zhantong.tech:8800/rtp/239.49.0.18:8136
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.zbds.top/logo/江苏影视.png" group-title="江苏",江苏影视
 http://live.nctv.top/6688/jstv.php?id=jsys
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.zbds.top/logo/江苏影视.png" group-title="江苏",江苏影视
+http://z.b.bkpcp.top/m.php?id=jsys
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.zbds.top/logo/江苏影视.png" group-title="江苏",江苏影视
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.zbds.top/logo/江苏影视.png" group-title="江苏",江苏影视
 http://kms.yzcancer.cn:8888/rtp/239.49.0.20:8152
@@ -14394,6 +14468,8 @@ http://www.zhantong.tech:8800/rtp/239.49.0.20:8152
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.zbds.top/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://live.nctv.top/6688/jstv.php?id=jsxw
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.zbds.top/logo/江苏新闻.png" group-title="江苏",江苏新闻
+http://z.b.bkpcp.top/m.php?id=jsxw
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.zbds.top/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.zbds.top/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://kms.yzcancer.cn:8888/rtp/239.49.0.149:9186
@@ -14427,6 +14503,8 @@ http://chr.460513.xyz:8800/rtp/239.49.0.149:9186
 http://www.zhantong.tech:8800/rtp/239.49.0.149:9186
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.zbds.top/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
 http://live.nctv.top/6688/jstv.php?id=jsty
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.zbds.top/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+http://z.b.bkpcp.top/m.php?id=jstyxx
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.zbds.top/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSTY/G_JSTY.m3u8
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.zbds.top/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
@@ -14485,8 +14563,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000010063
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000030492
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.zbds.top/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000003000030492
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.zbds.top/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
+http://z.b.bkpcp.top/m.php?id=ymkt
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.zbds.top/logo/江苏国际.png" group-title="江苏",江苏国际
 http://live.nctv.top/6688/jstv.php?id=jsgj
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.zbds.top/logo/江苏国际.png" group-title="江苏",江苏国际
+http://z.b.bkpcp.top/m.php?id=jsgj
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.zbds.top/logo/江苏国际.png" group-title="江苏",江苏国际
 http://kms.yzcancer.cn:8888/rtp/239.49.0.22:8168
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.zbds.top/logo/江苏国际.png" group-title="江苏",江苏国际
@@ -14505,6 +14587,8 @@ http://cdn.jdshipin.com:8880/jstv.php?id=jsgj
 http://cdn.jdshipin.com/jstv.php?id=jsgj
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.zbds.top/logo/江苏教育.png" group-title="江苏",江苏教育
 http://live.nctv.top/6688/jstv.php?id=jsjy
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.zbds.top/logo/江苏教育.png" group-title="江苏",江苏教育
+http://z.b.bkpcp.top/m.php?id=jsjy
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.zbds.top/logo/江苏教育.png" group-title="江苏",江苏教育
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.zbds.top/logo/江苏教育.png" group-title="江苏",江苏教育
@@ -14569,6 +14653,8 @@ http://sz.seala.uk:4022/rtp/239.49.0.25:8192
 http://chr.460513.xyz:8800/rtp/239.49.0.25:8192
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://live.zbds.top/logo/南京新闻综合.png" group-title="江苏",南京新闻综合
 http://www.zhantong.tech:8800/rtp/239.49.0.25:8192
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://live.zbds.top/logo/南京新闻综合.png" group-title="江苏",南京新闻综合
+http://z.b.bkpcp.top/m.php?id=njxwzh
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://live.zbds.top/logo/南京教科.png" group-title="江苏",南京教科
 http://kms.yzcancer.cn:8888/rtp/239.49.0.183:9434
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://live.zbds.top/logo/南京教科.png" group-title="江苏",南京教科
@@ -14605,6 +14691,8 @@ http://sz.seala.uk:4022/rtp/239.49.0.45:8000
 http://chr.460513.xyz:8800/rtp/239.49.0.45:8000
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://live.zbds.top/logo/南京少儿.png" group-title="江苏",南京少儿
 http://www.zhantong.tech:8800/rtp/239.49.0.45:8000
+#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://live.zbds.top/logo/南京十八生活.png" group-title="江苏",南京十八生活
+http://z.b.bkpcp.top/m.php?id=njsb
 #EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://live.zbds.top/logo/南京十八生活.png" group-title="江苏",南京十八生活
 http://kms.yzcancer.cn:8888/rtp/239.49.0.26:8200
 #EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://live.zbds.top/logo/南京十八生活.png" group-title="江苏",南京十八生活
@@ -14772,6 +14860,8 @@ http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 #EXTINF:-1 tvg-name="丹阳新闻综合" tvg-logo="https://live.zbds.top/logo/丹阳新闻综合.png" group-title="江苏",丹阳新闻综合
 http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
 #EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://live.zbds.top/logo/泰州新闻综合.png" group-title="江苏",泰州新闻综合
+http://z.b.bkpcp.top/m.php?id=tzxwzh
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://live.zbds.top/logo/泰州新闻综合.png" group-title="江苏",泰州新闻综合
 http://kms.yzcancer.cn:8888/rtp/239.49.0.215:8000
 #EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://live.zbds.top/logo/泰州新闻综合.png" group-title="江苏",泰州新闻综合
 http://www.pswluo.cn:4000/rtp/239.49.0.215:8000
@@ -14849,6 +14939,8 @@ http://cm.wshls.homecdn.com/live/8bf.m3u8
 http://cm.wshls.homecdn.com/live/8c1.m3u8
 #EXTINF:-1 tvg-name="邗江综合" tvg-logo="https://live.zbds.top/logo/邗江综合.png" group-title="江苏",邗江综合
 http://cm.wshls.homecdn.com/live/8c3.m3u8
+#EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://live.zbds.top/logo/徐州新闻综合.png" group-title="江苏",徐州新闻综合
+http://z.b.bkpcp.top/m.php?id=xzxwzh
 #EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://live.zbds.top/logo/徐州新闻综合.png" group-title="江苏",徐州新闻综合
 http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
 #EXTINF:-1 tvg-name="徐州文艺影视" tvg-logo="https://live.zbds.top/logo/徐州文艺影视.png" group-title="江苏",徐州文艺影视
@@ -15018,6 +15110,8 @@ http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 #EXTINF:-1 tvg-name="涟水综合" tvg-logo="https://live.zbds.top/logo/涟水综合.png" group-title="江苏",涟水综合
 https://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 #EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://live.zbds.top/logo/连云港新闻综合.png" group-title="江苏",连云港新闻综合
+http://z.b.bkpcp.top/m.php?id=lygxwzh
+#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://live.zbds.top/logo/连云港新闻综合.png" group-title="江苏",连云港新闻综合
 http://live.lyg1.com/zhpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="连云港公共频道" tvg-logo="https://live.zbds.top/logo/连云港公共频道.png" group-title="江苏",连云港公共频道
 http://live.lyg1.com/ggpd/sd/live.m3u8
@@ -15061,6 +15155,8 @@ http://221.228.70.101:8080/live/xinwen.m3u8
 https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 #EXTINF:-1 tvg-name="淮阴综合" tvg-logo="https://live.zbds.top/logo/淮阴综合.png" group-title="江苏",淮阴综合
 https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+#EXTINF:-1 tvg-name="淮安新闻综合" tvg-logo="https://live.zbds.top/logo/淮安新闻综合.png" group-title="江苏",淮安新闻综合
+http://z.b.bkpcp.top/m.php?id=haxwzh
 #EXTINF:-1 tvg-name="淮安影院娱乐" tvg-logo="https://live.zbds.top/logo/淮安影院娱乐.png" group-title="江苏",淮安影院娱乐
 http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="淮安公共频道" tvg-logo="https://live.zbds.top/logo/淮安公共频道.png" group-title="江苏",淮安公共频道

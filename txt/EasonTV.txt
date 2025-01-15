@@ -32,6 +32,7 @@ CCTV-1,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000265001
 CCTV-1,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265001
 CCTV-1,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000029752
 CCTV-1,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000029752
+CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
 CCTV-2,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
 CCTV-2,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000265002/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=3
@@ -63,6 +64,7 @@ CCTV-2,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=535332353945394972
 CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5353323539453949720
 CCTV-2,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000014161
 CCTV-2,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000014161
+CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
 CCTV-3,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000001000013682/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
 CCTV-3,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3
@@ -95,6 +97,7 @@ CCTV-3,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000022313
 CCTV-3,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000022313
 CCTV-3,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8378175926191110263
 CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8378175926191110263
+CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-4,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
 CCTV-4,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
 CCTV-4,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/5000000005000030093/1.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3
@@ -121,6 +124,9 @@ CCTV-4,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000265004
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265004
 CCTV-4,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8183388942203045169
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8183388942203045169
+CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV-4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV-5,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000004794/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3
 CCTV-5,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000003000030177/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
 CCTV-5,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
@@ -156,6 +162,7 @@ CCTV-5,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000265005
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265005
 CCTV-5,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000016431
 CCTV-5,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000016431
+CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5+,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
 CCTV-5+,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3
 CCTV-5+,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
@@ -184,6 +191,7 @@ CCTV-5+,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=600000000100001587
 CCTV-5+,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000015875
 CCTV-5+,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=reallive-cctv5plus
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=reallive-cctv5plus
+CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-6,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
 CCTV-6,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
 CCTV-6,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000265006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=3
@@ -216,6 +224,7 @@ CCTV-6,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000004574
 CCTV-6,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000004574
 CCTV-6,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6117099895556651277
 CCTV-6,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6117099895556651277
+CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-7,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000017218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
 CCTV-7,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000001000024341/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
 CCTV-7,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000265007/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=3
@@ -245,6 +254,7 @@ CCTV-7,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000009055
 CCTV-7,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000009055
 CCTV-7,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7050628689018054317
 CCTV-7,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7050628689018054317
+CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
 CCTV-8,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000003736/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3
 CCTV-8,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
 CCTV-8,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000265008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
@@ -274,6 +284,7 @@ CCTV-8,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000001070
 CCTV-8,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000001070
 CCTV-8,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8871488051501921127
 CCTV-8,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8871488051501921127
+CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-9,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
 CCTV-9,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000001000028286/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=3
 CCTV-9,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000265009/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=3
@@ -298,6 +309,7 @@ CCTV-9,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000018384
 CCTV-9,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018384
 CCTV-9,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000032162
 CCTV-9,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000032162
+CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-10,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000023734/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3
 CCTV-10,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000001000026367/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=3
 CCTV-10,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000265010/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=3
@@ -327,6 +339,7 @@ CCTV-10,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=600000000100003150
 CCTV-10,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000031506
 CCTV-10,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7019587760656900133
 CCTV-10,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7019587760656900133
+CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV-11,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
 CCTV-11,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000005000265011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3
 CCTV-11,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/5000000006000040011/1.m3u8?channel-id=bestzb&Contentid=5000000006000040011&livemode=1&stbId=3
@@ -350,6 +363,7 @@ CCTV-11,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031106
 CCTV-11,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031106
 CCTV-11,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6351457414282570521
 CCTV-11,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6351457414282570521
+CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV-12,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000001640/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=3
 CCTV-12,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000001000032494/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
 CCTV-12,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000265012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=3
@@ -379,6 +393,7 @@ CCTV-12,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=53256310751934901
 CCTV-12,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5325631075193490169
 CCTV-12,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000022586
 CCTV-12,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000022586
+CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13,http://[2409:8087:5e20:24::09]:6610/000000001000/1/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
 CCTV-13,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/5000000005000001827/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
 CCTV-13,http://[2409:8087:5e20:24::07]:6610/000000001000/1/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
@@ -399,6 +414,7 @@ CCTV-13,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031108
 CCTV-13,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031108
 CCTV-13,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6918130250570453526
 CCTV-13,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6918130250570453526
+CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000001000008170/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3
 CCTV-14,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000001000021349/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=3
 CCTV-14,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000265013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3
@@ -428,6 +444,7 @@ CCTV-14,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=600000000100001364
 CCTV-14,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000013647
 CCTV-14,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8203666801302077036
 CCTV-14,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8203666801302077036
+CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
 CCTV-15,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
 CCTV-15,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/4832596595465032187/1.m3u8?channel-id=ystenlive&Contentid=4832596595465032187&livemode=1&stbId=3
@@ -451,6 +468,7 @@ CCTV-15,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000005000018417
 CCTV-15,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000018417
 CCTV-15,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031109
 CCTV-15,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031109
+CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000233001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=3
 CCTV-16,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3
 CCTV-16,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/2000000003000000059/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000059&livemode=1&stbId=3
@@ -492,6 +510,7 @@ CCTV-17,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=10000000050002650
 CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265015
 CCTV-17,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000268004
 CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000268004
+CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV-4K,http://a21709.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
 CCTV-4K,http://vpn.rogerxlj.top:9998/udp/239.45.0.55:5140
 CCTV-4K,http://218.78.183.200:8888/udp/239.45.0.55:5140
@@ -515,6 +534,7 @@ CETV-1,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000018981
 CETV-1,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000003000018981
 CETV-1,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7106250793420582078
 CETV-1,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7106250793420582078
+CETV-1,http://z.b.bkpcp.top/m.php?id=cetv1
 CETV-2,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000005000266004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=3
 CETV-2,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/2000000003000000047/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000047&livemode=1&stbId=3
 CETV-2,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/5000000011000031201/1.m3u8?channel-id=bestzb&Contentid=5000000011000031201&livemode=1&stbId=3
@@ -529,6 +549,7 @@ CETV-2,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000047
 CETV-2,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000047
 CETV-2,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031201
 CETV-2,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031201
+CETV-2,http://z.b.bkpcp.top/m.php?id=cetv2
 CETV-4,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000005000025333/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=3
 CETV-4,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/5000000006000012123/1.m3u8?channel-id=bestzb&Contentid=5000000006000012123&livemode=1&stbId=3
 CETV-4,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
@@ -543,6 +564,7 @@ CETV-4,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031126
 CETV-4,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031126
 CETV-4,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000005000042312
 CETV-4,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000005000042312
+CETV-4,http://z.b.bkpcp.top/m.php?id=cetv4
 CETV早期教育,http://vpn.rogerxlj.top:9998/udp/239.45.0.54:5140$上海电信
 CETV早期教育,http://218.78.183.200:8888/udp/239.45.0.54:5140$上海电信
 CETV早期教育,http://home.yulei.online:9999/rtp/226.0.2.99:8704$山西联通
@@ -565,6 +587,7 @@ CGTN英语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=10000000020000
 CGTN英语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000009569
 CGTN英语,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7745129417417101820
 CGTN英语,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
+CGTN英语,http://z.b.bkpcp.top/m.php?id=cgtn
 CGTN阿语,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 CGTN阿语,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 CGTN阿语,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
@@ -572,6 +595,7 @@ CGTN阿语,http://[2409:8087:5e20:24::0d]:6610/000000001000/1/100000000600028000
 CGTN阿语,http://[2409:8087:5e20:24::03]:6610/000000001000/1/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 CGTN阿语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280001
 CGTN阿语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280001
+CGTN阿语,http://z.b.bkpcp.top/m.php?id=cgtna
 CGTN俄语,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 CGTN俄语,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 CGTN俄语,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
@@ -579,6 +603,7 @@ CGTN俄语,http://[2409:8087:5e20:24::0d]:6610/000000001000/1/100000000600028000
 CGTN俄语,http://[2409:8087:5e20:24::03]:6610/000000001000/1/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 CGTN俄语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280004
 CGTN俄语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280004
+CGTN俄语,http://z.b.bkpcp.top/m.php?id=cgtnr
 CGTN法语,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 CGTN法语,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 CGTN法语,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
@@ -586,6 +611,7 @@ CGTN法语,http://[2409:8087:5e20:24::0d]:6610/000000001000/1/100000000600028000
 CGTN法语,http://[2409:8087:5e20:24::03]:6610/000000001000/1/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 CGTN法语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280003
 CGTN法语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280003
+CGTN法语,http://z.b.bkpcp.top/m.php?id=cgtnf
 CGTN西语,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 CGTN西语,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 CGTN西语,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
@@ -593,6 +619,7 @@ CGTN西语,http://[2409:8087:5e20:24::0d]:6610/000000001000/1/100000000600028000
 CGTN西语,http://[2409:8087:5e20:24::03]:6610/000000001000/1/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 CGTN西语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280002
 CGTN西语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280002
+CGTN西语,http://z.b.bkpcp.top/m.php?id=cgtne
 CGTN纪录,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 CGTN纪录,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=3
 CGTN纪录,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
@@ -604,6 +631,7 @@ CGTN纪录,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=711464783776510
 CGTN纪录,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7114647837765104058
 CGTN纪录,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8428799834696888424
 CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
+CGTN纪录,http://z.b.bkpcp.top/m.php?id=cgtnjl
 电视指南,http://[2409:8087:7008:20::0a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
 电视指南,http://[2409:8087:7008:20::0b]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$陕西移动
 电视指南,http://www.tico2.eu.org:4022/rtp/239.69.1.87:10162
@@ -887,6 +915,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 兵器科技,http://218.78.183.200:8888/udp/239.45.0.45:5140$上海电信
 兵器科技,http://vpn.rogerxlj.top:9998/udp/239.45.1.74:5140$上海电信
 兵器科技,http://218.78.183.200:8888/udp/239.45.1.74:5140$上海电信
+老故事,http://z.b.bkpcp.top/m.php?id=lgs
 老故事,http://www.tico2.eu.org:4022/rtp/239.69.1.85:10150
 老故事,http://www.akw323.com:9527/rtp/238.255.2.35:5999$贵州电信
 老故事,http://121.19.134.10:4022/rtp/239.253.92.132:8068$河北联通
@@ -1035,6 +1064,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 第一财经,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000004
 第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
 第一财经,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000027146
+第一财经,http://z.b.bkpcp.top/m.php?id=dycj
 五星体育,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 五星体育,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -2232,6 +2262,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 大湾区卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000011619
 大湾区卫视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000045
 大湾区卫视,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000045
+大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
 东南卫视,http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=3
 东南卫视,http://[2409:8087:5e20:24::0b]:6610/000000001000/1/1000000005000265033/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3
 东南卫视,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/5000000001000005829/1.m3u8?channel-id=bestzb&Contentid=5000000001000005829&livemode=1&stbId=3
@@ -2917,6 +2948,7 @@ CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 CHC影迷电影,http://vpn.rogerxlj.top:9998/udp/239.45.0.42:5140
 CHC影迷电影,http://218.78.183.200:8888/udp/239.45.0.42:5140
 CHC影迷电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 CHC家庭影院,http://[2409:8087:7008:20::08]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
 CHC家庭影院,http://[2409:8087:7008:20::09]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
 CHC家庭影院,http://[2409:8087:7008:20::0c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动
@@ -2932,6 +2964,7 @@ CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 CHC家庭影院,http://vpn.rogerxlj.top:9998/udp/239.45.0.40:5140
 CHC家庭影院,http://218.78.183.200:8888/udp/239.45.0.40:5140
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://[2409:8087:7008:20::02]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
 CHC动作电影,http://[2409:8087:7008:20::03]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
 CHC动作电影,http://[2409:8087:7008:20::04]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$陕西移动
@@ -4622,6 +4655,7 @@ CETV3,http://123.56.129.203:3878/udp/225.1.8.194:4120$北京电信
 临夏文旅,http://www.lebaobei.top:6868/udp/239.255.30.108:8231
 临夏经济,http://60.164.128.167:8029/udp/239.255.30.106:8231
 临夏经济,http://www.lebaobei.top:6868/udp/239.255.30.106:8231
+临洮电视台,http://z.b.bkpcp.top/m.php?id=lttv
 崆峒综合频道,http://125.74.200.110:10080/hls/001/001_live.m3u8
 华池综合频道,https://play.kankanlive.com/live/1663661069156913.m3u8
 金塔,http://60.164.128.167:8029/udp/239.255.30.224:8231
@@ -7185,6 +7219,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 
 江苏,#genre#
 江苏城市,http://live.nctv.top/6688/jstv.php?id=jscs
+江苏城市,http://z.b.bkpcp.top/m.php?id=jscs
 江苏城市,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSCS/G_JSCS.m3u8
 江苏城市,http://kms.yzcancer.cn:8888/rtp/239.49.0.17:8128
 江苏城市,http://www.pswluo.cn:4000/rtp/239.49.8.107:8000
@@ -7202,6 +7237,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏城市,http://chr.460513.xyz:8800/rtp/239.49.0.17:8128
 江苏城市,http://www.zhantong.tech:8800/rtp/239.49.0.17:8128
 江苏综艺,http://live.nctv.top/6688/jstv.php?id=jszy
+江苏综艺,http://z.b.bkpcp.top/m.php?id=jszy
 江苏综艺,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSZY/G_JSZY.m3u8
 江苏综艺,http://kms.yzcancer.cn:8888/rtp/239.49.0.18:8136
 江苏综艺,http://www.pswluo.cn:4000/rtp/239.49.8.108:8000
@@ -7219,6 +7255,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏综艺,http://chr.460513.xyz:8800/rtp/239.49.0.18:8136
 江苏综艺,http://www.zhantong.tech:8800/rtp/239.49.0.18:8136
 江苏影视,http://live.nctv.top/6688/jstv.php?id=jsys
+江苏影视,http://z.b.bkpcp.top/m.php?id=jsys
 江苏影视,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
 江苏影视,http://kms.yzcancer.cn:8888/rtp/239.49.0.20:8152
 江苏影视,http://www.pswluo.cn:4000/rtp/239.49.8.118:8000
@@ -7236,6 +7273,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏影视,http://chr.460513.xyz:8800/rtp/239.49.0.20:8152
 江苏影视,http://www.zhantong.tech:8800/rtp/239.49.0.20:8152
 江苏新闻,http://live.nctv.top/6688/jstv.php?id=jsxw
+江苏新闻,http://z.b.bkpcp.top/m.php?id=jsxw
 江苏新闻,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
 江苏新闻,http://kms.yzcancer.cn:8888/rtp/239.49.0.149:9186
 江苏新闻,http://www.pswluo.cn:4000/rtp/239.49.8.120:8000
@@ -7253,6 +7291,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏新闻,http://chr.460513.xyz:8800/rtp/239.49.0.149:9186
 江苏新闻,http://www.zhantong.tech:8800/rtp/239.49.0.149:9186
 江苏体育休闲,http://live.nctv.top/6688/jstv.php?id=jsty
+江苏体育休闲,http://z.b.bkpcp.top/m.php?id=jstyxx
 江苏体育休闲,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSTY/G_JSTY.m3u8
 江苏体育休闲,http://kms.yzcancer.cn:8888/rtp/239.49.0.19:8144
 江苏体育休闲,http://www.pswluo.cn:4000/rtp/239.49.8.117:8000
@@ -7282,7 +7321,9 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏优漫卡通,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000010063
 江苏优漫卡通,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000030492
 江苏优漫卡通,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000003000030492
+江苏优漫卡通,http://z.b.bkpcp.top/m.php?id=ymkt
 江苏国际,http://live.nctv.top/6688/jstv.php?id=jsgj
+江苏国际,http://z.b.bkpcp.top/m.php?id=jsgj
 江苏国际,http://kms.yzcancer.cn:8888/rtp/239.49.0.22:8168
 江苏国际,http://www.pswluo.cn:4000/rtp/239.49.0.22:8168
 江苏国际,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.22:8168
@@ -7292,6 +7333,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏国际,http://cdn.jdshipin.com:8880/jstv.php?id=jsgj
 江苏国际,http://cdn.jdshipin.com/jstv.php?id=jsgj
 江苏教育,http://live.nctv.top/6688/jstv.php?id=jsjy
+江苏教育,http://z.b.bkpcp.top/m.php?id=jsjy
 江苏教育,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
 江苏教育,http://kms.yzcancer.cn:8888/rtp/239.49.0.23:8176
 江苏教育,http://www.pswluo.cn:4000/rtp/239.49.8.122:8000
@@ -7318,6 +7360,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏财富天下,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000069
 江苏财富天下,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031208
 江苏财富天下,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031208
+南京新闻综合,http://z.b.bkpcp.top/m.php?id=njxwzh
 南京新闻综合,http://kms.yzcancer.cn:8888/rtp/239.49.0.25:8192
 南京新闻综合,http://www.pswluo.cn:4000/rtp/239.49.0.25:8192
 南京新闻综合,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.25:8192
@@ -7342,6 +7385,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 南京少儿,http://sz.seala.uk:4022/rtp/239.49.0.45:8000
 南京少儿,http://chr.460513.xyz:8800/rtp/239.49.0.45:8000
 南京少儿,http://www.zhantong.tech:8800/rtp/239.49.0.45:8000
+南京十八生活,http://z.b.bkpcp.top/m.php?id=njsb
 南京十八生活,http://kms.yzcancer.cn:8888/rtp/239.49.0.26:8200
 南京十八生活,http://www.pswluo.cn:4000/rtp/239.49.0.26:8200
 南京十八生活,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.26:8200
@@ -7425,6 +7469,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 金坛综合,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
 金坛综合,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 丹阳新闻综合,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
+泰州新闻综合,http://z.b.bkpcp.top/m.php?id=tzxwzh
 泰州新闻综合,http://kms.yzcancer.cn:8888/rtp/239.49.0.215:8000
 泰州新闻综合,http://www.pswluo.cn:4000/rtp/239.49.0.215:8000
 泰州新闻综合,http://openwrt.ch0502xgw.asia:4022/rtp/239.49.0.215:8000
@@ -7464,6 +7509,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 扬州生活,http://cm.wshls.homecdn.com/live/8bf.m3u8
 扬州江都,http://cm.wshls.homecdn.com/live/8c1.m3u8
 邗江综合,http://cm.wshls.homecdn.com/live/8c3.m3u8
+徐州新闻综合,http://z.b.bkpcp.top/m.php?id=xzxwzh
 徐州新闻综合,http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
 徐州文艺影视,http://stream3.huaihai.tv/xz3t/sd/live.m3u8
 徐州经济生活,http://stream3.huaihai.tv/xz2t/sd/live.m3u8
@@ -7548,6 +7594,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 涟水综合频道,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
 涟水综合频道,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 涟水综合,https://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh
 连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港公共频道,http://live.lyg1.com/ggpd/sd/live.m3u8
 溧阳新闻综合,http://tvlive.cxzly.com/live/tv.m3u8
@@ -7570,6 +7617,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 江宁综合,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+淮安新闻综合,http://z.b.bkpcp.top/m.php?id=haxwzh
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 海门新闻综合,https://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
