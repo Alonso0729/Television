@@ -70,6 +70,12 @@
 岚皋电视台,http://ningjingyuan.asia:8888/rtp/239.111.205.248:5140
 岚皋电视台,http://vmware.zixuan.live:55555/rtp/239.111.205.248:5140
 
+上海域名组播,#genre#
+上海新闻综合,http://wein66.ddnsfree.com:4022/udp/239.45.3.209:5140$上海电信
+上海新闻综合,http://wein66.ddnsfree.com:4022/udp/233.18.204.57:5140$上海电信
+五星体育,http://wein66.ddnsfree.com:4022/udp/239.45.3.210:5140$上海电信
+五星体育,http://wein66.ddnsfree.com:4022/udp/233.18.204.58:5140$上海电信
+
 海南易视腾,#genre#
 5e20-02,http://[2409:8087:5e20:24::02]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 5e20-03,http://[2409:8087:5e20:24::03]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
