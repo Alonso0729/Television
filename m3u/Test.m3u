@@ -127,12 +127,14 @@ http://home.yulei.online:9999/rtp/226.0.2.16:8040
 http://ds920.dsmynas.net:5555/rtp/226.0.2.16:8040
 #EXTINF:-1 ,山西联通域名-备用
 http://plex.home.yulei.online:9999/rtp/226.0.2.120:8872
-#EXTINF:-1 ,上海电信-1(不断流域名)
+#EXTINF:-1 ,陕西电信(不断流域名)
+http://ningjingyuan.asia:8888/rtp/239.111.205.36:5140
+#EXTINF:-1 ,上海电信-1(域名)
 http://wein66.ddnsfree.com:4022/udp/239.45.3.210:5140
 #EXTINF:-1 ,上海电信-2
 http://218.78.183.200:8888/udp/239.45.3.210:5140
 #EXTINF:-1 ,四川电信-1(不断流域名)
-http://yulang132.cn:4022/udp/239.93.1.231:5140
+http://b.xubo.myds.me:9999/udp/239.93.1.231:5140
 #EXTINF:-1 ,四川电信-2(域名)
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.231:5140
 #EXTINF:-1 ,四川电信域名-备用
