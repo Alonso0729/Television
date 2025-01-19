@@ -2533,6 +2533,8 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000007
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.zbds.top/logo/五星体育.png" group-title="上海",五星体育
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000017540
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.zbds.top/logo/五星体育.png" group-title="上海",五星体育
+http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$酒店源
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.zbds.top/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://112.18.54.52:35455/itv/1000000002000000172.m3u8?cdn=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.zbds.top/logo/哈哈炫动.png" group-title="上海",哈哈炫动
