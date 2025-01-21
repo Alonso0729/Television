@@ -140,9 +140,9 @@ http://zhyfans.mycloudnas.com:8000/udp/239.93.1.231:5140
 #EXTINF:-1 ,四川电信域名-备用
 http://xeace.cn:8888/udp/239.93.1.231:5140
 #EXTINF:-1 ,天津联通-1(域名)
+http://ha.xushining.com:50000/udp/225.1.1.6:5002
+#EXTINF:-1 ,天津联通-2(域名)
 http://nas.hssvm.com:8888/udp/225.1.1.6:5002
-#EXTINF:-1 ,天津联通-2
-http://221.196.151.16:8888/udp/225.1.1.6:5002
 #EXTINF:-1 ,新疆电信(无效)
 http://110.157.220.240:8088/udp/238.125.0.223:5140
 #EXTINF:-1 ,云南酒店电信
