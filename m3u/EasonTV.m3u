@@ -27858,11 +27858,27 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="D-box" tvg-logo="https://live.zbds.top/logo/D-box.png" group-title="港澳台",D-box
 http://61.221.215.25:8800/hls/54/index.m3u8
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.zbds.top/logo/HOY TV.png" group-title="港澳台",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.zbds.top/logo/HOY TV.png" group-title="港澳台",HOY TV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.zbds.top/logo/HOY TV.png" group-title="港澳台",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.zbds.top/logo/HOY TV.png" group-title="港澳台",HOY TV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.zbds.top/logo/HOY TV.png" group-title="港澳台",HOY TV
 http://cdn.132.us.kg/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="NHK" tvg-logo="https://live.zbds.top/logo/NHK.png" group-title="港澳台",NHK
 http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.zbds.top/logo/Now星影台.png" group-title="港澳台",Now星影台
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.zbds.top/logo/RTHK31.png" group-title="港澳台",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.zbds.top/logo/RTHK31.png" group-title="港澳台",RTHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.zbds.top/logo/RTHK32.png" group-title="港澳台",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.zbds.top/logo/RTHK32.png" group-title="港澳台",RTHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-name="RTHK34" tvg-logo="https://live.zbds.top/logo/RTHK34.png" group-title="港澳台",RTHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://live.zbds.top/logo/RTHK35.png" group-title="港澳台",RTHK35
@@ -27908,10 +27924,18 @@ http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://live.zbds.top/logo/myTV SUPER 18台.png" group-title="港澳台",myTV SUPER 18台
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.zbds.top/logo/澳视澳门.png" group-title="港澳台",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.zbds.top/logo/澳视澳门.png" group-title="港澳台",澳视澳门
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.zbds.top/logo/澳视澳门.png" group-title="港澳台",澳视澳门
 http://cdn.132.us.kg/live/asam/stream.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.zbds.top/logo/澳视澳门.png" group-title="港澳台",澳视澳门
 http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
-#EXTINF:-1 tvg-name="澳门卫视" tvg-logo="https://live.zbds.top/logo/澳门卫视.png" group-title="港澳台",澳门卫视
+#EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://live.zbds.top/logo/澳门卫星.png" group-title="港澳台",澳门卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://live.zbds.top/logo/澳门卫星.png" group-title="港澳台",澳门卫星
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+#EXTINF:-1 tvg-name="澳门卫星" tvg-logo="https://live.zbds.top/logo/澳门卫星.png" group-title="港澳台",澳门卫星
 http://cdn.132.us.kg/live/as/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://live.zbds.top/logo/翡翠剧集台.png" group-title="港澳台",翡翠剧集台
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
