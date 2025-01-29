@@ -27732,11 +27732,11 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 tvg-name="巴西 TV Santa Cruz" tvg-logo="https://live.zbds.top/logo/巴西 TV Santa Cruz.png" group-title="海外",巴西 TV Santa Cruz
 https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://llive.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://cdn.132.us.kg/live/fhzw/stream.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://llive.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://llive.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://llive.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://cdn.132.us.kg/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://llive.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://llive.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
@@ -27774,11 +27774,11 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://llive.zbds.top/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://llive.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://llive.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://llive.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://llive.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://llive.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://llive.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
@@ -27818,21 +27818,21 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://llive.zbds.top/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://feiyang.ak47s.top:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://feiyang.ak47s.top:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://42.92.117.213:8888/udp/239.255.30.123:8231$甘肃电信
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://www.lebaobei.top:6868/udp/239.255.30.123:8231$甘肃电信
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://feiyang.ak47s.top:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://feiyang.ak47s.top:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://42.92.117.213:8888/udp/239.255.30.123:8231$甘肃电信
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://www.lebaobei.top:6868/udp/239.255.30.123:8231$甘肃电信
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://llive.zbds.top/logo/凤凰香港.png" group-title="港澳台",凤凰香港
