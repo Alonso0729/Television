@@ -11105,6 +11105,244 @@ http://xuys.top:8888/udp/225.1.2.200:5002
 http://home.yulei.online:9999/rtp/226.0.2.120:8872$山西联通
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://live.zbds.top/logo/生态环境.png" group-title="北京",生态环境
 http://ds920.dsmynas.net:5555/rtp/226.0.2.120:8872$山西联通
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://llive.zbds.top/logo/北京卫视.png" group-title="北京移动",北京卫视
+https://life.125011.xyz/PLTV/by2024/250128/bjws/index.m3u8
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://llive.zbds.top/logo/北京文艺.png" group-title="北京移动",北京文艺
+https://life.125011.xyz/PLTV/by2024/250128/bjwy/index.m3u8
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://llive.zbds.top/logo/北京纪实科教.png" group-title="北京移动",北京纪实科教
+https://life.125011.xyz/PLTV/by2024/250128/bjkj/index.m3u8
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://llive.zbds.top/logo/北京影视.png" group-title="北京移动",北京影视
+https://life.125011.xyz/PLTV/by2024/250128/bjys/index.m3u8
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://llive.zbds.top/logo/北京财经.png" group-title="北京移动",北京财经
+https://life.125011.xyz/PLTV/by2024/250128/bjcj/index.m3u8
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://llive.zbds.top/logo/北京体育休闲.png" group-title="北京移动",北京体育休闲
+https://life.125011.xyz/PLTV/by2024/250128/vjty/index.m3u8
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://llive.zbds.top/logo/北京生活.png" group-title="北京移动",北京生活
+https://life.125011.xyz/PLTV/by2024/250128/bjsh/index.m3u8
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://llive.zbds.top/logo/北京新闻.png" group-title="北京移动",北京新闻
+https://life.125011.xyz/PLTV/by2024/250128/bjxw/index.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://llive.zbds.top/logo/北京卡酷少儿.png" group-title="北京移动",北京卡酷少儿
+https://life.125011.xyz/PLTV/by2024/250128/kkse/index.m3u8
+#EXTINF:-1 tvg-name="北京国际" tvg-logo="https://llive.zbds.top/logo/北京国际.png" group-title="北京移动",北京国际
+https://life.125011.xyz/PLTV/by2024/250128/bjgj/index.m3u8
+#EXTINF:-1 tvg-name="北京IPTV-4K超清" tvg-logo="https://llive.zbds.top/logo/北京IPTV-4K超清.png" group-title="北京移动",北京IPTV-4K超清
+https://life.125011.xyz/PLTV/by2024/250128/bj4k/index.m3u8
+#EXTINF:-1 tvg-name="北京IPTV-淘电影" tvg-logo="https://llive.zbds.top/logo/北京IPTV-淘电影.png" group-title="北京移动",北京IPTV-淘电影
+https://life.125011.xyz/PLTV/by2024/250128/bjtdy/index.m3u8
+#EXTINF:-1 tvg-name="北京IPTV-淘剧场" tvg-logo="https://llive.zbds.top/logo/北京IPTV-淘剧场.png" group-title="北京移动",北京IPTV-淘剧场
+https://life.125011.xyz/PLTV/by2024/250128/bjtjc/index.m3u8
+#EXTINF:-1 tvg-name="北京IPTV-淘娱乐" tvg-logo="https://llive.zbds.top/logo/北京IPTV-淘娱乐.png" group-title="北京移动",北京IPTV-淘娱乐
+https://life.125011.xyz/PLTV/by2024/250128/bjtyl/index.m3u8
+#EXTINF:-1 tvg-name="北京IPTV-淘BABY" tvg-logo="https://llive.zbds.top/logo/北京IPTV-淘BABY.png" group-title="北京移动",北京IPTV-淘BABY
+https://life.125011.xyz/PLTV/by2024/250128/bjtBABY/index.m3u8
+#EXTINF:-1 tvg-name="北京IPTV-萌宠TV" tvg-logo="https://llive.zbds.top/logo/北京IPTV-萌宠TV.png" group-title="北京移动",北京IPTV-萌宠TV
+https://life.125011.xyz/PLTV/by2024/250128/bjmcTV/index.m3u8
+#EXTINF:-1 tvg-name="北京IPTV-重温经典" tvg-logo="https://llive.zbds.top/logo/北京IPTV-重温经典.png" group-title="北京移动",北京IPTV-重温经典
+https://life.125011.xyz/PLTV/by2024/250128/bjcwjd/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://llive.zbds.top/logo/CCTV1.png" group-title="北京移动",CCTV-1
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://llive.zbds.top/logo/CCTV2.png" group-title="北京移动",CCTV-2
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://llive.zbds.top/logo/CCTV3.png" group-title="北京移动",CCTV-3
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://llive.zbds.top/logo/CCTV4.png" group-title="北京移动",CCTV-4
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://llive.zbds.top/logo/CCTV5.png" group-title="北京移动",CCTV-5
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://llive.zbds.top/logo/CCTV5.png" group-title="北京移动",CCTV-5+
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-5p/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://llive.zbds.top/logo/CCTV6.png" group-title="北京移动",CCTV-6
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://llive.zbds.top/logo/CCTV7.png" group-title="北京移动",CCTV-7
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://llive.zbds.top/logo/CCTV8.png" group-title="北京移动",CCTV-8
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://llive.zbds.top/logo/CCTV9.png" group-title="北京移动",CCTV-9
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://llive.zbds.top/logo/CCTV10.png" group-title="北京移动",CCTV-10
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://llive.zbds.top/logo/CCTV11.png" group-title="北京移动",CCTV-11
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://llive.zbds.top/logo/CCTV12.png" group-title="北京移动",CCTV-12
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://llive.zbds.top/logo/CCTV13.png" group-title="北京移动",CCTV-13
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://llive.zbds.top/logo/CCTV14.png" group-title="北京移动",CCTV-14
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://llive.zbds.top/logo/CCTV15.png" group-title="北京移动",CCTV-15
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://llive.zbds.top/logo/CCTV16.png" group-title="北京移动",CCTV-16
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-16/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://llive.zbds.top/logo/CCTV17.png" group-title="北京移动",CCTV-17
+https://life.125011.xyz/PLTV/by2024/250128/CCTV-17/index.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://llive.zbds.top/logo/CETV1.png" group-title="北京移动",CETV-1
+https://life.125011.xyz/PLTV/by2024/250128/cetv1/index.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://llive.zbds.top/logo/CETV2.png" group-title="北京移动",CETV-2
+https://life.125011.xyz/PLTV/by2024/250128/cetv2/index.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://llive.zbds.top/logo/CETV4.png" group-title="北京移动",CETV-4
+https://life.125011.xyz/PLTV/by2024/250128/cetv4/index.m3u8
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://llive.zbds.top/logo/CGTN英语.png" group-title="北京移动",CGTN英语
+https://life.125011.xyz/PLTV/by2024/250128/CGTN/index.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://llive.zbds.top/logo/CGTN阿语.png" group-title="北京移动",CGTN阿语
+https://life.125011.xyz/PLTV/by2024/250128/CGTNa/index.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://llive.zbds.top/logo/CGTN俄语.png" group-title="北京移动",CGTN俄语
+https://life.125011.xyz/PLTV/by2024/250128/CGTNp/index.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://llive.zbds.top/logo/CGTN法语.png" group-title="北京移动",CGTN法语
+https://life.125011.xyz/PLTV/by2024/250128/CGTNf/index.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://llive.zbds.top/logo/CGTN西语.png" group-title="北京移动",CGTN西语
+https://life.125011.xyz/PLTV/by2024/250128/CGTNe/index.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://llive.zbds.top/logo/CGTN纪录.png" group-title="北京移动",CGTN纪录
+https://life.125011.xyz/PLTV/by2024/250128/CGTNd/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://llive.zbds.top/logo/安徽卫视.png" group-title="北京移动",安徽卫视
+https://life.125011.xyz/PLTV/by2024/250128/ahws/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://llive.zbds.top/logo/兵团卫视.png" group-title="北京移动",兵团卫视
+https://life.125011.xyz/PLTV/by2024/250128/btws/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://llive.zbds.top/logo/重庆卫视.png" group-title="北京移动",重庆卫视
+https://life.125011.xyz/PLTV/by2024/250128/cqws/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://llive.zbds.top/logo/东方卫视.png" group-title="北京移动",东方卫视
+https://life.125011.xyz/PLTV/by2024/250128/dfws/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://llive.zbds.top/logo/东南卫视.png" group-title="北京移动",东南卫视
+https://life.125011.xyz/PLTV/by2024/250128/dnws/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://llive.zbds.top/logo/甘肃卫视.png" group-title="北京移动",甘肃卫视
+https://life.125011.xyz/PLTV/by2024/250128/gsws/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://llive.zbds.top/logo/广东卫视.png" group-title="北京移动",广东卫视
+https://life.125011.xyz/PLTV/by2024/250128/gdws/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://llive.zbds.top/logo/广西卫视.png" group-title="北京移动",广西卫视
+https://life.125011.xyz/PLTV/by2024/250128/gxws/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://llive.zbds.top/logo/贵州卫视.png" group-title="北京移动",贵州卫视
+https://life.125011.xyz/PLTV/by2024/250128/gzws/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://llive.zbds.top/logo/海南卫视.png" group-title="北京移动",海南卫视
+https://life.125011.xyz/PLTV/by2024/250128/hinws/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://llive.zbds.top/logo/河北卫视.png" group-title="北京移动",河北卫视
+https://life.125011.xyz/PLTV/by2024/250128/hebws/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://llive.zbds.top/logo/河南卫视.png" group-title="北京移动",河南卫视
+https://life.125011.xyz/PLTV/by2024/250128/henws/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://llive.zbds.top/logo/黑龙江卫视.png" group-title="北京移动",黑龙江卫视
+https://life.125011.xyz/PLTV/by2024/250128/hljws/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://llive.zbds.top/logo/湖北卫视.png" group-title="北京移动",湖北卫视
+https://life.125011.xyz/PLTV/by2024/250128/hbws/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://llive.zbds.top/logo/湖南卫视.png" group-title="北京移动",湖南卫视
+https://life.125011.xyz/PLTV/by2024/250128/hnws/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://llive.zbds.top/logo/吉林卫视.png" group-title="北京移动",吉林卫视
+https://life.125011.xyz/PLTV/by2024/250128/jlws/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://llive.zbds.top/logo/江苏卫视.png" group-title="北京移动",江苏卫视
+https://life.125011.xyz/PLTV/by2024/250128/jsws/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://llive.zbds.top/logo/江西卫视.png" group-title="北京移动",江西卫视
+https://life.125011.xyz/PLTV/by2024/250128/jxws/index.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://llive.zbds.top/logo/康巴卫视.png" group-title="北京移动",康巴卫视
+https://life.125011.xyz/PLTV/by2024/250128/kbws/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://llive.zbds.top/logo/辽宁卫视.png" group-title="北京移动",辽宁卫视
+https://life.125011.xyz/PLTV/by2024/250128/lnws/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://llive.zbds.top/logo/内蒙古卫视.png" group-title="北京移动",内蒙古卫视
+https://life.125011.xyz/PLTV/by2024/250128/nmgws/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://llive.zbds.top/logo/宁夏卫视.png" group-title="北京移动",宁夏卫视
+https://life.125011.xyz/PLTV/by2024/250128/nxws/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://llive.zbds.top/logo/青海卫视.png" group-title="北京移动",青海卫视
+https://life.125011.xyz/PLTV/by2024/250128/qhws/index.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://llive.zbds.top/logo/三沙卫视.png" group-title="北京移动",三沙卫视
+https://life.125011.xyz/PLTV/by2024/250128/ssws/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://llive.zbds.top/logo/厦门卫视.png" group-title="北京移动",厦门卫视
+https://life.125011.xyz/PLTV/by2024/250128/xmws/index.m3u8
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://llive.zbds.top/logo/山东教育卫视.png" group-title="北京移动",山东教育卫视
+https://life.125011.xyz/PLTV/by2024/250128/sdjy/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://llive.zbds.top/logo/山东卫视.png" group-title="北京移动",山东卫视
+https://life.125011.xyz/PLTV/by2024/250128/sdws/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://llive.zbds.top/logo/山西卫视.png" group-title="北京移动",山西卫视
+https://life.125011.xyz/PLTV/by2024/250128/sxws/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://llive.zbds.top/logo/陕西卫视.png" group-title="北京移动",陕西卫视
+https://life.125011.xyz/PLTV/by2024/250128/saxws/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://llive.zbds.top/logo/深圳卫视.png" group-title="北京移动",深圳卫视
+https://life.125011.xyz/PLTV/by2024/250128/szws/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://llive.zbds.top/logo/四川卫视.png" group-title="北京移动",四川卫视
+https://life.125011.xyz/PLTV/by2024/250128/scws/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://llive.zbds.top/logo/天津卫视.png" group-title="北京移动",天津卫视
+https://life.125011.xyz/PLTV/by2024/250128/tjws/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://llive.zbds.top/logo/西藏卫视.png" group-title="北京移动",西藏卫视
+https://life.125011.xyz/PLTV/by2024/250128/xzws/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://llive.zbds.top/logo/新疆卫视.png" group-title="北京移动",新疆卫视
+https://life.125011.xyz/PLTV/by2024/250128/xjws/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://llive.zbds.top/logo/延边卫视.png" group-title="北京移动",延边卫视
+https://life.125011.xyz/PLTV/by2024/250128/ybws/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://llive.zbds.top/logo/云南卫视.png" group-title="北京移动",云南卫视
+https://life.125011.xyz/PLTV/by2024/250128/ynws/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://llive.zbds.top/logo/浙江卫视.png" group-title="北京移动",浙江卫视
+https://life.125011.xyz/PLTV/by2024/250128/zjws/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://llive.zbds.top/logo/哈哈炫动.png" group-title="北京移动",哈哈炫动
+https://life.125011.xyz/PLTV/by2024/250128/hhxd/index.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://llive.zbds.top/logo/湖南金鹰纪实.png" group-title="北京移动",湖南金鹰纪实
+https://life.125011.xyz/PLTV/by2024/250128/jyjs/index.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://llive.zbds.top/logo/湖南金鹰卡通.png" group-title="北京移动",湖南金鹰卡通
+https://life.125011.xyz/PLTV/by2024/250128/jykt/index.m3u8
+#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://llive.zbds.top/logo/湖南快乐垂钓.png" group-title="北京移动",湖南快乐垂钓
+https://life.125011.xyz/PLTV/by2024/250128/klcd/index.m3u8
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://llive.zbds.top/logo/湖南茶频道.png" group-title="北京移动",湖南茶频道
+https://life.125011.xyz/PLTV/by2024/250128/cpd/index.m3u8
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://llive.zbds.top/logo/江苏优漫卡通.png" group-title="北京移动",江苏优漫卡通
+https://life.125011.xyz/PLTV/by2024/250128/ymkt/index.m3u8
+#EXTINF:-1 tvg-name="江苏财富天下" tvg-logo="https://llive.zbds.top/logo/江苏财富天下.png" group-title="北京移动",江苏财富天下
+https://life.125011.xyz/PLTV/by2024/250128/cftx/index.m3u8
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://llive.zbds.top/logo/广东嘉佳卡通.png" group-title="北京移动",广东嘉佳卡通
+https://life.125011.xyz/PLTV/by2024/250128/jjkt/index.m3u8
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://llive.zbds.top/logo/NewTV爱情喜剧.png" group-title="北京移动",NewTV爱情喜剧
+https://life.125011.xyz/PLTV/by2024/250128/aqxj/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://llive.zbds.top/logo/NewTV超级电视剧.png" group-title="北京移动",NewTV超级电视剧
+https://life.125011.xyz/PLTV/by2024/250128/cjdsj/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://llive.zbds.top/logo/NewTV超级电影.png" group-title="北京移动",NewTV超级电影
+https://life.125011.xyz/PLTV/by2024/250128/cjdy/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://llive.zbds.top/logo/NewTV超级体育.png" group-title="北京移动",NewTV超级体育
+https://life.125011.xyz/PLTV/by2024/250128/cjty/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://llive.zbds.top/logo/NewTV超级综艺.png" group-title="北京移动",NewTV超级综艺
+https://life.125011.xyz/PLTV/by2024/250128/cjzy/index.m3u8
+#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://llive.zbds.top/logo/NewTV潮妈辣婆.png" group-title="北京移动",NewTV潮妈辣婆
+https://life.125011.xyz/PLTV/by2024/250128/cmlp/index.m3u8
+#EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://llive.zbds.top/logo/NewTV哒啵电竞.png" group-title="北京移动",NewTV哒啵电竞
+https://life.125011.xyz/PLTV/by2024/250128/dbdj/index.m3u8
+#EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://llive.zbds.top/logo/NewTV哒啵赛事.png" group-title="北京移动",NewTV哒啵赛事
+https://life.125011.xyz/PLTV/by2024/250128/dbss/index.m3u8
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://llive.zbds.top/logo/NewTV动作电影.png" group-title="北京移动",NewTV动作电影
+https://life.125011.xyz/PLTV/by2024/250128/dzdy/index.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://llive.zbds.top/logo/NewTV古装剧场.png" group-title="北京移动",NewTV古装剧场
+https://life.125011.xyz/PLTV/by2024/250128/gzjc/index.m3u8
+#EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://llive.zbds.top/logo/NewTV黑莓电影.png" group-title="北京移动",NewTV黑莓电影
+https://life.125011.xyz/PLTV/by2024/250128/hmdy/index.m3u8
+#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://llive.zbds.top/logo/NewTV黑莓动画.png" group-title="北京移动",NewTV黑莓动画
+https://life.125011.xyz/PLTV/by2024/250128/hmdh/index.m3u8
+#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://llive.zbds.top/logo/NewTV欢乐剧场.png" group-title="北京移动",NewTV欢乐剧场
+https://life.125011.xyz/PLTV/by2024/250128/hljc/index.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://llive.zbds.top/logo/NewTV家庭剧场.png" group-title="北京移动",NewTV家庭剧场
+https://life.125011.xyz/PLTV/by2024/250128/jtjc/index.m3u8
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://llive.zbds.top/logo/NewTV金牌综艺.png" group-title="北京移动",NewTV金牌综艺
+https://life.125011.xyz/PLTV/by2024/250128/jpzy/index.m3u8
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://llive.zbds.top/logo/NewTV惊悚悬疑.png" group-title="北京移动",NewTV惊悚悬疑
+https://life.125011.xyz/PLTV/by2024/250128/jsxy/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://llive.zbds.top/logo/NewTV精品大剧.png" group-title="北京移动",NewTV精品大剧
+https://life.125011.xyz/PLTV/by2024/250128/jpdj/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://llive.zbds.top/logo/NewTV精品纪录.png" group-title="北京移动",NewTV精品纪录
+https://life.125011.xyz/PLTV/by2024/250128/jpjl/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://llive.zbds.top/logo/NewTV精品萌宠.png" group-title="北京移动",NewTV精品萌宠
+https://life.125011.xyz/PLTV/by2024/250128/jpmc/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://llive.zbds.top/logo/NewTV精品体育.png" group-title="北京移动",NewTV精品体育
+https://life.125011.xyz/PLTV/by2024/250128/jpty/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://llive.zbds.top/logo/NewTV军旅剧场.png" group-title="北京移动",NewTV军旅剧场
+https://life.125011.xyz/PLTV/by2024/250128/jljc/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://llive.zbds.top/logo/NewTV军事评论.png" group-title="北京移动",NewTV军事评论
+https://life.125011.xyz/PLTV/by2024/250128/jspl/index.m3u8
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://llive.zbds.top/logo/NewTV明星大片.png" group-title="北京移动",NewTV明星大片
+https://life.125011.xyz/PLTV/by2024/250128/mxdp/index.m3u8
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://llive.zbds.top/logo/NewTV农业致富.png" group-title="北京移动",NewTV农业致富
+https://life.125011.xyz/PLTV/by2024/250128/nyzf/index.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://llive.zbds.top/logo/NewTV武搏世界.png" group-title="北京移动",NewTV武搏世界
+https://life.125011.xyz/PLTV/by2024/250128/wbsj/index.m3u8
+#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://llive.zbds.top/logo/NewTV炫舞未来.png" group-title="北京移动",NewTV炫舞未来
+https://life.125011.xyz/PLTV/by2024/250128/xwwl/index.m3u8
+#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://llive.zbds.top/logo/NewTV怡伴健康.png" group-title="北京移动",NewTV怡伴健康
+https://life.125011.xyz/PLTV/by2024/250128/ybjk/index.m3u8
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://llive.zbds.top/logo/NewTV中国功夫.png" group-title="北京移动",NewTV中国功夫
+https://life.125011.xyz/PLTV/by2024/250128/zggf/index.m3u8
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://llive.zbds.top/logo/中国交通.png" group-title="北京移动",中国交通
+https://life.125011.xyz/PLTV/by2024/250128/zgjt/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://llive.zbds.top/logo/睛彩青少.png" group-title="北京移动",睛彩青少
+https://life.125011.xyz/PLTV/by2024/250128/jcqs/index.m3u8
 #EXTINF:-1 tvg-name="重庆影视剧" tvg-logo="https://live.zbds.top/logo/重庆影视剧.png" group-title="重庆",重庆影视剧
 http://125.82.171.210:8888/rtp/235.254.198.180:7980
 #EXTINF:-1 tvg-name="重庆影视剧" tvg-logo="https://live.zbds.top/logo/重庆影视剧.png" group-title="重庆",重庆影视剧
@@ -11399,17 +11637,17 @@ http://42.92.117.213:8888/udp/239.255.30.250:8231
 http://www.lebaobei.top:6868/udp/239.255.30.250:8231
 #EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://live.zbds.top/logo/甘肃文化影视.png" group-title="甘肃",甘肃文化影视
 https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-#EXTINF:-1 tvg-name="甘肃公共" tvg-logo="https://live.zbds.top/logo/甘肃公共.png" group-title="甘肃",甘肃公共
+#EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://live.zbds.top/logo/甘肃公共应急.png" group-title="甘肃",甘肃公共应急
 http://42.92.117.213:8888/udp/239.255.30.251:8231
-#EXTINF:-1 tvg-name="甘肃公共" tvg-logo="https://live.zbds.top/logo/甘肃公共.png" group-title="甘肃",甘肃公共
+#EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://live.zbds.top/logo/甘肃公共应急.png" group-title="甘肃",甘肃公共应急
 http://www.lebaobei.top:6868/udp/239.255.30.251:8231
-#EXTINF:-1 tvg-name="甘肃公共" tvg-logo="https://live.zbds.top/logo/甘肃公共.png" group-title="甘肃",甘肃公共
+#EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://live.zbds.top/logo/甘肃公共应急.png" group-title="甘肃",甘肃公共应急
 https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
-#EXTINF:-1 tvg-name="甘肃都市" tvg-logo="https://live.zbds.top/logo/甘肃都市.png" group-title="甘肃",甘肃都市
+#EXTINF:-1 tvg-name="甘肃科教" tvg-logo="https://live.zbds.top/logo/甘肃科教.png" group-title="甘肃",甘肃科教
 http://42.92.117.213:8888/udp/239.255.30.252:8231
-#EXTINF:-1 tvg-name="甘肃都市" tvg-logo="https://live.zbds.top/logo/甘肃都市.png" group-title="甘肃",甘肃都市
+#EXTINF:-1 tvg-name="甘肃科教" tvg-logo="https://live.zbds.top/logo/甘肃科教.png" group-title="甘肃",甘肃科教
 http://www.lebaobei.top:6868/udp/239.255.30.252:8231
-#EXTINF:-1 tvg-name="甘肃都市" tvg-logo="https://live.zbds.top/logo/甘肃都市.png" group-title="甘肃",甘肃都市
+#EXTINF:-1 tvg-name="甘肃科教" tvg-logo="https://live.zbds.top/logo/甘肃科教.png" group-title="甘肃",甘肃科教
 https://hls.gstv.com.cn/49048r/l54391.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://live.zbds.top/logo/甘肃少儿.png" group-title="甘肃",甘肃少儿
 http://42.92.117.213:8888/udp/239.255.30.254:8231
