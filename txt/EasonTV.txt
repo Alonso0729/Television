@@ -5548,17 +5548,21 @@ CETV3,http://123.56.129.203:3878/udp/225.1.8.194:4120$北京电信
 大健康,http://coolcat.synology.me:4022/rtp/239.3.1.251:8001
 大健康,http://ikuai.zlsip.top:4022/rtp/239.3.1.251:8001
 大健康,http://sweetown.fun:4000/rtp/239.3.1.251:8001
+优优宝贝,http://b.xubo.myds.me:9999/udp/239.93.0.68:5140$四川电信
 优优宝贝,http://home.yulei.online:9999/rtp/226.0.2.119:8864$山西联通
 优优宝贝,http://ds920.dsmynas.net:5555/rtp/226.0.2.119:8864$山西联通
 车迷频道,http://www.cdnstv.com:6398/hls/1177/index.m3u8
+车迷频道,http://b.xubo.myds.me:9999/udp/239.93.0.67:5140$四川电信
 车迷频道,http://home.yulei.online:9999/rtp/226.0.2.138:9016$山西联通
 车迷频道,http://ds920.dsmynas.net:5555/rtp/226.0.2.138:9016$山西联通
 中华特产,http://www.cdnstv.com:6398/hls/1191/index.m3u8
 中华特产,http://home.yulei.online:9999/rtp/226.0.2.128:8936$山西联通
 中华特产,http://ds920.dsmynas.net:5555/rtp/226.0.2.128:8936$山西联通
+四海钓鱼,http://b.xubo.myds.me:9999/udp/239.93.0.55:5140$四川电信
 四海钓鱼,http://home.yulei.online:9999/rtp/226.0.2.123:8896$山西联通
 四海钓鱼,http://ds920.dsmynas.net:5555/rtp/226.0.2.123:8896$山西联通
 环球旅游,http://www.cdnstv.com:6398/hls/1190/index.m3u8
+环球旅游,http://b.xubo.myds.me:9999/udp/239.93.42.31:5140$四川电信
 环球旅游,http://125.78.15.162:4022/rtp/239.61.3.66:9914
 环球旅游,http://php.jdshipin.com/cqyx.php?id=huanqiulvyou
 环球旅游,http://xuys.top:8888/udp/225.1.2.200:5002
@@ -5729,6 +5733,7 @@ NewTV中国功夫,https://life.125011.xyz/PLTV/by2024/250128/zggf/index.m3u8
 重庆少儿,http://125.82.171.210:8888/rtp/235.254.196.214:1128
 重庆少儿,http://www.745612.xyz:7788/rtp/235.254.196.214:1128
 重庆少儿,http://183.66.51.205:4022/rtp/235.254.196.214:1128
+重庆汽摩,http://b.xubo.myds.me:9999/udp/239.93.0.62:5140$四川电信
 重庆汽摩,http://125.82.171.210:8888/rtp/235.254.196.221:1156
 重庆汽摩,http://www.745612.xyz:7788/rtp/235.254.196.221:1156
 重庆汽摩,http://183.66.51.205:4022/rtp/235.254.196.221:1156
@@ -10134,6 +10139,7 @@ CHC动作电影,http://[2409:8087:7008:20::0d]/dbiptv.sn.chinamobile.com/PLTV/88
 成都少儿,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.21:1251
 成都每日电视购物,http://b.xubo.myds.me:9999/udp/239.93.0.22:1252$四川电信
 成都每日电视购物,http://zhyfans.mycloudnas.com:8000/udp/239.93.0.22:1252
+成都蓉城先锋,http://b.xubo.myds.me:9999/udp/239.93.0.91:2101$四川电信
 自贡综合频道,https://stream.zgm.cn:8088/zgm/6496c1e950aed.m3u8?hls_ctx=9vg06845
 自贡综合频道,http://110.189.153.160:1001/zhpd.flv
 自贡文化生活,http://110.189.153.160:1002/ggpd.flv
@@ -14116,6 +14122,7 @@ myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 星空卫视,http://13457610200.8866.org:2018/live/星空卫视/index.m3u8
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+星空精选,http://b.xubo.myds.me:9999/udp/239.93.1.171:5140$四川电信
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8

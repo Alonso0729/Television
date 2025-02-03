@@ -11074,11 +11074,15 @@ http://ikuai.zlsip.top:4022/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-name="大健康" tvg-logo="https://live.zbds.top/logo/大健康.png" group-title="北京",大健康
 http://sweetown.fun:4000/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://live.zbds.top/logo/优优宝贝.png" group-title="北京",优优宝贝
+http://b.xubo.myds.me:9999/udp/239.93.0.68:5140$四川电信
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://live.zbds.top/logo/优优宝贝.png" group-title="北京",优优宝贝
 http://home.yulei.online:9999/rtp/226.0.2.119:8864$山西联通
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://live.zbds.top/logo/优优宝贝.png" group-title="北京",优优宝贝
 http://ds920.dsmynas.net:5555/rtp/226.0.2.119:8864$山西联通
 #EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.zbds.top/logo/车迷频道.png" group-title="北京",车迷频道
 http://www.cdnstv.com:6398/hls/1177/index.m3u8
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.zbds.top/logo/车迷频道.png" group-title="北京",车迷频道
+http://b.xubo.myds.me:9999/udp/239.93.0.67:5140$四川电信
 #EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.zbds.top/logo/车迷频道.png" group-title="北京",车迷频道
 http://home.yulei.online:9999/rtp/226.0.2.138:9016$山西联通
 #EXTINF:-1 tvg-name="车迷频道" tvg-logo="https://live.zbds.top/logo/车迷频道.png" group-title="北京",车迷频道
@@ -11090,9 +11094,13 @@ http://home.yulei.online:9999/rtp/226.0.2.128:8936$山西联通
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.zbds.top/logo/中华特产.png" group-title="北京",中华特产
 http://ds920.dsmynas.net:5555/rtp/226.0.2.128:8936$山西联通
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.zbds.top/logo/四海钓鱼.png" group-title="北京",四海钓鱼
+http://b.xubo.myds.me:9999/udp/239.93.0.55:5140$四川电信
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.zbds.top/logo/四海钓鱼.png" group-title="北京",四海钓鱼
 http://home.yulei.online:9999/rtp/226.0.2.123:8896$山西联通
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.zbds.top/logo/四海钓鱼.png" group-title="北京",四海钓鱼
 http://ds920.dsmynas.net:5555/rtp/226.0.2.123:8896$山西联通
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.zbds.top/logo/环球旅游.png" group-title="北京",环球旅游
+http://b.xubo.myds.me:9999/udp/239.93.42.31:5140$四川电信
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.zbds.top/logo/环球旅游.png" group-title="北京",环球旅游
 http://www.cdnstv.com:6398/hls/1190/index.m3u8
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.zbds.top/logo/环球旅游.png" group-title="北京",环球旅游
@@ -11427,6 +11435,8 @@ http://125.82.171.210:8888/rtp/235.254.196.214:1128
 http://www.745612.xyz:7788/rtp/235.254.196.214:1128
 #EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://live.zbds.top/logo/重庆少儿.png" group-title="重庆",重庆少儿
 http://183.66.51.205:4022/rtp/235.254.196.214:1128
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.zbds.top/logo/重庆汽摩.png" group-title="重庆",重庆汽摩
+http://b.xubo.myds.me:9999/udp/239.93.0.62:5140$四川电信
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.zbds.top/logo/重庆汽摩.png" group-title="重庆",重庆汽摩
 http://125.82.171.210:8888/rtp/235.254.196.221:1156
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.zbds.top/logo/重庆汽摩.png" group-title="重庆",重庆汽摩
@@ -20141,6 +20151,8 @@ http://180.163.117.158:80/cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?ws
 http://b.xubo.myds.me:9999/udp/239.93.0.21:1251$四川电信
 #EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://live.zbds.top/logo/成都少儿.png" group-title="四川",成都少儿
 http://zhyfans.mycloudnas.com:8000/udp/239.93.0.21:1251
+#EXTINF:-1 tvg-name="成都蓉城先锋" tvg-logo="https://live.zbds.top/logo/成都蓉城先锋.png" group-title="四川",成都蓉城先锋
+http://b.xubo.myds.me:9999/udp/239.93.0.91:2101$四川电信
 #EXTINF:-1 tvg-name="成都每日电视购物" tvg-logo="https://live.zbds.top/logo/成都每日电视购物.png" group-title="四川",成都每日电视购物
 http://b.xubo.myds.me:9999/udp/239.93.0.22:1252$四川电信
 #EXTINF:-1 tvg-name="成都每日电视购物" tvg-logo="https://live.zbds.top/logo/成都每日电视购物.png" group-title="四川",成都每日电视购物
@@ -28075,6 +28087,8 @@ http://wouu.net:9977/udp/239.93.0.156:2193
 http://13457610200.8866.org:2018/live/星空卫视/index.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.zbds.top/logo/星空卫视.png" group-title="港澳台",星空卫视
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 tvg-name="星空精选" tvg-logo="https://live.zbds.top/logo/星空精选.png" group-title="港澳台",星空精选
+http://b.xubo.myds.me:9999/udp/239.93.1.171:5140$四川电信
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.zbds.top/logo/星空卫视.png" group-title="港澳台",星空卫视
 http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="亚洲卫视" tvg-logo="https://live.zbds.top/logo/亚洲卫视.png" group-title="港澳台",亚洲卫视
