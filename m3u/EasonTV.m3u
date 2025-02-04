@@ -11592,6 +11592,8 @@ http://cdn.1678520.xyz:8880/fujian.php?id=6
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建经济.png" group-title="福建",福建经济
 http://125.78.15.162:4022/rtp/239.61.2.7:8036
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建文体.png" group-title="福建",福建文体
+http://kudan.x3322.net:3456/fujian.php?id=10
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建文体.png" group-title="福建",福建文体
 http://php.jdshipin.com:8880/fujian.php?id=7
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建文体.png" group-title="福建",福建文体
 http://php.jdshipin.com/fujian.php?id=7
@@ -11601,6 +11603,8 @@ http://cdn.1678520.xyz/fujian.php?id=7
 http://cdn.1678520.xyz:8880/fujian.php?id=7
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建文体.png" group-title="福建",福建文体
 http://125.78.15.162:4022/rtp/239.61.2.160:8948
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建少儿.png" group-title="福建",福建少儿
+http://kudan.x3322.net:3456/fujian.php?id=2
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建少儿.png" group-title="福建",福建少儿
 http://php.jdshipin.com:8880/fujian.php?id=8
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建少儿.png" group-title="福建",福建少儿
