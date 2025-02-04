@@ -19008,6 +19008,8 @@ http://139.170.104.58:8000/rtp/239.120.1.100:9128
 #EXTINF:-1 tvg-name="矿区生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/矿区生活.png" group-title="青海",矿区生活
 http://139.170.104.58:8000/rtp/239.120.1.145:8420
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://gxlive.snrtv.com/sx1-SD.m3u8
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://113.140.86.162:8009/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://120.192.226.35:8009/hls/18/index.m3u8
@@ -19016,6 +19018,8 @@ http://112.46.85.60:8009/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://ningjingyuan.asia:8888/rtp/239.111.205.28:5140
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西都市青春.png" group-title="陕西",陕西都市青春
+http://gxlive.snrtv.com/sx2-SD.m3u8
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://113.140.86.162:8009/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://120.192.226.35:8009/hls/19/index.m3u8
@@ -19023,6 +19027,8 @@ http://120.192.226.35:8009/hls/19/index.m3u8
 http://112.46.85.60:8009/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://ningjingyuan.asia:8888/rtp/239.111.205.42:5140
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西银龄.png" group-title="陕西",陕西银龄
+http://gxlive.snrtv.com/sx3-SD.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西银龄.png" group-title="陕西",陕西银龄
 http://113.140.86.162:8009/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西银龄.png" group-title="陕西",陕西银龄
@@ -19040,6 +19046,8 @@ http://112.46.85.60:8009/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="陕西影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西影视.png" group-title="陕西",陕西影视
 http://ningjingyuan.asia:8888/rtp/239.112.205.21:5140
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西秦腔.png" group-title="陕西",陕西秦腔
+http://gxlive.snrtv.com/sx5-SD.m3u8
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西秦腔.png" group-title="陕西",陕西秦腔
 http://113.140.86.162:8009/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西秦腔.png" group-title="陕西",陕西秦腔
 http://120.192.226.35:8009/hls/22/index.m3u8
@@ -19047,6 +19055,8 @@ http://120.192.226.35:8009/hls/22/index.m3u8
 http://112.46.85.60:8009/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西秦腔.png" group-title="陕西",陕西秦腔
 http://ningjingyuan.asia:8888/rtp/239.112.205.22:5140
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西乐家购物.png" group-title="陕西",陕西乐家购物
+http://gxlive.snrtv.com/sx6-SD.m3u8
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西乐家购物.png" group-title="陕西",陕西乐家购物
 http://113.140.86.162:8009/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西乐家购物.png" group-title="陕西",陕西乐家购物
@@ -19056,6 +19066,8 @@ http://112.46.85.60:8009/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西乐家购物.png" group-title="陕西",陕西乐家购物
 http://ningjingyuan.asia:8888/rtp/239.112.205.23:5140
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://gxlive.snrtv.com/sx7-SD.m3u8
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://113.140.86.162:8009/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://120.192.226.35:8009/hls/24/index.m3u8
@@ -19063,6 +19075,8 @@ http://120.192.226.35:8009/hls/24/index.m3u8
 http://112.46.85.60:8009/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://ningjingyuan.asia:8888/rtp/239.111.205.36:5140
+#EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西西部电影.png" group-title="陕西",陕西西部电影
+http://gxlive.snrtv.com/sx8-SD.m3u8
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西西部电影.png" group-title="陕西",陕西西部电影
 http://113.140.86.162:8009/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="陕西西部电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西西部电影.png" group-title="陕西",陕西西部电影
