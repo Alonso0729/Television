@@ -5363,6 +5363,40 @@ http://[2409:8087:5e20:24::0a]:6610/000000001000/1/5000000001000026930/1.m3u8?ch
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000001000026930
 #EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/bestv.png" group-title="体育",百视通直播-22
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000026930
+#EXTINF:-1 tvg-name="WWE NETWORK" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/WWE NETWORK.png" group-title="体育",WWE NETWORK
+http://extraott.com:80/live/6772191932/1654508883/153736.m3u8
+#EXTINF:-1 tvg-name="PREMIER SPORTS 2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/PREMIER SPORTS 2.png" group-title="体育",PREMIER SPORTS 2
+http://extraott.com:80/live/6772191932/1654508883/153724.m3u8
+#EXTINF:-1 tvg-name="PREMIER SPORTS 1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/PREMIER SPORTS 1.png" group-title="体育",PREMIER SPORTS 1
+http://extraott.com:80/live/6772191932/1654508883/153723.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/EUROSPORT 2.png" group-title="体育",EUROSPORT 2
+http://extraott.com:80/live/6772191932/1654508883/190461.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/EUROSPORT 1.png" group-title="体育",EUROSPORT 1
+http://extraott.com:80/live/6772191932/1654508883/190459.m3u8
+#EXTINF:-1 tvg-name="SUPERSPORT VARIETY 4" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SUPERSPORT VARIETY 4.png" group-title="体育",SUPERSPORT VARIETY 4
+http://extraott.com:80/live/6772191932/1654508883/190010.m3u8
+#EXTINF:-1 tvg-name="SUPERSPORT VARIETY 3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SUPERSPORT VARIETY 3.png" group-title="体育",SUPERSPORT VARIETY 3
+http://extraott.com:80/live/6772191932/1654508883/190009.m3u8
+#EXTINF:-1 tvg-name="SUPERSPORT VARIETY 2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SUPERSPORT VARIETY 2.png" group-title="体育",SUPERSPORT VARIETY 2
+http://extraott.com:80/live/6772191932/1654508883/190008.m3u8
+#EXTINF:-1 tvg-name="SUPERSPORT VARIETY 1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SUPERSPORT VARIETY 1.png" group-title="体育",SUPERSPORT VARIETY 1
+http://extraott.com:80/live/6772191932/1654508883/190007.m3u8
+#EXTINF:-1 tvg-name="SUPERSPORT FOOTBALL" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SUPERSPORT FOOTBALL.png" group-title="体育",SUPERSPORT FOOTBALL
+http://extraott.com:80/live/6772191932/1654508883/190006.m3u8
+#EXTINF:-1 tvg-name="SUPERSPORT ACTION" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SUPERSPORT ACTION.png" group-title="体育",SUPERSPORT ACTION
+http://extraott.com:80/live/6772191932/1654508883/190015.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS RACING" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SKY SPORTS RACING.png" group-title="体育",SKY SPORTS RACING
+http://extraott.com:80/live/6772191932/1654508883/153709.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS F1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SKY SPORTS F1.png" group-title="体育",SKY SPORTS F1
+http://extraott.com:80/live/6772191932/1654508883/191464.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS NEWS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SKY SPORTS NEWS.png" group-title="体育",SKY SPORTS NEWS
+http://extraott.com:80/live/6772191932/1654508883/153707.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS ARENA" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SKY SPORTS ARENA.png" group-title="体育",SKY SPORTS ARENA
+http://extraott.com:80/live/6772191932/1654508883/191465.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS ACTION" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SKY SPORTS ACTION.png" group-title="体育",SKY SPORTS ACTION
+http://extraott.com:80/live/6772191932/1654508883/153703.m3u8
+#EXTINF:-1 tvg-name="SKY SPORTS PREMIER" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SKY SPORTS PREMIER.png" group-title="体育",SKY SPORTS PREMIER
+http://extraott.com:80/live/6772191932/1654508883/153693.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="卫视",安多卫视
 http://feiyang.ak47s.top:35455/itv/1000000005000266001.m3u8?cdn=ystenlive&Contentid=1000000005000266001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="卫视",安多卫视
