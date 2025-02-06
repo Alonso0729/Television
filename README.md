@@ -10,7 +10,7 @@ iOS：<a href="https://apps.apple.com/cn/app/ntplayer/id1613758141?platform=ipho
 
 所有频道：
 <p dir="auto"><code>https://ghproxy.net/https://raw.githubusercontent.com/Eason0731/Television/refs/heads/main/txt/EasonTV.txt</code></p>
-备用加速域名:ghproxy.cn
+备用加速域名:ghproxy.cn,gh.llkk.cc
 
 # 订阅地址(m3u格式)
 # 可支持订阅该格式软件：
@@ -24,7 +24,7 @@ Windows：<a href="https://potplayer.daum.net/" target="_blank">PotPlayer</a> , 
 
 所有频道：
 <p dir="auto"><code>https://ghproxy.net/https://raw.githubusercontent.com/Eason0731/Television/refs/heads/main/m3u/EasonTV.m3u</code></p>
-备用加速域名:ghproxy.cn
+备用加速域名:ghproxy.cn,gh.llkk.cc
 
 # 针对P2P晴天源可能无法正常收看，只有下列的APP支持此直播源的协议，而其他播放器和系统均不支持该协议。而P2P直播源基本是在观看10-30分钟后会有断流情况，遇到该情况直接刷新即可重新观看，具体收看操作方法如下：
 # 1.DIYP影音,百川影音（安卓手机和TV端）: 在偏好设置中开启"玩转原力"功能;酷9播放器（安卓手机和TV端）：默认设置即可收看
