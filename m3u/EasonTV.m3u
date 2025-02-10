@@ -11936,6 +11936,10 @@ http://42.92.117.213:8888/udp/239.255.30.73:8231
 #EXTINF:-1 tvg-name="陇上生活" tvg-logo="https://live.zbds.top/logo/陇上生活.png" group-title="甘肃",陇上生活
 http://www.lebaobei.top:6868/udp/239.255.30.73:8231
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
+http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://www.ldb6999.xyz:35455/itv/1000000004000011655.m3u8?cdn=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.zbds.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://www.xzbn.site:35455/itv/2000000003000000033.m3u8?cdn=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
@@ -12009,6 +12013,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000033
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000033
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.zbds.top/logo/广东体育.png" group-title="广东",广东体育
 http://cdn2.132.us.kg/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.zbds.top/logo/广东体育.png" group-title="广东",广东体育
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.zbds.top/logo/广东体育.png" group-title="广东",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.zbds.top/logo/广东体育.png" group-title="广东",广东体育
