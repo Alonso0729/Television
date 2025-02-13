@@ -14108,6 +14108,8 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 主力联通线路2,http://112.193.99.194:9999/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 主力联通线路3,http://hangfun.top:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 主力联通线路3,http://hangfun.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+主力联通线路4,http://www.998969.xyz:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+主力联通线路4,http://www.998969.xyz:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 主力腾讯线路,http://139.155.143.18:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 主力腾讯线路,http://139.155.143.18:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 主力美国线路,http://4330413.xyz:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
@@ -14162,5 +14164,3 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 失效线路14,http://nas.dysobo.cn:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 
 itv测试,#genre#
-联通线路1,http://www.998969.xyz:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-联通线路1,http://www.998969.xyz:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
