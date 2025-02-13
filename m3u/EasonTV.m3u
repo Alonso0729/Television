@@ -16106,13 +16106,13 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.zbds.top/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.zbds.top/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
-http://stream.hrbtv.net/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.zbds.top/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
 https://rmplive.hljtv.com/live/haerbin.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.zbds.top/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
-https://stream.hrbtv.net/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.zbds.top/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
 https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8 
+#EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.zbds.top/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.zbds.top/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
+https://stream.hrbtv.net/xwzh/playlist.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.zbds.top/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.zbds.top/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
