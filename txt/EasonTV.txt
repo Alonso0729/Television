@@ -14171,10 +14171,6 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 主力线路16,http://xiaoya.crccxw.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 主力线路17,http://gf.you123.fun:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 主力线路17,http://gf.you123.fun:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-主力线路18,http://ott.eonn.cn:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-主力线路18,http://ott.eonn.cn:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-主力线路19,http://2000.run:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-主力线路19,http://2000.run:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 联通线路1,http://231114.xyz:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 联通线路1,http://231114.xyz:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 联通线路2,http://hangfun.top:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
@@ -14211,6 +14207,10 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 备用线路2,http://home.wwang.pw:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 备用线路3,http://qiaoz.top:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 备用线路3,http://qiaoz.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+备用线路4,http://ott.eonn.cn:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+备用线路4,http://ott.eonn.cn:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+备用线路5,http://2000.run:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+备用线路5,http://2000.run:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 失效DIYP无法解码-线路1,http://nas.zyylover.homes:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 失效DIYP无法解码-线路1,http://nas.zyylover.homes:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 失效HW线路1,http://xjbtv.78298.cn:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
@@ -14253,6 +14253,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 失效线路16,http://112.193.99.194:9999/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 失效线路17,http://zuoer.gzmiyue.cn:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 失效线路17,http://zuoer.gzmiyue.cn:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+
 
 itv代理,#genre#
 
