@@ -9343,8 +9343,6 @@ http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?iptv
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?iptvm3uplaylists.m3u8&checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="Sky Folk TV" tvg-logo="https://live.zbds.top/logo/Sky Folk TV.png" group-title="娱乐",Sky Folk TV
 https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1786741766.m3u8
-#EXTINF:-1 tvg-name="百变课堂" tvg-logo="https://live.zbds.top/logo/百变课堂.png" group-title="娱乐",百变课堂
-http://php.jdshipin.com/bestv.php?id=bbkt8m/8000000
 #EXTINF:-1 tvg-name="百事通4K" tvg-logo="https://live.zbds.top/logo/百事通4K.png" group-title="娱乐",百事通4K
 http://218.78.183.200:8888/udp/239.45.1.42:5140
 #EXTINF:-1 tvg-name="百事通4K" tvg-logo="https://live.zbds.top/logo/百事通4K.png" group-title="娱乐",百事通4K
@@ -9357,14 +9355,10 @@ http://222.64.125.110:58888/udp/239.45.3.107:5140
 http://wein66.ddnsfree.com:4022/udp/239.45.1.42:5140
 #EXTINF:-1 tvg-name="百事通4K" tvg-logo="https://live.zbds.top/logo/百事通4K.png" group-title="娱乐",百事通4K
 http://wein66.ddnsfree.com:4022/udp/239.45.3.107:5140
-#EXTINF:-1 tvg-name="宝宝动画" tvg-logo="https://live.zbds.top/logo/宝宝动画.png" group-title="娱乐",宝宝动画
-http://php.jdshipin.com/bestv.php?id=bbdh8m/8000000
 #EXTINF:-1 tvg-name="纯享超清4K" tvg-logo="https://live.zbds.top/logo/纯享超清4K.png" group-title="娱乐",纯享超清4K
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011651
 #EXTINF:-1 tvg-name="纯享超清4K" tvg-logo="https://live.zbds.top/logo/纯享超清4K.png" group-title="娱乐",纯享超清4K
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
-#EXTINF:-1 tvg-name="电竞天堂" tvg-logo="https://live.zbds.top/logo/电竞天堂.png" group-title="娱乐",电竞天堂
-http://php.jdshipin.com/bestv.php?id=djtt8m/8000000
 #EXTINF:-1 tvg-name="电子竞技" tvg-logo="https://live.zbds.top/logo/电子竞技.png" group-title="娱乐",电子竞技
 http://hulun.top:35455/itv/2000000004000000015.m3u8?cdn=hnbblive&Contentid=2000000004000000015&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="电子竞技" tvg-logo="https://live.zbds.top/logo/电子竞技.png" group-title="娱乐",电子竞技
@@ -9403,8 +9397,6 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000015
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000011654
 #EXTINF:-1 tvg-name="电子竞技" tvg-logo="https://live.zbds.top/logo/电子竞技.png" group-title="娱乐",电子竞技
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000011654
-#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.zbds.top/logo/谍战剧场.png" group-title="娱乐",谍战剧场
-http://php.jdshipin.com/bestv.php?id=dzjc8m/8000000
 #EXTINF:-1 tvg-name="高清娱乐" tvg-logo="https://live.zbds.top/logo/高清娱乐.png" group-title="娱乐",高清娱乐
 http://hulun.top:35455/itv/2000000004000000013.m3u8?cdn=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="高清娱乐" tvg-logo="https://live.zbds.top/logo/高清娱乐.png" group-title="娱乐",高清娱乐
@@ -9517,8 +9509,6 @@ http://[2409:8087:5e20:24::09]:6610/000000001000/1/2000000004000000025/1.m3u8?ch
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000025
 #EXTINF:-1 tvg-name="华数服务" tvg-logo="https://live.zbds.top/logo/华数服务.png" group-title="娱乐",华数服务
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000025
-#EXTINF:-1 tvg-name="华语影院" tvg-logo="https://live.zbds.top/logo/华语影院.png" group-title="娱乐",华语影院
-http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://live.zbds.top/logo/环球奇观.png" group-title="娱乐",环球奇观
 http://home.frayun.com:10000/udp/239.77.1.198:5146
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://live.zbds.top/logo/环球奇观.png" group-title="娱乐",环球奇观
@@ -9565,8 +9555,6 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000064
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031210
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.zbds.top/logo/家庭理财.png" group-title="娱乐",家庭理财
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000064
-#EXTINF:-1 tvg-name="健康养生" tvg-logo="https://live.zbds.top/logo/健康养生.png" group-title="娱乐",健康养生
-http://php.jdshipin.com/bestv.php?id=jkys8m/8000000
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.zbds.top/logo/精彩影视.png" group-title="娱乐",精彩影视
 http://hulun.top:35455/itv/2000000004000000063.m3u8?cdn=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.zbds.top/logo/精彩影视.png" group-title="娱乐",精彩影视
@@ -9677,8 +9665,6 @@ http://[2409:8087:5e20:24::05]:6610/000000001000/1/6000000003000023702/1.m3u8?ch
 http://[2409:8087:5e20:24::07]:6610/000000001000/1/6000000003000023702/1.m3u8?channel-id=wasusyt&Contentid=6000000003000023702&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="名师公开课" tvg-logo="https://live.zbds.top/logo/名师公开课.png" group-title="娱乐",名师公开课
 http://[2409:8087:5e20:24::09]:6610/000000001000/1/6000000003000023702/1.m3u8?channel-id=wasusyt&Contentid=6000000003000023702&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://live.zbds.top/logo/青春动漫.png" group-title="娱乐",青春动漫
-http://php.jdshipin.com/bestv.php?id=qcdm8m/8000000
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.zbds.top/logo/求索动物.png" group-title="娱乐",求索动物
 http://hulun.top:35455/itv/2000000004000000009.m3u8?cdn=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.zbds.top/logo/求索动物.png" group-title="娱乐",求索动物
@@ -9861,12 +9847,6 @@ https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
 https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8?BR=single
 #EXTINF:-1 tvg-name="全国党员干部现代远程教育" tvg-logo="https://live.zbds.top/logo/全国党员干部现代远程教育.png" group-title="娱乐",全国党员干部现代远程教育
 https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
-#EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.zbds.top/logo/全球大片.png" group-title="娱乐",全球大片
-http://php.jdshipin.com/bestv.php?id=qqdp8m/8000000
-#EXTINF:-1 tvg-name="热门剧场" tvg-logo="https://live.zbds.top/logo/热门剧场.png" group-title="娱乐",热门剧场
-http://php.jdshipin.com/bestv.php?id=rmjc8m/8000000
-#EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://live.zbds.top/logo/热门综艺.png" group-title="娱乐",热门综艺
-http://php.jdshipin.com/bestv.php?id=rmzy8m/8000000
 #EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://live.zbds.top/logo/少儿动漫.png" group-title="娱乐",少儿动漫
 http://hulun.top:35455/itv/2000000004000000003.m3u8?cdn=hnbblive&Contentid=2000000004000000003&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://live.zbds.top/logo/少儿动漫.png" group-title="娱乐",少儿动漫
@@ -9939,14 +9919,10 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=5359008697329269813
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000007
 #EXTINF:-1 tvg-name="探索纪录" tvg-logo="https://live.zbds.top/logo/探索纪录.png" group-title="娱乐",探索纪录
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5359008697329269813
-#EXTINF:-1 tvg-name="戏曲精选" tvg-logo="https://live.zbds.top/logo/戏曲精选.png" group-title="娱乐",戏曲精选
-http://php.jdshipin.com/bestv.php?id=xqjx8m/8000000
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.zbds.top/logo/新动漫.png" group-title="娱乐",新动漫
 http://ds920.dsmynas.net:5555/rtp/226.0.2.73:8496$山西联通
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.zbds.top/logo/新动漫.png" group-title="娱乐",新动漫
 http://home.yulei.online:9999/rtp/226.0.2.73:8496$山西联通
-#EXTINF:-1 tvg-name="星光影院" tvg-logo="https://live.zbds.top/logo/星光影院.png" group-title="娱乐",星光影院
-http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
 #EXTINF:-1 tvg-name="炫动3D" tvg-logo="https://live.zbds.top/logo/炫动3D.png" group-title="娱乐",炫动3D
 http://hulun.top:35455/itv/2000000004000000012.m3u8?cdn=hnbblive&Contentid=2000000004000000012&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="炫动3D" tvg-logo="https://live.zbds.top/logo/炫动3D.png" group-title="娱乐",炫动3D
@@ -10101,6 +10077,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288005.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288005
 #EXTINF:-1 tvg-name="华语影院" tvg-logo="https://live.zbds.top/logo/华语影院.png" group-title="娱乐",华语影院
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288005
+#EXTINF:-1 tvg-name="华语影院" tvg-logo="https://live.zbds.top/logo/华语影院.png" group-title="娱乐",华语影院
+http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
 #EXTINF:-1 tvg-name="星光影院" tvg-logo="https://live.zbds.top/logo/星光影院.png" group-title="娱乐",星光影院
 http://hulun.top:35455/itv/5000000011000288013.m3u8?cdn=bestzb&Contentid=5000000011000288013&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="星光影院" tvg-logo="https://live.zbds.top/logo/星光影院.png" group-title="娱乐",星光影院
@@ -10117,6 +10095,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288013.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288013
 #EXTINF:-1 tvg-name="星光影院" tvg-logo="https://live.zbds.top/logo/星光影院.png" group-title="娱乐",星光影院
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288013
+#EXTINF:-1 tvg-name="星光影院" tvg-logo="https://live.zbds.top/logo/星光影院.png" group-title="娱乐",星光影院
+http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
 #EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.zbds.top/logo/全球大片.png" group-title="娱乐",全球大片
 http://hulun.top:35455/itv/5000000011000288009.m3u8?cdn=bestzb&Contentid=5000000011000288009&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.zbds.top/logo/全球大片.png" group-title="娱乐",全球大片
@@ -10133,6 +10113,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288009.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288009
 #EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.zbds.top/logo/全球大片.png" group-title="娱乐",全球大片
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288009
+#EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.zbds.top/logo/全球大片.png" group-title="娱乐",全球大片
+http://php.jdshipin.com/bestv.php?id=qqdp8m/8000000
 #EXTINF:-1 tvg-name="热门剧场" tvg-logo="https://live.zbds.top/logo/热门剧场.png" group-title="娱乐",热门剧场
 http://hulun.top:35455/itv/5000000011000288010.m3u8?cdn=bestzb&Contentid=5000000011000288010&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="热门剧场" tvg-logo="https://live.zbds.top/logo/热门剧场.png" group-title="娱乐",热门剧场
@@ -10149,6 +10131,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288010.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288010
 #EXTINF:-1 tvg-name="热门剧场" tvg-logo="https://live.zbds.top/logo/热门剧场.png" group-title="娱乐",热门剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288010
+#EXTINF:-1 tvg-name="热门剧场" tvg-logo="https://live.zbds.top/logo/热门剧场.png" group-title="娱乐",热门剧场
+http://php.jdshipin.com/bestv.php?id=rmjc8m/8000000
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.zbds.top/logo/谍战剧场.png" group-title="娱乐",谍战剧场
 http://hulun.top:35455/itv/5000000011000288004.m3u8?cdn=bestzb&Contentid=5000000011000288004&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.zbds.top/logo/谍战剧场.png" group-title="娱乐",谍战剧场
@@ -10165,6 +10149,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288004.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288004
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.zbds.top/logo/谍战剧场.png" group-title="娱乐",谍战剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288004
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.zbds.top/logo/谍战剧场.png" group-title="娱乐",谍战剧场
+http://php.jdshipin.com/bestv.php?id=dzjc8m/8000000
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://live.zbds.top/logo/青春动漫.png" group-title="娱乐",青春动漫
 http://hulun.top:35455/itv/5000000011000288008.m3u8?cdn=bestzb&Contentid=5000000011000288008&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://live.zbds.top/logo/青春动漫.png" group-title="娱乐",青春动漫
@@ -10181,6 +10167,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288008.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288008
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://live.zbds.top/logo/青春动漫.png" group-title="娱乐",青春动漫
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288008
+#EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://live.zbds.top/logo/青春动漫.png" group-title="娱乐",青春动漫
+http://php.jdshipin.com/bestv.php?id=qcdm8m/8000000
 #EXTINF:-1 tvg-name="宝宝动画" tvg-logo="https://live.zbds.top/logo/宝宝动画.png" group-title="娱乐",宝宝动画
 http://hulun.top:35455/itv/5000000011000288002.m3u8?cdn=bestzb&Contentid=5000000011000288002&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="宝宝动画" tvg-logo="https://live.zbds.top/logo/宝宝动画.png" group-title="娱乐",宝宝动画
@@ -10197,6 +10185,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288002.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288002
 #EXTINF:-1 tvg-name="宝宝动画" tvg-logo="https://live.zbds.top/logo/宝宝动画.png" group-title="娱乐",宝宝动画
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288002
+#EXTINF:-1 tvg-name="宝宝动画" tvg-logo="https://live.zbds.top/logo/宝宝动画.png" group-title="娱乐",宝宝动画
+http://php.jdshipin.com/bestv.php?id=bbdh8m/8000000
 #EXTINF:-1 tvg-name="戏曲精选" tvg-logo="https://live.zbds.top/logo/戏曲精选.png" group-title="娱乐",戏曲精选
 http://hulun.top:35455/itv/5000000011000288012.m3u8?cdn=bestzb&Contentid=5000000011000288012&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="戏曲精选" tvg-logo="https://live.zbds.top/logo/戏曲精选.png" group-title="娱乐",戏曲精选
@@ -10213,6 +10203,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288012.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288012
 #EXTINF:-1 tvg-name="戏曲精选" tvg-logo="https://live.zbds.top/logo/戏曲精选.png" group-title="娱乐",戏曲精选
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288012
+#EXTINF:-1 tvg-name="戏曲精选" tvg-logo="https://live.zbds.top/logo/戏曲精选.png" group-title="娱乐",戏曲精选
+http://php.jdshipin.com/bestv.php?id=xqjx8m/8000000
 #EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://live.zbds.top/logo/热门综艺.png" group-title="娱乐",热门综艺
 http://hulun.top:35455/itv/5000000011000288011.m3u8?cdn=bestzb&Contentid=5000000011000288011&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://live.zbds.top/logo/热门综艺.png" group-title="娱乐",热门综艺
@@ -10229,6 +10221,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288011.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288011
 #EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://live.zbds.top/logo/热门综艺.png" group-title="娱乐",热门综艺
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288011
+#EXTINF:-1 tvg-name="热门综艺" tvg-logo="https://live.zbds.top/logo/热门综艺.png" group-title="娱乐",热门综艺
+http://php.jdshipin.com/bestv.php?id=rmzy8m/8000000
 #EXTINF:-1 tvg-name="健康养生" tvg-logo="https://live.zbds.top/logo/健康养生.png" group-title="娱乐",健康养生
 http://hulun.top:35455/itv/5000000011000288006.m3u8?cdn=bestzb&Contentid=5000000011000288006&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="健康养生" tvg-logo="https://live.zbds.top/logo/健康养生.png" group-title="娱乐",健康养生
@@ -10245,6 +10239,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288006.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288006
 #EXTINF:-1 tvg-name="健康养生" tvg-logo="https://live.zbds.top/logo/健康养生.png" group-title="娱乐",健康养生
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288006
+#EXTINF:-1 tvg-name="健康养生" tvg-logo="https://live.zbds.top/logo/健康养生.png" group-title="娱乐",健康养生
+http://php.jdshipin.com/bestv.php?id=jkys8m/8000000
 #EXTINF:-1 tvg-name="百变课堂" tvg-logo="https://live.zbds.top/logo/百变课堂.png" group-title="娱乐",百变课堂
 http://hulun.top:35455/itv/5000000011000288001.m3u8?cdn=bestzb&Contentid=5000000011000288001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="百变课堂" tvg-logo="https://live.zbds.top/logo/百变课堂.png" group-title="娱乐",百变课堂
@@ -10261,6 +10257,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288001.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288001
 #EXTINF:-1 tvg-name="百变课堂" tvg-logo="https://live.zbds.top/logo/百变课堂.png" group-title="娱乐",百变课堂
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288001
+#EXTINF:-1 tvg-name="百变课堂" tvg-logo="https://live.zbds.top/logo/百变课堂.png" group-title="娱乐",百变课堂
+http://php.jdshipin.com/bestv.php?id=bbkt8m/8000000
 #EXTINF:-1 tvg-name="看天下精选" tvg-logo="https://live.zbds.top/logo/看天下精选.png" group-title="娱乐",看天下精选
 http://hulun.top:35455/itv/5000000011000288007.m3u8?cdn=bestzb&Contentid=5000000011000288007&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="看天下精选" tvg-logo="https://live.zbds.top/logo/看天下精选.png" group-title="娱乐",看天下精选
@@ -10295,6 +10293,8 @@ http://alist.xicp.fun:35455/itv/5000000011000288003.m3u8?cdn=bestzb&Contentid=50
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000288003
 #EXTINF:-1 tvg-name="电竞天堂" tvg-logo="https://live.zbds.top/logo/电竞天堂.png" group-title="娱乐",电竞天堂
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288003
+#EXTINF:-1 tvg-name="电竞天堂" tvg-logo="https://live.zbds.top/logo/电竞天堂.png" group-title="娱乐",电竞天堂
+http://php.jdshipin.com/bestv.php?id=djtt8m/8000000
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.zbds.top/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
 http://60.168.224.153:2000/rtp/238.1.79.44:4464
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.zbds.top/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
