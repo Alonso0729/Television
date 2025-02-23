@@ -27652,7 +27652,13 @@ http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB星河台" tvg-logo="https://live.zbds.top/logo/TVB星河台.png" group-title="港澳台",TVB星河台
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.zbds.top/logo/ViuTV.png" group-title="港澳台",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.zbds.top/logo/ViuTV.png" group-title="港澳台",ViuTV
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.zbds.top/logo/ViuTV.png" group-title="港澳台",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://live.zbds.top/logo/ViuTV.png" group-title="港澳台",ViuTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-name="ViuTV 99" tvg-logo="https://live.zbds.top/logo/ViuTV 99.png" group-title="港澳台",ViuTV 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 #EXTINF:-1 tvg-name="ViuTV6 96" tvg-logo="https://live.zbds.top/logo/ViuTV6 96.png" group-title="港澳台",ViuTV6 96
