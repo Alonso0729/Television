@@ -708,6 +708,292 @@ IP线路167,http://91.216.190.250:51002/TVOD/5000000010000017540/bestzb/index.m3
 可用线路25,http://nas.xianbao.info:35455/bptv/10000100000000050000000003870779.m3u8
 可用线路26,http://www.hxtre.com:35455/bptv/10000100000000050000000003870779.m3u8
 
+安徽,#genre#
+安徽经济生活,http://live.ahcartv.dev.geek-zoo.cn/live/jjshtv.m3u8?txSecret=94e99c3721b25b3ac3d04be07d92fa3c&txTime=6861F1F6
+安徽影视,http://live.ahcartv.dev.geek-zoo.cn/live/ystv.m3u8?txSecret=e2c76086598b48e1fb4b6a823c69e2d5&txTime=6861F1F6
+安徽公共,http://live.ahcartv.dev.geek-zoo.cn/live/ggtv.m3u8?txSecret=642c057a63f8e7c6fcd0f236d3f24c69&txTime=6861F1F6
+安徽综艺体育,http://live.ahcartv.dev.geek-zoo.cn/live/zytytv.m3u8?txSecret=095c3ce3216bfda624ec4acce6e8a02c&txTime=6861F1F6
+安徽农业科教,http://live.ahcartv.dev.geek-zoo.cn/live/nykjtv.m3u8?txSecret=4888aba85d563cfd8853ca0982febcbe&txTime=6861F1F6
+安徽国际,http://live.ahcartv.dev.geek-zoo.cn/live/gjtv.m3u8?txSecret=e628bcb47d7741b3a60c6793b7295d84&txTime=6861F1F6
+宣城综合,http://live.ahcartv.dev.geek-zoo.cn/live/xctv.m3u8?txSecret=557e1b8654df9633a3ae3a61ab03dcdd&txTime=6861F813
+滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
+淮北新闻综合,http://live.ahcartv.dev.geek-zoo.cn/live/hbds.m3u8?txSecret=d932d52b91a3ed9d7135760bf36dc3d5&txTime=6861F813
+安庆新闻综合,http://live.ahcartv.dev.geek-zoo.cn/live/aqpd.m3u8?txSecret=068c51559e25e8891c14335dd58be9bc&txTime=6861F813
+铜陵新闻综合,https://gnhls.qingmei.tv/live/tlxw.m3u8?volcTime=1753081509&volcSecret=10999ac48fb965e95cd8ac9bbbf625ef
+宿州新闻综合,rtmp://live.ahsz.tv/video?token=5ee5b1c3db702657f412ed18d270cdb7/s10001-szzh
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+吉安市广播电视台,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jian.m3u8
+池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
+抚州市广播电视台,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
+芜湖新闻综合,http://live.ahcartv.dev.geek-zoo.cn/live/whpd.m3u8?txSecret=3e91d2caa6167710ed56b2d40ae75bd0&txTime=6861F813
+淮南新闻综合,http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
+亳州综合,http://zbbf2.ahbztv.com/live/416.m3u8
+
+四川署小果,#genre#
+CCTV-1,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--1H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-2,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--2H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-3,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--3H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-4,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--4H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-5,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--5H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-5+,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--5plusH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-6,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--6H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-7,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--7H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-8,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--8H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-9,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--9H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-10,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--10H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-11,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--11-H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-12,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--12H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-13,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--xw_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-14,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--14H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-15,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--15-yyH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-16,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--16_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-17,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--17_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-4K,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=&U=&A=&K=&P=&S=
+CETV-1,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=&U=&A=&K=&P=&S=
+CETV-4,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=&U=&A=&K=&P=&S=
+CGTN英语,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CGTN_4000.m3u8?E=&U=&A=&K=&P=&S=
+CGTN西语,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xbyy_2000.m3u8?E=&U=&A=&K=&P=&S=
+CGTN法语,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/fy_2000.m3u8?E=&U=&A=&K=&P=&S=
+CGTN俄语,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ey_2000.m3u8?E=&U=&A=&K=&P=&S=
+老故事,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lgs_2000.m3u8?E=&U=&A=&K=&P=&S=
+中学生,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/zxs_4000.m3u8?E=&U=&A=&K=&P=&S=
+发现之旅,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=&U=&A=&K=&P=&S=
+安徽卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+北京卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+兵团卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/btws_4000.m3u8?E=&U=&A=&K=&P=&S=
+重庆卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+东方卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+东南卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+甘肃卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gsws_4000.m3u8?E=&U=&A=&K=&P=&S=
+广东卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+广西卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=&U=&A=&K=&P=&S=
+贵州卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+海南卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hnws_4000.m3u8?E=&U=&A=&K=&P=&S=
+河南卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hnws35_4000.m3u8?E=&U=&A=&K=&P=&S=
+湖北卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+湖南卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+吉林卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+江苏卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+江西卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+康巴卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8?E=&U=&A=&K=&P=&S=
+辽宁卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=&U=&A=&K=&P=&S=
+山东卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+山西卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/sxws42_4000.m3u8?E=&U=&A=&K=&P=&S=
+陕西卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/sxws_4000.m3u8?E=&U=&A=&K=&P=&S=
+深圳卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+四川卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+天津卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+西藏卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=&U=&A=&K=&P=&S=
+云南卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ynws_4000.m3u8?E=&U=&A=&K=&P=&S=
+浙江卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+黑龙江卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+内蒙古卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=&U=&A=&K=&P=&S=
+山东教育卫视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/sdjy_4000.m3u8?E=&U=&A=&K=&P=&S=
+CHC高清电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CHC动作电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+CHC家庭影院,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+重温经典,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CWJD_4000.m3u8?E=&U=&A=&K=&P=&S=
+四川文化,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+四川经济,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+四川新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+四川影视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+四川妇女,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=&U=&A=&K=&P=&S=
+四川科教,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=&U=&A=&K=&P=&S=
+四川乡村,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8?E=&U=&A=&K=&P=&S=
+峨嵋电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+成都新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8?E=&U=&A=&K=&P=&S=
+成都经济,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8?E=&U=&A=&K=&P=&S=
+成都都市,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=&U=&A=&K=&P=&S=
+成都影视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8?E=&U=&A=&K=&P=&S=
+成都公共,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8?E=&U=&A=&K=&P=&S=
+成都购物,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/mrgw_4000.m3u8?E=&U=&A=&K=&P=&S=
+新视觉,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+动漫秀场,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=&U=&A=&K=&P=&S=
+都市剧场,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+法治天地,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=&U=&A=&K=&P=&S=
+纪实科教,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/bjjs_2000.m3u8?E=&U=&A=&K=&P=&S=
+嘉佳卡通,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=&U=&A=&K=&P=&S=
+家庭理财,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jtlc_4000.m3u8?E=&U=&A=&K=&P=&S=
+财富天下,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=&U=&A=&K=&P=&S=
+金鹰纪实,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+金鹰卡通,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jykt_2000.m3u8?E=&U=&A=&K=&P=&S=
+劲爆体育,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+卡酷少儿,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/kkkt_4000.m3u8?E=&U=&A=&K=&P=&S=
+快乐垂钓,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+梨园频道,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ly_4000.m3u8?E=&U=&A=&K=&P=&S=
+魅力足球,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/mlyy_4000.m3u8?E=&U=&A=&K=&P=&S=
+生活时尚,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/shssH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+四海钓鱼,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/shdy_4000.m3u8?E=&U=&A=&K=&P=&S=
+天元围棋,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/tywq_2000.m3u8?E=&U=&A=&K=&P=&S=
+武术世界,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wssj_4000.m3u8?E=&U=&A=&K=&P=&S=
+先锋乒羽,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xfpy_4000.m3u8?E=&U=&A=&K=&P=&S=
+证劵服务,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jz_2000.m3u8?E=&U=&A=&K=&P=&S=
+中国天气,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/zgqx_4000.m3u8?E=&U=&A=&K=&P=&S=
+川网导视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8?E=&U=&A=&K=&P=&S=
+精品导视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jpdsH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+沙湾融媒,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/swxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+安居综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ajxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+安岳综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ayxwzh_4000.m3u8?E=&U=&A=&K=&P=&S=
+安州综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/azgq_2000.m3u8?E=&U=&A=&K=&P=&S=
+巴中文旅,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/bzetH264_2000.m3u8?E=&U=&A=&K=&P=&S=
+巴中综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/bzytH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+巴州电视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/bzxw_4000.m3u8?E=&U=&A=&K=&P=&S=
+宝兴综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/bxdst_2000.m3u8?E=&U=&A=&K=&P=&S=
+北川综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/bcxwHD_2000.m3u8?E=&U=&A=&K=&P=&S=
+苍溪综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/cxxwgqH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+长宁综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/znzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+朝天综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ctxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+船山综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/csxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+达川新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dcxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+达州导视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dzds_2000.m3u8?E=&U=&A=&K=&P=&S=
+达州公共,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dzgg_2000.m3u8?E=&U=&A=&K=&P=&S=
+达州新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dzxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+大英新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dyxwzhH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+丹棱综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dlxwzhH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+东兴综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dxxwzh_4000.m3u8?E=&U=&A=&K=&P=&S=
+峨眉综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/emsxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+恩阳新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/eyxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+涪城综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/fcgq_2000.m3u8?E=&U=&A=&K=&P=&S=
+富顺综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/fszh_2000.m3u8?E=&U=&A=&K=&P=&S=
+甘孜综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gzxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+古蔺新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/glxwzhgq_2000.m3u8?E=&U=&A=&K=&P=&S=
+广安公共,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gagg_2000.m3u8?E=&U=&A=&K=&P=&S=
+广安新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gaxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+广汉综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ghxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+广元文化,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gyggH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+广元综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gyzhH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+汉源综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hyxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+合江新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hjxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+洪雅新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hyzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+华蓥综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hyxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+会理新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hlyt_4000.m3u8?E=&U=&A=&K=&P=&S=
+夹江新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jjxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+简阳新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jyxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+剑阁综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+江油综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jyxwHD_2000.m3u8?E=&U=&A=&K=&P=&S=
+开江新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/kjxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+乐山公共,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lsggpd_4000.m3u8?E=&U=&A=&K=&P=&S=
+乐山新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lsxwzh_4000.m3u8?E=&U=&A=&K=&P=&S=
+利州综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lzxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+凉山新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lsxwHDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+凉山彝语,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/yyzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+龙泉综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lqxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+隆昌综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lcxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+芦山综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lszh_2000.m3u8?E=&U=&A=&K=&P=&S=
+马边综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/mbxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+眉山综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/msxwzhgq_2000.m3u8?E=&U=&A=&K=&P=&S=
+米易综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/myxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+绵阳科技,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/myetH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+绵阳新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/myytH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+冕宁综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/mnxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+南部综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/nbxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+南充综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ncxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+南溪综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/nxt_2000.m3u8?E=&U=&A=&K=&P=&S=
+内江公共,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/njgg_4000.m3u8?E=&U=&A=&K=&P=&S=
+内江综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/njzh_4000.m3u8?E=&U=&A=&K=&P=&S=
+宁南综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/nnt_4000.m3u8?E=&U=&A=&K=&P=&S=
+攀钢新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pgxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+彭山综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pszh_2000.m3u8?E=&U=&A=&K=&P=&S=
+彭州综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pzxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+蓬安综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pazh_2000.m3u8?E=&U=&A=&K=&P=&S=
+蓬溪新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pxxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+平昌综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pcxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+平武综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pwgq_4000.m3u8?E=&U=&A=&K=&P=&S=
+屏山综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/psxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+蒲江综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pjxw_4000.m3u8?E=&U=&A=&K=&P=&S=
+普格综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pgt_4000.m3u8?E=&U=&A=&K=&P=&S=
+青川综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+青神综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/qszh_2000.m3u8?E=&U=&A=&K=&P=&S=
+渠县新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/qxxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+仁和新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/rhxwH264_2000.m3u8?E=&U=&A=&K=&P=&S=
+荣县综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/rxzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+射洪综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/shzhH264_2000.m3u8?E=&U=&A=&K=&P=&S=
+双流综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/slgq_2000.m3u8?E=&U=&A=&K=&P=&S=
+遂宁综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/snxwzhHDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+天全新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/tqzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+通江综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/tjxwH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+旺苍新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+温江综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wjytH264_2000.m3u8?E=&U=&A=&K=&P=&S=
+武胜综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wsxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+西充综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xczh_2000.m3u8?E=&U=&A=&K=&P=&S=
+新都综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xdzhpd_2000.m3u8?E=&U=&A=&K=&P=&S=
+叙州新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ybx_2000.m3u8?E=&U=&A=&K=&P=&S=
+宣汉综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xhxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+雅安公共,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/yagg_2000.m3u8?E=&U=&A=&K=&P=&S=
+雅安新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/yazh_2000.m3u8?E=&U=&A=&K=&P=&S=
+雅安雨城,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ycpd_2000.m3u8?E=&U=&A=&K=&P=&S=
+仪陇新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ylxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+宜宾公共,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ybetH264_2000.m3u8?E=&U=&A=&K=&P=&S=
+宜宾新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ybytH264_2000.m3u8?E=&U=&A=&K=&P=&S=
+越西综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/yxt_4000.m3u8?E=&U=&A=&K=&P=&S=
+昭化综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/zhxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+中江新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/zjxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+资阳新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/zyxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+资中综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/zzzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+自贡文化,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/zggg_4000.m3u8?E=&U=&A=&K=&P=&S=
+自贡综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/zgxw_4000.m3u8?E=&U=&A=&K=&P=&S=
+郫县新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pxds1_2000.m3u8?E=&U=&A=&K=&P=&S=
+阆中综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lzxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+沐川综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/mcxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+泸定综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ldxw_4000.m3u8?E=&U=&A=&K=&P=&S=
+泸县综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lxxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+珙县新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gxzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+梓潼综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ztgq_2000.m3u8?E=&U=&A=&K=&P=&S=
+犍为新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/qwxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+成都高新区,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8?E=&U=&A=&K=&P=&S=
+阿坝州藏语,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wypdgqH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+大邑电视台,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dyytH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+金口河综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jkhdst_2000.m3u8?E=&U=&A=&K=&P=&S=
+攀枝花新闻,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/pzhytH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+青白江综合,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/qbjxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+盐边电视台,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ybtgq_2000.m3u8?E=&U=&A=&K=&P=&S=
+纳溪1,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/nxxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+盐亭1,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ytzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+乐游,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+崇州,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/czyt_4000.m3u8?E=&U=&A=&K=&P=&S=
+德昌,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/dcxw_4000.m3u8?E=&U=&A=&K=&P=&S=
+峨边,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ebdst_2000.m3u8?E=&U=&A=&K=&P=&S=
+高县-1,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gxt_2000.m3u8?E=&U=&A=&K=&P=&S=
+江安,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jat_2000.m3u8?E=&U=&A=&K=&P=&S=
+金牛,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jnyx_2000.m3u8?E=&U=&A=&K=&P=&S=
+金堂,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jtzhpd_2000.m3u8?E=&U=&A=&K=&P=&S=
+邻水,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lsxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+罗江,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ljxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+绵竹,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/mzxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+名山,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/msdstH265_2000.m3u8?E=&U=&A=&K=&P=&S=
+木里,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/mltHD_4000.m3u8?E=&U=&A=&K=&P=&S=
+南江,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/njxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+前锋,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/qfxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+三台TV,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/stxwHD_2000.m3u8?E=&U=&A=&K=&P=&S=
+石棉,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/smxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+松潘,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/spxwzhpdH264_2000.m3u8?E=&U=&A=&K=&P=&S=
+万源,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wyxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+西昌,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xctHD_2000.m3u8?E=&U=&A=&K=&P=&S=
+喜德,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xdxw_4000.m3u8?E=&U=&A=&K=&P=&S=
+新津,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xjzh_4000.m3u8?E=&U=&A=&K=&P=&S=
+叙永,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xyxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+雁江,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/yjxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+营山,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ysxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+岳池,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ycxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+荥经,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xjdst_2000.m3u8?E=&U=&A=&K=&P=&S=
+筠连,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ylyt_2000.m3u8?E=&U=&A=&K=&P=&S=
+都江堰,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/djyzh_4000.m3u8?E=&U=&A=&K=&P=&S=
+广安区,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/gaqxw_2000.m3u8?E=&U=&A=&K=&P=&S=
+马尔康,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/mekxwzhpd_2000.m3u8?E=&U=&A=&K=&P=&S=
+通川区,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xcxwzhH264_2000.m3u8?E=&U=&A=&K=&P=&S=
+五通桥,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wtqxwzh_2000.m3u8?E=&U=&A=&K=&P=&S=
+兴文台,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xwt_2000.m3u8?E=&U=&A=&K=&P=&S=
+阿坝州TV,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8?E=&U=&A=&K=&P=&S=
+青羊电视,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/qyzh_4000.m3u8?E=&U=&A=&K=&P=&S=
+欢笑剧场4K,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV-16-4k,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CCTV--16-4K_8000.m3u8?E=&U=&A=&K=&P=&S=
+4K超电影4K,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=&U=&A=&K=&P=&S=
+凤凰中文,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/test1_4000.m3u8?E=&U=&A=&K=&P=&S=
+凤凰资讯,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/test2_4000.m3u8?E=&U=&A=&K=&P=&S=
+优购物,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ygw.m3u8?E=&U=&A=&K=&P=&S=
+家有购物,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jygw.m3u8?E=&U=&A=&K=&P=&S=
+重温经典,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CWJD_4000.m3u8?E=&U=&A=&K=&P=&S=
+
 海南易视腾V6-都失效了,#genre#
 5e20-02,http://[2409:8087:5e20:24::02]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 5e20-03,http://[2409:8087:5e20:24::03]:6610/000000001000/1/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
@@ -723,119 +1009,119 @@ IP线路167,http://91.216.190.250:51002/TVOD/5000000010000017540/bestzb/index.m3
 5e20-0d,http://[2409:8087:5e20:24::0d]:6610/000000001000/1/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 
 海南移动-仅移动网络和该省内可看,#genre#
-海南卫视,http://111.29.9.33:6410/200000001898/460000089800010083/1.m3u8?$HINYD 2M SD
-海南卫视,http://111.29.9.35:6410/000000001000/7899627377857656087/index.m3u8?$2M SD
-海南卫视,http://111.29.9.35:6410/000000001000/5000000004000006211/index.m3u8?$8M FHD
+海南卫视,http://111.29.9.33:6410/200000001898/460000089800010083/1.m3u8?$HINYD2MSD
+海南卫视,http://111.29.9.35:6410/000000001000/7899627377857656087/index.m3u8?$2MSD
+海南卫视,http://111.29.9.35:6410/000000001000/5000000004000006211/index.m3u8?$8MFHD
 海南自贸,http://111.29.9.35:6410/000000001000/4600001000000000116/
 海南公共,http://111.29.9.35:6410/000000001000/460000100000000057/
 海南文旅,http://111.29.9.35:6410/000000001000/4600001000000000113/
 海南少儿,http://111.29.9.35:6410/000000001000/4600001000000000110/
 海南新闻,http://111.29.9.35:6410/000000001000/4600001000000000111/
-CCTV-5,http://111.29.9.33:6410/200000001898/460000089800010139/1.m3u8?$HINYD 8M FHD
-CCTV-5,http://111.29.9.33:6410/200000001898/460000089800010145/1.m3u8?$HINYD 6M HVEC FHD
-CCTV-5,http://111.29.9.35:6410/000000001000/1000000001000004794/index.m3u8?$4M FHD
-CCTV-5,http://111.29.9.35:6410/000000001000/1000000005000265005/index.m3u8?$6M FHD HEVC
-CCTV-5+,http://111.29.9.33:6410/200000001898/460000089800010202/1.m3u8?$HINYD 6M HVEC FHD
-CCTV-5+,http://111.29.9.35:6410/000000001000/1000000001000018504/index.m3u8?$8M FHD
-CCTV-5+,http://111.29.9.35:6410/000000001000/1000000001000020505/index.m3u8?$4M FHD
+CCTV--5,http://111.29.9.33:6410/200000001898/460000089800010139/1.m3u8?$HINYD8MFHD
+CCTV--5,http://111.29.9.33:6410/200000001898/460000089800010145/1.m3u8?$HINYD6MHVECFHD
+CCTV--5,http://111.29.9.35:6410/000000001000/1000000001000004794/index.m3u8?$4MFHD
+CCTV--5,http://111.29.9.35:6410/000000001000/1000000005000265005/index.m3u8?$6MFHDHEVC
+CCTV--5+,http://111.29.9.33:6410/200000001898/460000089800010202/1.m3u8?$HINYD6MHVECFHD
+CCTV--5+,http://111.29.9.35:6410/000000001000/1000000001000018504/index.m3u8?$8MFHD
+CCTV--5+,http://111.29.9.35:6410/000000001000/1000000001000020505/index.m3u8?$4MFHD
 
 黑龙江移动-仅移动网络和该省内可看,#genre#
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226421
-黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8?$HLJYD 1.5M SD_原大庆公共
-黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8?$HLJYD 4M FHD_原双鸭山公共
-黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8?$HLJYD 1.5M SD_原双鸭山公共
-黑龙江卫视,http://39.134.65.106/PLTV/88888888/224/3221226056/1.m3u8?$HLJYDIP 4M FHD_原大庆公共
-黑龙江卫视,http://39.134.65.106/PLTV/88888888/224/3221226060/1.m3u8?$HLJYDIP 4M FHD_原鹤岗公共
+黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8?$HLJYD1.5MSD_原大庆公共
+黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8?$HLJYD4MFHD_原双鸭山公共
+黑龙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8?$HLJYD1.5MSD_原双鸭山公共
+黑龙江卫视,http://39.134.65.106/PLTV/88888888/224/3221226056/1.m3u8?$HLJYDIP4MFHD_原大庆公共
+黑龙江卫视,http://39.134.65.106/PLTV/88888888/224/3221226060/1.m3u8?$HLJYDIP4MFHD_原鹤岗公共
 黑龙江影视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226365
-黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8?$HLJYD 8M FHD
-黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8?$HLJYD 1.5M SD
-黑龙江影视,http://39.134.65.106/PLTV/88888888/224/3221225973/1.m3u8?$HLJYDIP 8M FHD
-黑龙江影视,http://39.134.65.106/PLTV/88888888/224/3221225971/1.m3u8?$HLJYDIP 2M SD
+黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8?$HLJYD8MFHD
+黑龙江影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8?$HLJYD1.5MSD
+黑龙江影视,http://39.134.65.106/PLTV/88888888/224/3221225973/1.m3u8?$HLJYDIP8MFHD
+黑龙江影视,http://39.134.65.106/PLTV/88888888/224/3221225971/1.m3u8?$HLJYDIP2MSD
 黑龙江文体,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226424
-黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?$HLJYD 8M FHD
-黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8?$HLJYD 1.5M SD
-黑龙江文体,http://39.134.65.106/PLTV/88888888/224/3221225965/1.m3u8?$HLJYDIP 8M FHD
-黑龙江文体,http://39.134.65.106/PLTV/88888888/224/3221226012/1.m3u8?$HLJYDIP 2.5M SD
+黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?$HLJYD8MFHD
+黑龙江文体,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8?$HLJYD1.5MSD
+黑龙江文体,http://39.134.65.106/PLTV/88888888/224/3221225965/1.m3u8?$HLJYDIP8MFHD
+黑龙江文体,http://39.134.65.106/PLTV/88888888/224/3221226012/1.m3u8?$HLJYDIP2.5MSD
 黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226427
-黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?$HLJYD 8M FHD
-黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8?$HLJYD 1.5M SD
-黑龙江都市,http://39.134.65.106/PLTV/88888888/224/3221225969/1.m3u8?$HLJYDIP 8M FHD
-黑龙江都市,http://39.134.65.106/PLTV/88888888/224/3221225990/1.m3u8?$HLJYDIP 2.5M SD
+黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?$HLJYD8MFHD
+黑龙江都市,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8?$HLJYD1.5MSD
+黑龙江都市,http://39.134.65.106/PLTV/88888888/224/3221225969/1.m3u8?$HLJYDIP8MFHD
+黑龙江都市,http://39.134.65.106/PLTV/88888888/224/3221225990/1.m3u8?$HLJYDIP2.5MSD
 黑龙江新闻法治,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226368
-黑龙江新闻法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8?$HLJYD 8M FHD
-黑龙江新闻法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8?$HLJYD 1.5M SD
-黑龙江新闻法治,http://39.134.65.106/PLTV/88888888/224/3221225967/1.m3u8?$HLJYDIP 8M FHD
-黑龙江新闻法治,http://39.134.65.106/PLTV/88888888/224/3221225992/1.m3u8?$HLJYDIP 2.5M SD
+黑龙江新闻法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8?$HLJYD8MFHD
+黑龙江新闻法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8?$HLJYD1.5MSD
+黑龙江新闻法治,http://39.134.65.106/PLTV/88888888/224/3221225967/1.m3u8?$HLJYDIP8MFHD
+黑龙江新闻法治,http://39.134.65.106/PLTV/88888888/224/3221225992/1.m3u8?$HLJYDIP2.5MSD
 黑龙江农业科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226492
-黑龙江农业科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8?$HLJYD 8M FHD
-黑龙江农业科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8?$HLJYD 1.5M SD
-黑龙江农业科教,http://39.134.65.106/PLTV/88888888/224/3221225994/1.m3u8?$HLJYDIP 8M FHD
-黑龙江农业科教,http://39.134.65.106/PLTV/88888888/224/3221225998/1.m3u8?$HLJYDIP 2.5M SD
+黑龙江农业科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8?$HLJYD8MFHD
+黑龙江农业科教,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8?$HLJYD1.5MSD
+黑龙江农业科教,http://39.134.65.106/PLTV/88888888/224/3221225994/1.m3u8?$HLJYDIP8MFHD
+黑龙江农业科教,http://39.134.65.106/PLTV/88888888/224/3221225998/1.m3u8?$HLJYDIP2.5MSD
 黑龙江少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226371
-黑龙江少儿,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8?$HLJYD 8M FHD
-黑龙江少儿,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8?$HLJYD 1.5M SD
-黑龙江少儿,http://39.134.65.106/PLTV/88888888/224/3221225979/1.m3u8?$HLJYDIP 8M FHD
-黑龙江少儿,http://39.134.65.106/PLTV/88888888/224/3221226002/1.m3u8?$HLJYDIP 2.5M SD
+黑龙江少儿,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8?$HLJYD8MFHD
+黑龙江少儿,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8?$HLJYD1.5MSD
+黑龙江少儿,http://39.134.65.106/PLTV/88888888/224/3221225979/1.m3u8?$HLJYDIP8MFHD
+黑龙江少儿,http://39.134.65.106/PLTV/88888888/224/3221226002/1.m3u8?$HLJYDIP2.5MSD
 哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226558
-哈尔滨新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8?$HLJYD 8M FHD
-哈尔滨新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8?$HLJYD 1.5M SD
-哈尔滨新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226093/1.m3u8?$HLJYDIP 8M FHD
-哈尔滨新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226110/1.m3u8?$HLJYDIP 2.5M SD
+哈尔滨新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8?$HLJYD8MFHD
+哈尔滨新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8?$HLJYD1.5MSD
+哈尔滨新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226093/1.m3u8?$HLJYDIP8MFHD
+哈尔滨新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226110/1.m3u8?$HLJYDIP2.5MSD
 哈尔滨影视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225760
 哈尔滨影视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226552
-哈尔滨影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?$HLJYD 1.5M SD
-哈尔滨影视,http://39.134.65.106/PLTV/88888888/224/3221226104/1.m3u8?$HLJYDIP 2.5M SD
+哈尔滨影视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?$HLJYD1.5MSD
+哈尔滨影视,http://39.134.65.106/PLTV/88888888/224/3221226104/1.m3u8?$HLJYDIP2.5MSD
 哈尔滨生活,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225762
 哈尔滨生活,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226526
-哈尔滨生活,http://39.134.65.106/PLTV/88888888/224/3221226095/1.m3u8?$HLJYDIP 2.5M SD
-哈尔滨生活,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?$HLJYD 1.5M SD
+哈尔滨生活,http://39.134.65.106/PLTV/88888888/224/3221226095/1.m3u8?$HLJYDIP2.5MSD
+哈尔滨生活,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8?$HLJYD1.5MSD
 伊春新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226416
-伊春新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226041/1.m3u8?$HLJYDIP 2.5M SD
-伊春新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8?$HLJYD 1.5M SD
+伊春新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226041/1.m3u8?$HLJYDIP2.5MSD
+伊春新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8?$HLJYD1.5MSD
 双鸭山新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226529
 双鸭山新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226502
-双鸭山新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226108/1.m3u8?$HLJYDIP 8M FHD
-双鸭山新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226047/1.m3u8?$HLJYDIP 2.5M SD
-双鸭山新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8?$HLJYD 8M FHD
-双鸭山新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8?$HLJYD 1.5M SD
+双鸭山新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226108/1.m3u8?$HLJYDIP8MFHD
+双鸭山新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226047/1.m3u8?$HLJYDIP2.5MSD
+双鸭山新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8?$HLJYD8MFHD
+双鸭山新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8?$HLJYD1.5MSD
 齐齐哈尔新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226437
 齐齐哈尔新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226413
-齐齐哈尔新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226106/1.m3u8?$HLJYDIP 8M FHD
-齐齐哈尔新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226037/1.m3u8?$HLJYDIP 2.5M SD
-齐齐哈尔新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8?$HLJYD 8M FHD
-齐齐哈尔新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8?$HLJYD 1.5M SD
+齐齐哈尔新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226106/1.m3u8?$HLJYDIP8MFHD
+齐齐哈尔新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226037/1.m3u8?$HLJYDIP2.5MSD
+齐齐哈尔新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8?$HLJYD8MFHD
+齐齐哈尔新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8?$HLJYD1.5MSD
 齐齐哈尔经济法治,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226555
 齐齐哈尔经济法治,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226493
-齐齐哈尔经济法治,http://39.134.65.106/PLTV/88888888/224/3221226097/1.m3u8?$HLJYDIP 8M FHD
-齐齐哈尔经济法治,http://39.134.65.106/PLTV/88888888/224/3221226058/1.m3u8?$HLJYDIP 2.5M SD
-齐齐哈尔经济法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?$HLJYD 8M FHD
-齐齐哈尔经济法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8?$HLJYD 1.5M SD
+齐齐哈尔经济法治,http://39.134.65.106/PLTV/88888888/224/3221226097/1.m3u8?$HLJYDIP8MFHD
+齐齐哈尔经济法治,http://39.134.65.106/PLTV/88888888/224/3221226058/1.m3u8?$HLJYDIP2.5MSD
+齐齐哈尔经济法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?$HLJYD8MFHD
+齐齐哈尔经济法治,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8?$HLJYD1.5MSD
 牡丹江新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226422
-牡丹江新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226062/1.m3u8?$HLJYDIP 2.5M SD
-牡丹江新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8?$HLJYD 1.5M SD
+牡丹江新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226062/1.m3u8?$HLJYDIP2.5MSD
+牡丹江新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8?$HLJYD1.5MSD
 漠河综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226535
 佳木斯新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226451
-佳木斯新闻综合,http://39.134.65.106/PLTV/88888888/224/3221225993/1.m3u8?$HLJYDIP 8M FHD
-佳木斯新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8?$HLJYD 2.5M FHD
+佳木斯新闻综合,http://39.134.65.106/PLTV/88888888/224/3221225993/1.m3u8?$HLJYDIP8MFHD
+佳木斯新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8?$HLJYD2.5MFHD
 鸡西新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226410
-鸡西新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226035/1.m3u8?$HLJYDIP 2.5M SD
-鸡西新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8?$HLJYD 1.5M SD
+鸡西新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226035/1.m3u8?$HLJYDIP2.5MSD
+鸡西新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8?$HLJYD1.5MSD
 鸡西安全综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226481
-鸡西安全生活,http://39.134.65.106/PLTV/88888888/224/3221226050/1.m3u8?$HLJYDIP 2.5M SD
-鸡西安全生活,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8?$HLJYD 1.5M SD
+鸡西安全生活,http://39.134.65.106/PLTV/88888888/224/3221226050/1.m3u8?$HLJYDIP2.5MSD
+鸡西安全生活,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8?$HLJYD1.5MSD
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226496
-鹤岗新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226073/1.m3u8?$HLJYDIP 8M FHD
-鹤岗新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226043/1.m3u8?$HLJYDIP 2.5M SD
-鹤岗新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8?$HLJYD 8M FHD
-鹤岗新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8?$HLJYD 1.5M SD
+鹤岗新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226073/1.m3u8?$HLJYDIP8MFHD
+鹤岗新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226043/1.m3u8?$HLJYDIP2.5MSD
+鹤岗新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8?$HLJYD8MFHD
+鹤岗新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8?$HLJYD1.5MSD
 大兴安岭新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226499
-大兴安岭新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226066/1.m3u8?$HLJYDIP 8M FHD
-大兴安岭新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8?$HLJYD 1.5M SD
+大兴安岭新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226066/1.m3u8?$HLJYDIP8MFHD
+大兴安岭新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8?$HLJYD1.5MSD
 大庆新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226484
-大庆新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226052/1.m3u8?$HLJYDIP 2.5M FHD
-大庆新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8?$HLJYD 1.5M SD
+大庆新闻综合,http://39.134.65.106/PLTV/88888888/224/3221226052/1.m3u8?$HLJYDIP2.5MFHD
+大庆新闻综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8?$HLJYD1.5MSD
 大庆教育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226523
-大庆教育,http://39.134.65.106/PLTV/88888888/224/3221226102/1.m3u8?$HLJYDIP 6M FHD
-大庆教育,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8?$HLJYD 1.5M SD
+大庆教育,http://39.134.65.106/PLTV/88888888/224/3221226102/1.m3u8?$HLJYDIP6MFHD
+大庆教育,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8?$HLJYD1.5MSD
 
