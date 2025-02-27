@@ -10296,35 +10296,45 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000005000031974
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.zbds.top/logo/中国天气.png" group-title="娱乐",中国天气
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.zbds.top/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
-http://60.168.224.153:2000/rtp/238.1.79.44:4464
-#EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.zbds.top/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
-http://60.168.224.189:2000/rtp/238.1.79.44:4464
+http://live.ahcartv.dev.geek-zoo.cn/live/jjshtv.m3u8?txSecret=94e99c3721b25b3ac3d04be07d92fa3c&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.zbds.top/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.zbds.top/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
+#EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.zbds.top/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
+http://60.168.224.153:2000/rtp/238.1.79.44:4464
+#EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.zbds.top/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
+http://60.168.224.189:2000/rtp/238.1.79.44:4464
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.zbds.top/logo/安徽影视.png" group-title="安徽",安徽影视
-http://60.168.224.153:2000/rtp/238.1.79.42:4448
-#EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.zbds.top/logo/安徽影视.png" group-title="安徽",安徽影视
-http://60.168.224.189:2000/rtp/238.1.79.42:4448
+http://live.ahcartv.dev.geek-zoo.cn/live/ystv.m3u8?txSecret=e2c76086598b48e1fb4b6a823c69e2d5&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.zbds.top/logo/安徽影视.png" group-title="安徽",安徽影视
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.zbds.top/logo/安徽影视.png" group-title="安徽",安徽影视
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.zbds.top/logo/安徽影视.png" group-title="安徽",安徽影视
+http://60.168.224.153:2000/rtp/238.1.79.42:4448
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.zbds.top/logo/安徽影视.png" group-title="安徽",安徽影视
+http://60.168.224.189:2000/rtp/238.1.79.42:4448
+#EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://live.zbds.top/logo/安徽公共.png" group-title="安徽",安徽公共
+http://live.ahcartv.dev.geek-zoo.cn/live/ggtv.m3u8?txSecret=642c057a63f8e7c6fcd0f236d3f24c69&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://live.zbds.top/logo/安徽公共.png" group-title="安徽",安徽公共
 http://60.168.224.153:2000/rtp/238.1.79.43:4456
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://live.zbds.top/logo/安徽公共.png" group-title="安徽",安徽公共
 http://60.168.224.189:2000/rtp/238.1.79.43:4456
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.zbds.top/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
-http://60.168.224.153:2000/rtp/238.1.79.41:4440
-#EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.zbds.top/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
-http://60.168.224.189:2000/rtp/238.1.79.41:4440
+http://live.ahcartv.dev.geek-zoo.cn/live/zytytv.m3u8?txSecret=095c3ce3216bfda624ec4acce6e8a02c&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.zbds.top/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd？世界杯世界杯
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.zbds.top/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.zbds.top/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+#EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.zbds.top/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
+http://60.168.224.153:2000/rtp/238.1.79.41:4440
+#EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.zbds.top/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
+http://60.168.224.189:2000/rtp/238.1.79.41:4440
+#EXTINF:-1 tvg-name="安徽农业科教" tvg-logo="https://live.zbds.top/logo/安徽农业科教.png" group-title="安徽",安徽农业科教
+http://live.ahcartv.dev.geek-zoo.cn/live/nykjtv.m3u8?txSecret=4888aba85d563cfd8853ca0982febcbe&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽农业科教" tvg-logo="https://live.zbds.top/logo/安徽农业科教.png" group-title="安徽",安徽农业科教
 http://60.168.224.153:2000/rtp/238.1.79.40:4432
 #EXTINF:-1 tvg-name="安徽农业科教" tvg-logo="https://live.zbds.top/logo/安徽农业科教.png" group-title="安徽",安徽农业科教
@@ -10333,6 +10343,8 @@ http://60.168.224.189:2000/rtp/238.1.79.40:4432
 http://60.168.224.153:2000/rtp/238.1.79.45:4472
 #EXTINF:-1 tvg-name="安徽人物" tvg-logo="https://live.zbds.top/logo/安徽人物.png" group-title="安徽",安徽人物
 http://60.168.224.189:2000/rtp/238.1.79.45:4472
+#EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://live.zbds.top/logo/安徽国际.png" group-title="安徽",安徽国际
+http://live.ahcartv.dev.geek-zoo.cn/live/gjtv.m3u8?txSecret=e628bcb47d7741b3a60c6793b7295d84&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://live.zbds.top/logo/安徽国际.png" group-title="安徽",安徽国际
 http://60.168.224.153:2000/rtp/238.1.78.61:6360
 #EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://live.zbds.top/logo/安徽国际.png" group-title="安徽",安徽国际
@@ -10378,6 +10390,8 @@ http://60.168.224.189:2000/rtp/238.1.78.149:7064
 #EXTINF:-1 tvg-name="黟县新闻综合" tvg-logo="https://live.zbds.top/logo/黟县新闻综合.png" group-title="安徽",黟县新闻综合
 http://60.168.224.153:2000/rtp/238.1.78.149:7064
 #EXTINF:-1 tvg-name="宣城综合" tvg-logo="https://live.zbds.top/logo/宣城综合.png" group-title="安徽",宣城综合
+http://live.ahcartv.dev.geek-zoo.cn/live/xctv.m3u8?txSecret=557e1b8654df9633a3ae3a61ab03dcdd&txTime=6861F813
+#EXTINF:-1 tvg-name="宣城综合" tvg-logo="https://live.zbds.top/logo/宣城综合.png" group-title="安徽",宣城综合
 http://60.168.224.189:2000/rtp/238.1.78.142:7008
 #EXTINF:-1 tvg-name="宣城综合" tvg-logo="https://live.zbds.top/logo/宣城综合.png" group-title="安徽",宣城综合
 http://60.168.224.153:2000/rtp/238.1.78.142:7008
@@ -10420,6 +10434,8 @@ http://60.168.224.189:2000/rtp/238.1.79.52:4528
 #EXTINF:-1 tvg-name="五河新闻综合" tvg-logo="https://live.zbds.top/logo/五河新闻综合.png" group-title="安徽",五河新闻综合
 http://60.168.224.153:2000/rtp/238.1.79.52:4528
 #EXTINF:-1 tvg-name="芜湖新闻综合" tvg-logo="https://live.zbds.top/logo/芜湖新闻综合.png" group-title="安徽",芜湖新闻综合
+http://live.ahcartv.dev.geek-zoo.cn/live/whpd.m3u8?txSecret=3e91d2caa6167710ed56b2d40ae75bd0&txTime=6861F813
+#EXTINF:-1 tvg-name="芜湖新闻综合" tvg-logo="https://live.zbds.top/logo/芜湖新闻综合.png" group-title="安徽",芜湖新闻综合
 http://60.168.224.189:2000/rtp/238.1.78.112:6768
 #EXTINF:-1 tvg-name="芜湖新闻综合" tvg-logo="https://live.zbds.top/logo/芜湖新闻综合.png" group-title="安徽",芜湖新闻综合
 http://60.168.224.153:2000/rtp/238.1.78.112:6768
@@ -10449,6 +10465,8 @@ http://220.180.124.18:888/live/ch2.m3u8
 http://60.168.224.189:2000/rtp/238.1.78.187:7368
 #EXTINF:-1 tvg-name="湾沚新闻综合" tvg-logo="https://live.zbds.top/logo/湾沚新闻综合.png" group-title="安徽",湾沚新闻综合
 http://60.168.224.153:2000/rtp/238.1.78.187:7368
+#EXTINF:-1 tvg-name="铜陵新闻综合" tvg-logo="https://live.zbds.top/logo/铜陵新闻综合.png" group-title="安徽",铜陵新闻综合
+https://gnhls.qingmei.tv/live/tlxw.m3u8?volcTime=1753081509&volcSecret=10999ac48fb965e95cd8ac9bbbf625ef
 #EXTINF:-1 tvg-name="铜陵新闻综合" tvg-logo="https://live.zbds.top/logo/铜陵新闻综合.png" group-title="安徽",铜陵新闻综合
 http://60.168.224.189:2000/rtp/238.1.78.139:6984
 #EXTINF:-1 tvg-name="铜陵新闻综合" tvg-logo="https://live.zbds.top/logo/铜陵新闻综合.png" group-title="安徽",铜陵新闻综合
@@ -10594,6 +10612,8 @@ http://60.168.224.189:2000/rtp/238.1.78.138:6976
 #EXTINF:-1 tvg-name="徽州新闻" tvg-logo="https://live.zbds.top/logo/徽州新闻.png" group-title="安徽",徽州新闻
 http://60.168.224.153:2000/rtp/238.1.78.138:6976
 #EXTINF:-1 tvg-name="黄山新闻综合" tvg-logo="https://live.zbds.top/logo/黄山新闻综合.png" group-title="安徽",黄山新闻综合
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+#EXTINF:-1 tvg-name="黄山新闻综合" tvg-logo="https://live.zbds.top/logo/黄山新闻综合.png" group-title="安徽",黄山新闻综合
 http://60.168.224.189:2000/rtp/238.1.78.130:6912
 #EXTINF:-1 tvg-name="黄山新闻综合" tvg-logo="https://live.zbds.top/logo/黄山新闻综合.png" group-title="安徽",黄山新闻综合
 http://60.168.224.153:2000/rtp/238.1.78.130:6912
@@ -10601,6 +10621,8 @@ http://60.168.224.153:2000/rtp/238.1.78.130:6912
 http://60.168.224.189:2000/rtp/238.1.78.131:6920
 #EXTINF:-1 tvg-name="黄山公共" tvg-logo="https://live.zbds.top/logo/黄山公共.png" group-title="安徽",黄山公共
 http://60.168.224.153:2000/rtp/238.1.78.131:6920
+#EXTINF:-1 tvg-name="淮南新闻综合" tvg-logo="https://live.zbds.top/logo/淮南新闻综合.png" group-title="安徽",淮南新闻综合
+http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 #EXTINF:-1 tvg-name="淮南新闻综合" tvg-logo="https://live.zbds.top/logo/淮南新闻综合.png" group-title="安徽",淮南新闻综合
 http://60.168.224.189:2000/rtp/238.1.78.113:6776
 #EXTINF:-1 tvg-name="淮南新闻综合" tvg-logo="https://live.zbds.top/logo/淮南新闻综合.png" group-title="安徽",淮南新闻综合
@@ -10613,6 +10635,8 @@ http://60.168.224.189:2000/rtp/238.1.78.114:6784
 http://60.168.224.153:2000/rtp/238.1.78.114:6784
 #EXTINF:-1 tvg-name="淮河能源综合" tvg-logo="https://live.zbds.top/logo/淮河能源综合.png" group-title="安徽",淮河能源综合
 http://play.hhnynews.com/huaihe/online.m3u8?auth_key=1720572937-0-0-ebd6c35757d0771723a94f37aa4b3b99
+#EXTINF:-1 tvg-name="淮北新闻综合" tvg-logo="https://live.zbds.top/logo/淮北新闻综合.png" group-title="安徽",淮北新闻综合
+http://live.ahcartv.dev.geek-zoo.cn/live/hbds.m3u8?txSecret=d932d52b91a3ed9d7135760bf36dc3d5&txTime=6861F813
 #EXTINF:-1 tvg-name="淮北新闻综合" tvg-logo="https://live.zbds.top/logo/淮北新闻综合.png" group-title="安徽",淮北新闻综合
 http://60.168.224.189:2000/rtp/238.1.78.135:6952
 #EXTINF:-1 tvg-name="淮北新闻综合" tvg-logo="https://live.zbds.top/logo/淮北新闻综合.png" group-title="安徽",淮北新闻综合
@@ -10704,6 +10728,8 @@ http://60.168.224.153:2000/rtp/238.1.78.210:7552
 #EXTINF:-1 tvg-name="滁州新闻综合" tvg-logo="https://live.zbds.top/logo/滁州新闻综合.png" group-title="安徽",滁州新闻综合
 http://live.cztv.cc:85/live/xwpd.m3u8
 #EXTINF:-1 tvg-name="滁州新闻综合" tvg-logo="https://live.zbds.top/logo/滁州新闻综合.png" group-title="安徽",滁州新闻综合
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1 tvg-name="滁州新闻综合" tvg-logo="https://live.zbds.top/logo/滁州新闻综合.png" group-title="安徽",滁州新闻综合
 http://60.168.224.189:2000/rtp/238.1.78.132:6928
 #EXTINF:-1 tvg-name="滁州新闻综合" tvg-logo="https://live.zbds.top/logo/滁州新闻综合.png" group-title="安徽",滁州新闻综合
 http://60.168.224.153:2000/rtp/238.1.78.132:6928
@@ -10732,6 +10758,8 @@ http://60.168.224.189:2000/rtp/238.1.78.148:7056
 #EXTINF:-1 tvg-name="池州公共" tvg-logo="https://live.zbds.top/logo/池州公共.png" group-title="安徽",池州公共
 http://60.168.224.153:2000/rtp/238.1.78.148:7056
 #EXTINF:-1 tvg-name="亳州综合" tvg-logo="https://live.zbds.top/logo/亳州综合.png" group-title="安徽",亳州综合
+http://zbbf2.ahbztv.com/live/416.m3u8
+#EXTINF:-1 tvg-name="亳州综合" tvg-logo="https://live.zbds.top/logo/亳州综合.png" group-title="安徽",亳州综合
 http://60.168.224.189:2000/rtp/238.1.78.128:6896
 #EXTINF:-1 tvg-name="亳州综合" tvg-logo="https://live.zbds.top/logo/亳州综合.png" group-title="安徽",亳州综合
 http://60.168.224.153:2000/rtp/238.1.78.128:6896
@@ -10747,6 +10775,8 @@ http://60.168.224.153:2000/rtp/238.1.78.180:7312
 http://60.168.224.189:2000/rtp/238.1.78.181:7320
 #EXTINF:-1 tvg-name="蚌埠公共" tvg-logo="https://live.zbds.top/logo/蚌埠公共.png" group-title="安徽",蚌埠公共
 http://60.168.224.153:2000/rtp/238.1.78.181:7320
+#EXTINF:-1 tvg-name="安庆新闻综合" tvg-logo="https://live.zbds.top/logo/安庆新闻综合.png" group-title="安徽",安庆新闻综合
+http://live.ahcartv.dev.geek-zoo.cn/live/aqpd.m3u8?txSecret=068c51559e25e8891c14335dd58be9bc&txTime=6861F813
 #EXTINF:-1 tvg-name="安庆新闻综合" tvg-logo="https://live.zbds.top/logo/安庆新闻综合.png" group-title="安徽",安庆新闻综合
 http://60.168.224.189:2000/rtp/238.1.78.117:6808
 #EXTINF:-1 tvg-name="安庆新闻综合" tvg-logo="https://live.zbds.top/logo/安庆新闻综合.png" group-title="安徽",安庆新闻综合
@@ -18963,6 +18993,8 @@ http://play-live-hls.jxtvcn.com.cn/live/tv_jingdezhen.flv
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8?t=&token=1
 #EXTINF:-1 tvg-name="井冈山电视台" tvg-logo="https://live.zbds.top/logo/井冈山电视台.png" group-title="江西",井冈山电视台
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
+#EXTINF:-1 tvg-name="吉安综合" tvg-logo="https://live.zbds.top/logo/吉安综合.png" group-title="江西",吉安综合
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jian.m3u8
 #EXTINF:-1 tvg-name="吉安综合" tvg-logo="https://live.zbds.top/logo/吉安综合.png" group-title="江西",吉安综合
 http://play-live-hls.jxtvcn.com.cn/live/tv_jian.m3u8
 #EXTINF:-1 tvg-name="吉安综合" tvg-logo="https://live.zbds.top/logo/吉安综合.png" group-title="江西",吉安综合
@@ -28921,6 +28953,8 @@ rtmp://play-live-hls.jxtvcn.com.cn/live/tv_xinyu
 rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jingdezhen
 #EXTINF:-1 tvg-name="安徽|宿松新闻综合" tvg-logo="https://live.zbds.top/logo/安徽|宿松新闻综合.png" group-title="RTMP",安徽|宿松新闻综合
 rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=4849469644-0-0-4ebac1aa7b06c07197e6a43bb43b3fa7
+#EXTINF:-1 tvg-name="安徽|宿州新闻综合" tvg-logo="https://live.zbds.top/logo/安徽|宿州新闻综合.png" group-title="RTMP",安徽|宿州新闻综合
+rtmp://live.ahsz.tv/video?token=5ee5b1c3db702657f412ed18d270cdb7/s10001-szzh
 #EXTINF:-1 tvg-name="广西|博白综合" tvg-logo="https://live.zbds.top/logo/广西|博白综合.png" group-title="RTMP",广西|博白综合
 rtmp://live.gxrb.com.cn/hls/a22
 #EXTINF:-1 tvg-name="广西|容县电视" tvg-logo="https://live.zbds.top/logo/广西|容县电视.png" group-title="RTMP",广西|容县电视
