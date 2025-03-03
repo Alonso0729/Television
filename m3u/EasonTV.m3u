@@ -12553,9 +12553,9 @@ rtsp://60.13.39.18/PLTV/88888910/224/3221225566/10000100000000060000000000107346
 rtsp://180.95.143.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.zbds.top/logo/CETV4.png" group-title="甘肃联通",CETV-4
 rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="甘肃联通",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN.png" group-title="甘肃联通",CGTN英语
 rtsp://180.95.143.19/PLTV/88888910/224/3221225506/10000100000000060000000000107286_0.smil
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN英语.png" group-title="甘肃联通",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.zbds.top/logo/CGTN.png" group-title="甘肃联通",CGTN英语
 rtsp://60.13.39.18/PLTV/88888910/224/3221225506/10000100000000060000000000107286_0.smil
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.zbds.top/logo/安多卫视.png" group-title="甘肃联通",安多卫视
 rtsp://180.95.143.19/PLTV/88888910/224/3221225872/376957310.smil
