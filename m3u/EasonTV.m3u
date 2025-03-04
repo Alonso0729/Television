@@ -19008,13 +19008,13 @@ http://dell.puchengyu2009.top:9999/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://live.zbds.top/logo/盐城综合.png" group-title="江苏",盐城综合
 http://www.zhantong.tech:8800/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="江西",江西都市
-http://local-live.jxtvcn.com.cn/live/tv_jxtv2.m3u8
-#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="江西",江西都市
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv2.m3u8
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="江西",江西都市
-http://local-live.jxtvcn.com.cn/live/tv_jxtv2.flv
-#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="江西",江西都市
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv2.flv
+#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="江西",江西都市
+http://local-live.jxtvcn.com.cn/live/tv_jxtv2.m3u8
+#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="江西",江西都市
+http://local-live.jxtvcn.com.cn/live/tv_jxtv2.flv
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="江西",江西都市
 http://php.jdshipin.com/TVOD/iptv.php?id=jxds
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="江西",江西都市
@@ -19024,11 +19024,11 @@ http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="江西",江西都市
 http://220.176.218.7:8888/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.zbds.top/logo/江西经济生活.png" group-title="江西",江西经济生活
-http://local-live.jxtvcn.com.cn/live/tv_jxtv3_hd.m3u8
-#EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.zbds.top/logo/江西经济生活.png" group-title="江西",江西经济生活
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv3.m3u8
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.zbds.top/logo/江西经济生活.png" group-title="江西",江西经济生活
 http://local-live.jxtvcn.com.cn/live/tv_jxtv3_hd.flv
+#EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.zbds.top/logo/江西经济生活.png" group-title="江西",江西经济生活
+http://local-live.jxtvcn.com.cn/live/tv_jxtv3_hd.m3u8
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.zbds.top/logo/江西经济生活.png" group-title="江西",江西经济生活
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv3.flv
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.zbds.top/logo/江西经济生活.png" group-title="江西",江西经济生活
@@ -19042,13 +19042,13 @@ http://220.176.218.7:8888/rtp/239.252.219.173:5140
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.zbds.top/logo/江西经济生活.png" group-title="江西",江西经济生活
 http://220.176.218.7:8888/rtp/239.252.220.110:5140
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://local-live.jxtvcn.com.cn/live/tv_jxtv4.m3u8
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="江西",江西影视旅游
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv4.m3u8
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://local-live.jxtvcn.com.cn/live/tv_jxtv4.flv
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="江西",江西影视旅游
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv4.flv
+#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="江西",江西影视旅游
+http://local-live.jxtvcn.com.cn/live/tv_jxtv4.m3u8
+#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="江西",江西影视旅游
+http://local-live.jxtvcn.com.cn/live/tv_jxtv4.flv
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="江西",江西影视旅游
 http://php.jdshipin.com/TVOD/iptv.php?id=jxysly
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="江西",江西影视旅游
@@ -19058,11 +19058,11 @@ http://58.144.154.93/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="江西",江西影视旅游
 http://220.176.218.7:8888/rtp/239.252.220.242:5140
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.zbds.top/logo/江西公共农业.png" group-title="江西",江西公共农业
-http://local-live.jxtvcn.com.cn/live/tv_jxtv5.m3u8
-#EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.zbds.top/logo/江西公共农业.png" group-title="江西",江西公共农业
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv5.m3u8
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.zbds.top/logo/江西公共农业.png" group-title="江西",江西公共农业
 http://local-live.jxtvcn.com.cn/live/tv_jxtv5.flv
+#EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.zbds.top/logo/江西公共农业.png" group-title="江西",江西公共农业
+http://local-live.jxtvcn.com.cn/live/tv_jxtv5.m3u8
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.zbds.top/logo/江西公共农业.png" group-title="江西",江西公共农业
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv5.flv
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.zbds.top/logo/江西公共农业.png" group-title="江西",江西公共农业
@@ -19074,13 +19074,13 @@ http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.zbds.top/logo/江西公共农业.png" group-title="江西",江西公共农业
 http://220.176.218.7:8888/rtp/239.252.220.102:5140
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="江西",江西少儿
-http://local-live.jxtvcn.com.cn/live/tv_jxtv6.m3u8
-#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="江西",江西少儿
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="江西",江西少儿
-http://local-live.jxtvcn.com.cn/live/tv_jxtv6.flv
-#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="江西",江西少儿
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv6.flv
+#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="江西",江西少儿
+http://local-live.jxtvcn.com.cn/live/tv_jxtv6.m3u8
+#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="江西",江西少儿
+http://local-live.jxtvcn.com.cn/live/tv_jxtv6.flv
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="江西",江西少儿
 http://php.jdshipin.com/TVOD/iptv.php?id=jxse
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="江西",江西少儿
@@ -19090,13 +19090,13 @@ http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="江西",江西少儿
 http://220.176.218.7:8888/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="江西",江西新闻
-http://local-live.jxtvcn.com.cn/live/tv_jxtv7.m3u8
-#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="江西",江西新闻
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv7.m3u8
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="江西",江西新闻
-http://local-live.jxtvcn.com.cn/live/tv_jxtv7.flv
-#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="江西",江西新闻
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv7.flv
+#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="江西",江西新闻
+http://local-live.jxtvcn.com.cn/live/tv_jxtv7.m3u8
+#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="江西",江西新闻
+http://local-live.jxtvcn.com.cn/live/tv_jxtv7.flv
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="江西",江西新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=jxxw
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="江西",江西新闻
@@ -19106,17 +19106,17 @@ http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="江西",江西新闻
 http://220.176.218.7:8888/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://live.zbds.top/logo/江西移动电视.png" group-title="江西",江西移动电视
-http://local-live.jxtvcn.com.cn/live/tv_jxtv8.m3u8
+http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv8.m3u8
 #EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://live.zbds.top/logo/江西移动电视.png" group-title="江西",江西移动电视
-http://local-live.jxtvcn.com.cn/live/tv_jxtv8.flv
+http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv8.flv
 #EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://live.zbds.top/logo/江西移动电视.png" group-title="江西",江西移动电视
 http://220.176.218.7:8888/rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://live.zbds.top/logo/江西移动电视.png" group-title="江西",江西移动电视
 http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
 #EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://live.zbds.top/logo/江西风尚购物.png" group-title="江西",江西风尚购物
-http://local-live.jxtvcn.com.cn/live/tv_fsgw.m3u8
+http://play-live-hls.jxtvcn.com.cn/live/tv_fsgw.m3u8
 #EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://live.zbds.top/logo/江西风尚购物.png" group-title="江西",江西风尚购物
-http://local-live.jxtvcn.com.cn/live/tv_fsgw.flv
+http://play-live-hls.jxtvcn.com.cn/live/tv_fsgw.flv
 #EXTINF:-1 tvg-name="江西教育" tvg-logo="https://live.zbds.top/logo/江西教育.png" group-title="江西",江西教育
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
 #EXTINF:-1 tvg-name="江西教育" tvg-logo="https://live.zbds.top/logo/江西教育.png" group-title="江西",江西教育
@@ -19126,9 +19126,9 @@ https://cdn-live.jxeduyun.com/streams/640f79857ff58.m3u8
 #EXTINF:-1 tvg-name="陶瓷频道" tvg-logo="https://live.zbds.top/logo/陶瓷频道.png" group-title="江西",陶瓷频道
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=taoci
 #EXTINF:-1 tvg-name="陶瓷频道" tvg-logo="https://live.zbds.top/logo/陶瓷频道.png" group-title="江西",陶瓷频道
-http://local-live.jxtvcn.com.cn/live/tv_taoci.m3u8
+http://play-live-hls.jxtvcn.com.cn/live/tv_taoci.m3u8
 #EXTINF:-1 tvg-name="陶瓷频道" tvg-logo="https://live.zbds.top/logo/陶瓷频道.png" group-title="江西",陶瓷频道
-http://local-live.jxtvcn.com.cn/live/tv_taoci.flv
+http://play-live-hls.jxtvcn.com.cn/live/tv_taoci.flv
 #EXTINF:-1 tvg-name="陶瓷频道" tvg-logo="https://live.zbds.top/logo/陶瓷频道.png" group-title="江西",陶瓷频道
 http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
 #EXTINF:-1 tvg-name="南昌新闻综合" tvg-logo="https://live.zbds.top/logo/南昌新闻综合.png" group-title="江西",南昌新闻综合
@@ -29944,35 +29944,35 @@ rtmp://stream.hhek.cn:9936/live/dyjy_sd
 #EXTINF:-1 tvg-name="东营公共" tvg-logo="https://live.zbds.top/logo/东营公共.png" group-title="RTMP",东营公共
 rtmp://stream.hhek.cn:9936/live/ggpd_sd
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="RTMP",江西都市
-rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv2
-#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="RTMP",江西都市
 rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jxtv2
-#EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.zbds.top/logo/江西经济生活.png" group-title="RTMP",江西经济生活
-rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv3_hd
+#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.zbds.top/logo/江西都市.png" group-title="RTMP",江西都市
+rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv2
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.zbds.top/logo/江西经济生活.png" group-title="RTMP",江西经济生活
 rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jxtv3
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="RTMP",江西影视旅游
-rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv4
+#EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://live.zbds.top/logo/江西经济生活.png" group-title="RTMP",江西经济生活
+rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv3_hd
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="RTMP",江西影视旅游
 rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jxtv4
-#EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.zbds.top/logo/江西公共农业.png" group-title="RTMP",江西公共农业
-rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv5
+#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://live.zbds.top/logo/江西影视旅游.png" group-title="RTMP",江西影视旅游
+rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv4
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.zbds.top/logo/江西公共农业.png" group-title="RTMP",江西公共农业
 rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jxtv5
-#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="RTMP",江西少儿
-rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv6
+#EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://live.zbds.top/logo/江西公共农业.png" group-title="RTMP",江西公共农业
+rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv5
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="RTMP",江西少儿
 rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jxtv6
-#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="RTMP",江西新闻
-rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv7
+#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.zbds.top/logo/江西少儿.png" group-title="RTMP",江西少儿
+rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv6
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="RTMP",江西新闻
 rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jxtv7
+#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://live.zbds.top/logo/江西新闻.png" group-title="RTMP",江西新闻
+rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv7
 #EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://live.zbds.top/logo/江西移动电视.png" group-title="RTMP",江西移动电视
-rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv8
+rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jxtv8
 #EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://live.zbds.top/logo/江西风尚购物.png" group-title="RTMP",江西风尚购物
-rtmp://local-live.jxtvcn.com.cn/live/tv_fsgw
+rtmp://play-live-hls.jxtvcn.com.cn/live/tv_fsgw
 #EXTINF:-1 tvg-name="陶瓷频道" tvg-logo="https://live.zbds.top/logo/陶瓷频道.png" group-title="RTMP",陶瓷频道
-rtmp://local-live.jxtvcn.com.cn/live/tv_taoci
+rtmp://play-live-hls.jxtvcn.com.cn/live/tv_taoci
 #EXTINF:-1 tvg-name="南昌新闻综合" tvg-logo="https://live.zbds.top/logo/南昌新闻综合.png" group-title="RTMP",南昌新闻综合
 rtmp://play-live-hls.jxtvcn.com.cn/live/tv_nanchang
 #EXTINF:-1 tvg-name="九江新闻综合" tvg-logo="https://live.zbds.top/logo/九江新闻综合.png" group-title="RTMP",九江新闻综合
