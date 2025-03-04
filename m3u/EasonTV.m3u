@@ -19791,10 +19791,18 @@ http://ningjingyuan.asia:8888/rtp/239.111.205.245:5140
 http://ningjingyuan.asia:8888/rtp/239.112.205.143:5140
 #EXTINF:-1 tvg-name="宝鸡公共" tvg-logo="https://live.zbds.top/logo/宝鸡公共.png" group-title="陕西",宝鸡公共
 http://ningjingyuan.asia:8888/rtp/239.112.205.148:5140
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.zbds.top/logo/陕西卫视.png" group-title="陕西移动",陕西卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225821/1.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.zbds.top/logo/陕西卫视.png" group-title="陕西移动",陕西卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/1.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西移动",陕西银龄
 http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://live.zbds.top/logo/陕西银龄.png" group-title="陕西移动",陕西银龄
 http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/1.m3u8
+#EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://live.zbds.top/logo/西安新闻综合.png" group-title="陕西移动",西安新闻综合
+http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
+#EXTINF:-1 tvg-name="西安新闻综合" tvg-logo="https://live.zbds.top/logo/西安新闻综合.png" group-title="陕西移动",西安新闻综合
+http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/1.m3u8
 #EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西移动",西安都市
 http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
 #EXTINF:-1 tvg-name="西安都市" tvg-logo="https://live.zbds.top/logo/西安都市.png" group-title="陕西移动",西安都市
@@ -20407,10 +20415,6 @@ http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/1.m3
 http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.zbds.top/logo/山东教育卫视.png" group-title="陕西移动",山东教育卫视
 http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/1.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.zbds.top/logo/陕西卫视.png" group-title="陕西移动",陕西卫视
-http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225821/1.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.zbds.top/logo/陕西卫视.png" group-title="陕西移动",陕西卫视
-http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.zbds.top/logo/浙江卫视.png" group-title="陕西移动",浙江卫视
 http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.zbds.top/logo/浙江卫视.png" group-title="陕西移动",浙江卫视
