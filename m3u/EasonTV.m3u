@@ -2122,17 +2122,17 @@ http://www.zhantong.tech:8800/rtp/239.49.0.123:8000
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="央视",书画
 http://php.jdshipin.com/cqyx.php?id=shuhua
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://103.106.191.233:50001/TVOD/1000000001000005866/ystenlive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000004000014098/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://262949.xyz:8040/TVOD/1000000001000030202/ystenlive/index.m3u8
+http://262949.xyz:8040/TVOD/6131854485504331903/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://103.225.199.221:50001/TVOD/1000000005000265018/ystenlive/index.m3u8
+http://103.225.199.221:50001/TVOD/5000000010000032246/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://166.108.224.35:50001/TVOD/2000000002000000056/hnbblive/index.m3u8
+http://166.108.224.35:50001/TVOD/6000000001000003639/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://36.134.80.169:8833/TVOD/4699937686040264690/ystenlive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000011000265007/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://47.79.86.200:50001/TVOD/5000000004000014098/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/1000000001000005866/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
 http://www.xcupid.top:35455/itv/1000000001000005866.m3u8?cdn=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
@@ -2213,53 +2213,53 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=6131854485504331903
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=6131854485504331903
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
 http://z.b.bkpcp.top/m.php?id=dfws
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
-http://103.106.191.233:50001/TVOD/2000000002000000005/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+http://103.106.191.233:50001/TVOD/5000000011000031110/bestzb/index.m3u8
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://262949.xyz:8040/TVOD/2000000002000000005/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://103.225.199.221:50001/TVOD/5000000011000031110/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://166.108.224.35:50001/TVOD/2000000002000000005/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
-http://36.134.80.169:8833/TVOD/2000000002000000005/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
-http://47.79.86.200:50001/TVOD/5000000011000031110/bestzb/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+http://36.134.80.169:8833/TVOD/5000000011000031110/bestzb/index.m3u8
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+http://47.79.86.200:50001/TVOD/2000000002000000005/hnbblive/index.m3u8
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://www.xcupid.top:35455/itv/2000000002000000005.m3u8?cdn=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://5201978.xyz:35455/itv/2000000002000000005.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://144.255.81.0:35455/itv/5000000011000031110.m3u8?cdn=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://189.1.243.189:35455/itv/2000000002000000005.m3u8?cdn=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://yc.myds.me:35455/itv/2000000002000000005.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://leo0911.mycloudnas.com:35455/itv/5000000011000031110.m3u8?cdn=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/2000000002000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://[2409:8087:5e20:24::0b]:6610/000000001000/1/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://[2409:8087:5e20:24::0c]:6610/000000001000/1/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://[2409:8087:5e20:24::0d]:6610/000000001000/1/2000000002000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://[2409:8087:5e20:24::03]:6610/000000001000/1/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://[2409:8087:5e20:24::05]:6610/000000001000/1/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000005
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000005
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031110
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://z.b.bkpcp.top/m.php?id=shxw
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 https://stream1.freetv.fun/xin-wen-zong-he-9.m3u8
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
 http://103.106.191.233:50001/TVOD/5000000010000018926/bestzb/index.m3u8
@@ -2306,7 +2306,7 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000018926
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018926
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
-http://103.106.191.233:50001/TVOD/2000000002000000013/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000010000032212/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
 http://262949.xyz:8040/TVOD/2000000002000000013/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
@@ -2314,9 +2314,9 @@ http://103.225.199.221:50001/TVOD/5000000010000032212/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
 http://166.108.224.35:50001/TVOD/2000000002000000013/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
-http://36.134.80.169:8833/TVOD/2000000002000000013/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000010000032212/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
-http://47.79.86.200:50001/TVOD/5000000010000032212/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/2000000002000000013/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
 http://www.xcupid.top:35455/itv/2000000002000000013.m3u8?cdn=hnbblive&Contentid=2000000002000000013&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
@@ -2358,7 +2358,7 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000032212
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
 http://z.b.bkpcp.top/m.php?id=shys
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://103.106.191.233:50001/TVOD/2000000002000000004/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000010000027146/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://262949.xyz:8040/TVOD/2000000002000000004/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
@@ -2366,11 +2366,11 @@ http://103.225.199.221:50001/TVOD/5000000010000027146/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://166.108.224.35:50001/TVOD/2000000002000000004/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://36.134.80.169:8833/TVOD/2000000002000000004/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000010000027146/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://47.79.86.200:50001/TVOD/5000000010000027146/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/2000000002000000004/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://103.106.191.233:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000010000017540/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://262949.xyz:8040/TVOD/2000000002000000007/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
@@ -2378,9 +2378,9 @@ http://103.225.199.221:50001/TVOD/5000000010000017540/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://166.108.224.35:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://36.134.80.169:8833/TVOD/2000000002000000007/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000010000017540/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://47.79.86.200:50001/TVOD/5000000010000017540/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://www.xcupid.top:35455/itv/2000000002000000004.m3u8?cdn=hnbblive&Contentid=2000000002000000004&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
@@ -2416,7 +2416,7 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000027146
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://z.b.bkpcp.top/m.php?id=dycj
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
-http://103.106.191.233:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000010000017540/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
 http://262949.xyz:8040/TVOD/2000000002000000007/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
@@ -2424,9 +2424,9 @@ http://103.225.199.221:50001/TVOD/5000000010000017540/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
 http://166.108.224.35:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
-http://36.134.80.169:8833/TVOD/2000000002000000007/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000010000017540/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
-http://47.79.86.200:50001/TVOD/5000000010000017540/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
 http://www.xcupid.top:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
@@ -2490,9 +2490,9 @@ https://stream1.freetv.fun/wu-xing-ti-yu-7.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
 https://stream1.freetv.fun/wu-xing-ti-yu-9.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
-http://103.106.191.233:50001/TVOD/1000000002000000172/ystenlive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000005000031641/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
-http://262949.xyz:8040/TVOD/5000000005000031641/bestzb/index.m3u8
+http://262949.xyz:8040/TVOD/1000000002000000172/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://103.225.199.221:50001/TVOD/5000000011000031123/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
@@ -2540,13 +2540,13 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031123
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 https://stream1.freetv.fun/ha-ha-xuan-dong-13.m3u8
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物一台
-http://103.106.191.233:50001/TVOD/2000000002000000019/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000007000010004/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物一台
 http://262949.xyz:8040/TVOD/2000000002000000020/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物一台
-http://103.225.199.221:50001/TVOD/2000000002000000091/hnbblive/index.m3u8
+http://103.225.199.221:50001/TVOD/5000000011000031124/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物一台
-http://166.108.224.35:50001/TVOD/5000000007000010004/bestzb/index.m3u8
+http://166.108.224.35:50001/TVOD/2000000002000000019/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物一台
 http://36.134.80.169:8833/TVOD/5000000011000031124/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物一台
@@ -2738,11 +2738,11 @@ http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="上海",重温经典
 https://tv.bfsu.edu.cn/hls/cwjdhd.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
-http://103.106.191.233:50001/TVOD/2000000002000000059/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000006000040025/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
 http://262949.xyz:8040/TVOD/2000000002000000059/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
-http://103.225.199.221:50001/TVOD/2000000002000000092/hnbblive/index.m3u8
+http://103.225.199.221:50001/TVOD/5000000011000031112/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
 http://166.108.224.35:50001/TVOD/2000000002000000092/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
@@ -2792,7 +2792,7 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031112
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
 http://z.b.bkpcp.top/m.php?id=ly
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
-http://103.106.191.233:50001/TVOD/2000000002000000061/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000010000026105/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
 http://262949.xyz:8040/TVOD/2000000002000000061/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
@@ -2800,9 +2800,9 @@ http://103.225.199.221:50001/TVOD/5000000010000026105/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
 http://166.108.224.35:50001/TVOD/2000000002000000061/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
-http://36.134.80.169:8833/TVOD/2000000002000000061/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000010000026105/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
-http://47.79.86.200:50001/TVOD/5000000010000026105/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/2000000002000000061/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
 http://www.xcupid.top:35455/itv/2000000002000000061.m3u8?cdn=hnbblive&Contentid=2000000002000000061&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
@@ -2842,7 +2842,7 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000026105
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
-http://103.106.191.233:50001/TVOD/2000000002000000014/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/9001547084732463424/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
 http://262949.xyz:8040/TVOD/2000000002000000014/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
@@ -2850,9 +2850,9 @@ http://103.225.199.221:50001/TVOD/9001547084732463424/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
 http://166.108.224.35:50001/TVOD/2000000002000000014/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
-http://36.134.80.169:8833/TVOD/2000000002000000014/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/9001547084732463424/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
-http://47.79.86.200:50001/TVOD/9001547084732463424/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/2000000002000000014/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
 http://www.xcupid.top:35455/itv/2000000002000000014.m3u8?cdn=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
@@ -2888,7 +2888,7 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
 http://z.b.bkpcp.top/m.php?id=fztd
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
-http://103.106.191.233:50001/TVOD/2000000002000000090/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000007000010003/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
 http://262949.xyz:8040/TVOD/2000000002000000090/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
@@ -2896,9 +2896,9 @@ http://103.225.199.221:50001/TVOD/5000000007000010003/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
 http://166.108.224.35:50001/TVOD/2000000002000000090/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
-http://36.134.80.169:8833/TVOD/2000000002000000090/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000007000010003/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
-http://47.79.86.200:50001/TVOD/5000000007000010003/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/2000000002000000090/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
 http://www.xcupid.top:35455/itv/2000000002000000090.m3u8?cdn=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
@@ -2932,15 +2932,15 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010003
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
-http://103.106.191.233:50001/TVOD/2000000002000000016/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000002000009455/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://262949.xyz:8040/TVOD/2000000002000000016/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
-http://103.225.199.221:50001/TVOD/5000000002000009455/bestzb/index.m3u8
+http://103.225.199.221:50001/TVOD/5000000007000010001/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
-http://166.108.224.35:50001/TVOD/5000000007000010001/bestzb/index.m3u8
+http://166.108.224.35:50001/TVOD/2000000002000000016/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
-http://36.134.80.169:8833/TVOD/2000000002000000016/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000002000009455/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://47.79.86.200:50001/TVOD/2000000002000000016/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
@@ -2978,7 +2978,7 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010001
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://z.b.bkpcp.top/m.php?id=hxjc
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
-http://103.106.191.233:50001/TVOD/2000000002000000068/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000011000031207/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
 http://262949.xyz:8040/TVOD/2000000002000000068/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
@@ -2986,9 +2986,9 @@ http://103.225.199.221:50001/TVOD/5000000011000031207/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
 http://166.108.224.35:50001/TVOD/2000000002000000068/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
-http://36.134.80.169:8833/TVOD/2000000002000000068/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000011000031207/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
-http://47.79.86.200:50001/TVOD/5000000011000031207/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/2000000002000000068/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
 http://www.xcupid.top:35455/itv/2000000002000000068.m3u8?cdn=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
@@ -3030,7 +3030,7 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031207
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
 http://z.b.bkpcp.top/m.php?id=mlzq
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://103.106.191.233:50001/TVOD/2000000002000000008/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000002000029972/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://262949.xyz:8040/TVOD/2000000002000000008/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
@@ -3038,9 +3038,9 @@ http://103.225.199.221:50001/TVOD/5000000002000029972/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://166.108.224.35:50001/TVOD/2000000002000000008/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://36.134.80.169:8833/TVOD/2000000002000000008/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000002000029972/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://47.79.86.200:50001/TVOD/5000000002000029972/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/2000000002000000008/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://www.xcupid.top:35455/itv/2000000002000000008.m3u8?cdn=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
@@ -3082,15 +3082,15 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000029972
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://z.b.bkpcp.top/m.php?id=jbty
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
-http://103.106.191.233:50001/TVOD/2000000002000000015/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000002000004412/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
 http://262949.xyz:8040/TVOD/2000000002000000015/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
 http://103.225.199.221:50001/TVOD/5000000002000004412/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
-http://166.108.224.35:50001/TVOD/5000000011000031111/bestzb/index.m3u8
+http://166.108.224.35:50001/TVOD/2000000002000000015/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
-http://36.134.80.169:8833/TVOD/2000000002000000015/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000011000031111/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
 http://47.79.86.200:50001/TVOD/2000000002000000015/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
@@ -3128,15 +3128,15 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031111
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
 http://61.173.144.157:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
-http://103.106.191.233:50001/TVOD/2000000002000000009/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000002000023636/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://262949.xyz:8040/TVOD/2000000002000000009/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://103.225.199.221:50001/TVOD/5000000002000023636/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
-http://166.108.224.35:50001/TVOD/5000000011000031113/bestzb/index.m3u8
+http://166.108.224.35:50001/TVOD/2000000002000000009/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
-http://36.134.80.169:8833/TVOD/2000000002000000009/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000011000031113/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://47.79.86.200:50001/TVOD/2000000002000000009/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
@@ -3172,7 +3172,7 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
-http://103.106.191.233:50001/TVOD/2000000002000000006/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000002000019634/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
 http://262949.xyz:8040/TVOD/2000000002000000006/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
@@ -3180,9 +3180,9 @@ http://103.225.199.221:50001/TVOD/5000000002000019634/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
 http://166.108.224.35:50001/TVOD/2000000002000000006/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
-http://36.134.80.169:8833/TVOD/2000000002000000006/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000002000019634/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
-http://47.79.86.200:50001/TVOD/5000000002000019634/bestzb/index.m3u8
+http://47.79.86.200:50001/TVOD/2000000002000000006/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
 http://www.xcupid.top:35455/itv/2000000002000000006.m3u8?cdn=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
@@ -3218,15 +3218,15 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000019634
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
 https://stream1.freetv.fun/sheng-huo-shi-shang-11.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="上海",游戏风云
-http://103.106.191.233:50001/TVOD/2000000002000000011/hnbblive/index.m3u8
+http://103.106.191.233:50001/TVOD/5000000002000027005/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="上海",游戏风云
 http://262949.xyz:8040/TVOD/2000000002000000011/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="上海",游戏风云
-http://103.225.199.221:50001/TVOD/5000000002000027005/bestzb/index.m3u8
+http://103.225.199.221:50001/TVOD/5000000011000031114/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="上海",游戏风云
-http://166.108.224.35:50001/TVOD/5000000011000031114/bestzb/index.m3u8
+http://166.108.224.35:50001/TVOD/2000000002000000011/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="上海",游戏风云
-http://36.134.80.169:8833/TVOD/2000000002000000011/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/5000000002000027005/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="上海",游戏风云
 http://47.79.86.200:50001/TVOD/2000000002000000011/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="上海",游戏风云
@@ -3268,7 +3268,7 @@ http://119.32.12.12:2901/udp/224.1.100.136:11111$广东广电
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="上海",新视觉
 http://119.32.12.13:2901/udp/224.1.100.136:11111$广东广电
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="上海",新视觉
-http://php.jdshipin.com/TVOD/iptv.php?id=xsj
+http://php.jdshipin.com/TVOD/iptv.php?id=xsjxsj
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="上海",新视觉
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="上海",新视觉
