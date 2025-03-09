@@ -7995,6 +7995,10 @@ http://extraott.com:80/live/6772191932/1654508883/190006.m3u8
 http://extraott.com:80/live/6772191932/1654508883/190015.m3u8
 #EXTINF:-1 tvg-name="Star Sports" tvg-logo="https://epg.v1.mk/logo/Star Sports.png" group-title="体育",Star Sports
 https://tv.bfsu.edu.cn/hls/starsports.m3u8
+#EXTINF:-1 tvg-name="曼联MUTV" tvg-logo="https://epg.v1.mk/logo/MUTV.png" group-title="体育",曼联MUTV
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1 tvg-name="Red Bull Sports" tvg-logo="https://epg.v1.mk/logo/Red Bull Sports.png" group-title="体育",Red Bull Sports
+http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
 http://103.106.191.233:50001/TVOD/1000000005000266001/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
@@ -31542,7 +31546,7 @@ http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://epg.v1.mk/logo/凤凰电影.png" group-title="港澳台",凤凰电影
 https://tv.bfsu.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="港澳台",纬来体育
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-1/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="纬来精彩" tvg-logo="https://epg.v1.mk/logo/纬来精彩.png" group-title="港澳台",纬来精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="D-box" tvg-logo="https://epg.v1.mk/logo/D-box.png" group-title="港澳台",D-box
