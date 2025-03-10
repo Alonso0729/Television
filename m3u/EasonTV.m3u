@@ -32161,6 +32161,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-name="NHK东京综合" tvg-logo="https://epg.v1.mk/logo/NHK东京综合.png" group-title="港澳台",NHK东京综合
 http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="测试台" tvg-logo="https://epg.v1.mk/logo/测试台.png" group-title="港澳台",测试台
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/test.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="RTMP",纬来体育
 rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="RTMP",纬来体育
