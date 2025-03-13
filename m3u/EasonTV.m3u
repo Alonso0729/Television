@@ -1654,6 +1654,8 @@ http://imlucky.win:10001/udp/239.77.0.212:5146$广东电信
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://epg.v1.mk/logo/卫生健康.png" group-title="央视",卫生健康
 http://www.feizhu1212.top:9999/udp/239.77.0.212:5146$广东电信
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场
+http://f.8-k.cc/Cha/1.m3u8?第一剧场
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场
 http://www.tico2.eu.org:4022/rtp/239.69.1.74:10084$湖北电信
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.221:9680$山西联通
@@ -1696,6 +1698,8 @@ http://wein66.ddnsfree.com:4022/udp/233.18.204.184:5140$上海电信
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场
 http://218.78.183.200:8888/udp/239.45.0.51:5140$上海电信
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场
+http://f.8-k.cc/Cha/1.m3u8?风云剧场
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.227:9728$山西联通
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场
 http://www.pswluo.cn:4000/rtp/239.49.8.89:8000
@@ -1733,6 +1737,8 @@ http://wein66.ddnsfree.com:4022/udp/239.45.0.50:5140$上海电信
 http://wein66.ddnsfree.com:4022/udp/233.18.204.183:5140$上海电信
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场
 http://218.78.183.200:8888/udp/239.45.0.50:5140$上海电信
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视",风云音乐
+http://f.8-k.cc/Cha/1.m3u8?风云音乐
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视",风云音乐
 http://www.tico2.eu.org:4022/rtp/239.69.1.90:10180$湖北电信
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视",风云音乐
@@ -1781,6 +1787,8 @@ http://wein66.ddnsfree.com:4022/udp/239.45.0.52:5140$上海电信
 http://wein66.ddnsfree.com:4022/udp/233.18.204.185:5140$上海电信
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视",风云音乐
 http://218.78.183.200:8888/udp/239.45.0.52:5140$上海电信
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+http://f.8-k.cc/Cha/1.m3u8?怀旧剧场
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://www.tico2.eu.org:4022/rtp/239.69.1.89:10174$湖北电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场
