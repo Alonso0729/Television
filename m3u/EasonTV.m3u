@@ -3193,6 +3193,24 @@ http://218.78.183.200:8888/udp/239.45.3.185:5140
 https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 #EXTINF:-1 tvg-name="浦东电视台" tvg-logo="https://epg.v1.mk/logo/浦东电视台.png" group-title="上海",浦东电视台
 https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB
+#EXTINF:-1 tvg-name="马莎F1" tvg-logo="https://epg.v1.mk/logo/马莎F1.png" group-title="体育",马莎F1
+https://mashaf1.cn/F1.m3u
+#EXTINF:-1 tvg-name="马莎F1-五星体育超高清" tvg-logo="https://epg.v1.mk/logo/马莎F1-五星体育超高清.png" group-title="体育",马莎F1-五星体育超高清
+http://agent.wanwanju.top/channel1.m3u8
+#EXTINF:-1 tvg-name="马莎F1-F1TV信号" tvg-logo="https://epg.v1.mk/logo/马莎F1-F1TV信号.png" group-title="体育",马莎F1-F1TV信号
+http://agent.wanwanju.top/channel2.m3u8
+#EXTINF:-1 tvg-name="马莎F1-广东体育" tvg-logo="https://epg.v1.mk/logo/马莎F1-广东体育.png" group-title="体育",马莎F1-广东体育
+http://agent.wanwanju.top/channel3.m3u8
+#EXTINF:-1 tvg-name="马莎F1-实时数据" tvg-logo="https://epg.v1.mk/logo/马莎F1-实时数据.png" group-title="体育",马莎F1-实时数据
+http://agent.wanwanju.top/channel4.m3u8
+#EXTINF:-1 tvg-name="马莎F1-Sky天空体育" tvg-logo="https://epg.v1.mk/logo/马莎F1-Sky天空体育.png" group-title="体育",马莎F1-Sky天空体育
+http://agent.wanwanju.top/channel5.m3u8
+#EXTINF:-1 tvg-name="马莎F1-五星体育-dy书晨的老爹" tvg-logo="https://epg.v1.mk/logo/马莎F1-五星体育-dy书晨的老爹.png" group-title="体育",马莎F1-五星体育-dy书晨的老爹
+http://agent.wanwanju.top/channel6.m3u8
+#EXTINF:-1 tvg-name="马莎F1-五星体育机顶盒信号" tvg-logo="https://epg.v1.mk/logo/马莎F1-五星体育机顶盒信号.png" group-title="体育",马莎F1-五星体育机顶盒信号
+http://agent.wanwanju.top/channel7.m3u8
+#EXTINF:-1 tvg-name="马莎F1-F1学院" tvg-logo="https://epg.v1.mk/logo/马莎F1-F1学院.png" group-title="体育",马莎F1-F1学院
+http://agent.wanwanju.top/channel8.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://43.248.100.135:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="体育",睛彩竞技
