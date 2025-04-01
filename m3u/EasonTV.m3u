@@ -22477,6 +22477,18 @@ http://play-live-hls.jxtvcn.com.cn/live/tv_nanchang.flv
 http://A/ku9/js/jxtv.js?id=ncds
 #EXTINF:-1 tvg-name="南昌资讯" tvg-logo="https://epg.v1.mk/logo/南昌资讯.png" group-title="江西",南昌资讯
 http://A/ku9/js/jxtv.js?id=nczx
+#EXTINF:-1 tvg-name="南昌公共" tvg-logo="https://epg.v1.mk/logo/南昌公共.png" group-title="江西",南昌公共
+http://A/ku9/js/jxtv.js?id=ncgg
+#EXTINF:-1 tvg-name="南昌新建" tvg-logo="https://epg.v1.mk/logo/南昌新建.png" group-title="江西",南昌新建
+http://A/ku9/js/jxtv.js?id=xjtv
+#EXTINF:-1 tvg-name="南昌县" tvg-logo="https://epg.v1.mk/logo/南昌县.png" group-title="江西",南昌县
+http://A/ku9/js/jxtv.js?id=ncxtv
+#EXTINF:-1 tvg-name="南昌安义" tvg-logo="https://epg.v1.mk/logo/南昌安义.png" group-title="江西",南昌安义
+http://A/ku9/js/jxtv.js?id=aytv
+#EXTINF:-1 tvg-name="南昌进贤" tvg-logo="https://epg.v1.mk/logo/南昌进贤.png" group-title="江西",南昌进贤
+http://A/ku9/js/jxtv.js?id=jxtv
+#EXTINF:-1 tvg-name="南昌湾里" tvg-logo="https://epg.v1.mk/logo/南昌湾里.png" group-title="江西",南昌湾里
+http://A/ku9/js/jxtv.js?id=wltv
 #EXTINF:-1 tvg-name="九江新闻综合" tvg-logo="https://epg.v1.mk/logo/九江新闻综合.png" group-title="江西",九江新闻综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8
 #EXTINF:-1 tvg-name="九江新闻综合" tvg-logo="https://epg.v1.mk/logo/九江新闻综合.png" group-title="江西",九江新闻综合
@@ -25471,6 +25483,8 @@ http://www.flyskyman.cn:4022/rtp/233.50.202.25:5140
 http://nas.jc-hqp.cn:9999/rtp/233.50.202.25:5140
 #EXTINF:-1 tvg-name="浙江之江纪录" tvg-logo="https://epg.v1.mk/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://epg.v1.mk/logo/杭州综合.png" group-title="浙江",杭州综合
+http://A/ku9/js/hztv.js?id=hzzh
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://epg.v1.mk/logo/杭州综合.png" group-title="浙江",杭州综合
 http://www.flyskyman.cn:4022/rtp/233.50.201.173:5140
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://epg.v1.mk/logo/杭州综合.png" group-title="浙江",杭州综合
