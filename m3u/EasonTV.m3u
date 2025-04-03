@@ -15341,6 +15341,18 @@ http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="福州少儿" tvg-logo="https://epg.v1.mk/logo/福州少儿.png" group-title="福建",福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 tvg-name="厦门综合" tvg-logo="https://epg.v1.mk/logo/厦门综合.png" group-title="福建",厦门综合
+https://live1b.kxm.xmtv.cn/xm1bf/playlist.m3u8
+#EXTINF:-1 tvg-name="厦门综合" tvg-logo="https://epg.v1.mk/logo/厦门综合.png" group-title="福建",厦门综合
+https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8
+#EXTINF:-1 tvg-name="厦门海峡" tvg-logo="https://epg.v1.mk/logo/厦门海峡.png" group-title="福建",厦门海峡
+https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8
+#EXTINF:-1 tvg-name="厦门海峡" tvg-logo="https://epg.v1.mk/logo/厦门海峡.png" group-title="福建",厦门海峡
+https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8
+#EXTINF:-1 tvg-name="厦门移动电视" tvg-logo="https://epg.v1.mk/logo/厦门移动电视.png" group-title="福建",厦门移动电视
+https://live1b.kxm.xmtv.cn/xmyidongbf_1b/playlist.m3u8
+#EXTINF:-1 tvg-name="厦门移动电视" tvg-logo="https://epg.v1.mk/logo/厦门移动电视.png" group-title="福建",厦门移动电视
+https://live1b.kxm.xmtv.cn/xmyidongbf_1b/tvzb/live.m3u8
 #EXTINF:-1 tvg-name="漳州一套" tvg-logo="https://epg.v1.mk/logo/漳州一套.png" group-title="福建",漳州一套
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.flv
 #EXTINF:-1 tvg-name="漳州一套" tvg-logo="https://epg.v1.mk/logo/漳州一套.png" group-title="福建",漳州一套
