@@ -1846,6 +1846,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://epg.v1.mk/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/电视指南.png" group-title="央视",电视指南
+http://www.lizhinas.top:1009/rtp/239.252.219.97:5140$江西电信
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/电视指南.png" group-title="央视",电视指南
 http://www.tico2.eu.org:4022/rtp/239.69.1.87:10162$湖北电信
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/电视指南.png" group-title="央视",电视指南
 http://ds920.dsmynas.net:5555/rtp/226.0.2.218:9656$山西联通
@@ -1885,6 +1887,8 @@ http://121.232.17.113:8848/rtp/239.49.0.161:9282
 http://wein66.ddnsfree.com:4022/udp/239.45.1.73:5140$上海电信
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/电视指南.png" group-title="央视",电视指南
 http://218.78.183.200:8888/udp/239.45.1.73:5140$上海电信
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="央视",风云足球
+http://www.lizhinas.top:1009/rtp/239.252.219.96:5140$江西电信
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="央视",风云足球
 http://www.tico2.eu.org:4022/rtp/239.69.1.81:10126$湖北电信
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="央视",风云足球
@@ -1931,6 +1935,8 @@ http://wein66.ddnsfree.com:4022/udp/233.18.204.176:5140$上海电信
 http://218.78.183.200:8888/udp/239.45.0.43:5140$上海电信
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="央视",风云足球
 http://218.78.183.200:8888/udp/239.45.1.75:5140$上海电信
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/女性时尚.png" group-title="央视",女性时尚
+http://www.lizhinas.top:1009/rtp/239.252.219.94:5140$江西电信
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/女性时尚.png" group-title="央视",女性时尚
 http://www.tico2.eu.org:4022/rtp/239.69.1.86:10156$湖北电信
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/女性时尚.png" group-title="央视",女性时尚
@@ -1988,6 +1994,8 @@ http://www.feizhu1212.top:9999/udp/239.77.0.212:5146$广东电信
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场
 http://f.8-k.cc/Cha/1.m3u8?第一剧场
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场
+http://www.lizhinas.top:1009/rtp/239.252.219.86:5140$江西电信
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场
 http://www.tico2.eu.org:4022/rtp/239.69.1.74:10084$湖北电信
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.221:9680$山西联通
@@ -2032,6 +2040,8 @@ http://218.78.183.200:8888/udp/239.45.0.51:5140$上海电信
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场
 http://f.8-k.cc/Cha/1.m3u8?风云剧场
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场
+http://www.lizhinas.top:1009/rtp/239.252.219.89:5140$江西电信
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场
 http://ds920.dsmynas.net:5555/rtp/226.0.2.227:9728$山西联通
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场
 http://49.65.176.61:8888/rtp/239.49.8.89:8000
@@ -2071,6 +2081,8 @@ http://wein66.ddnsfree.com:4022/udp/233.18.204.183:5140$上海电信
 http://218.78.183.200:8888/udp/239.45.0.50:5140$上海电信
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视",风云音乐
 http://f.8-k.cc/Cha/1.m3u8?风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视",风云音乐
+http://www.lizhinas.top:1009/rtp/239.252.219.87:5140$江西电信
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视",风云音乐
 http://www.tico2.eu.org:4022/rtp/239.69.1.90:10180$湖北电信
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视",风云音乐
@@ -2121,6 +2133,8 @@ http://wein66.ddnsfree.com:4022/udp/233.18.204.185:5140$上海电信
 http://218.78.183.200:8888/udp/239.45.0.52:5140$上海电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://f.8-k.cc/Cha/1.m3u8?怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+http://www.lizhinas.top:1009/rtp/239.252.219.90:5140$江西电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://www.tico2.eu.org:4022/rtp/239.69.1.89:10174$湖北电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场
@@ -2174,6 +2188,8 @@ http://wein66.ddnsfree.com:4022/udp/233.18.204.182:5140$上海电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://218.78.183.200:8888/udp/239.45.0.49:5140$上海电信
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/高尔夫网球.png" group-title="央视",高尔夫网球
+http://www.lizhinas.top:1009/rtp/239.252.219.95:5140$江西电信
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://www.tico2.eu.org:4022/rtp/239.69.1.83:10138$湖北电信
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://ds920.dsmynas.net:5555/rtp/226.0.2.217:9648$山西联通
@@ -2220,6 +2236,8 @@ http://218.78.183.200:8888/udp/239.45.1.72:5140$上海电信
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://218.78.183.200:8888/udp/239.45.0.48:5140$上海电信
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.v1.mk/logo/央视文化精品.png" group-title="央视",央视文化精品
+http://www.lizhinas.top:1009/rtp/239.252.219.81:5140$江西电信
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.v1.mk/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://ds920.dsmynas.net:5555/rtp/226.0.2.219:9664$山西联通
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.v1.mk/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://49.65.176.61:8888/rtp/239.49.8.90:8000
@@ -2263,6 +2281,8 @@ http://wein66.ddnsfree.com:4022/udp/233.18.204.186:5140$上海电信
 http://218.78.183.200:8888/udp/239.45.0.53:5140$上海电信
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.v1.mk/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://218.78.183.200:8888/udp/239.45.1.17:5140$上海电信
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/世界地理.png" group-title="央视",世界地理
+http://www.lizhinas.top:1009/rtp/239.252.219.93:5140$江西电信
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/世界地理.png" group-title="央视",世界地理
 http://www.tico2.eu.org:4022/rtp/239.69.1.91:10186$湖北电信
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/世界地理.png" group-title="央视",世界地理
@@ -2312,6 +2332,8 @@ http://wein66.ddnsfree.com:4022/udp/233.18.204.179:5140$上海电信
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/世界地理.png" group-title="央视",世界地理
 http://218.78.183.200:8888/udp/239.45.0.46:5140$上海电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/央视台球.png" group-title="央视",央视台球
+http://www.lizhinas.top:1009/rtp/239.252.219.80:5140$江西电信
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/央视台球.png" group-title="央视",央视台球
 http://www.tico2.eu.org:4022/rtp/239.69.1.98:10224$湖北电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/央视台球.png" group-title="央视",央视台球
 http://ds920.dsmynas.net:5555/rtp/226.0.2.216:9640$山西联通
@@ -2335,6 +2357,8 @@ http://wein66.ddnsfree.com:4022/udp/239.45.0.44:5140$上海电信
 http://wein66.ddnsfree.com:4022/udp/233.18.204.177:5140$上海电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/央视台球.png" group-title="央视",央视台球
 http://218.78.183.200:8888/udp/239.45.0.44:5140$上海电信
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/兵器科技.png" group-title="央视",兵器科技
+http://www.lizhinas.top:1009/rtp/239.252.219.98:5140$江西电信
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/兵器科技.png" group-title="央视",兵器科技
 http://www.tico2.eu.org:4022/rtp/239.69.1.79:10114$湖北电信
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/兵器科技.png" group-title="央视",兵器科技
@@ -9486,6 +9510,8 @@ http://wein66.ddnsfree.com:4022/udp/239.45.0.42:5140$上海电信
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://wein66.ddnsfree.com:4022/udp/233.18.204.175:5140$上海电信
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$江西电信
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://home.yulei.online:9999/rtp/226.0.2.93:8004
@@ -9518,6 +9544,8 @@ http://wein66.ddnsfree.com:4022/udp/239.45.0.40:5140$上海电信
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://wein66.ddnsfree.com:4022/udp/233.18.204.173:5140$上海电信
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$江西电信
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://218.78.183.200:8888/udp/239.45.0.40:5140
@@ -9547,6 +9575,8 @@ http://b.xubo.myds.me:9999/rtp/239.93.42.7:5140$四川电信
 http://wein66.ddnsfree.com:4022/udp/239.45.0.41:5140$上海电信
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://wein66.ddnsfree.com:4022/udp/233.18.204.174:5140$上海电信
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://www.lizhinas.top:1009/rtp/239.252.219.85:5140$江西电信
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
@@ -22370,7 +22400,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxds
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://epg.v1.mk/logo/江西都市.png" group-title="江西",江西都市
 http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://epg.v1.mk/logo/江西都市.png" group-title="江西",江西都市
-http://220.176.218.7:8888/rtp/239.252.220.238:5140
+http://www.lizhinas.top:1009/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://epg.v1.mk/logo/江西经济生活.png" group-title="江西",江西经济生活
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv3.m3u8
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://epg.v1.mk/logo/江西经济生活.png" group-title="江西",江西经济生活
@@ -22386,9 +22416,9 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjjsh
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://epg.v1.mk/logo/江西经济生活.png" group-title="江西",江西经济生活
 http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://epg.v1.mk/logo/江西经济生活.png" group-title="江西",江西经济生活
-http://220.176.218.7:8888/rtp/239.252.219.173:5140
+http://www.lizhinas.top:1009/rtp/239.252.219.173:5140
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://epg.v1.mk/logo/江西经济生活.png" group-title="江西",江西经济生活
-http://220.176.218.7:8888/rtp/239.252.220.110:5140
+http://www.lizhinas.top:1009/rtp/239.252.220.110:5140
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://epg.v1.mk/logo/江西影视旅游.png" group-title="江西",江西影视旅游
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv4.m3u8
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://epg.v1.mk/logo/江西影视旅游.png" group-title="江西",江西影视旅游
@@ -22404,7 +22434,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxysly
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://epg.v1.mk/logo/江西影视旅游.png" group-title="江西",江西影视旅游
 http://58.144.154.93/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
 #EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://epg.v1.mk/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://220.176.218.7:8888/rtp/239.252.220.242:5140
+http://www.lizhinas.top:1009/rtp/239.252.220.242:5140
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://epg.v1.mk/logo/江西公共农业.png" group-title="江西",江西公共农业
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv5.m3u8
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://epg.v1.mk/logo/江西公共农业.png" group-title="江西",江西公共农业
@@ -22420,7 +22450,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxggny
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://epg.v1.mk/logo/江西公共农业.png" group-title="江西",江西公共农业
 http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://epg.v1.mk/logo/江西公共农业.png" group-title="江西",江西公共农业
-http://220.176.218.7:8888/rtp/239.252.220.102:5140
+http://www.lizhinas.top:1009/rtp/239.252.220.102:5140
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://epg.v1.mk/logo/江西少儿.png" group-title="江西",江西少儿
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://epg.v1.mk/logo/江西少儿.png" group-title="江西",江西少儿
@@ -22436,7 +22466,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxse
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://epg.v1.mk/logo/江西少儿.png" group-title="江西",江西少儿
 http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://epg.v1.mk/logo/江西少儿.png" group-title="江西",江西少儿
-http://220.176.218.7:8888/rtp/239.252.219.113:5140
+http://www.lizhinas.top:1009/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://epg.v1.mk/logo/江西新闻.png" group-title="江西",江西新闻
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv7.m3u8
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://epg.v1.mk/logo/江西新闻.png" group-title="江西",江西新闻
@@ -22452,13 +22482,13 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxxw
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://epg.v1.mk/logo/江西新闻.png" group-title="江西",江西新闻
 http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://epg.v1.mk/logo/江西新闻.png" group-title="江西",江西新闻
-http://220.176.218.7:8888/rtp/239.252.220.100:5140
+http://www.lizhinas.top:1009/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://epg.v1.mk/logo/江西移动电视.png" group-title="江西",江西移动电视
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv8.m3u8
 #EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://epg.v1.mk/logo/江西移动电视.png" group-title="江西",江西移动电视
 http://play-live-hls.jxtvcn.com.cn/live/tv_jxtv8.flv
 #EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://epg.v1.mk/logo/江西移动电视.png" group-title="江西",江西移动电视
-http://220.176.218.7:8888/rtp/239.252.220.241:5140
+http://www.lizhinas.top:1009/rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://epg.v1.mk/logo/江西移动电视.png" group-title="江西",江西移动电视
 http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
 #EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://epg.v1.mk/logo/江西风尚购物.png" group-title="江西",江西风尚购物
