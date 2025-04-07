@@ -1,1485 +1,1515 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000004953$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000004953
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000002226$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000002226
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000030810$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000030810
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265001$4M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265001
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000052$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000052
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5510876839019192947$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5510876839019192947
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=9198071806334826260$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=9198071806334826260
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=5068253659616166748$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=5068253659616166748
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000029752$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000029752
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000018602$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000018602
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000021973$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000021973
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265001$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265001
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=reallive-CCTV-1$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=reallive-CCTV-1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=reallive-hdCCTV-1$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=reallive-hdCCTV-1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000009000012022$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000009000012022
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000031113$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000031113
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031101$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031101
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7501364488890008391$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7501364488890008391
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000014161$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000014161
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8878432746825677699$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8878432746825677699
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000012442$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000012442
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000023315$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000023315
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265002$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265002
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5353323539453949720$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5353323539453949720
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000020548$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000020548
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000008883$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000008883
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265003$4M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265003
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000022313$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000022313
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000011218$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000011218
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000013682$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000013682
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265003$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265003
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8378175926191110263$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8378175926191110263
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000030093$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000030093
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031102$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031102
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265004$4M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265004
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8830950643842119430$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8830950643842119430
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=4719673858948437836$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=4719673858948437836
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000031664$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000031664
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265004$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265004
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8183388942203045169$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8183388942203045169
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000008885$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000008885
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000016619$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000016619
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265005$4M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265005
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=4867251683694877276$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=4867251683694877276
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000016431$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000016431
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=7680777599813046442$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=7680777599813046442
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000004794$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000004794
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000003000030177$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000003000030177
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000025222$12M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000025222
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265005$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265005
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=reallive-CCTV-5$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=reallive-CCTV-5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031127$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031127
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5350361928876847638$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5350361928876847638
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000015875$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000015875
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000018504$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000018504
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000020505$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000020505
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265016$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265016
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=reallive-CCTV-5plus$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=reallive-CCTV-5plus
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000008886$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000008886
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000018433$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000018433
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265006$4M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265006
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000004574$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000004574
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6994512760913257617$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6994512760913257617
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001737$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001737
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000016466$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000016466
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265006$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265006
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6117099895556651277$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6117099895556651277
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000026715$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000026715
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031104$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031104
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7787764357983924496$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7787764357983924496
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000009055$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000009055
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000017218$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000017218
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000024341$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000024341
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265007$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265007
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7050628689018054317$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7050628689018054317
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="央视",CCTV-8
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000008888$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000008888
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="央视",CCTV-8
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000018377$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000018377
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="央视",CCTV-8
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000001070$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000001070
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="央视",CCTV-8
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8967744667154419073$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8967744667154419073
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="央视",CCTV-8
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000003736$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000003736
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="央视",CCTV-8
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000031433$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000031433
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="央视",CCTV-8
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265008$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265008
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="央视",CCTV-8
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8871488051501921127$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8871488051501921127
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV-9
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000018384$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000018384
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV-9
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288020$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288020
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV-9
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5117943747640013023$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5117943747640013023
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV-9
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000032162$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000032162
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV-9
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6350727550077620987$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6350727550077620987
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV-9
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000014583$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000014583
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV-9
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000028286$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000028286
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV-9
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265009$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265009
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV-9
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6275371742726901431$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6275371742726901431
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="央视",CCTV-10
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000012827$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000012827
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="央视",CCTV-10
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000016738$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000016738
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="央视",CCTV-10
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6099129499930970995$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6099129499930970995
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="央视",CCTV-10
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000031506$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000031506
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="央视",CCTV-10
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000023734$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000023734
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="央视",CCTV-10
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000026367$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000026367
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="央视",CCTV-10
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265010$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265010
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="央视",CCTV-10
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7019587760656900133$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7019587760656900133
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="央视",CCTV-11
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040011$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040011
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="央视",CCTV-11
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031106$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031106
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="央视",CCTV-11
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5028333576671744004$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5028333576671744004
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="央视",CCTV-11
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8983629816140945539$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8983629816140945539
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="央视",CCTV-11
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000019789$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000019789
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="央视",CCTV-11
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265011$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265011
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="央视",CCTV-11
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6351457414282570521$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6351457414282570521
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="央视",CCTV-12
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040012$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040012
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="央视",CCTV-12
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031107$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031107
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="央视",CCTV-12
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5789397805573190782$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5789397805573190782
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="央视",CCTV-12
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000022586$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000022586
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="央视",CCTV-12
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001640$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001640
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="央视",CCTV-12
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000032494$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000032494
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="央视",CCTV-12
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265012$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265012
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="央视",CCTV-12
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5325631075193490169$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5325631075193490169
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="央视",CCTV-13
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000001827$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000001827
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="央视",CCTV-13
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031108$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031108
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="央视",CCTV-13
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8144735820797832112$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8144735820797832112
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="央视",CCTV-13
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8593685226043367730$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8593685226043367730
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="央视",CCTV-13
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000021303$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000021303
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="央视",CCTV-13
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265101$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265101
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="央视",CCTV-13
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6918130250570453526$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6918130250570453526
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="央视",CCTV-14
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000006673$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000006673
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="央视",CCTV-14
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000023358$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000023358
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="央视",CCTV-14
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8533174746904291143$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8533174746904291143
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="央视",CCTV-14
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000013647$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000013647
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="央视",CCTV-14
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6113730085955692619$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6113730085955692619
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="央视",CCTV-14
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000008170$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000008170
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="央视",CCTV-14
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000021349$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000021349
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="央视",CCTV-14
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265013$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265013
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="央视",CCTV-14
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8203666801302077036$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8203666801302077036
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="央视",CCTV-15
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000018417$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000018417
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="央视",CCTV-15
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031109$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031109
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="央视",CCTV-15
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5527219383522032005$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5527219383522032005
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="央视",CCTV-15
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000008163$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000008163
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="央视",CCTV-15
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265014$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265014
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="央视",CCTV-15
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4832596595465032187$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4832596595465032187
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="央视",CCTV-16
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000008000023253$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000008000023253
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="央视",CCTV-16
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000233001$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000233001
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="央视",CCTV-16
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000233002$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000233002
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="央视",CCTV-16
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000008000023254$12M UHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000008000023254
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="央视",CCTV-16
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000059
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视",CCTV-17
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288014$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288014
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视",CCTV-17
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000056836$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000056836
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视",CCTV-17
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265015$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265015
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视",CCTV-17
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000268004$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000268004
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视",CCTV-17
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000038
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="央视",CETV-1
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000002652$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000002652
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="央视",CETV-1
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288015$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288015
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="央视",CETV-1
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000018981$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000018981
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="央视",CETV-1
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000027253$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000027253
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="央视",CETV-1
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7106250793420582078$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7106250793420582078
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="央视",CETV-2
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031201$3M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031201
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="央视",CETV-2
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288017$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288017
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="央视",CETV-2
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000047$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000047
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="央视",CETV-2
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266004$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266004
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="央视",CETV-4
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000012123$3M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000012123
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="央视",CETV-4
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031126$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031126
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="央视",CETV-4
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000005000042312$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000005000042312
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="央视",CETV-4
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000025333$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000025333
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.v1.mk/logo/CGTN英语.png" group-title="央视",CGTN英语
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=4810873738577663591$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=4810873738577663591
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.v1.mk/logo/CGTN英语.png" group-title="央视",CGTN英语
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7745129417417101820$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7745129417417101820
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.v1.mk/logo/CGTN英语.png" group-title="央视",CGTN英语
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000009569$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000009569
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://epg.v1.mk/logo/CGTN阿语.png" group-title="央视",CGTN阿语
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000280001$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000280001
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://epg.v1.mk/logo/CGTN俄语.png" group-title="央视",CGTN俄语
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000280004$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000280004
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://epg.v1.mk/logo/CGTN法语.png" group-title="央视",CGTN法语
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000280003$4M SD
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://epg.v1.mk/logo/CGTN西班牙语.png" group-title="央视",CGTN西班牙语
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000280002$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000280003
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://epg.v1.mk/logo/CGTN西语.png" group-title="央视",CGTN西语
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000280002
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://epg.v1.mk/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7114647837765104058$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7114647837765104058
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://epg.v1.mk/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8428799834696888424$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8428799834696888424
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000014098$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000014098
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000032246$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000032246
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265007$4M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265007
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000056$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000056
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5172136776786813822$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5172136776786813822
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6437032193071740776$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6437032193071740776
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000003639$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000003639
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6690661682550849647$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6690661682550849647
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000005866$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000005866
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000030202$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000030202
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265018$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265018
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4699937686040264690$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4699937686040264690
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6081477947334326291$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6081477947334326291
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=6131854485504331903
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031110$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031110
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000005$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000005
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000018926$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000018926
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000012$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000012
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000032212$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000032212
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000013$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000013
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000027146$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000027146
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000004$4M FHD
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000017540$4M FHD
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000007$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000004
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000017540
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000007
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000031641$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000031641
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031123$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031123
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000000172$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000000172
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5101217554085087042$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5101217554085087042
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000007000010004$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000007000010004
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031124$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031124
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031125$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031125
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000019$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000019
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000020$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000020
 #EXTINF:-1 tvg-name="东方购物" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000091$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000091
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="上海",上海教育
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288019$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288019
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040025$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040025
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031112$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031112
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000059$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000059
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000092$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000092
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000026105$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000026105
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="上海",金色学堂
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000061$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000061
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=9001547084732463424$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=9001547084732463424
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000014$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000014
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000007000010003$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000007000010003
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000090$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000090
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000009455$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000009455
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000007000010001$12M UHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000007000010001
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000016$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000016
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031207$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031207
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000068$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000068
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000029972$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000029972
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000008$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000008
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000004412$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000004412
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031111$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031111
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000015$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000015
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000023636$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000023636
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031113$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031113
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000009$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000009
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000019634$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000019634
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="上海",生活时尚
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000006$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000006
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="上海",游戏风云
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000027005$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000027005
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="上海",游戏风云
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031114$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031114
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="上海",游戏风云
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000011$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000011
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="体育",睛彩竞技
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011528$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011528
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="体育",睛彩竞技
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011530$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011530
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="体育",睛彩竞技
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000060$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000060
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="体育",睛彩竞技
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270001$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270001
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="体育",睛彩青少
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011525$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011525
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="体育",睛彩青少
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000031315$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000031315
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="体育",睛彩青少
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000068$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000068
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="体育",睛彩青少
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270007$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270007
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011529$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011529
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011531$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011531
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000061$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000061
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000065$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000065
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270002$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270002
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270006$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270006
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011523$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011523
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011524$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011524
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000062$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000062
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000064$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000064
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270003$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270003
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270005$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270005
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=13000000020000011523
 #EXTINF:-1 tvg-name="咪咕视频-1" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-1
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000005308$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000000097
 #EXTINF:-1 tvg-name="咪咕视频-2" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-2
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000005969$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000002019
 #EXTINF:-1 tvg-name="咪咕视频-3" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-3
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000007218$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000002809
 #EXTINF:-1 tvg-name="咪咕视频-4" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-4
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000008001$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000003915
 #EXTINF:-1 tvg-name="咪咕视频-5" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-5
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000008176$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000004193
 #EXTINF:-1 tvg-name="咪咕视频-6" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-6
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000008379$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000005180
 #EXTINF:-1 tvg-name="咪咕视频-7" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-7
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000010129$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000005837
 #EXTINF:-1 tvg-name="咪咕视频-8" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-8
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000010948$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000006077
 #EXTINF:-1 tvg-name="咪咕视频-9" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-9
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000028638$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000006658
 #EXTINF:-1 tvg-name="咪咕视频-10" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-10
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000031494$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000009788
 #EXTINF:-1 tvg-name="咪咕视频-11" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-11
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000000097$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000010833
 #EXTINF:-1 tvg-name="咪咕视频-12" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-12
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000002019$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000011297
 #EXTINF:-1 tvg-name="咪咕视频-13" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-13
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000002809$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000011518
 #EXTINF:-1 tvg-name="咪咕视频-14" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-14
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000003915$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000012558
 #EXTINF:-1 tvg-name="咪咕视频-15" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-15
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000004193$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000012616
 #EXTINF:-1 tvg-name="咪咕视频-16" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-16
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000005180$30M UHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000015470
 #EXTINF:-1 tvg-name="咪咕视频-17" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-17
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000005837$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000015560
 #EXTINF:-1 tvg-name="咪咕视频-18" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-18
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000006077$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000019839
 #EXTINF:-1 tvg-name="咪咕视频-19" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-19
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000006658$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000021904
 #EXTINF:-1 tvg-name="咪咕视频-20" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-20
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000009788$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000023434
 #EXTINF:-1 tvg-name="咪咕视频-21" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-21
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000010833$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000025380
 #EXTINF:-1 tvg-name="咪咕视频-22" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-22
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000011297$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000027691
 #EXTINF:-1 tvg-name="咪咕视频-23" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-23
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000011518$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000005308
 #EXTINF:-1 tvg-name="咪咕视频-24" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-24
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000012558$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000005969
 #EXTINF:-1 tvg-name="咪咕视频-25" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-25
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000012616$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000007218
 #EXTINF:-1 tvg-name="咪咕视频-26" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-26
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000015470$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000008001
 #EXTINF:-1 tvg-name="咪咕视频-27" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-27
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000015560$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000008176
 #EXTINF:-1 tvg-name="咪咕视频-28" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-28
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000019839$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000008379
 #EXTINF:-1 tvg-name="咪咕视频-29" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-29
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000021904$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000010129
 #EXTINF:-1 tvg-name="咪咕视频-30" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-30
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000023434$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000028638
 #EXTINF:-1 tvg-name="咪咕视频-31" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-31
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000025380$5M FHD
-#EXTINF:-1 tvg-name="咪咕视频-32" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-32
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000027691$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000031494
 #EXTINF:-1 tvg-name="咪咕视频-33" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-33
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000031669$5M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000001000010948
 #EXTINF:-1 tvg-name="咪咕视频-34" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-34
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011518$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000031669
 #EXTINF:-1 tvg-name="咪咕视频-35" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-35
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011519$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011518
 #EXTINF:-1 tvg-name="咪咕视频-36" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-36
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011520$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011519
 #EXTINF:-1 tvg-name="咪咕视频-37" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-37
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011521$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011520
 #EXTINF:-1 tvg-name="咪咕视频-38" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-38
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011522$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011521
 #EXTINF:-1 tvg-name="咪咕视频-39" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-39
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000063$8M FHD
-#EXTINF:-1 tvg-name="咪咕视频-4K" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-4K
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000270004$8M FHD
-#EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-1
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000001116$4M FHD
-#EXTINF:-1 tvg-name="百视通直播-2" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-2
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000002898$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000020000011522
+#EXTINF:-1 tvg-name="咪咕视频-40" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-40
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000063
+#EXTINF:-1 tvg-name="咪咕视频-3D" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪咕视频-3D
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000017678
 #EXTINF:-1 tvg-name="百视通直播-3" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-3
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000004876$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000024
 #EXTINF:-1 tvg-name="百视通直播-4" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-4
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000006777$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000025
 #EXTINF:-1 tvg-name="百视通直播-5" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-5
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000017342$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000026
 #EXTINF:-1 tvg-name="百视通直播-6" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-6
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000018009$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000027
 #EXTINF:-1 tvg-name="百视通直播-7" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-7
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000019233$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000028
 #EXTINF:-1 tvg-name="百视通直播-8" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-8
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000022620$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000029
 #EXTINF:-1 tvg-name="百视通直播-9" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-9
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000023256$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000030
 #EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-10
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000026930$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000049
 #EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-11
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000024$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000050
 #EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-12
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000025$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000051
 #EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-13
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000026$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000001116
 #EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-14
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000027$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000002898
 #EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-15
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000028$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000004876
 #EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-16
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000029$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000006777
 #EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-17
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000030$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000017342
 #EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-18
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000049$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000018009
 #EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-19
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000050$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000019233
 #EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-20
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000051$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000022620
+#EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-21
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000023256
+#EXTINF:-1 tvg-name="百视通直播-22" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-22
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000026930
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000022124$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000022124
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266001$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266001
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7248678452522064966$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7248678452522064966
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000027288$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000027288
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000023002$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000023002
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8815051804265066702$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8815051804265066702
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000009954$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000009954
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000020780$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000020780
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000030159$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000030159
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265025$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265025
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4774346722046993363$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4774346722046993363
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000031556$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000031556
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000011502$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000011502
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265011$4M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265011
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6356396163691637298$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6356396163691637298
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8656422569829547833$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8656422569829547833
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000020451$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000020451
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000017156$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000017156
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000021288$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000021288
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265027$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265027
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8186688740528366039$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8186688740528366039
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8258663409451267714$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8258663409451267714
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040020$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040020
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266005$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266005
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000025797$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000025797
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5795701757771275875$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5795701757771275875
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001096$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001096
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000018937$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000018937
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265017$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265017
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4995134319251569870$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4995134319251569870
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000045$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000045
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000011619$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000011619
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000005829$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000005829
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000010584$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000010584
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6877196208180525617$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6877196208180525617
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000009263$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000009263
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265033$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265033
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7721801662260370363$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7721801662260370363
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040021$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040021
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031121$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031121
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000017827$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000017827
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8938598377512027715$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8938598377512027715
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000014694$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000014694
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000030417$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000030417
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6006643234125022740$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6006643234125022740
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=5306115082857917057$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=5306115082857917057
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000031076$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000031076
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000014176$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000014176
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000028357$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000028357
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265034$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265034
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5616881981321254555$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5616881981321254555
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6604532991586541024$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6604532991586541024
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040014$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040014
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031118$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031118
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5411468428139664300$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5411468428139664300
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000019837$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000019837
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8069815772565148726$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8069815772565148726
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000025843$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000025843
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6399538709763552932$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6399538709763552932
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000003169$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000003169
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5468064193211864646$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5468064193211864646
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000006211$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000006211
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6416920617511796880$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6416920617511796880
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000023773$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000023773
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7899627377857656087$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7899627377857656087
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040016$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040016
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000017118$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000017118
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8360637122634561354$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8360637122634561354
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000017925$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000017925
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031119$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031119
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000027731$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000027731
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7304224304099543804$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7304224304099543804
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000025203$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000025203
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000031107$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000031107
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=4708717482586167604$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=4708717482586167604
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8791922236512824525$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8791922236512824525
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000016510$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000016510
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001925$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001925
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009082$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009082
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265029$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265029
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8467838254824392379$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8467838254824392379
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000014954$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000014954
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000022140$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000022140
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5153590482567519311$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5153590482567519311
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000015436$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000015436
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000010355$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000010355
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000024621$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000024621
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265023$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265023
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6956052407855047826$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6956052407855047826
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000006692$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000006692
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000030452$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000030452
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265010$4M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265010
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8134113048876071035$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8134113048876071035
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=9156315265568865780$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=9156315265568865780
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000018044$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000018044
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009115$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009115
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000032695$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000032695
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265024$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265024
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6954818217931477266$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6954818217931477266
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8655038471675748531$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8655038471675748531
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040013$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040013
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031117$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031117
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000027730$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000027730
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6042486520432105075$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6042486520432105075
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000019351$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000019351
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000018509$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000018509
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265009$4M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265009
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7397162709759672535$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7397162709759672535
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7782585682414689856$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7782585682414689856
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000014861$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000014861
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001828$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001828
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000004684$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000004684
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265030$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265030
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4690153511271751319$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4690153511271751319
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4796340999304424198$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4796340999304424198
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000032154$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000032154
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000011210$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000011210
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8501314381310215409$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8501314381310215409
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000013731$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000013731
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265032$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265032
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000268001$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000268001
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5616078396620462481$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5616078396620462481
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000003000001598$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000003000001598
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266002$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266002
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=9131971102485823367$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=9131971102485823367
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000008940$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000008940
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000011671$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000011671
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6354020802043163902$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6354020802043163902
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001945$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001945
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000024033$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000024033
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265022$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265022
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7638375013635582245$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7638375013635582245
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=7331079758781182663$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=7331079758781182663
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000014080$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000014080
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5559214655508729688$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5559214655508729688
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040022$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040022
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000031451$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000031451
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7527747602951312973$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7527747602951312973
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000046$4M SD
-#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266003$4M SD
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040015$4M FHD
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000013359$4M FHD
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6721180114242078041$2M SD
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288016$8M FHD
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5084893189220221988$2M SD
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266006$4M SD
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000013$2M SD
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000004097$4M SD
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7341476808603780321$2M SD
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000020424$8M FHD
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000027763$4M FHD
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5314654537380139019$2M SD
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=9216797902845952310$2M SD
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000004134$8M FHD
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000012807$4M FHD
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000016568$8M FHD
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265019$6M FHD HEVC
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7347081113971056899$2M HD
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7744799445271696577$2M HD
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040023$4M SD
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000021220$4M SD
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4821787565788875765$2M SD
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266003
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
 http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000046
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266003
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040015
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000013359
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6721180114242078041
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6399324389404552555
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="卫视",三沙卫视
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288016
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="卫视",三沙卫视
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000106
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5084893189220221988
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266006
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000013
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000004097
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7341476808603780321
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000020424
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000027763
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5314654537380139019
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=9216797902845952310
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000004134
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000012807
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000016568
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265019
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7347081113971056899
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7744799445271696577
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040023
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000021220
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4821787565788875765
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040017$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040017
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7400528621461986101$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7400528621461986101
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000007495$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000007495
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7120278140251237664$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7120278140251237664
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000007410$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000007410
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000024026$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000024026
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5810022399100543765$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5810022399100543765
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8902912065170644677$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8902912065170644677
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000002116$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000002116
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009227$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009227
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000011645$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000011645
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265028$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265028
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5352218613763113657$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5352218613763113657
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7696950400632248401$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7696950400632248401
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000006119$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000006119
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6677438387677364824$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6677438387677364824
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000016825$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000016825
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8744805262559782299$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8744805262559782299
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000030788$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000001000030788
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000006827$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000006827
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8389971589569141275$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8389971589569141275
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=9062258020633980548$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=9062258020633980548
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000009186$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000009186
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000000831$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000000831
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000003475$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000003475
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265026$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265026
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6707942579111517572$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6707942579111517572
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8798367982904688776$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8798367982904688776
 #EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000021549$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000002000021549
 #EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7134589828528695864$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7134589828528695864
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5381760837640571168$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5381760837640571168
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000015894$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000015894
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6603041244077933770$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6603041244077933770
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040018$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040018
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000029441$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000029441
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5802765535081445534$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5802765535081445534
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6986657152785429375
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://epg.v1.mk/logo/延边卫视.png" group-title="卫视",延边卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000049$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000049
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://epg.v1.mk/logo/延边卫视.png" group-title="卫视",延边卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266008$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266008
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040019$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040019
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031120$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031120
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6546334374314681368$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6546334374314681368
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000024694$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000024694
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8567124785369040339$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8567124785369040339
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000007275$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000004000007275
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000017320$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000017320
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5053644244529125038$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5053644244529125038
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5822304506273784683$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5822304506273784683
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000032070$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000001000032070
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009806$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009806
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000014260$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000014260
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265031$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265031
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4945391150963996912$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=4945391150963996912
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7889730693553663314$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7889730693553663314
+#EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://epg.v1.mk/logo/4KUHD.png" group-title="娱乐",4KUHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000011651
 #EXTINF:-1 tvg-name="BesTV百变课堂" tvg-logo="https://epg.v1.mk/logo/BesTV百变课堂.png" group-title="娱乐",BesTV百变课堂
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288001$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288001
 #EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-logo="https://epg.v1.mk/logo/BesTV宝宝动画.png" group-title="娱乐",BesTV宝宝动画
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288002$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288002
 #EXTINF:-1 tvg-name="BesTV电竞天堂" tvg-logo="https://epg.v1.mk/logo/BesTV电竞天堂.png" group-title="娱乐",BesTV电竞天堂
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288003$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288003
 #EXTINF:-1 tvg-name="BesTV谍战剧场" tvg-logo="https://epg.v1.mk/logo/BesTV谍战剧场.png" group-title="娱乐",BesTV谍战剧场
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288004$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288004
 #EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://epg.v1.mk/logo/BesTV华语影院.png" group-title="娱乐",BesTV华语影院
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288005$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288005
 #EXTINF:-1 tvg-name="BesTV健康养生" tvg-logo="https://epg.v1.mk/logo/BesTV健康养生.png" group-title="娱乐",BesTV健康养生
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288006$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288006
 #EXTINF:-1 tvg-name="BesTV看天下精选" tvg-logo="https://epg.v1.mk/logo/BesTV看天下精选.png" group-title="娱乐",BesTV看天下精选
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288007$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288007
 #EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://epg.v1.mk/logo/BesTV青春动漫.png" group-title="娱乐",BesTV青春动漫
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288008$8M HD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288008
 #EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://epg.v1.mk/logo/BesTV全球大片.png" group-title="娱乐",BesTV全球大片
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288009$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288009
 #EXTINF:-1 tvg-name="BesTV热门剧场" tvg-logo="https://epg.v1.mk/logo/BesTV热门剧场.png" group-title="娱乐",BesTV热门剧场
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288010$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288010
 #EXTINF:-1 tvg-name="BesTV热门综艺" tvg-logo="https://epg.v1.mk/logo/BesTV热门综艺.png" group-title="娱乐",BesTV热门综艺
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288011$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288011
 #EXTINF:-1 tvg-name="BesTV戏曲精选" tvg-logo="https://epg.v1.mk/logo/BesTV戏曲精选.png" group-title="娱乐",BesTV戏曲精选
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288012$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288012
 #EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://epg.v1.mk/logo/BesTV星光影院.png" group-title="娱乐",BesTV星光影院
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288013$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000288013
 #EXTINF:-1 tvg-name="Hot风尚音乐" tvg-logo="https://epg.v1.mk/logo/Hot风尚音乐.png" group-title="娱乐",Hot风尚音乐
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000004$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000004
 #EXTINF:-1 tvg-name="Hot风尚音乐" tvg-logo="https://epg.v1.mk/logo/Hot风尚音乐.png" group-title="娱乐",Hot风尚音乐
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=5529729098703832176$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=5529729098703832176
 #EXTINF:-1 tvg-name="Hot精品剧场" tvg-logo="https://epg.v1.mk/logo/Hot精品剧场.png" group-title="娱乐",Hot精品剧场
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000002$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000002
 #EXTINF:-1 tvg-name="Hot精品剧场" tvg-logo="https://epg.v1.mk/logo/Hot精品剧场.png" group-title="娱乐",Hot精品剧场
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8230197131234717902$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8230197131234717902
 #EXTINF:-1 tvg-name="Hot欧美影院" tvg-logo="https://epg.v1.mk/logo/Hot欧美影院.png" group-title="娱乐",Hot欧美影院
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000005$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000005
 #EXTINF:-1 tvg-name="Hot欧美影院" tvg-logo="https://epg.v1.mk/logo/Hot欧美影院.png" group-title="娱乐",Hot欧美影院
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=7185203501769528108$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=7185203501769528108
 #EXTINF:-1 tvg-name="Hot亚洲影院" tvg-logo="https://epg.v1.mk/logo/Hot亚洲影院.png" group-title="娱乐",Hot亚洲影院
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000006$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000006
 #EXTINF:-1 tvg-name="Hot亚洲影院" tvg-logo="https://epg.v1.mk/logo/Hot亚洲影院.png" group-title="娱乐",Hot亚洲影院
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=5841816227539527643$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=5841816227539527643
+#EXTINF:-1 tvg-name="iHot爱电竞" tvg-logo="https://epg.v1.mk/logo/iHot爱电竞.png" group-title="娱乐",iHot爱电竞
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000054
+#EXTINF:-1 tvg-name="iHot爱电竞" tvg-logo="https://epg.v1.mk/logo/iHot爱电竞.png" group-title="娱乐",iHot爱电竞
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000230630
 #EXTINF:-1 tvg-name="iHot爱谍战" tvg-logo="https://epg.v1.mk/logo/iHot爱谍战.png" group-title="娱乐",iHot爱谍战
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000038$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000038
 #EXTINF:-1 tvg-name="iHot爱谍战" tvg-logo="https://epg.v1.mk/logo/iHot爱谍战.png" group-title="娱乐",iHot爱谍战
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000070630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000070630
 #EXTINF:-1 tvg-name="iHot爱动漫" tvg-logo="https://epg.v1.mk/logo/iHot爱动漫.png" group-title="娱乐",iHot爱动漫
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000059$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000059
 #EXTINF:-1 tvg-name="iHot爱动漫" tvg-logo="https://epg.v1.mk/logo/iHot爱动漫.png" group-title="娱乐",iHot爱动漫
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000280630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000280630
+#EXTINF:-1 tvg-name="iHot爱都市" tvg-logo="https://epg.v1.mk/logo/iHot爱都市.png" group-title="娱乐",iHot爱都市
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000080630
+#EXTINF:-1 tvg-name="iHot爱怀旧" tvg-logo="https://epg.v1.mk/logo/iHot爱怀旧.png" group-title="娱乐",iHot爱怀旧
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000057
+#EXTINF:-1 tvg-name="iHot爱怀旧" tvg-logo="https://epg.v1.mk/logo/iHot爱怀旧.png" group-title="娱乐",iHot爱怀旧
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000260630
+#EXTINF:-1 tvg-name="iHot爱经典" tvg-logo="https://epg.v1.mk/logo/iHot爱经典.png" group-title="娱乐",iHot爱经典
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000037
+#EXTINF:-1 tvg-name="iHot爱经典" tvg-logo="https://epg.v1.mk/logo/iHot爱经典.png" group-title="娱乐",iHot爱经典
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000060630
 #EXTINF:-1 tvg-name="iHot爱科幻" tvg-logo="https://epg.v1.mk/logo/iHot爱科幻.png" group-title="娱乐",iHot爱科幻
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000033$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000033
 #EXTINF:-1 tvg-name="iHot爱科幻" tvg-logo="https://epg.v1.mk/logo/iHot爱科幻.png" group-title="娱乐",iHot爱科幻
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000020630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000020630
 #EXTINF:-1 tvg-name="iHot爱科学" tvg-logo="https://epg.v1.mk/logo/iHot爱科学.png" group-title="娱乐",iHot爱科学
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000047$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000047
 #EXTINF:-1 tvg-name="iHot爱科学" tvg-logo="https://epg.v1.mk/logo/iHot爱科学.png" group-title="娱乐",iHot爱科学
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000160630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000160630
 #EXTINF:-1 tvg-name="iHot爱浪漫" tvg-logo="https://epg.v1.mk/logo/iHot爱浪漫.png" group-title="娱乐",iHot爱浪漫
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000035$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000035
 #EXTINF:-1 tvg-name="iHot爱浪漫" tvg-logo="https://epg.v1.mk/logo/iHot爱浪漫.png" group-title="娱乐",iHot爱浪漫
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000040630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000040630
 #EXTINF:-1 tvg-name="iHot爱历史" tvg-logo="https://epg.v1.mk/logo/iHot爱历史.png" group-title="娱乐",iHot爱历史
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000046$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000046
 #EXTINF:-1 tvg-name="iHot爱历史" tvg-logo="https://epg.v1.mk/logo/iHot爱历史.png" group-title="娱乐",iHot爱历史
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000150630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000150630
 #EXTINF:-1 tvg-name="iHot爱旅行" tvg-logo="https://epg.v1.mk/logo/iHot爱旅行.png" group-title="娱乐",iHot爱旅行
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000056$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000056
 #EXTINF:-1 tvg-name="iHot爱旅行" tvg-logo="https://epg.v1.mk/logo/iHot爱旅行.png" group-title="娱乐",iHot爱旅行
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000250630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000250630
 #EXTINF:-1 tvg-name="iHot爱奇谈" tvg-logo="https://epg.v1.mk/logo/iHot爱奇谈.png" group-title="娱乐",iHot爱奇谈
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000058$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000058
 #EXTINF:-1 tvg-name="iHot爱奇谈" tvg-logo="https://epg.v1.mk/logo/iHot爱奇谈.png" group-title="娱乐",iHot爱奇谈
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000270630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000270630
+#EXTINF:-1 tvg-name="iHot爱青春" tvg-logo="https://epg.v1.mk/logo/iHot爱青春.png" group-title="娱乐",iHot爱青春
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000041
+#EXTINF:-1 tvg-name="iHot爱青春" tvg-logo="https://epg.v1.mk/logo/iHot爱青春.png" group-title="娱乐",iHot爱青春
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000100630
 #EXTINF:-1 tvg-name="iHot爱赛车" tvg-logo="https://epg.v1.mk/logo/iHot爱赛车.png" group-title="娱乐",iHot爱赛车
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000055$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000055
 #EXTINF:-1 tvg-name="iHot爱赛车" tvg-logo="https://epg.v1.mk/logo/iHot爱赛车.png" group-title="娱乐",iHot爱赛车
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000240630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000240630
 #EXTINF:-1 tvg-name="iHot爱体育" tvg-logo="https://epg.v1.mk/logo/iHot爱体育.png" group-title="娱乐",iHot爱体育
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000060$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000060
 #EXTINF:-1 tvg-name="iHot爱体育" tvg-logo="https://epg.v1.mk/logo/iHot爱体育.png" group-title="娱乐",iHot爱体育
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000290630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000290630
 #EXTINF:-1 tvg-name="iHot爱玩具" tvg-logo="https://epg.v1.mk/logo/iHot爱玩具.png" group-title="娱乐",iHot爱玩具
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000053$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000053
 #EXTINF:-1 tvg-name="iHot爱玩具" tvg-logo="https://epg.v1.mk/logo/iHot爱玩具.png" group-title="娱乐",iHot爱玩具
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000220630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000220630
 #EXTINF:-1 tvg-name="iHot爱喜剧" tvg-logo="https://epg.v1.mk/logo/iHot爱喜剧.png" group-title="娱乐",iHot爱喜剧
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000032$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000032
 #EXTINF:-1 tvg-name="iHot爱喜剧" tvg-logo="https://epg.v1.mk/logo/iHot爱喜剧.png" group-title="娱乐",iHot爱喜剧
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000010630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000010630
 #EXTINF:-1 tvg-name="iHot爱悬疑" tvg-logo="https://epg.v1.mk/logo/iHot爱悬疑.png" group-title="娱乐",iHot爱悬疑
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000036$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000036
 #EXTINF:-1 tvg-name="iHot爱悬疑" tvg-logo="https://epg.v1.mk/logo/iHot爱悬疑.png" group-title="娱乐",iHot爱悬疑
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000050630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000050630
 #EXTINF:-1 tvg-name="iHot爱幼教" tvg-logo="https://epg.v1.mk/logo/iHot爱幼教.png" group-title="娱乐",iHot爱幼教
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000049$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000049
 #EXTINF:-1 tvg-name="iHot爱幼教" tvg-logo="https://epg.v1.mk/logo/iHot爱幼教.png" group-title="娱乐",iHot爱幼教
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000180630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000180630
 #EXTINF:-1 tvg-name="iHot爱院线" tvg-logo="https://epg.v1.mk/logo/iHot爱院线.png" group-title="娱乐",iHot爱院线
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000034$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000034
 #EXTINF:-1 tvg-name="iHot爱院线" tvg-logo="https://epg.v1.mk/logo/iHot爱院线.png" group-title="娱乐",iHot爱院线
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000030630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000030630
 #EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://epg.v1.mk/logo/NewTV爱情喜剧.png" group-title="娱乐",NewTV爱情喜剧
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000010$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000010
 #EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://epg.v1.mk/logo/NewTV爱情喜剧.png" group-title="娱乐",NewTV爱情喜剧
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8393829412396288037$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8393829412396288037
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://epg.v1.mk/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000032$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000032
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://epg.v1.mk/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000008139$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000008139
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://epg.v1.mk/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000024993$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000024993
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://epg.v1.mk/logo/NewTV超级电视剧.png" group-title="娱乐",NewTV超级电视剧
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000268003$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000268003
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://epg.v1.mk/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000031$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000031
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://epg.v1.mk/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000012884$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000012884
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://epg.v1.mk/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000003000012426$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000003000012426
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://epg.v1.mk/logo/NewTV超级电影.png" group-title="娱乐",NewTV超级电影
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000002120$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000002120
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://epg.v1.mk/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000030$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000030
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://epg.v1.mk/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009204$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009204
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://epg.v1.mk/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009601$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000009601
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://epg.v1.mk/logo/NewTV超级体育.png" group-title="娱乐",NewTV超级体育
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000007755$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000007755
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://epg.v1.mk/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000029$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000029
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://epg.v1.mk/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000025771$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000025771
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://epg.v1.mk/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000023658$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000023658
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://epg.v1.mk/logo/NewTV超级综艺.png" group-title="娱乐",NewTV超级综艺
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000268002$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000268002
 #EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/NewTV潮妈辣婆.png" group-title="娱乐",NewTV潮妈辣婆
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000018$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000018
 #EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://epg.v1.mk/logo/NewTV潮妈辣婆.png" group-title="娱乐",NewTV潮妈辣婆
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6516734029835465177$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6516734029835465177
 #EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://epg.v1.mk/logo/NewTV哒啵电竞.png" group-title="娱乐",NewTV哒啵电竞
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000066$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000066
 #EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://epg.v1.mk/logo/NewTV哒啵电竞.png" group-title="娱乐",NewTV哒啵电竞
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000032327$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000032327
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://epg.v1.mk/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000004$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000004
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://epg.v1.mk/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000039$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000039
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://epg.v1.mk/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000040$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000040
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://epg.v1.mk/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000003775$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000003775
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://epg.v1.mk/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000006906$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000006906
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://epg.v1.mk/logo/NewTV哒啵赛事.png" group-title="娱乐",NewTV哒啵赛事
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5320946857686967621$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5320946857686967621
 #EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://epg.v1.mk/logo/NewTV东北热剧.png" group-title="娱乐",NewTV东北热剧
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000051$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000051
 #EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://epg.v1.mk/logo/NewTV东北热剧.png" group-title="娱乐",NewTV东北热剧
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266013$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266013
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://epg.v1.mk/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000017$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000017
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://epg.v1.mk/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000018653$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000018653
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://epg.v1.mk/logo/NewTV动作电影.png" group-title="娱乐",NewTV动作电影
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8103864434730665389$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8103864434730665389
 #EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://epg.v1.mk/logo/NewTV古装剧场.png" group-title="娱乐",NewTV古装剧场
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000024$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000024
 #EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://epg.v1.mk/logo/NewTV古装剧场.png" group-title="娱乐",NewTV古装剧场
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6859053933687922163$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6859053933687922163
 #EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://epg.v1.mk/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000001$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000001
 #EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://epg.v1.mk/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000019624$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000019624
 #EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://epg.v1.mk/logo/NewTV黑莓电影.png" group-title="娱乐",NewTV黑莓电影
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8785669936177902664$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8785669936177902664
 #EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://epg.v1.mk/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000002$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000002
 #EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://epg.v1.mk/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000021734$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000021734
 #EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://epg.v1.mk/logo/NewTV黑莓动画.png" group-title="娱乐",NewTV黑莓动画
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6497762188035533951$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6497762188035533951
 #EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="娱乐",NewTV欢乐剧场
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000050$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000050
 #EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://epg.v1.mk/logo/NewTV欢乐剧场.png" group-title="娱乐",NewTV欢乐剧场
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266012$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266012
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://epg.v1.mk/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000012$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000012
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://epg.v1.mk/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000008284$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000008284
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://epg.v1.mk/logo/NewTV家庭剧场.png" group-title="娱乐",NewTV家庭剧场
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6316377948248689070$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6316377948248689070
 #EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://epg.v1.mk/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000005$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000005
 #EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://epg.v1.mk/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000026167$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000026167
 #EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://epg.v1.mk/logo/NewTV金牌综艺.png" group-title="娱乐",NewTV金牌综艺
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6399725674632152632$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6399725674632152632
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000015$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000015
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000024282$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000024282
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://epg.v1.mk/logo/NewTV惊悚悬疑.png" group-title="娱乐",NewTV惊悚悬疑
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7151256057701199617$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7151256057701199617
 #EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://epg.v1.mk/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000020$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000020
 #EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://epg.v1.mk/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000013968$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000013968
 #EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://epg.v1.mk/logo/NewTV精品大剧.png" group-title="娱乐",NewTV精品大剧
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7882297361445410858$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7882297361445410858
 #EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://epg.v1.mk/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000019$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000019
 #EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://epg.v1.mk/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000013730$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000013730
 #EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="https://epg.v1.mk/logo/NewTV精品纪录.png" group-title="娱乐",NewTV精品纪录
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6298506997017621594$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6298506997017621594
 #EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://epg.v1.mk/logo/NewTV精品萌宠.png" group-title="娱乐",NewTV精品萌宠
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000067$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000067
 #EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://epg.v1.mk/logo/NewTV精品萌宠.png" group-title="娱乐",NewTV精品萌宠
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000032328$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000006000032328
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://epg.v1.mk/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000021$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000021
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://epg.v1.mk/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000014634$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000014634
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://epg.v1.mk/logo/NewTV精品体育.png" group-title="娱乐",NewTV精品体育
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6460382139625130259$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6460382139625130259
 #EXTINF:-1 tvg-name="NewTV精品综合" tvg-logo="https://epg.v1.mk/logo/NewTV精品综合.png" group-title="娱乐",NewTV精品综合
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000008$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000008
 #EXTINF:-1 tvg-name="NewTV精品综合" tvg-logo="https://epg.v1.mk/logo/NewTV精品综合.png" group-title="娱乐",NewTV精品综合
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5595720619887440144$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000019008
+#EXTINF:-1 tvg-name="NewTV精品综合" tvg-logo="https://epg.v1.mk/logo/NewTV精品综合.png" group-title="娱乐",NewTV精品综合
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5595720619887440144
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://epg.v1.mk/logo/NewTV军旅剧场.png" group-title="娱乐",NewTV军旅剧场
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000014$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000014
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://epg.v1.mk/logo/NewTV军旅剧场.png" group-title="娱乐",NewTV军旅剧场
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7485075951068666323$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7485075951068666323
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://epg.v1.mk/logo/NewTV军事评论.png" group-title="娱乐",NewTV军事评论
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000022$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000022
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://epg.v1.mk/logo/NewTV军事评论.png" group-title="娱乐",NewTV军事评论
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5822616274253344775$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5822616274253344775
 #EXTINF:-1 tvg-name="NewTV魅力潇湘" tvg-logo="https://epg.v1.mk/logo/NewTV魅力潇湘.png" group-title="娱乐",NewTV魅力潇湘
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000041$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000041
 #EXTINF:-1 tvg-name="NewTV魅力潇湘" tvg-logo="https://epg.v1.mk/logo/NewTV魅力潇湘.png" group-title="娱乐",NewTV魅力潇湘
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000006197$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000006197
 #EXTINF:-1 tvg-name="NewTV魅力潇湘" tvg-logo="https://epg.v1.mk/logo/NewTV魅力潇湘.png" group-title="娱乐",NewTV魅力潇湘
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266014$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266014
 #EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png" group-title="娱乐",NewTV明星大片
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000019008$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000016
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://epg.v1.mk/logo/NewTV明星大片.png" group-title="娱乐",NewTV明星大片
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7681593242002292003
 #EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://epg.v1.mk/logo/NewTV农业致富.png" group-title="娱乐",NewTV农业致富
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000003$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000003
 #EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://epg.v1.mk/logo/NewTV农业致富.png" group-title="娱乐",NewTV农业致富
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6193684637634073625$4M FHD
-#EXTINF:-1 tvg-name="NewTV热播精选" tvg-logo="https://epg.v1.mk/logo/NewTV热播精选.png" group-title="娱乐",NewTV热播精选
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000016$4M FHD
-#EXTINF:-1 tvg-name="NewTV热播精选" tvg-logo="https://epg.v1.mk/logo/NewTV热播精选.png" group-title="娱乐",NewTV热播精选
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7681593242002292003$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=6193684637634073625
 #EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://epg.v1.mk/logo/NewTV武搏世界.png" group-title="娱乐",NewTV武搏世界
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000007$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000007
 #EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://epg.v1.mk/logo/NewTV武搏世界.png" group-title="娱乐",NewTV武搏世界
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=bokesen$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=bokesen
 #EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://epg.v1.mk/logo/NewTV炫舞未来.png" group-title="娱乐",NewTV炫舞未来
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000044$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000044
 #EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://epg.v1.mk/logo/NewTV炫舞未来.png" group-title="娱乐",NewTV炫舞未来
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000000515$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000000515
 #EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://epg.v1.mk/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000023$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000023
 #EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://epg.v1.mk/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266011$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266011
 #EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://epg.v1.mk/logo/NewTV怡伴健康.png" group-title="娱乐",NewTV怡伴健康
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7820874641606664941$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7820874641606664941
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://epg.v1.mk/logo/NewTV中国功夫.png" group-title="娱乐",NewTV中国功夫
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000009$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000009
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://epg.v1.mk/logo/NewTV中国功夫.png" group-title="娱乐",NewTV中国功夫
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5897056882324761054$4M FHD
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="娱乐",纯享4K
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000011651$16M UHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5897056882324761054
 #EXTINF:-1 tvg-name="电子竞技" tvg-logo="https://epg.v1.mk/logo/电子竞技.png" group-title="娱乐",电子竞技
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000015$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000015
 #EXTINF:-1 tvg-name="电子竞技" tvg-logo="https://epg.v1.mk/logo/电子竞技.png" group-title="娱乐",电子竞技
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000011654$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000011654
 #EXTINF:-1 tvg-name="高清娱乐" tvg-logo="https://epg.v1.mk/logo/高清娱乐.png" group-title="娱乐",高清娱乐
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000013$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000013
 #EXTINF:-1 tvg-name="高清娱乐" tvg-logo="https://epg.v1.mk/logo/高清娱乐.png" group-title="娱乐",高清娱乐
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000001569$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000001569
 #EXTINF:-1 tvg-name="华数4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="娱乐",华数4K
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000014$16M UHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000014
 #EXTINF:-1 tvg-name="华数4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="娱乐",华数4K
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000004748$16M UHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000004748
 #EXTINF:-1 tvg-name="华数服务" tvg-logo="https://epg.v1.mk/logo/华数服务.png" group-title="娱乐",华数服务
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000025$4M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000025
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="娱乐",家庭理财
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031210$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031210
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="娱乐",家庭理财
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000064$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000064
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://epg.v1.mk/logo/精彩影视.png" group-title="娱乐",精彩影视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000063$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000063
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://epg.v1.mk/logo/精彩影视.png" group-title="娱乐",精彩影视
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000320630$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000006000320630
 #EXTINF:-1 tvg-name="漫游世界" tvg-logo="https://epg.v1.mk/logo/漫游世界.png" group-title="娱乐",漫游世界
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000017$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000017
 #EXTINF:-1 tvg-name="漫游世界" tvg-logo="https://epg.v1.mk/logo/漫游世界.png" group-title="娱乐",漫游世界
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000028434$4M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000028434
+#EXTINF:-1 tvg-name="名师公开课" tvg-logo="https://epg.v1.mk/logo/名师公开课.png" group-title="娱乐",名师公开课
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000023702
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://epg.v1.mk/logo/求索动物.png" group-title="娱乐",求索动物
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000009$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000009
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://epg.v1.mk/logo/求索动物.png" group-title="娱乐",求索动物
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000002000010046$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000002000010046
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://epg.v1.mk/logo/求索纪录.png" group-title="娱乐",求索纪录
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000010$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000010
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://epg.v1.mk/logo/求索纪录.png" group-title="娱乐",求索纪录
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000002000032052$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000002000032052
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://epg.v1.mk/logo/求索科学.png" group-title="娱乐",求索科学
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000011$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000011
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://epg.v1.mk/logo/求索科学.png" group-title="娱乐",求索科学
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000002000032344$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000002000032344
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://epg.v1.mk/logo/求索生活.png" group-title="娱乐",求索生活
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000008$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000008
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://epg.v1.mk/logo/求索生活.png" group-title="娱乐",求索生活
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000002000003382$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000002000003382
 #EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://epg.v1.mk/logo/少儿动漫.png" group-title="娱乐",少儿动漫
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000003$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000003
 #EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://epg.v1.mk/logo/少儿动漫.png" group-title="娱乐",少儿动漫
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8145334647720731271$4M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=8145334647720731271
 #EXTINF:-1 tvg-name="探索纪录" tvg-logo="https://epg.v1.mk/logo/探索纪录.png" group-title="娱乐",探索纪录
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000007$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000007
 #EXTINF:-1 tvg-name="探索纪录" tvg-logo="https://epg.v1.mk/logo/探索纪录.png" group-title="娱乐",探索纪录
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=5359008697329269813$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=5359008697329269813
 #EXTINF:-1 tvg-name="炫动3D" tvg-logo="https://epg.v1.mk/logo/炫动3D.png" group-title="娱乐",炫动3D
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000012$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000012
 #EXTINF:-1 tvg-name="炫动3D" tvg-logo="https://epg.v1.mk/logo/炫动3D.png" group-title="娱乐",炫动3D
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000000558$4M HD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000000558
 #EXTINF:-1 tvg-name="移动云VR" tvg-logo="https://epg.v1.mk/logo/移动云VR.png" group-title="娱乐",移动云VR
-http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000015686$24M UHD
+http://A/PLTV/ku9/js/yditv.js?cid=FifastbLive&key=3000000010000015686
 #EXTINF:-1 tvg-name="英雄联盟音乐节" tvg-logo="https://epg.v1.mk/logo/英雄联盟音乐节.png" group-title="娱乐",英雄联盟音乐节
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000011$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000011
 #EXTINF:-1 tvg-name="英雄联盟音乐节" tvg-logo="https://epg.v1.mk/logo/英雄联盟音乐节.png" group-title="娱乐",英雄联盟音乐节
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8978605063318475207$2M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=8978605063318475207
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.v1.mk/logo/中国天气.png" group-title="娱乐",中国天气
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000031974$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000031974
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.v1.mk/logo/中国天气.png" group-title="娱乐",中国天气
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000057$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000057
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6306119848317438256$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6306119848317438256
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7766420291569067385$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7766420291569067385
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=4682579636905393407$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=4682579636905393407
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8765482907954673867$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8765482907954673867
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7884242846753128038$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7884242846753128038
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6307875884530512195$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6307875884530512195
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6427893650335440392$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6427893650335440392
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.v1.mk/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031203$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031203
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.v1.mk/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5745820929742960159$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5745820929742960159
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.v1.mk/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000011724$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000011724
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040024$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000006000040024
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8919073838942247498$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8919073838942247498
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000016791$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000016791
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000016601$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000016601
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5201381050640253101$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5201381050640253101
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5015828848322021526$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5015828848322021526
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.v1.mk/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031206$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031206
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.v1.mk/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000067$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000067
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.v1.mk/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=4886720949268374180$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=4886720949268374180
 #EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.v1.mk/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031209$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031209
 #EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.v1.mk/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000070$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000070
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="地方",北京纪实科教
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031204$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031204
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="地方",北京纪实科教
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000065$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000065
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="地方",北京纪实科教
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000026$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000026
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="地方",北京纪实科教
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001910$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000001910
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="地方",北京纪实科教
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000028380$4M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000001000028380
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="地方",北京纪实科教
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265020$6M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000265020
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="地方",北京卡酷少儿
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265008$4M FHD HEVC
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000265008
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="地方",北京卡酷少儿
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=7851974109718180595$8M FHD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=7851974109718180595
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="地方",北京卡酷少儿
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7947519469029992015$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7947519469029992015
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="地方",北京卡酷少儿
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000002709$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000002709
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="地方",北京卡酷少儿
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000002413$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000002413
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="地方",北京卡酷少儿
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7589856436881630561$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=7589856436881630561
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="地方",广东珠江
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000033$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000033
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="地方",广东珠江
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000011655$3M HD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000004000011655
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="地方",广东嘉佳卡通
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=4739906347743456369$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=4739906347743456369
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="地方",广东嘉佳卡通
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000025508$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000025508
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="地方",广东嘉佳卡通
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000025964$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000025964
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://epg.v1.mk/logo/江苏优漫卡通.png" group-title="地方",江苏优漫卡通
-http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000030492$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000030492
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://epg.v1.mk/logo/江苏优漫卡通.png" group-title="地方",江苏优漫卡通
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000010063$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000002000010063
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://epg.v1.mk/logo/江苏优漫卡通.png" group-title="地方",江苏优漫卡通
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5574405527570022182$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5574405527570022182
 #EXTINF:-1 tvg-name="江苏财富天下" tvg-logo="https://epg.v1.mk/logo/江苏财富天下.png" group-title="地方",江苏财富天下
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031208$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000011000031208
 #EXTINF:-1 tvg-name="江苏财富天下" tvg-logo="https://epg.v1.mk/logo/江苏财富天下.png" group-title="地方",江苏财富天下
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000069$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000069
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://epg.v1.mk/logo/浙江教科影视.png" group-title="地方",浙江教科影视
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000001$2M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000004000000001
 #EXTINF:-1 tvg-name="中华美食" tvg-logo="https://epg.v1.mk/logo/中华美食.png" group-title="地方",中华美食
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000052$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000003000000052
 #EXTINF:-1 tvg-name="中华美食" tvg-logo="https://epg.v1.mk/logo/中华美食.png" group-title="地方",中华美食
-http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266015$4M SD
+http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=1000000005000266015
