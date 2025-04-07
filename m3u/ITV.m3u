@@ -385,6 +385,10 @@ http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000004
 http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000017540
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000007
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
+http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000017540
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
+http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000007
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000005000031641
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
