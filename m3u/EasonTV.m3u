@@ -22496,6 +22496,8 @@ http://110.157.220.240:8088/udp/238.125.7.149:5140
 #EXTINF:-1 tvg-name="新疆影视" tvg-logo="https://epg.v1.mk/logo/新疆影视.png" group-title="新疆",新疆影视
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyys
 #EXTINF:-1 tvg-name="新疆影视" tvg-logo="https://epg.v1.mk/logo/新疆影视.png" group-title="新疆",新疆影视
+http://A/ku9/js/xjtv.js?id=xjys
+#EXTINF:-1 tvg-name="新疆影视" tvg-logo="https://epg.v1.mk/logo/新疆影视.png" group-title="新疆",新疆影视
 http://110.157.220.240:8088/udp/238.125.0.225:5140
 #EXTINF:-1 tvg-name="新疆影视" tvg-logo="https://epg.v1.mk/logo/新疆影视.png" group-title="新疆",新疆影视
 http://110.157.220.240:8088/udp/238.125.4.225:5140
