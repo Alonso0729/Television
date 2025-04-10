@@ -19449,8 +19449,6 @@ http://stream5.jlntv.cn/ps/sd/live.m3u8
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.164:5540
 #EXTINF:-1 tvg-name="农安综合" tvg-logo="https://epg.v1.mk/logo/农安综合.png" group-title="吉林",农安综合
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.144:5540
-#EXTINF:-1 tvg-name="美丽东丰" tvg-logo="https://epg.v1.mk/logo/美丽东丰.png" group-title="吉林",美丽东丰
-http://stream5.jlntv.cn/df/sd/live.m3u8
 #EXTINF:-1 tvg-name="梅河口" tvg-logo="https://epg.v1.mk/logo/梅河口.png" group-title="吉林",梅河口
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.173:5540
 #EXTINF:-1 tvg-name="龙井综合" tvg-logo="https://epg.v1.mk/logo/龙井综合.png" group-title="吉林",龙井综合
