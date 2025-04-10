@@ -2654,10 +2654,6 @@ http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000027146$酷9js脚本
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000004$酷9js脚本
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://A/PLTV/ku9/js/yditv.js?cid=bestzb&key=5000000010000017540$酷9js脚本
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=2000000002000000007$酷9js脚本
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/2000000002000000004/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000004&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://[2409:8087:5e20:24::0b]:6610/000000001000/1/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
