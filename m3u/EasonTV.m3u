@@ -1456,7 +1456,7 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000047
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="央视",CETV-2
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031201
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://epg.v1.mk/logo/CETV3.png" group-title="央视",CETV-3
-https://tv.bfsu.edu.cn/hls/cetv3.m3u8
+https://iptv.huuc.edu.cn/hls/cetv3.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="央视",CETV-4
 http://z.b.bkpcp.top/m.php?id=cetv4
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="央视",CETV-4
@@ -2844,7 +2844,7 @@ https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="上海",重温经典
 http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="上海",重温经典
-https://tv.bfsu.edu.cn/hls/cwjdhd.m3u8
+https://iptv.huuc.edu.cn/hls/cwjdhd.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
 http://z.b.bkpcp.top/m.php?id=ly
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
@@ -5830,7 +5830,7 @@ http://extraott.com:80/live/6772191932/1654508883/190006.m3u8
 #EXTINF:-1 tvg-name="SUPERSPORT ACTION" tvg-logo="https://epg.v1.mk/logo/SUPERSPORT ACTION.png" group-title="体育",SUPERSPORT ACTION
 http://extraott.com:80/live/6772191932/1654508883/190015.m3u8
 #EXTINF:-1 tvg-name="Star Sports" tvg-logo="https://epg.v1.mk/logo/Star Sports.png" group-title="体育",Star Sports
-https://tv.bfsu.edu.cn/hls/starsports.m3u8
+https://iptv.huuc.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
 http://www.yzlimingou.com:35455/itv/5000000006000022124.m3u8?cdn=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
@@ -8188,7 +8188,7 @@ http://zhyfans.mycloudnas.com:8000/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="CHANNELV" tvg-logo="https://epg.v1.mk/logo/CHANNELV.png" group-title="娱乐",CHANNELV
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.7:2194
 #EXTINF:-1 tvg-name="CHANNELV" tvg-logo="https://epg.v1.mk/logo/CHANNELV.png" group-title="娱乐",CHANNELV
-https://tv.bfsu.edu.cn/hls/channelv.m3u8
+https://iptv.huuc.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://eastscreen.tv/ooooo.php?id=chchd
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
@@ -8196,7 +8196,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-http://iptv.huuc.edu.cn/hls/chchd.m3u8
+http://iptv.huuc.edu.cn/hls/chchd.m3u8$大学
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 https://stream1.freetv.fun/chcying-mi-dian-ying-6.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
@@ -8230,7 +8230,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-https://tv.bfsu.edu.cn/hls/chctv.m3u8
+https://iptv.huuc.edu.cn/hls/chctv.m3u8$大学
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://eastscreen.tv/ooooo.php?id=chcjt
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
@@ -8264,7 +8264,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://eastscreen.tv/ooooo.php?id=chcdz
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-https://tv.bfsu.edu.cn/hls/chcatv.m3u8
+https://iptv.huuc.edu.cn/hls/chcatv.m3u8$大学
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 https://stream1.freetv.fun/chcdong-zuo-dian-ying-1.ctv
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
@@ -12216,7 +12216,7 @@ http://[2409:8087:1:20:20::28]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.v1.mk/logo/北京文艺.png" group-title="北京",北京文艺
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND$北京移动
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.v1.mk/logo/北京文艺.png" group-title="北京",北京文艺
-https://tv.bfsu.edu.cn/hls/btv2hd.m3u8
+https://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.v1.mk/logo/北京文艺.png" group-title="北京",北京文艺
 http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.v1.mk/logo/北京文艺.png" group-title="北京",北京文艺
@@ -12284,7 +12284,7 @@ http://[2409:8087:1:20:20::28]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejj3PtVjzl6ZzFdM-Vi1dmQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U%2CEND$北京移动
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="北京",北京纪实科教
-https://tv.bfsu.edu.cn/hls/btv3hd.m3u8
+https://iptv.huuc.edu.cn/hls/btv3hd.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://omnix.cn:4000/udp/225.1.8.105:8002$北京电信
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="北京",北京纪实科教
@@ -12330,7 +12330,7 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.v1.mk/logo/北京影视.png" group-title="北京",北京影视
 http://[2409:8087:1:20:20::2b]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND$北京移动
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.v1.mk/logo/北京影视.png" group-title="北京",北京影视
-https://tv.bfsu.edu.cn/hls/btv4hd.m3u8
+https://iptv.huuc.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.v1.mk/logo/北京影视.png" group-title="北京",北京影视
 http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.v1.mk/logo/北京影视.png" group-title="北京",北京影视
@@ -12362,7 +12362,7 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.v1.mk/logo/北京财经.png" group-title="北京",北京财经
 http://[2409:8087:1:20:20::2b]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND$北京移动
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.v1.mk/logo/北京财经.png" group-title="北京",北京财经
-https://tv.bfsu.edu.cn/hls/btv5hd.m3u8
+https://iptv.huuc.edu.cn/hls/btv5hd.m3u8
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.v1.mk/logo/北京财经.png" group-title="北京",北京财经
 http://omnix.cn:4000/udp/225.1.8.106:8002$北京电信
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.v1.mk/logo/北京财经.png" group-title="北京",北京财经
@@ -12428,7 +12428,7 @@ http://[2409:8087:1:20:20::28]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND$北京移动
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="北京",北京体育休闲
-https://tv.bfsu.edu.cn/hls/btv11hd.m3u8
+https://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="北京",北京体育休闲
@@ -12462,7 +12462,7 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.v1.mk/logo/北京生活.png" group-title="北京",北京生活
 http://[2409:8087:1:20:20::2b]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND$北京移动
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.v1.mk/logo/北京生活.png" group-title="北京",北京生活
-https://tv.bfsu.edu.cn/hls/btv7hd.m3u8
+https://iptv.huuc.edu.cn/hls/btv7hd.m3u8
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.v1.mk/logo/北京生活.png" group-title="北京",北京生活
 http://omnix.cn:4000/udp/225.1.8.108:8002$北京电信
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.v1.mk/logo/北京生活.png" group-title="北京",北京生活
@@ -12504,7 +12504,7 @@ http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.v1.mk/logo/北京新闻.png" group-title="北京",北京新闻
 http://[2409:8087:1:20:20::2b]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND$北京移动
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.v1.mk/logo/北京新闻.png" group-title="北京",北京新闻
-https://tv.bfsu.edu.cn/hls/btv9hd.m3u8
+https://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.v1.mk/logo/北京新闻.png" group-title="北京",北京新闻
 http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.v1.mk/logo/北京新闻.png" group-title="北京",北京新闻
@@ -12562,7 +12562,7 @@ http://[2409:8087:5e20:24::0d]:6610/000000001000/1/7589856436881630561/1.m3u8?ch
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://[2409:8087:5e20:24::03]:6610/000000001000/1/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
-https://tv.bfsu.edu.cn/hls/btv10hd.m3u8
+https://iptv.huuc.edu.cn/hls/btv10hd.m3u8
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://omnix.cn:4000/udp/225.1.8.35:8000$北京电信
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
@@ -20860,7 +20860,7 @@ http://175.173.198.22:9009/rtp/232.0.0.154:1234
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://epg.v1.mk/logo/辽宁都市.png" group-title="辽宁",辽宁都市
 http://175.150.159.235:9009/rtp/232.0.0.154:1234
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://epg.v1.mk/logo/辽宁影视剧.png" group-title="辽宁",辽宁影视剧
-https://tv.bfsu.edu.cn/hls/lnysjtv.m3u8
+https://iptv.huuc.edu.cn/hls/lnysjtv.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://epg.v1.mk/logo/辽宁影视剧.png" group-title="辽宁",辽宁影视剧
 https://stream1.freetv.fun/liao-zhu-ying-shi-ju-2.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://epg.v1.mk/logo/辽宁影视剧.png" group-title="辽宁",辽宁影视剧
@@ -24320,7 +24320,7 @@ https://bxtv.587788.xyz/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-https://tv.bfsu.edu.cn/hls/fhzw.m3u8
+https://iptv.huuc.edu.cn/hls/fhzw.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://eastscreen.tv/ooooo.php?id=fhws
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="港澳台",凤凰中文
@@ -24364,7 +24364,7 @@ https://bxtv.587788.xyz/stream/bxtv/null-4/master.m3u8?u=xiaojia&p=edae81555a120
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-https://tv.bfsu.edu.cn/hls/fhzx.m3u8
+https://iptv.huuc.edu.cn/hls/fhzx.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://eastscreen.tv/ooooo.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
@@ -24442,7 +24442,7 @@ http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://epg.v1.mk/logo/凤凰电影.png" group-title="港澳台",凤凰电影
-https://tv.bfsu.edu.cn/hls/fhdy.m3u8
+https://iptv.huuc.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="港澳台",纬来体育
 rtmp://60.248.77.68/sat/tv721
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="港澳台",纬来体育
@@ -24762,7 +24762,7 @@ http://zhyfans.mycloudnas.com:8000/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.v1.mk/logo/星空卫视.png" group-title="港澳台",星空卫视
 http://zhyfans.mycloudnas.com:8000/udp/239.93.1.10:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.v1.mk/logo/星空卫视.png" group-title="港澳台",星空卫视
-https://tv.bfsu.edu.cn/hls/startv.m3u8
+https://iptv.huuc.edu.cn/hls/startv.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.v1.mk/logo/星空卫视.png" group-title="港澳台",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.v1.mk/logo/星空卫视.png" group-title="港澳台",星空卫视
@@ -24976,7 +24976,7 @@ http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.v1.mk/logo/国家地理频道.png" group-title="港澳台",国家地理频道
 http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.v1.mk/logo/国家地理频道.png" group-title="港澳台",国家地理频道
-https://tv.bfsu.edu.cn//hls/natlgeo.m3u8
+https://iptv.huuc.edu.cn//hls/natlgeo.m3u8
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://epg.v1.mk/logo/好莱坞电影.png" group-title="港澳台",好莱坞电影
 http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 #EXTINF:-1 tvg-name="好消息" tvg-logo="https://epg.v1.mk/logo/好消息.png" group-title="港澳台",好消息
@@ -25096,7 +25096,7 @@ http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&c
 #EXTINF:-1 tvg-name="探索频道" tvg-logo="https://epg.v1.mk/logo/探索频道.png" group-title="港澳台",探索频道
 http://61.221.215.25:8800/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="探索频道" tvg-logo="https://epg.v1.mk/logo/探索频道.png" group-title="港澳台",探索频道
-https://tv.bfsu.edu.cn/hls/discovery.m3u8
+https://iptv.huuc.edu.cn/hls/discovery.m3u8
 #EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://epg.v1.mk/logo/探索亚洲.png" group-title="港澳台",探索亚洲
 http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 #EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://epg.v1.mk/logo/探索亚洲.png" group-title="港澳台",探索亚洲
