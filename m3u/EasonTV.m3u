@@ -24492,6 +24492,10 @@ rtmp://60.248.77.68/sat/md011
 #EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育1台.png" group-title="港澳台",爱尔达体育1台
 rtmp://60.248.77.68/sat/md011
 #EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育1台.png" group-title="港澳台",爱尔达体育1台
+rtmp://f13h.mine.nu:1935/sat/md011
+#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育1台.png" group-title="港澳台",爱尔达体育1台
+rtmp://f13h.mine.nu:/sat/md011
+#EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育1台.png" group-title="港澳台",爱尔达体育1台
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 #EXTINF:-1 tvg-name="爱尔达体育1台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育1台.png" group-title="港澳台",爱尔达体育1台
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
@@ -24502,6 +24506,10 @@ rtmp://60.248.77.68/sat/md031
 #EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育2台.png" group-title="港澳台",爱尔达体育2台
 rtmp://60.248.77.66/sat/md031
 #EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育2台.png" group-title="港澳台",爱尔达体育2台
+rtmp://f13h.mine.nu:1935/sat/md031
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育2台.png" group-title="港澳台",爱尔达体育2台
+rtmp://f13h.mine.nu:/sat/md031
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育2台.png" group-title="港澳台",爱尔达体育2台
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 #EXTINF:-1 tvg-name="爱尔达体育2台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育2台.png" group-title="港澳台",爱尔达体育2台
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
@@ -24509,6 +24517,10 @@ http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct
 rtmp://60.248.77.68/sat/md021
 #EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育3台.png" group-title="港澳台",爱尔达体育3台
 rtmp://60.248.77.66/sat/md021
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育3台.png" group-title="港澳台",爱尔达体育3台
+rtmp://f13h.mine.nu:1935/sat/md021
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育3台.png" group-title="港澳台",爱尔达体育3台
+rtmp://f13h.mine.nu:/sat/md021
 #EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育3台.png" group-title="港澳台",爱尔达体育3台
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5ed4db070bbb88905b02dc3901ec6c98
 #EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育3台.png" group-title="港澳台",爱尔达体育3台
@@ -24522,6 +24534,10 @@ rtmp://60.248.77.68/sat/md041
 #EXTINF:-1 tvg-name="爱尔达体育4台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育4台.png" group-title="港澳台",爱尔达体育4台
 rtmp://60.248.77.66/sat/md041
 #EXTINF:-1 tvg-name="爱尔达体育4台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育4台.png" group-title="港澳台",爱尔达体育4台
+rtmp://f13h.mine.nu:1935/sat/md041
+#EXTINF:-1 tvg-name="爱尔达体育4台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育4台.png" group-title="港澳台",爱尔达体育4台
+rtmp://f13h.mine.nu:/sat/md041
+#EXTINF:-1 tvg-name="爱尔达体育4台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育4台.png" group-title="港澳台",爱尔达体育4台
 http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=MAAA1894400518944005&ct=19669&tsum=6bb5ed729263ca3e4af7e1c03fb9cd4b
 #EXTINF:-1 tvg-name="爱尔达体育4台" tvg-logo="https://epg.v1.mk/logo/爱尔达体育4台.png" group-title="港澳台",爱尔达体育4台
 http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=049b18630d8486e7f7d60e17201e48e2
@@ -24531,10 +24547,18 @@ http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct
 rtmp://60.248.77.68/sat/hk011
 #EXTINF:-1 tvg-name="TVB财经体育" tvg-logo="https://epg.v1.mk/logo/TVB财经体育.png" group-title="港澳台",TVB财经体育
 rtmp://60.248.77.66/sat/hk011
+#EXTINF:-1 tvg-name="TVB财经体育" tvg-logo="https://epg.v1.mk/logo/TVB财经体育.png" group-title="港澳台",TVB财经体育
+rtmp://f13h.mine.nu:1935/sat/hk011
+#EXTINF:-1 tvg-name="TVB财经体育" tvg-logo="https://epg.v1.mk/logo/TVB财经体育.png" group-title="港澳台",TVB财经体育
+rtmp://f13h.mine.nu:/sat/hk011
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://epg.v1.mk/logo/ESPN.png" group-title="港澳台",ESPN
 rtmp://60.248.77.68/sat/us031
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://epg.v1.mk/logo/ESPN.png" group-title="港澳台",ESPN
 rtmp://60.248.77.66/sat/us031
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://epg.v1.mk/logo/ESPN.png" group-title="港澳台",ESPN
+rtmp://f13h.mine.nu:1935/sat/us031
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://epg.v1.mk/logo/ESPN.png" group-title="港澳台",ESPN
+rtmp://f13h.mine.nu:/sat/us031
 #EXTINF:-1 tvg-name="D-box" tvg-logo="https://epg.v1.mk/logo/D-box.png" group-title="港澳台",D-box
 http://61.221.215.25:8800/hls/54/index.m3u8
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.v1.mk/logo/HOY TV.png" group-title="港澳台",HOY TV
@@ -31059,7 +31083,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="AKTV",凤凰中文
 http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰信息" tvg-logo="https://epg.v1.mk/logo/凤凰信息.png" group-title="AKTV",凤凰信息
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="AKTV",凤凰资讯
 http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="AKTV",凤凰香港
 http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
