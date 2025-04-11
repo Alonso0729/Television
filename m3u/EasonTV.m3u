@@ -3337,8 +3337,6 @@ https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.
 rtmp://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3
 #EXTINF:-1 tvg-name="浦东电视台" tvg-logo="https://epg.v1.mk/logo/浦东电视台.png" group-title="上海",浦东电视台
 https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB
-#EXTINF:-1 tvg-name="马莎F1" tvg-logo="https://epg.v1.mk/logo/马莎F1.png" group-title="体育",马莎F1
-https://mashaf1.cn/F1.m3u
 #EXTINF:-1 tvg-name="马莎F1-五星体育超高清" tvg-logo="https://epg.v1.mk/logo/马莎F1-五星体育超高清.png" group-title="体育",马莎F1-五星体育超高清
 http://agent.wanwanju.top/channel1.m3u8
 #EXTINF:-1 tvg-name="马莎F1-F1TV信号" tvg-logo="https://epg.v1.mk/logo/马莎F1-F1TV信号.png" group-title="体育",马莎F1-F1TV信号
