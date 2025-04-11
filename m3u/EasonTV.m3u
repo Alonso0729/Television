@@ -21151,6 +21151,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
 http://php.jdshipin.com/TVOD/iptv.php?id=jxjy
 #EXTINF:-1 tvg-name="江西教育" tvg-logo="https://epg.v1.mk/logo/江西教育.png" group-title="江西",江西教育
 https://cdn-live.jxeduyun.com/streams/640f79857ff58.m3u8
+#EXTINF:-1 tvg-name="江西教育" tvg-logo="https://epg.v1.mk/logo/江西教育.png" group-title="江西",江西教育
+http://www.lizhinas.top:1009/rtp/239.252.219.115:5140
 #EXTINF:-1 tvg-name="陶瓷频道" tvg-logo="https://epg.v1.mk/logo/陶瓷频道.png" group-title="江西",陶瓷频道
 rtmp://play-live-hls.jxtvcn.com.cn/live/tv_taoci
 #EXTINF:-1 tvg-name="陶瓷频道" tvg-logo="https://epg.v1.mk/logo/陶瓷频道.png" group-title="江西",陶瓷频道
