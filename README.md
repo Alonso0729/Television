@@ -10,7 +10,7 @@ iOS：<a href="https://apps.apple.com/cn/app/ntplayer/id1613758141?platform=ipho
 
 所有频道：
 <p dir="auto"><code>https://ghfast.top/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/txt/EasonTV.txt</code></p>
-备用加速域名:ghproxy.cn,gh.llkk.cc
+备用加速域名:gh-proxy.com,gh.llkk.cc,ghproxy.net,ghproxy.cn
 
 # 订阅地址(m3u格式)
 # 可支持订阅该格式软件：
