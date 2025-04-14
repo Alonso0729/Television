@@ -7152,6 +7152,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7638375013635582245
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7638375013635582245
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://play1-qk.nmtv.cn:80/live/1686560387346365.m3u8
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://1.24.190.98:10089/hls/39/index.m3u8
@@ -21519,6 +21521,8 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733ce
 http://play1-qk.nmtv.cn:80/live/1686560464515368.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://epg.v1.mk/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
 http://1.24.190.98:10089/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
+https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
 http://play1-qk.nmtv.cn:80/live/1686561065304370.m3u8
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
