@@ -18272,6 +18272,18 @@ http://www.tico2.eu.org:4022/rtp/239.69.1.34:9844$湖北电信
 #EXTINF:-1 tvg-name="阳新综合" tvg-logo="https://epg.v1.mk/logo/阳新综合.png" group-title="湖北",阳新综合
 http://zyhfm.com:8888/rtp/239.69.1.34:9844
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
+http://php.jdshipin.com:8880/iptv.php?id=hnjs
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
+http://php.jdshipin.com/iptv.php?id=hnjs
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
+http://php.jdshipin.com/TVOD/iptv.php?id=hnjs
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6306119848317438256
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
 http://smjdenny.eu.org:35455/itv/6306119848317438256.m3u8?cdn=hnbblive&Contentid=6306119848317438256&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
 http://189.1.243.189:35455/itv/6306119848317438256.m3u8?cdn=hnbblive&Contentid=6306119848317438256&livemode=1&stbId=3
@@ -18285,18 +18297,6 @@ http://emby.today:35455/itv/6306119848317438256.m3u8?cdn=hnbblive&Contentid=6306
 http://www.y-ran.com.cn:35455/itv/6306119848317438256.m3u8?cdn=hnbblive&Contentid=6306119848317438256&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
 http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6306119848317438256$酷9js脚本
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://php.jdshipin.com:8880/iptv.php?id=hnjs
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://php.jdshipin.com/iptv.php?id=hnjs
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://php.jdshipin.com/TVOD/iptv.php?id=hnjs
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6306119848317438256
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/6306119848317438256/1.m3u8?channel-id=hnbblive&Contentid=6306119848317438256&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
@@ -18318,6 +18318,18 @@ http://124.230.56.44:55555/udp/239.76.253.103:9000
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
 http://124.230.56.44:55555/udp/239.76.252.116:9000
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
+http://php.jdshipin.com:8880/iptv.php?id=hnds
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
+http://php.jdshipin.com/iptv.php?id=hnds
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
+http://php.jdshipin.com/TVOD/iptv.php?id=hnds
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4682579636905393407
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=4682579636905393407
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
 http://smjdenny.eu.org:35455/itv/4682579636905393407.m3u8?cdn=hnbblive&Contentid=4682579636905393407&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
 http://189.1.243.189:35455/itv/4682579636905393407.m3u8?cdn=hnbblive&Contentid=4682579636905393407&livemode=1&stbId=3
@@ -18331,18 +18343,6 @@ http://emby.today:35455/itv/4682579636905393407.m3u8?cdn=hnbblive&Contentid=4682
 http://www.y-ran.com.cn:35455/itv/4682579636905393407.m3u8?cdn=hnbblive&Contentid=4682579636905393407&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
 http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=4682579636905393407$酷9js脚本
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
-http://php.jdshipin.com:8880/iptv.php?id=hnds
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4682579636905393407
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
-http://php.jdshipin.com/iptv.php?id=hnds
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
-http://php.jdshipin.com/TVOD/iptv.php?id=hnds
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=4682579636905393407
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/4682579636905393407/1.m3u8?channel-id=hnbblive&Contentid=4682579636905393407&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
@@ -18364,6 +18364,18 @@ http://124.230.56.44:55555/udp/239.76.253.104:9000
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
 http://124.230.56.44:55555/udp/239.76.252.117:9000
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://php.jdshipin.com:8880/iptv.php?id=hndsj
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://php.jdshipin.com/iptv.php?id=hndsj
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://php.jdshipin.com/TVOD/iptv.php?id=hndsj
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=8765482907954673867
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=8765482907954673867
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
 http://smjdenny.eu.org:35455/itv/8765482907954673867.m3u8?cdn=hnbblive&Contentid=8765482907954673867&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
 http://189.1.243.189:35455/itv/8765482907954673867.m3u8?cdn=hnbblive&Contentid=8765482907954673867&livemode=1&stbId=3
@@ -18377,18 +18389,6 @@ http://emby.today:35455/itv/8765482907954673867.m3u8?cdn=hnbblive&Contentid=8765
 http://www.y-ran.com.cn:35455/itv/8765482907954673867.m3u8?cdn=hnbblive&Contentid=8765482907954673867&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
 http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=8765482907954673867$酷9js脚本
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://php.jdshipin.com:8880/iptv.php?id=hndsj
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=8765482907954673867
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://php.jdshipin.com/iptv.php?id=hndsj
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://php.jdshipin.com/TVOD/iptv.php?id=hndsj
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=8765482907954673867
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/8765482907954673867/1.m3u8?channel-id=hnbblive&Contentid=8765482907954673867&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
@@ -18410,6 +18410,18 @@ http://124.230.56.44:55555/udp/239.76.253.108:9000
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
 http://124.230.56.44:55555/udp/239.76.252.118:9000
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
+http://php.jdshipin.com:8880/iptv.php?id=hndy
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
+http://php.jdshipin.com/iptv.php?id=hndy
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
+http://php.jdshipin.com/TVOD/iptv.php?id=hndy
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7884242846753128038
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
 http://smjdenny.eu.org:35455/itv/7884242846753128038.m3u8?cdn=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
 http://189.1.243.189:35455/itv/7884242846753128038.m3u8?cdn=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=3
@@ -18423,18 +18435,6 @@ http://emby.today:35455/itv/7884242846753128038.m3u8?cdn=hnbblive&Contentid=7884
 http://www.y-ran.com.cn:35455/itv/7884242846753128038.m3u8?cdn=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
 http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=7884242846753128038$酷9js脚本
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
-http://php.jdshipin.com:8880/iptv.php?id=hndy
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
-http://php.jdshipin.com/iptv.php?id=hndy
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
-http://php.jdshipin.com/TVOD/iptv.php?id=hndy
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7884242846753128038
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/7884242846753128038/1.m3u8?channel-id=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
@@ -18456,6 +18456,18 @@ http://124.230.56.44:55555/udp/239.76.253.106:9000
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
 http://124.230.56.44:55555/udp/239.76.252.119:9000
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://php.jdshipin.com:8880/iptv.php?id=hngg
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://php.jdshipin.com/iptv.php?id=hngg
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://php.jdshipin.com/TVOD/iptv.php?id=hngg
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6307875884530512195
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6307875884530512195
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
 http://smjdenny.eu.org:35455/itv/6307875884530512195.m3u8?cdn=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
 http://189.1.243.189:35455/itv/6307875884530512195.m3u8?cdn=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=3
@@ -18469,18 +18481,6 @@ http://emby.today:35455/itv/6307875884530512195.m3u8?cdn=hnbblive&Contentid=6307
 http://www.y-ran.com.cn:35455/itv/6307875884530512195.m3u8?cdn=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
 http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6307875884530512195$酷9js脚本
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://php.jdshipin.com:8880/iptv.php?id=hngg
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6307875884530512195
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://php.jdshipin.com/iptv.php?id=hngg
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://php.jdshipin.com/TVOD/iptv.php?id=hngg
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6307875884530512195
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/6307875884530512195/1.m3u8?channel-id=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
@@ -18502,6 +18502,18 @@ http://124.230.56.44:55555/udp/239.76.253.109:9000
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
 http://124.230.56.44:55555/udp/239.76.252.123:9000
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://php.jdshipin.com:8880/iptv.php?id=hnyl
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://php.jdshipin.com/iptv.php?id=hnyl
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://php.jdshipin.com/TVOD/iptv.php?id=hnyl
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6427893650335440392
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://smjdenny.eu.org:35455/itv/6427893650335440392.m3u8?cdn=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://189.1.243.189:35455/itv/6427893650335440392.m3u8?cdn=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
@@ -18515,18 +18527,6 @@ http://emby.today:35455/itv/6427893650335440392.m3u8?cdn=hnbblive&Contentid=6427
 http://www.y-ran.com.cn:35455/itv/6427893650335440392.m3u8?cdn=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=6427893650335440392$酷9js脚本
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://php.jdshipin.com:8880/iptv.php?id=hnyl
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://php.jdshipin.com/iptv.php?id=hnyl
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://php.jdshipin.com/TVOD/iptv.php?id=hnyl
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6427893650335440392
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/6427893650335440392/1.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
@@ -18547,6 +18547,8 @@ http://124.230.56.44:55555/udp/239.76.246.105:1234
 http://124.230.56.44:55555/udp/239.76.253.105:9000
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://124.230.56.44:55555/udp/239.76.252.121:9000
+#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.v1.mk/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/hn.js?id=jyjs
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.v1.mk/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
 http://smjdenny.eu.org:35455/itv/1000000002000011724.m3u8?cdn=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.v1.mk/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
@@ -18624,6 +18626,8 @@ http://A/PLTV/ku9/js/yditv.js?cid=ystenlive&key=5201381050640253101$酷9js脚本
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 http://A/PLTV/ku9/js/yditv.js?cid=wasusyt&key=6000000003000016791$酷9js脚本
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/hn.js?id=jykt
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000016601
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000016601
@@ -18660,6 +18664,18 @@ http://124.230.56.44:55555/udp/239.76.253.107:9000
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 http://124.230.56.44:55555/udp/239.76.252.120:9000
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
+http://php.jdshipin.com:8880/iptv.php?id=hngj
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
+http://php.jdshipin.com/iptv.php?id=hngj
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
+http://php.jdshipin.com/TVOD/iptv.php?id=hngj
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=5015828848322021526
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
 http://smjdenny.eu.org:35455/itv/5015828848322021526.m3u8?cdn=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
 http://189.1.243.189:35455/itv/5015828848322021526.m3u8?cdn=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=3
@@ -18673,18 +18689,6 @@ http://emby.today:35455/itv/5015828848322021526.m3u8?cdn=hnbblive&Contentid=5015
 http://www.y-ran.com.cn:35455/itv/5015828848322021526.m3u8?cdn=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
 http://A/PLTV/ku9/js/yditv.js?cid=hnbblive&key=5015828848322021526$酷9js脚本
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
-http://php.jdshipin.com:8880/iptv.php?id=hngj
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
-http://php.jdshipin.com/iptv.php?id=hngj
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
-http://php.jdshipin.com/TVOD/iptv.php?id=hngj
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=5015828848322021526
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/5015828848322021526/1.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
@@ -18705,6 +18709,8 @@ http://124.230.56.44:55555/udp/239.76.246.102:1234
 http://124.230.56.44:55555/udp/239.76.253.102:9000
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
 http://124.230.56.44:55555/udp/239.76.252.124:9000
+#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.v1.mk/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/hn.js?id=klcd
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.v1.mk/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
 http://smjdenny.eu.org:35455/itv/2000000002000000067.m3u8?cdn=hnbblive&Contentid=2000000002000000067&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.v1.mk/logo/湖南快乐垂钓.png" group-title="湖南",湖南快乐垂钓
@@ -18761,6 +18767,8 @@ http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=4886720949268374180
 http://wein66.ddnsfree.com:4022/udp/239.45.3.43:5140
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://epg.v1.mk/logo/湖南先锋乒羽.png" group-title="湖南",湖南先锋乒羽
 http://218.78.183.200:8888/udp/239.45.3.43:5140
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.v1.mk/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/hn.js?id=cpd
 #EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.v1.mk/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
 http://smjdenny.eu.org:35455/itv/2000000002000000070.m3u8?cdn=hnbblive&Contentid=2000000002000000070&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://epg.v1.mk/logo/湖南茶频道.png" group-title="湖南",湖南茶频道
