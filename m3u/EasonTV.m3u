@@ -488,17 +488,17 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=reallive-cctv5plus
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
 http://z.b.bkpcp.top/m.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://smjdenny.eu.org:35455/gaoma/cctv6.m3u8
+http://smjdenny.eu.org:35455/bptv/10000100000000050000000003870749.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://189.1.243.189:35455/gaoma/cctv6.m3u8
+http://189.1.243.189:35455/bptv/10000100000000050000000003870749.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://hc8q.x3322.net:35455/gaoma/cctv6.m3u8
+http://hc8q.x3322.net:35455/bptv/10000100000000050000000003870749.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://guyue0227.eicp.net:35455/gaoma/cctv6.m3u8
+http://guyue0227.eicp.net:35455/bptv/10000100000000050000000003870749.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://emby.today:35455/gaoma/cctv6.m3u8
+http://emby.today:35455/bptv/10000100000000050000000003870749.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://www.y-ran.com.cn:35455/gaoma/cctv6.m3u8
+http://www.y-ran.com.cn:35455/bptv/10000100000000050000000003870749.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
 http://smjdenny.eu.org:35455/itv/1000000001000001737.m3u8?cdn=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
@@ -12874,6 +12874,18 @@ http://sweetown.fun:4000/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/bjtime.js?id=bjkk
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://smjdenny.eu.org:35455/bptv/10000100000000050000000003904597.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://189.1.243.189:35455/bptv/10000100000000050000000003904597.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://hc8q.x3322.net:35455/bptv/10000100000000050000000003904597.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://guyue0227.eicp.net:35455/bptv/10000100000000050000000003904597.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://emby.today:35455/bptv/10000100000000050000000003904597.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://www.y-ran.com.cn:35455/bptv/10000100000000050000000003904597.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://smjdenny.eu.org:35455/itv/1000000002000002413.m3u8?cdn=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://189.1.243.189:35455/itv/6000000003000002709.m3u8?cdn=wasusyt&Contentid=6000000003000002709&livemode=1&stbId=3
@@ -13745,6 +13757,18 @@ http://www.feizhu1212.top:9999/udp/239.77.0.4:5146
 http://imlucky.win:10001/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="广东",广东新闻
 http://imlucky.win:10001/udp/239.77.0.4:5146
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
+http://smjdenny.eu.org:35455/bptv/10000100000000050000000003887459.m3u8
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
+http://189.1.243.189:35455/bptv/10000100000000050000000003887459.m3u8
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
+http://hc8q.x3322.net:35455/bptv/10000100000000050000000003887459.m3u8
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
+http://guyue0227.eicp.net:35455/bptv/10000100000000050000000003887459.m3u8
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
+http://emby.today:35455/bptv/10000100000000050000000003887459.m3u8
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
+http://www.y-ran.com.cn:35455/bptv/10000100000000050000000003887459.m3u8
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
 http://smjdenny.eu.org:35455/itv/1000000002000025964.m3u8?cdn=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
@@ -18567,6 +18591,18 @@ http://124.230.56.44:55555/udp/239.76.246.110:1234
 http://124.230.56.44:55555/udp/239.76.253.110:9000
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.v1.mk/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
 http://124.230.56.44:55555/udp/239.76.252.122:9000
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
+http://smjdenny.eu.org:35455/bptv/10000100000000050000000004796942.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
+http://189.1.243.189:35455/bptv/10000100000000050000000004796942.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
+http://hc8q.x3322.net:35455/bptv/10000100000000050000000004796942.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
+http://guyue0227.eicp.net:35455/bptv/10000100000000050000000004796942.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
+http://emby.today:35455/bptv/10000100000000050000000004796942.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
+http://www.y-ran.com.cn:35455/bptv/10000100000000050000000004796942.m3u8
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 http://smjdenny.eu.org:35455/itv/1000000002000016601.m3u8?cdn=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
