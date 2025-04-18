@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV1.png" group-title="央视",CCTV-1
-https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=222|User-Agent=2724c07262457522
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=222
 #EXTINF:-1  tvg-name="CCTV2"tvg-logo="https://itv-tb.myukj.cn/tv/CCTV2.png" group-title="央视",CCTV-2
 https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=119
 #EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV3.png" group-title="央视",CCTV-3
