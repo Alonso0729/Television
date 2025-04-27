@@ -30951,8 +30951,6 @@ http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
 #EXTINF:-1 tvg-name="viuTV" tvg-logo="https://epg.v1.mk/logo/viuTV.png" group-title="AKTV",viuTV
 http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="册四源",CCTV-1
-http://180.165.3.71:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="酒店源",CCTV-1
 http://180.165.3.71:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="酒店源",CCTV-1
