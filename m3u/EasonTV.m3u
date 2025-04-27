@@ -31330,8 +31330,6 @@ http://60.26.15.51:85/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://epg.v1.mk/logo/湖南金鹰纪实.png" group-title="酒店源",湖南金鹰纪实
 http://180.165.3.71:7777/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="酒店源",湖南金鹰卡通
-http://180.165.3.71:7777/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://epg.v1.mk/logo/湖南金鹰卡通.png" group-title="酒店源",湖南金鹰卡通
 http://180.165.131.120:85/tsfile/live/52/2052_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://epg.v1.mk/logo/湖南快乐垂钓.png" group-title="酒店源",湖南快乐垂钓
 http://180.165.3.71:7777/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
