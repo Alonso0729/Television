@@ -30955,6 +30955,72 @@ http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
 #EXTINF:-1 tvg-name="viuTV" tvg-logo="https://epg.v1.mk/logo/viuTV.png" group-title="AKTV",viuTV
 http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="酒店源",东方卫视
+http://180.165.3.71:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="酒店源",东方卫视
+http://218.1.217.21:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="酒店源",东方卫视
+http://180.165.131.120:85/tsfile/live/17/2017_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="酒店源",上海新闻综合
+http://180.165.3.71:7777/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="酒店源",上海新闻综合
+http://218.1.217.21:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="酒店源",上海都市
+http://180.165.3.71:7777/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="酒店源",上海都市
+http://218.1.217.21:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="酒店源",东方影视
+http://180.165.3.71:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="酒店源",东方影视
+http://218.1.217.21:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="酒店源",第一财经
+http://180.165.3.71:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="酒店源",五星体育
+http://180.165.3.71:7777/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="酒店源",五星体育
+http://218.1.217.21:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="酒店源",哈哈炫动
+http://180.165.131.120:85/tsfile/live/51/2051_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="酒店源",上海教育
+http://180.165.3.71:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="酒店源",上海教育
+http://218.1.217.21:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="酒店源",上海教育
+http://180.165.131.120:85/tsfile/live/53/2053_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="酒店源",乐游
+http://60.172.130.146:352/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="酒店源",金色学堂
+http://180.165.3.71:7777/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="酒店源",法治天地
+http://180.165.3.71:7777/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="酒店源",法治天地
+http://218.1.217.21:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="酒店源",东方财经
+http://180.165.3.71:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="酒店源",东方财经
+http://218.1.217.21:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="酒店源",欢笑剧场
+http://180.165.3.71:7777/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="酒店源",劲爆体育
+http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="酒店源",劲爆体育
+http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="酒店源",劲爆体育
+http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="酒店源",劲爆体育
+http://113.65.162.226:8081/hls/68/index.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="酒店源",都市剧场
+http://180.165.3.71:7777/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="酒店源",都市剧场
+http://218.1.217.21:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="酒店源",动漫秀场
+http://180.165.3.71:7777/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="酒店源",动漫秀场
+http://180.165.131.120:85/tsfile/live/50/2050_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="酒店源",生活时尚
+http://180.165.3.71:7777/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="酒店源",游戏风云
+http://180.165.3.71:7777/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="酒店源",CCTV-1
 http://180.165.3.71:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="酒店源",CCTV-1
@@ -31053,6 +31119,8 @@ http://180.165.3.71:7777/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 http://180.165.3.71:7777/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="酒店源",CCTV-17
 http://218.1.217.21:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="酒店源",CETV-1
+http://180.165.3.71:7777/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="酒店源",CETV-1
 http://180.165.3.71:7777/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="酒店源",CETV-1
@@ -31163,72 +31231,6 @@ http://183.162.119.241:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid
 http://183.162.119.241:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="酒店源",书画
 http://183.162.119.241:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="酒店源",东方卫视
-http://180.165.3.71:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="酒店源",东方卫视
-http://218.1.217.21:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="酒店源",东方卫视
-http://180.165.131.120:85/tsfile/live/17/2017_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="酒店源",上海新闻综合
-http://180.165.3.71:7777/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="酒店源",上海新闻综合
-http://218.1.217.21:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="酒店源",上海都市
-http://180.165.3.71:7777/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="酒店源",上海都市
-http://218.1.217.21:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="酒店源",东方影视
-http://180.165.3.71:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="酒店源",东方影视
-http://218.1.217.21:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="酒店源",第一财经
-http://180.165.3.71:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="酒店源",五星体育
-http://180.165.3.71:7777/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="酒店源",五星体育
-http://218.1.217.21:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="酒店源",哈哈炫动
-http://180.165.131.120:85/tsfile/live/51/2051_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="酒店源",上海教育
-http://180.165.3.71:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="酒店源",上海教育
-http://218.1.217.21:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="酒店源",上海教育
-http://180.165.131.120:85/tsfile/live/53/2053_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="酒店源",乐游
-http://60.172.130.146:352/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="酒店源",金色学堂
-http://180.165.3.71:7777/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="酒店源",法治天地
-http://180.165.3.71:7777/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="酒店源",法治天地
-http://218.1.217.21:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="酒店源",东方财经
-http://180.165.3.71:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="酒店源",东方财经
-http://218.1.217.21:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="酒店源",欢笑剧场
-http://180.165.3.71:7777/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="酒店源",劲爆体育
-http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="酒店源",劲爆体育
-http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="酒店源",劲爆体育
-http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="酒店源",劲爆体育
-http://113.65.162.226:8081/hls/68/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="酒店源",都市剧场
-http://180.165.3.71:7777/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="酒店源",都市剧场
-http://218.1.217.21:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="酒店源",动漫秀场
-http://180.165.3.71:7777/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="酒店源",动漫秀场
-http://180.165.131.120:85/tsfile/live/50/2050_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="酒店源",生活时尚
-http://180.165.3.71:7777/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="酒店源",游戏风云
-http://180.165.3.71:7777/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="酒店源",安徽卫视
 http://180.165.131.120:85/tsfile/live/26/2026_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="酒店源",安徽卫视
@@ -31370,8 +31372,6 @@ http://180.165.3.71:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="酒店源",厦门卫视
 http://110.81.206.138:49231/tsfile/live/23032_1.m3u8?key=txiptv&playlive=1&authid=0$福建电信酒店
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="酒店源",山东教育卫视
-http://101.18.28.102:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$河北联通酒店
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="酒店源",山东教育卫视
 http://112.122.32.118:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="酒店源",山东教育卫视
 http://112.122.32.119:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
@@ -31381,6 +31381,8 @@ http://112.122.32.129:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://112.122.32.140:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="酒店源",山东教育卫视
 http://112.122.32.141:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="酒店源",山东教育卫视
+http://101.18.28.102:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$河北联通酒店
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="酒店源",山东卫视
 http://180.165.131.120:85/tsfile/live/24/2024_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="酒店源",山东卫视
@@ -31463,10 +31465,10 @@ http://110.81.206.138:49231/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authi
 http://110.81.206.138:49231/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0$福建电信酒店
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="酒店源",凤凰香港
 http://183.162.119.241:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
-#EXTINF:-1 tvg-name="星空音乐" tvg-logo="https://epg.v1.mk/logo/星空音乐.png" group-title="酒店源",星空音乐
-http://183.162.119.241:9901/tsfile/live/0141_2.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.v1.mk/logo/星空卫视.png" group-title="酒店源",星空卫视
 http://183.162.119.241:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
+#EXTINF:-1 tvg-name="CHANNEL V" tvg-logo="https://epg.v1.mk/logo/CHANNEL V.png" group-title="酒店源",CHANNEL V
+http://183.162.119.241:9901/tsfile/live/0141_2.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
 #EXTINF:-1 tvg-name="天映电影" tvg-logo="https://epg.v1.mk/logo/天映电影.png" group-title="酒店源",天映电影
 http://183.162.119.241:9901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="酒店源",CHC影迷电影
@@ -31531,7 +31533,7 @@ http://180.165.3.71:7777/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 http://180.165.3.71:7777/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://epg.v1.mk/logo/重庆汽摩.png" group-title="酒店源",重庆汽摩
 http://183.162.119.241:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
-#EXTINF:-1 tvg-name="河南国学" tvg-logo="https://epg.v1.mk/logo/河南国学.png" group-title="酒店源",河南国学
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://epg.v1.mk/logo/国学频道.png" group-title="酒店源",国学频道
 http://183.162.119.241:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://epg.v1.mk/logo/环球奇观.png" group-title="酒店源",环球奇观
 http://183.162.119.241:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$安徽电信酒店
