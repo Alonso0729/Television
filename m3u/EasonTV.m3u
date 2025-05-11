@@ -25108,7 +25108,9 @@ http://lin.he.cn:35455/yy/1455225203
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://epg.v1.mk/logo/yy.png" group-title="YY轮播",新白娘子传奇
 http://lin.he.cn:35455/yy/1354490667
 #EXTINF:-1 tvg-name="济公游记" tvg-logo="https://epg.v1.mk/logo/yy.png" group-title="YY轮播",济公游记
-http://lin.he.cn:35455/yy/1355265814
+webview://https://www.yy.com/1355265814
+#EXTINF:-1 tvg-name="济公游记" tvg-logo="https://epg.v1.mk/logo/yy.png" group-title="YY轮播",济公游记
+https://gitee.com/mintar_1_0/TVHappy/raw/master/kunine/k-web/ku9/js/webview.js?id=https://wap.yy.com/1355265814
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://epg.v1.mk/logo/yy.png" group-title="YY轮播",动漫
 http://lin.he.cn:35455/yy/25055036
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://epg.v1.mk/logo/yy.png" group-title="YY轮播",宰相刘罗锅
