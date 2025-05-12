@@ -8323,24 +8323,38 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7889730693553663314
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7889730693553663314
 #EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",咻咻满
 https://live.iill.top/douyu/4238637
+#EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",咻咻满
+http://A/ku9/js/HuyaAndDouyu.js?id=U4238637
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",气人主播QQQ
 https://live.iill.top/douyin/427652269946
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",气人主播QQQ
 https://live.iill.top/douyin/38993952516
 #EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",米娜Minana
 https://live.iill.top/douyu/5551871
+#EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",米娜Minana
+http://A/ku9/js/HuyaAndDouyu.js?id=U5551871
 #EXTINF:-1 tvg-name="真栗" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="娱乐",真栗
 https://live.iill.top/bilibili/883263
 #EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",鱼子酱
 https://live.iill.top/douyu/5508997
+#EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",鱼子酱
+http://A/ku9/js/HuyaAndDouyu.js?id=U5508997
 #EXTINF:-1 tvg-name="Prince晋" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",Prince晋
 https://live.iill.top/douyu/746256
+#EXTINF:-1 tvg-name="Prince晋" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",Prince晋
+http://A/ku9/js/HuyaAndDouyu.js?id=U746256
 #EXTINF:-1 tvg-name="申小敏" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",申小敏
 https://live.iill.top/douyu/6805176
+#EXTINF:-1 tvg-name="申小敏" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",申小敏
+http://A/ku9/js/HuyaAndDouyu.js?id=U6805176
 #EXTINF:-1 tvg-name="石小蓉" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",石小蓉
 https://live.iill.top/douyu/717613
+#EXTINF:-1 tvg-name="石小蓉" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",石小蓉
+http://A/ku9/js/HuyaAndDouyu.js?id=U717613
 #EXTINF:-1 tvg-name="是纯妍阿" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",是纯妍阿
 https://live.iill.top/douyu/3763915
+#EXTINF:-1 tvg-name="是纯妍阿" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",是纯妍阿
+http://A/ku9/js/HuyaAndDouyu.js?id=U3763915
 #EXTINF:-1 tvg-name="菠萝赛东" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="娱乐",菠萝赛东
 https://live.iill.top/bilibili/5520
 #EXTINF:-1 tvg-name="大肉嘎" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="娱乐",大肉嘎
@@ -25012,41 +25026,61 @@ https://tv.iill.top/litv/litv-ftv03
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",猫和老鼠
 http://lin.he.cn:35455/huya/11352879
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",猫和老鼠
+http://A/ku9/js/HuyaAndDouyu.js?id=11352879
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",猫和老鼠
 webview://https://www.huya.com/11352879
 #EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",爱情公寓
 http://lin.he.cn:35455/huya/11336726
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",爱情公寓
+http://A/ku9/js/HuyaAndDouyu.js?id=11336726
 #EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",爱情公寓
 webview://https://www.huya.com/11336726
 #EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",家有儿女
 http://lin.he.cn:35455/huya/30523326
 #EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",家有儿女
+http://A/ku9/js/HuyaAndDouyu.js?id=30523326
+#EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",家有儿女
 webview://https://www.huya.com/30523326
 #EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",家有儿女
 http://lin.he.cn:35455/huya/11352872
 #EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",家有儿女
+http://A/ku9/js/HuyaAndDouyu.js?id=11352872
+#EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",家有儿女
 webview://https://www.huya.com/11352872
 #EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="轮播",家有儿女
 http://lin.he.cn:35455/douyu/11827530
-#EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="轮播",家有儿女
+#EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",家有儿女
+http://A/ku9/js/HuyaAndDouyu.js?id=U11827530
+#EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",家有儿女
 webview://https://www.douyu.com/11827530
 #EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",哆啦A梦
 http://lin.he.cn:35455/huya/11601963
+#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",哆啦A梦
+http://A/ku9/js/HuyaAndDouyu.js?id=11601963
 #EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",哆啦A梦
 webview://https://www.huya.com/11601963
 #EXTINF:-1 tvg-name="航海王" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",航海王
 http://lin.he.cn:35455/huya/16913382
 #EXTINF:-1 tvg-name="航海王" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",航海王
+http://A/ku9/js/HuyaAndDouyu.js?id=16913382
+#EXTINF:-1 tvg-name="航海王" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",航海王
 webview://https://www.huya.com/16913382
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",七龙珠
 http://lin.he.cn:35455/huya/11601966
+#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",七龙珠
+http://A/ku9/js/HuyaAndDouyu.js?id=11601966
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",七龙珠
 webview://https://www.huya.com/11601966
 #EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",中华小当家
 http://lin.he.cn:35455/huya/11342413
 #EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",中华小当家
+http://A/ku9/js/HuyaAndDouyu.js?id=11342413
+#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",中华小当家
 webview://https://www.huya.com/11342413
 #EXTINF:-1 tvg-name="四驱兄弟" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",四驱兄弟
 http://lin.he.cn:35455/huya/11352922
+#EXTINF:-1 tvg-name="四驱兄弟" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",四驱兄弟
+http://A/ku9/js/HuyaAndDouyu.js?id=11352922
 #EXTINF:-1 tvg-name="四驱兄弟" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",四驱兄弟
 webview://https://www.huya.com/11352922
 #EXTINF:-1 tvg-name="好久不见-武林外传" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",好久不见-武林外传
@@ -25057,17 +25091,23 @@ webview://https://www.yy.com/1355914397
 http://lin.he.cn:35455/yy/23402146
 #EXTINF:-1 tvg-name="豪哥带我们发财" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",豪哥带我们发财
 webview://https://www.yy.com/23402146
-#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
+#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",纪晓岚
 http://lin.he.cn:35455/huya/11342396
-#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
+#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",纪晓岚
+http://A/ku9/js/HuyaAndDouyu.js?id=11342396
+#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",纪晓岚
 webview://https://www.huya.com/11342396
-#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
+#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",纪晓岚
 http://lin.he.cn:35455/huya/30436669
-#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
+#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",纪晓岚
+http://A/ku9/js/HuyaAndDouyu.js?id=30436669
+#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",纪晓岚
 webview://https://www.huya.com/30436669
-#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
+#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",纪晓岚
 http://lin.he.cn:35455/huya/11342396
-#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
+#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",纪晓岚
+http://A/ku9/js/HuyaAndDouyu.js?id=11342396
+#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",纪晓岚
 webview://https://www.huya.com/11342396
 #EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
 http://lin.he.cn:35455/yy/1354143978
@@ -26363,9 +26403,11 @@ webview://https://www.yy.com/1382658790
 http://lin.he.cn:35455/yy/37988782
 #EXTINF:-1 tvg-name="【科幻】超炫特效" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",【科幻】超炫特效
 webview://https://www.yy.com/37988782
-#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",炊事班的故事III
+#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",炊事班的故事III
 http://lin.he.cn:35455/huya/19524135
-#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",炊事班的故事III
+#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",炊事班的故事III
+http://A/ku9/js/HuyaAndDouyu.js?id=19524135
+#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",炊事班的故事III
 webview://https://www.huya.com/19524135
 #EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",炊事班的故事III
 http://lin.he.cn:35455/yy/1382736716
@@ -27946,225 +27988,337 @@ webview://https://www.yy.com/34025318
 #EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_星爷
 http://lin.he.cn:35455/huya/11342412
 #EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_星爷
+http://A/ku9/js/HuyaAndDouyu.js?id=11342412
+#EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_星爷
 webview://https://www.huya.com/11342412
 #EXTINF:-1 tvg-name="电影_英叔" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_英叔
 http://lin.he.cn:35455/huya/11342421
+#EXTINF:-1 tvg-name="电影_英叔" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_英叔
+http://A/ku9/js/HuyaAndDouyu.js?id=11342421
 #EXTINF:-1 tvg-name="电影_英叔" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_英叔
 webview://https://www.huya.com/11342421
 #EXTINF:-1 tvg-name="电影_发哥" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_发哥
 http://lin.he.cn:35455/huya/11342387
 #EXTINF:-1 tvg-name="电影_发哥" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_发哥
+http://A/ku9/js/HuyaAndDouyu.js?id=11342387
+#EXTINF:-1 tvg-name="电影_发哥" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_发哥
 webview://https://www.huya.com/11342387
 #EXTINF:-1 tvg-name="电影_成龙" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_成龙
 http://lin.he.cn:35455/huya/11342386
+#EXTINF:-1 tvg-name="电影_成龙" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_成龙
+http://A/ku9/js/HuyaAndDouyu.js?id=11342386
 #EXTINF:-1 tvg-name="电影_成龙" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_成龙
 webview://https://www.huya.com/11342386
 #EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_王晶
 http://lin.he.cn:35455/huya/11602058
 #EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_王晶
+http://A/ku9/js/HuyaAndDouyu.js?id=11602058
+#EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_王晶
 webview://https://www.huya.com/11602058
 #EXTINF:-1 tvg-name="电影_沈腾" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_沈腾
 http://lin.he.cn:35455/huya/11601968
+#EXTINF:-1 tvg-name="电影_沈腾" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_沈腾
+http://A/ku9/js/HuyaAndDouyu.js?id=11601968
 #EXTINF:-1 tvg-name="电影_沈腾" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_沈腾
 webview://https://www.huya.com/11601968
 #EXTINF:-1 tvg-name="电影_黄渤" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_黄渤
 http://lin.he.cn:35455/huya/11352876
 #EXTINF:-1 tvg-name="电影_黄渤" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_黄渤
+http://A/ku9/js/HuyaAndDouyu.js?id=11352876
+#EXTINF:-1 tvg-name="电影_黄渤" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_黄渤
 webview://https://www.huya.com/11352876
 #EXTINF:-1 tvg-name="电影_强森" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_强森
 http://lin.he.cn:35455/huya/21059581
+#EXTINF:-1 tvg-name="电影_强森" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_强森
+http://A/ku9/js/HuyaAndDouyu.js?id=21059581
 #EXTINF:-1 tvg-name="电影_强森" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_强森
 webview://https://www.huya.com/21059581
 #EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_漫威
 http://lin.he.cn:35455/huya/11602034
 #EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_漫威
+http://A/ku9/js/HuyaAndDouyu.js?id=11602034
+#EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_漫威
 webview://https://www.huya.com/11602034
 #EXTINF:-1 tvg-name="电影_宇宙" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_宇宙
 http://lin.he.cn:35455/huya/11342428
+#EXTINF:-1 tvg-name="电影_宇宙" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_宇宙
+http://A/ku9/js/HuyaAndDouyu.js?id=11342428
 #EXTINF:-1 tvg-name="电影_宇宙" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_宇宙
 webview://https://www.huya.com/11342428
 #EXTINF:-1 tvg-name="电影_怪兽" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_怪兽
 http://lin.he.cn:35455/huya/21059577
 #EXTINF:-1 tvg-name="电影_怪兽" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_怪兽
+http://A/ku9/js/HuyaAndDouyu.js?id=21059577
+#EXTINF:-1 tvg-name="电影_怪兽" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_怪兽
 webview://https://www.huya.com/21059577
 #EXTINF:-1 tvg-name="电影_贺岁" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_贺岁
 http://lin.he.cn:35455/huya/11601971
+#EXTINF:-1 tvg-name="电影_贺岁" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_贺岁
+http://A/ku9/js/HuyaAndDouyu.js?id=11601971
 #EXTINF:-1 tvg-name="电影_贺岁" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_贺岁
 webview://https://www.huya.com/11601971
 #EXTINF:-1 tvg-name="电影_玄幻" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_玄幻
 http://lin.he.cn:35455/huya/11342414
 #EXTINF:-1 tvg-name="电影_玄幻" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_玄幻
+http://A/ku9/js/HuyaAndDouyu.js?id=11342414
+#EXTINF:-1 tvg-name="电影_玄幻" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_玄幻
 webview://https://www.huya.com/11342414
 #EXTINF:-1 tvg-name="电影_谍战" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_谍战
 http://lin.he.cn:35455/huya/21059585
+#EXTINF:-1 tvg-name="电影_谍战" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_谍战
+http://A/ku9/js/HuyaAndDouyu.js?id=21059585
 #EXTINF:-1 tvg-name="电影_谍战" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_谍战
 webview://https://www.huya.com/21059585
 #EXTINF:-1 tvg-name="电影_战争" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_战争
 http://lin.he.cn:35455/huya/21059592
 #EXTINF:-1 tvg-name="电影_战争" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_战争
+http://A/ku9/js/HuyaAndDouyu.js?id=21059592
+#EXTINF:-1 tvg-name="电影_战争" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_战争
 webview://https://www.huya.com/21059592
 #EXTINF:-1 tvg-name="电影_喜剧" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_喜剧
 http://lin.he.cn:35455/huya/11352877
+#EXTINF:-1 tvg-name="电影_喜剧" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_喜剧
+http://A/ku9/js/HuyaAndDouyu.js?id=11352877
 #EXTINF:-1 tvg-name="电影_喜剧" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_喜剧
 webview://https://www.huya.com/11352877
 #EXTINF:-1 tvg-name="电影_港片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_港片
 http://lin.he.cn:35455/huya/11602043
 #EXTINF:-1 tvg-name="电影_港片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_港片
+http://A/ku9/js/HuyaAndDouyu.js?id=11602043
+#EXTINF:-1 tvg-name="电影_港片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_港片
 webview://https://www.huya.com/11602043
 #EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_国产
 http://lin.he.cn:35455/huya/11352973
+#EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_国产
+http://A/ku9/js/HuyaAndDouyu.js?id=11352973
 #EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_国产
 webview://https://www.huya.com/11352973
 #EXTINF:-1 tvg-name="电影_周星星" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_周星星
 http://lin.he.cn:35455/huya/11336587
 #EXTINF:-1 tvg-name="电影_周星星" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_周星星
+http://A/ku9/js/HuyaAndDouyu.js?id=11336587
+#EXTINF:-1 tvg-name="电影_周星星" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_周星星
 webview://https://www.huya.com/11336587
 #EXTINF:-1 tvg-name="电影_李连杰" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_李连杰
 http://lin.he.cn:35455/huya/11342390
+#EXTINF:-1 tvg-name="电影_李连杰" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_李连杰
+http://A/ku9/js/HuyaAndDouyu.js?id=11342390
 #EXTINF:-1 tvg-name="电影_李连杰" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_李连杰
 webview://https://www.huya.com/11342390
 #EXTINF:-1 tvg-name="电影_洪金宝" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_洪金宝
 http://lin.he.cn:35455/huya/11279251
 #EXTINF:-1 tvg-name="电影_洪金宝" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_洪金宝
+http://A/ku9/js/HuyaAndDouyu.js?id=11279251
+#EXTINF:-1 tvg-name="电影_洪金宝" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_洪金宝
 webview://https://www.huya.com/11279251
 #EXTINF:-1 tvg-name="电影_梁家辉" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_梁家辉
 http://lin.he.cn:35455/huya/11342429
+#EXTINF:-1 tvg-name="电影_梁家辉" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_梁家辉
+http://A/ku9/js/HuyaAndDouyu.js?id=11342429
 #EXTINF:-1 tvg-name="电影_梁家辉" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_梁家辉
 webview://https://www.huya.com/11342429
 #EXTINF:-1 tvg-name="电影_许冠英" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_许冠英
 http://lin.he.cn:35455/huya/11601972
 #EXTINF:-1 tvg-name="电影_许冠英" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_许冠英
+http://A/ku9/js/HuyaAndDouyu.js?id=11601972
+#EXTINF:-1 tvg-name="电影_许冠英" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_许冠英
 webview://https://www.huya.com/11601972
 #EXTINF:-1 tvg-name="电影_刘德华" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_刘德华
 http://lin.he.cn:35455/huya/11342424
+#EXTINF:-1 tvg-name="电影_刘德华" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_刘德华
+http://A/ku9/js/HuyaAndDouyu.js?id=11342424
 #EXTINF:-1 tvg-name="电影_刘德华" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_刘德华
 webview://https://www.huya.com/11342424
 #EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_斯坦森
 http://lin.he.cn:35455/huya/21059588
 #EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_斯坦森
+http://A/ku9/js/HuyaAndDouyu.js?id=21059588
+#EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_斯坦森
 webview://https://www.huya.com/21059588
 #EXTINF:-1 tvg-name="电影_蜘蛛侠" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_蜘蛛侠
 http://lin.he.cn:35455/huya/21059599
+#EXTINF:-1 tvg-name="电影_蜘蛛侠" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_蜘蛛侠
+http://A/ku9/js/HuyaAndDouyu.js?id=21059599
 #EXTINF:-1 tvg-name="电影_蜘蛛侠" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_蜘蛛侠
 webview://https://www.huya.com/21059599
 #EXTINF:-1 tvg-name="电影_贺岁片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_贺岁片
 http://lin.he.cn:35455/huya/11601986
 #EXTINF:-1 tvg-name="电影_贺岁片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_贺岁片
+http://A/ku9/js/HuyaAndDouyu.js?id=11601986
+#EXTINF:-1 tvg-name="电影_贺岁片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_贺岁片
 webview://https://www.huya.com/11601986
 #EXTINF:-1 tvg-name="电影_功夫片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_功夫片
 http://lin.he.cn:35455/huya/11352941
+#EXTINF:-1 tvg-name="电影_功夫片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_功夫片
+http://A/ku9/js/HuyaAndDouyu.js?id=11352941
 #EXTINF:-1 tvg-name="电影_功夫片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_功夫片
 webview://https://www.huya.com/11352941
 #EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_黑帮片
 http://lin.he.cn:35455/huya/11336719
 #EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_黑帮片
+http://A/ku9/js/HuyaAndDouyu.js?id=11336719
+#EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_黑帮片
 webview://https://www.huya.com/11336719
 #EXTINF:-1 tvg-name="电影_丧尸片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_丧尸片
 http://lin.he.cn:35455/huya/21059578
+#EXTINF:-1 tvg-name="电影_丧尸片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_丧尸片
+http://A/ku9/js/HuyaAndDouyu.js?id=21059578
 #EXTINF:-1 tvg-name="电影_丧尸片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_丧尸片
 webview://https://www.huya.com/21059578
 #EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_灾难片
 http://lin.he.cn:35455/huya/11602075
 #EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_灾难片
+http://A/ku9/js/HuyaAndDouyu.js?id=11602075
+#EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_灾难片
 webview://https://www.huya.com/11602075
 #EXTINF:-1 tvg-name="电影_谍战片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_谍战片
 http://lin.he.cn:35455/huya/21059587
+#EXTINF:-1 tvg-name="电影_谍战片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_谍战片
+http://A/ku9/js/HuyaAndDouyu.js?id=21059587
 #EXTINF:-1 tvg-name="电影_谍战片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_谍战片
 webview://https://www.huya.com/21059587
 #EXTINF:-1 tvg-name="电影_战争片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_战争片
 http://lin.he.cn:35455/huya/21059574
 #EXTINF:-1 tvg-name="电影_战争片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_战争片
+http://A/ku9/js/HuyaAndDouyu.js?id=21059574
+#EXTINF:-1 tvg-name="电影_战争片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_战争片
 webview://https://www.huya.com/21059574
 #EXTINF:-1 tvg-name="电影_犯罪片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_犯罪片
 http://lin.he.cn:35455/huya/11352974
+#EXTINF:-1 tvg-name="电影_犯罪片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_犯罪片
+http://A/ku9/js/HuyaAndDouyu.js?id=11352974
 #EXTINF:-1 tvg-name="电影_犯罪片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_犯罪片
 webview://https://www.huya.com/11352974
 #EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_古装片
 http://lin.he.cn:35455/huya/11336590
 #EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_古装片
+http://A/ku9/js/HuyaAndDouyu.js?id=11336590
+#EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_古装片
 webview://https://www.huya.com/11336590
 #EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_高分动作
 http://lin.he.cn:35455/huya/11352884
+#EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_高分动作
+http://A/ku9/js/HuyaAndDouyu.js?id=11352884
 #EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_高分动作
 webview://https://www.huya.com/11352884
 #EXTINF:-1 tvg-name="电影_动作电影" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_动作电影
 http://lin.he.cn:35455/huya/11602077
 #EXTINF:-1 tvg-name="电影_动作电影" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_动作电影
+http://A/ku9/js/HuyaAndDouyu.js?id=11602077
+#EXTINF:-1 tvg-name="电影_动作电影" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_动作电影
 webview://https://www.huya.com/11602077
 #EXTINF:-1 tvg-name="电影_搞笑喜剧" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_搞笑喜剧
 http://lin.he.cn:35455/huya/11342423
+#EXTINF:-1 tvg-name="电影_搞笑喜剧" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_搞笑喜剧
+http://A/ku9/js/HuyaAndDouyu.js?id=11342423
 #EXTINF:-1 tvg-name="电影_搞笑喜剧" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_搞笑喜剧
 webview://https://www.huya.com/11342423
 #EXTINF:-1 tvg-name="电影_喜剧专场" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_喜剧专场
 http://lin.he.cn:35455/huya/11602044
 #EXTINF:-1 tvg-name="电影_喜剧专场" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_喜剧专场
+http://A/ku9/js/HuyaAndDouyu.js?id=11602044
+#EXTINF:-1 tvg-name="电影_喜剧专场" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_喜剧专场
 webview://https://www.huya.com/11602044
 #EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_欢笑影院
 http://lin.he.cn:35455/huya/11352894
+#EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_欢笑影院
+http://A/ku9/js/HuyaAndDouyu.js?id=11352894
 #EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_欢笑影院
 webview://https://www.huya.com/11352894
 #EXTINF:-1 tvg-name="电影_不挤影院" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_不挤影院
 http://lin.he.cn:35455/huya/11352897
 #EXTINF:-1 tvg-name="电影_不挤影院" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_不挤影院
+http://A/ku9/js/HuyaAndDouyu.js?id=11352897
+#EXTINF:-1 tvg-name="电影_不挤影院" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_不挤影院
 webview://https://www.huya.com/11352897
 #EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_国产悬疑
 http://lin.he.cn:35455/huya/11342395
+#EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_国产悬疑
+http://A/ku9/js/HuyaAndDouyu.js?id=11342395
 #EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_国产悬疑
 webview://https://www.huya.com/11342395
 #EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_快意江湖
 http://lin.he.cn:35455/huya/11342435
 #EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_快意江湖
+http://A/ku9/js/HuyaAndDouyu.js?id=11342435
+#EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_快意江湖
 webview://https://www.huya.com/11342435
 #EXTINF:-1 tvg-name="电影_黑帮斗争" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_黑帮斗争
 http://lin.he.cn:35455/huya/11342419
+#EXTINF:-1 tvg-name="电影_黑帮斗争" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_黑帮斗争
+http://A/ku9/js/HuyaAndDouyu.js?id=11342419
 #EXTINF:-1 tvg-name="电影_黑帮斗争" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_黑帮斗争
 webview://https://www.huya.com/11342419
 #EXTINF:-1 tvg-name="电影_古墓系列" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_古墓系列
 http://lin.he.cn:35455/huya/11352913
 #EXTINF:-1 tvg-name="电影_古墓系列" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_古墓系列
+http://A/ku9/js/HuyaAndDouyu.js?id=11352913
+#EXTINF:-1 tvg-name="电影_古墓系列" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_古墓系列
 webview://https://www.huya.com/11352913
 #EXTINF:-1 tvg-name="电影_嫣然影厅" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_嫣然影厅
 http://lin.he.cn:35455/huya/11601977
+#EXTINF:-1 tvg-name="电影_嫣然影厅" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_嫣然影厅
+http://A/ku9/js/HuyaAndDouyu.js?id=11601977
 #EXTINF:-1 tvg-name="电影_嫣然影厅" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_嫣然影厅
 webview://https://www.huya.com/11601977
 #EXTINF:-1 tvg-name="电影_女神系列" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_女神系列
 http://lin.he.cn:35455/huya/11336571
 #EXTINF:-1 tvg-name="电影_女神系列" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_女神系列
+http://A/ku9/js/HuyaAndDouyu.js?id=11336571
+#EXTINF:-1 tvg-name="电影_女神系列" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_女神系列
 webview://https://www.huya.com/11336571
 #EXTINF:-1 tvg-name="电影_经典女神" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_经典女神
 http://lin.he.cn:35455/huya/11352909
+#EXTINF:-1 tvg-name="电影_经典女神" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_经典女神
+http://A/ku9/js/HuyaAndDouyu.js?id=11352909
 #EXTINF:-1 tvg-name="电影_经典女神" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_经典女神
 webview://https://www.huya.com/11352909
 #EXTINF:-1 tvg-name="电影_经典港片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_经典港片
 http://lin.he.cn:35455/huya/11352965
 #EXTINF:-1 tvg-name="电影_经典港片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_经典港片
+http://A/ku9/js/HuyaAndDouyu.js?id=11352965
+#EXTINF:-1 tvg-name="电影_经典港片" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_经典港片
 webview://https://www.huya.com/11352965
 #EXTINF:-1 tvg-name="电影_喜乐影院" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_喜乐影院
 http://lin.he.cn:35455/huya/21059580
+#EXTINF:-1 tvg-name="电影_喜乐影院" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_喜乐影院
+http://A/ku9/js/HuyaAndDouyu.js?id=21059580
 #EXTINF:-1 tvg-name="电影_喜乐影院" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_喜乐影院
 webview://https://www.huya.com/21059580
 #EXTINF:-1 tvg-name="电影_蘑菇影厅" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_蘑菇影厅
 http://lin.he.cn:35455/huya/11601981
 #EXTINF:-1 tvg-name="电影_蘑菇影厅" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_蘑菇影厅
+http://A/ku9/js/HuyaAndDouyu.js?id=11601981
+#EXTINF:-1 tvg-name="电影_蘑菇影厅" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_蘑菇影厅
 webview://https://www.huya.com/11601981
 #EXTINF:-1 tvg-name="电影_搞笑恐怖" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_搞笑恐怖
 http://lin.he.cn:35455/huya/11601960
+#EXTINF:-1 tvg-name="电影_搞笑恐怖" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_搞笑恐怖
+http://A/ku9/js/HuyaAndDouyu.js?id=11601960
 #EXTINF:-1 tvg-name="电影_搞笑恐怖" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_搞笑恐怖
 webview://https://www.huya.com/11601960
 #EXTINF:-1 tvg-name="电影_死神来了" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_死神来了
 http://lin.he.cn:35455/huya/11352903
 #EXTINF:-1 tvg-name="电影_死神来了" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_死神来了
+http://A/ku9/js/HuyaAndDouyu.js?id=11352903
+#EXTINF:-1 tvg-name="电影_死神来了" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_死神来了
 webview://https://www.huya.com/11352903
 #EXTINF:-1 tvg-name="电影_变形金刚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_变形金刚
 http://lin.he.cn:35455/huya/21059596
+#EXTINF:-1 tvg-name="电影_变形金刚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_变形金刚
+http://A/ku9/js/HuyaAndDouyu.js?id=21059596
 #EXTINF:-1 tvg-name="电影_变形金刚" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_变形金刚
 webview://https://www.huya.com/21059596
 #EXTINF:-1 tvg-name="电影_怪兽系列" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_怪兽系列
 http://lin.he.cn:35455/huya/21059554
 #EXTINF:-1 tvg-name="电影_怪兽系列" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_怪兽系列
+http://A/ku9/js/HuyaAndDouyu.js?id=21059554
+#EXTINF:-1 tvg-name="电影_怪兽系列" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",电影_怪兽系列
 webview://https://www.huya.com/21059554
 #EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",搞笑_陈翔六点半
 http://lin.he.cn:35455/huya/11274154
+#EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",搞笑_陈翔六点半
+http://A/ku9/js/HuyaAndDouyu.js?id=11274154
 #EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",搞笑_陈翔六点半
 webview://https://www.huya.com/11274154
 #EXTINF:-1 tvg-name="InsightTV" tvg-logo="https://epg.v1.mk/logo/InsightTV.png" group-title="海外",InsightTV
