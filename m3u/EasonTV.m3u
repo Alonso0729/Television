@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
@@ -7284,6 +7284,10 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=7331079758781182663
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=7331079758781182663
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.flv
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://cici2012.synology.me:35455/bptv/10000100000000050000000003887433.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://test.smart-more.cn:35455/bptv/10000100000000050000000003887433.m3u8
@@ -7295,10 +7299,6 @@ http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887433.m3u8
 http://tv.hqx9988.eu.org:35455/bptv/10000100000000050000000003887433.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://www.mfykeke.top:35455/bptv/10000100000000050000000003887433.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.flv
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://cici2012.synology.me:35455/itv/5000000006000040022.m3u8?cdn=bestzb&Contentid=5000000006000040022&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
@@ -23659,10 +23659,10 @@ http://110.157.220.240:8088/udp/238.125.7.205:5140
 http://110.157.220.240:8088/udp/238.125.3.111:5140
 #EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
 http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
-#EXTINF:-1 tvg-name="五师双河新闻综合http://liveout.btzx.com.cn/62ds9e/4nxdih.flv" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合http://liveout.btzx.com.cn/62ds9e/4nxdih.flv.png" group-title="新疆",五师双河新闻综合http://liveout.btzx.com.cn/62ds9e/4nxdih.flv
-undefined
-#EXTINF:-1 tvg-name="五师双河新闻综合rtmp://liveout.btzx.com.cn/62ds9e/4nxdih" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合rtmp://liveout.btzx.com.cn/62ds9e/4nxdih.png" group-title="新疆",五师双河新闻综合rtmp://liveout.btzx.com.cn/62ds9e/4nxdih
-undefined
+#EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
+http://liveout.btzx.com.cn/62ds9e/4nxdih.flv
+#EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
+rtmp://liveout.btzx.com.cn/62ds9e/4nxdih
 #EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
 http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 #EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
@@ -23703,11 +23703,11 @@ http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 #EXTINF:-1 tvg-name="八师石河子新闻综合" tvg-logo="https://epg.v1.mk/logo/八师石河子新闻综合.png" group-title="新疆",八师石河子新闻综合
 http://110.157.220.240:8088/udp/238.125.3.143:5140
-#EXTINF:-1 tvg-name="八师石河子八师二套" tvg-logo="https://epg.v1.mk/logo/八师石河子八师二套.png" group-title="新疆",八师石河子八师二套
+#EXTINF:-1 tvg-name="八师石河子二套" tvg-logo="https://epg.v1.mk/logo/八师石河子二套.png" group-title="新疆",八师石河子二套
 http://110.157.220.240:8088/udp/238.125.3.144:5140
-#EXTINF:-1 tvg-name="八师石河子八师三套" tvg-logo="https://epg.v1.mk/logo/八师石河子八师三套.png" group-title="新疆",八师石河子八师三套
+#EXTINF:-1 tvg-name="八师石河子三套" tvg-logo="https://epg.v1.mk/logo/八师石河子三套.png" group-title="新疆",八师石河子三套
 http://110.157.220.240:8088/udp/238.125.3.145:5140
-#EXTINF:-1 tvg-name="八师石河子八师四套" tvg-logo="https://epg.v1.mk/logo/八师石河子八师四套.png" group-title="新疆",八师石河子八师四套
+#EXTINF:-1 tvg-name="八师石河子四套" tvg-logo="https://epg.v1.mk/logo/八师石河子四套.png" group-title="新疆",八师石河子四套
 http://110.157.220.240:8088/udp/238.125.3.146:5140
 #EXTINF:-1 tvg-name="九师综合" tvg-logo="https://epg.v1.mk/logo/九师综合.png" group-title="新疆",九师综合
 https://liveout.btzx.com.cn/3pyc0h/dbfvwu.m3u8
@@ -24067,16 +24067,16 @@ http://A/ku9/js/yn.js?id=yngj
 https://hwapi.yntv.net/ew265l/32l193.m3u8
 #EXTINF:-1 tvg-name="大理新闻综合" tvg-logo="https://epg.v1.mk/logo/大理新闻综合.png" group-title="云南",大理新闻综合
 https://hwapi.yntv.net/ew265l/n944fg.m3u8
-#EXTINF:-1 tvg-name="西双版纳综合" tvg-logo="https://epg.v1.mk/logo/西双版纳综合.png" group-title="云南",西双版纳综合
+#EXTINF:-1 tvg-name="西双版纳新闻综合" tvg-logo="https://epg.v1.mk/logo/西双版纳新闻综合.png" group-title="云南",西双版纳新闻综合
 https://hwapi.yntv.net/ew265l/47480o_uhd.m3u8
-#EXTINF:-1 tvg-name="西双版纳综合" tvg-logo="https://epg.v1.mk/logo/西双版纳综合.png" group-title="云南",西双版纳综合
+#EXTINF:-1 tvg-name="西双版纳新闻综合" tvg-logo="https://epg.v1.mk/logo/西双版纳新闻综合.png" group-title="云南",西双版纳新闻综合
 http://channellive.xsbnw.cn/default/nmip-media/channellive/channel112526/playlist.m3u8
-#EXTINF:-1 tvg-name="西双版纳综合" tvg-logo="https://epg.v1.mk/logo/西双版纳综合.png" group-title="云南",西双版纳综合
+#EXTINF:-1 tvg-name="西双版纳新闻综合" tvg-logo="https://epg.v1.mk/logo/西双版纳新闻综合.png" group-title="云南",西双版纳新闻综合
 rtmp://channellive.xsbnw.cn:1935/channellive/bntv1
 #EXTINF:-1 tvg-name="西双版纳文化旅游" tvg-logo="https://epg.v1.mk/logo/西双版纳文化旅游.png" group-title="云南",西双版纳文化旅游
-http:///channellive.xsbnw.cn/default/nmip-media/channellive/channel112694/playlist.m3u8
-#EXTINF:-1 tvg-name="西双版纳文化旅游" tvg-logo="https://epg.v1.mk/logo/西双版纳文化旅游.png" group-title="云南",西双版纳文化旅游
 rtmp://channellive.xsbnw.cn:1935/channellive/bntv2
+#EXTINF:-1 tvg-name="西双版纳文化旅游" tvg-logo="https://epg.v1.mk/logo/西双版纳文化旅游.png" group-title="云南",西双版纳文化旅游
+http:///channellive.xsbnw.cn/default/nmip-media/channellive/channel112694/playlist.m3u8
 #EXTINF:-1 tvg-name="普洱电视台" tvg-logo="https://epg.v1.mk/logo/普洱电视台.png" group-title="云南",普洱电视台
 http://zhibo.puerw.cn/puer/c752b300-602c-4083-8c5e-f6bb97b58f2d.m3u8
 #EXTINF:-1 tvg-name="普洱电视台" tvg-logo="https://epg.v1.mk/logo/普洱电视台.png" group-title="云南",普洱电视台
@@ -24135,8 +24135,8 @@ http://channel.qjrb.cn/nmip-media/channellive/channel124906/playlist.m3u8
 http://channel.qjrb.cn/nmip-media/channellive/channel125689/playlist.m3u8
 #EXTINF:-1 tvg-name="曲靖三套" tvg-logo="https://epg.v1.mk/logo/曲靖三套.png" group-title="云南",曲靖三套
 http://channel.qjrb.cn/nmip-media/channellive/channel127550/playlist.m3u8
-#EXTINF:-1 tvg-name="丘北电视台.https://zb-live.ynurl.com/qiubei/87f0d417-e3c0-4f0d-b930-74ab3f8d7176.m3u8" tvg-logo="https://epg.v1.mk/logo/丘北电视台.https://zb-live.ynurl.com/qiubei/87f0d417-e3c0-4f0d-b930-74ab3f8d7176.m3u8.png" group-title="云南",丘北电视台.https://zb-live.ynurl.com/qiubei/87f0d417-e3c0-4f0d-b930-74ab3f8d7176.m3u8
-undefined
+#EXTINF:-1 tvg-name="丘北电视台" tvg-logo="https://epg.v1.mk/logo/丘北电视台.png" group-title="云南",丘北电视台
+https://zb-live.ynurl.com/qiubei/87f0d417-e3c0-4f0d-b930-74ab3f8d7176.m3u8
 #EXTINF:-1 tvg-name="丘北电视台" tvg-logo="https://epg.v1.mk/logo/丘北电视台.png" group-title="云南",丘北电视台
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 #EXTINF:-1 tvg-name="巧家电视台" tvg-logo="https://epg.v1.mk/logo/巧家电视台.png" group-title="云南",巧家电视台
@@ -24151,8 +24151,8 @@ http://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634c213.m3u8
 http://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634c213.flv
 #EXTINF:-1 tvg-name="麻栗坡县广播电视台" tvg-logo="https://epg.v1.mk/logo/麻栗坡县广播电视台.png" group-title="云南",麻栗坡县广播电视台
 http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
-#EXTINF:-1 tvg-name="麻栗坡县广播电视台.http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv" tvg-logo="https://epg.v1.mk/logo/麻栗坡县广播电视台.http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv.png" group-title="云南",麻栗坡县广播电视台.http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
-undefined
+#EXTINF:-1 tvg-name="麻栗坡县广播电视台" tvg-logo="https://epg.v1.mk/logo/麻栗坡县广播电视台.png" group-title="云南",麻栗坡县广播电视台
+http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 #EXTINF:-1 tvg-name="麻栗坡县广播电视台" tvg-logo="https://epg.v1.mk/logo/麻栗坡县广播电视台.png" group-title="云南",麻栗坡县广播电视台
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 #EXTINF:-1 tvg-name="绿春综合" tvg-logo="https://epg.v1.mk/logo/绿春综合.png" group-title="云南",绿春综合
