@@ -3338,17 +3338,23 @@ https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.
 #EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://epg.v1.mk/logo/崇明电视台.png" group-title="上海",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 #EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://epg.v1.mk/logo/崇明电视台.png" group-title="上海",崇明电视台
+http://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.flv
+#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://epg.v1.mk/logo/崇明电视台.png" group-title="上海",崇明电视台
 rtmp://pili-publish.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee
 #EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://epg.v1.mk/logo/嘉定电视台.png" group-title="上海",嘉定电视台
 http://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 #EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://epg.v1.mk/logo/嘉定电视台.png" group-title="上海",嘉定电视台
 http://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 #EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://epg.v1.mk/logo/嘉定电视台.png" group-title="上海",嘉定电视台
+http://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.flv
+#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://epg.v1.mk/logo/嘉定电视台.png" group-title="上海",嘉定电视台
 http://218.78.183.200:8888/udp/239.45.3.185:5140
 #EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://epg.v1.mk/logo/嘉定电视台.png" group-title="上海",嘉定电视台
 rtmp://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b
 #EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://epg.v1.mk/logo/金山电视台.png" group-title="上海",金山电视台
 https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
+#EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://epg.v1.mk/logo/金山电视台.png" group-title="上海",金山电视台
+http://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.flv
 #EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://epg.v1.mk/logo/金山电视台.png" group-title="上海",金山电视台
 rtmp://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3
 #EXTINF:-1 tvg-name="马莎F1-五星体育超高清" tvg-logo="https://epg.v1.mk/logo/马莎F1-五星体育超高清.png" group-title="体育",马莎F1-五星体育超高清
@@ -6040,6 +6046,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8258663409451267714
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8258663409451267714
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://cici2012.synology.me:35455/bptv/10000100000000050000000003887456.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://test.smart-more.cn:35455/bptv/10000100000000050000000003887456.m3u8
@@ -7196,9 +7204,25 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7638375013635582245
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+https://livestream-bt.nmtv.cn/nmtv/2315general.flv?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+rtmp://livestream-bt.nmtv.cn/nmtv/2315general?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://play1-qk.nmtv.cn:80/live/1686560387346365.m3u8
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+http://play1-qk.nmtv.cn/live/1686560387346365.flv
+#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+rtmp://play1-qk.nmtv.cn/live/1686560387346365
+#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://1.24.190.98:10089/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/3208526general.flv?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+rtmp://livestream-bt.nmtv.cn/nmtv/3208526general?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://cici2012.synology.me:35455/bptv/10000100000000050000000003887427.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
@@ -7473,6 +7497,8 @@ http://[2409:8087:5e20:24::03]:6610/000000001000/1/1000000005000266006/1.m3u8?ch
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000005000266006
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266006
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
+http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
 http://cici2012.synology.me:35455/itv/2000000003000000013.m3u8?cdn=hnbblive&Contentid=2000000003000000013&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
@@ -20480,57 +20506,129 @@ http://175.150.159.235:9009/rtp/232.0.0.215:1234
 #EXTINF:-1 tvg-name="铁岭新闻综合" tvg-logo="https://epg.v1.mk/logo/铁岭新闻综合.png" group-title="辽宁",铁岭新闻综合
 rtmp://50461.lssplay.aodianyun.com/tv_radio_50461/tv_channel_2584?auth_key=4851316755-0-0-b486a4484293605b3d71486762b44b0a
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://epg.v1.mk/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+http://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://epg.v1.mk/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
-http://play1-qk.nmtv.cn:80/live/1686560423879174.m3u8
+http://livestream-bt.nmtv.cn/nmtv/2316general.flv?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://epg.v1.mk/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2316general?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://epg.v1.mk/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://epg.v1.mk/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/1686560423879174.flv
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://epg.v1.mk/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
+rtmp://play1-qk.nmtv.cn/live/1686560423879174
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://epg.v1.mk/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
 http://1.24.190.98:10089/hls/32/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://epg.v1.mk/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
-https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+http://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://epg.v1.mk/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
-http://play1-qk.nmtv.cn:80/live/1686561195713372.m3u8
+http://livestream-bt.nmtv.cn/nmtv/2319general.flv?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://epg.v1.mk/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
+rtmp://livestream-bt.nmtv.cn/nmtv/2319general?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://epg.v1.mk/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://epg.v1.mk/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
+http://play1-qk.nmtv.cn/live/1686561195713372.flv
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://epg.v1.mk/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
+rtmp://play1-qk.nmtv.cn/live/1686561195713372
 #EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://epg.v1.mk/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
 http://1.24.190.98:10089/hls/33/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://epg.v1.mk/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
-https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+http://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://epg.v1.mk/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
-http://play1-qk.nmtv.cn:80/live/1686562470947181.m3u8
+http://livestream-bt.nmtv.cn/nmtv/2317general.flv?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://epg.v1.mk/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
+rtmp://livestream-bt.nmtv.cn/nmtv/2317general?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://epg.v1.mk/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://epg.v1.mk/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/1686562470947181.flv
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://epg.v1.mk/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
+rtmp://play1-qk.nmtv.cn/live/1686562470947181
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://epg.v1.mk/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
 http://1.24.190.98:10089/hls/34/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://epg.v1.mk/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
-https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+http://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://epg.v1.mk/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
-http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+http://livestream-bt.nmtv.cn/nmtv/2320general.flv?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://epg.v1.mk/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+rrmp://livestream-bt.nmtv.cn/nmtv/2320general?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://epg.v1.mk/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
+#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://epg.v1.mk/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+http://play1-qk.nmtv.cn/live/1686561299036179.flv
+#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://epg.v1.mk/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+rtmp://play1-qk.nmtv.cn/live/1686561299036179
 #EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://epg.v1.mk/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
 http://1.24.190.98:10089/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://epg.v1.mk/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+http://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://epg.v1.mk/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
-http://play1-qk.nmtv.cn:80/live/1686560464515368.m3u8
+http://livestream-bt.nmtv.cn/nmtv/2318general.flv?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://epg.v1.mk/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
+rtmp://livestream-bt.nmtv.cn/nmtv/2318general?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://epg.v1.mk/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://epg.v1.mk/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.flv
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://epg.v1.mk/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
+rtmp://play1-qk.nmtv.cn/live/1686560464515368
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://epg.v1.mk/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
 http://1.24.190.98:10089/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
-https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
+http://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
-http://play1-qk.nmtv.cn:80/live/1686561065304370.m3u8
+http://livestream-bt.nmtv.cn/nmtv/2321general.flv?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
+rtmp://livestream-bt.nmtv.cn/nmtv/2321general?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
+http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+#EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
+http://play1-qk.nmtv.cn/live/1686561065304370.flv
+#EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
+rtmp://play1-qk.nmtv.cn/live/1686561065304370
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
 http://1.24.190.98:10089/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://epg.v1.mk/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+http://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 #EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://epg.v1.mk/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
-http://play1-qk.nmtv.cn:80/live/1735545967595013.m3u8
+http://livestream-bt.nmtv.cn/nmtv/2331general.flv?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://epg.v1.mk/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2331general?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://epg.v1.mk/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
+http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
+#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://epg.v1.mk/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
+http://play1-qk.nmtv.cn/live/1735545967595013.flv
+#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://epg.v1.mk/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735545967595013
 #EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://epg.v1.mk/logo/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合
-http://play1-qk.nmtv.cn:80/live/1735546358166026.m3u8
+http://live.wuhainews.org.cn/xwzh/playlist.m3u8
 #EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://epg.v1.mk/logo/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合
-https://stream1.freetv.fun/wu-hai-xin-wen-zong-he-1.m3u8
+https://livestream-bt.nmtv.cn/nmtv/2355general.m3u8?txSecret=c623c5c66e83e43b566ebe90f49c4b06&txTime=771E8800
 #EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://epg.v1.mk/logo/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合
-http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
+https://livestream-bt.nmtv.cn/nmtv/2355general.flv?txSecret=c623c5c66e83e43b566ebe90f49c4b06&txTime=771E8800
+#EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://epg.v1.mk/logo/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2355general?txSecret=c623c5c66e83e43b566ebe90f49c4b06&txTime=771E8800
+#EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://epg.v1.mk/logo/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合
+http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
+#EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://epg.v1.mk/logo/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合
+http://play1-qk.nmtv.cn/live/1735546358166026.flv
+#EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://epg.v1.mk/logo/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735546358166026
 #EXTINF:-1 tvg-name="乌海都市生活" tvg-logo="https://epg.v1.mk/logo/乌海都市生活.png" group-title="内蒙古",乌海都市生活
 http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 #EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://epg.v1.mk/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
 #EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://epg.v1.mk/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
-http://play1-qk.nmtv.cn:80/live/1735546150395017.m3u8
+https://livestream-bt.nmtv.cn/nmtv/2358general.flv?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
+#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://epg.v1.mk/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2358general?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
+#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://epg.v1.mk/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
+http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
+#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://epg.v1.mk/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
+http://play1-qk.nmtv.cn/live/1735546150395017.flv
+#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://epg.v1.mk/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735546150395017
 #EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://epg.v1.mk/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
 https://stream1.freetv.fun/bao-tou-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://epg.v1.mk/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
@@ -20539,18 +20637,120 @@ http://1.24.190.98:10089/hls/26/index.m3u8
 http://1.24.190.98:10089/hls/27/index.m3u8
 #EXTINF:-1 tvg-name="包头经济生活" tvg-logo="https://epg.v1.mk/logo/包头经济生活.png" group-title="内蒙古",包头经济生活
 http://1.24.190.98:10089/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://epg.v1.mk/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
-http://play1-qk.nmtv.cn:80/live/1735547046115053.m3u8
-#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://epg.v1.mk/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://epg.v1.mk/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
-http://play1-qk.nmtv.cn:80/live/1735546423467029.m3u8
-#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://epg.v1.mk/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://epg.v1.mk/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
-http://play1-qk.nmtv.cn:80/live/1735546697341033.m3u8
-#EXTINF:-1 tvg-name="达茂综合频道" tvg-logo="https://epg.v1.mk/logo/达茂综合频道.png" group-title="内蒙古",达茂综合频道
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live170528902231903.m3u8
+#EXTINF:-1 tvg-name="准格尔旗综合" tvg-logo="https://epg.v1.mk/logo/准格尔旗综合.png" group-title="内蒙古",准格尔旗综合
+http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+#EXTINF:-1 tvg-name="准格尔旗综合" tvg-logo="https://epg.v1.mk/logo/准格尔旗综合.png" group-title="内蒙古",准格尔旗综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live173640226096016.flv
+#EXTINF:-1 tvg-name="准格尔旗综合" tvg-logo="https://epg.v1.mk/logo/准格尔旗综合.png" group-title="内蒙古",准格尔旗综合
+http://pili-live-hls-nmgapp12019.sobeylive.com/nmgapp12019/live170312713456494.m3u8
+#EXTINF:-1 tvg-name="元宝山综合" tvg-logo="https://epg.v1.mk/logo/元宝山综合.png" group-title="内蒙古",元宝山综合
+http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+#EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://epg.v1.mk/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2357general.m3u8?txSecret=9fa7524fa6e7380395e4a7a91bd3bcc8&txTime=771E8800
+#EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://epg.v1.mk/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2357general.flv?txSecret=9fa7524fa6e7380395e4a7a91bd3bcc8&txTime=771E8800
+#EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://epg.v1.mk/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2357general?txSecret=9fa7524fa6e7380395e4a7a91bd3bcc8&txTime=771E8800
+#EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://epg.v1.mk/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
+http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
+#EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://epg.v1.mk/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
+http://play1-qk.nmtv.cn/live/1735546886977046.flv
+#EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://epg.v1.mk/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735546886977046
+#EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://epg.v1.mk/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
+http://play1-qk.nmtv.cn:80/live/1735546886977046.m3u8
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://epg.v1.mk/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
+http://livecdnpull.xlglrbw.org.cn/live/tvzhpd.m3u8
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://epg.v1.mk/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
+rtmp://livecdnpull.xlglrbw.org.cn/live/tvzhpd
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://epg.v1.mk/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
+https://livestream-bt.nmtv.cn/nmtv/2346general.m3u8?txSecret=4917fb7aee368c8f4d8099847182a791&txTime=771E8800
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://epg.v1.mk/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
+https://livestream-bt.nmtv.cn/nmtv/2346general.flv?txSecret=4917fb7aee368c8f4d8099847182a791&txTime=771E8800
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://epg.v1.mk/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2346general?txSecret=4917fb7aee368c8f4d8099847182a791&txTime=771E8800
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://epg.v1.mk/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
+http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://epg.v1.mk/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
+http://play1-qk.nmtv.cn/live/1735546994821050.flv
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://epg.v1.mk/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
+rtmp://play1-qk.nmtv.cn/live/1735546994821050
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://epg.v1.mk/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
+http://play1-qk.nmtv.cn:80/live/1735546994821050.m3u8
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
+http://pluslive.wrbtv.cn/xwzhpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2354general.flv?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2354general?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
+http://play1-qk.nmtv.cn/live/1735546836103043.m3u8
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
+http://play1-qk.nmtv.cn/live/1735546836103043.flv
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735546836103043
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
+http://play1-qk.nmtv.cn:80/live/1735546836103043.m3u8
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
+https://pluslive.wrbtv.cn/xwzhpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="乌兰察布生活频道" tvg-logo="https://epg.v1.mk/logo/乌兰察布生活频道.png" group-title="内蒙古",乌兰察布生活频道
+https://pluslive.wrbtv.cn/shpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="乌兰察布经济生活" tvg-logo="https://epg.v1.mk/logo/乌兰察布经济生活.png" group-title="内蒙古",乌兰察布经济生活
+http://pluslive.wrbtv.cn/jjshpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="乌兰察布经济生活" tvg-logo="https://epg.v1.mk/logo/乌兰察布经济生活.png" group-title="内蒙古",乌兰察布经济生活
+https://pluslive.wrbtv.cn/jjshpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://epg.v1.mk/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2353general.m3u8?txSecret=96a2008eff039ef4ad07179e367b838b&txTime=771E8800
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://epg.v1.mk/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2353general.flv?txSecret=96a2008eff039ef4ad07179e367b838b&txTime=771E8800
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://epg.v1.mk/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2353general?txSecret=96a2008eff039ef4ad07179e367b838b&txTime=771E8800
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://epg.v1.mk/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
+http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://epg.v1.mk/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
+http://play1-qk.nmtv.cn/live/1735546745882037.flv
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://epg.v1.mk/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735546745882037
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://epg.v1.mk/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
+http://play1-qk.nmtv.cn:80/live/1735546745882037.m3u8
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://epg.v1.mk/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2356general.m3u8?txSecret=ff186bf3aac1022cd17068bcc0c78414&txTime=771E8800
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://epg.v1.mk/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2356general.flv?txSecret=ff186bf3aac1022cd17068bcc0c78414&txTime=771E8800
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://epg.v1.mk/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2356general?txSecret=ff186bf3aac1022cd17068bcc0c78414&txTime=771E8800
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://epg.v1.mk/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
+http://play1-qk.nmtv.cn/live/1735546791130040.m3u8
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://epg.v1.mk/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
+http://play1-qk.nmtv.cn/live/1735546791130040.flv
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://epg.v1.mk/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735546791130040
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://epg.v1.mk/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
+http://play1-qk.nmtv.cn:80/live/1735546791130040.m3u8
+#EXTINF:-1 tvg-name="二连浩特综合" tvg-logo="https://epg.v1.mk/logo/二连浩特综合.png" group-title="内蒙古",二连浩特综合
+http://livestream.nmtv.dev.qingzhou.mobi/nmtv/2352general.m3u8?txSecret=ad96b9116526fcc1d710713b645a8648&txTime=771E8800
+#EXTINF:-1 tvg-name="二连浩特综合" tvg-logo="https://epg.v1.mk/logo/二连浩特综合.png" group-title="内蒙古",二连浩特综合
+http://livestream.nmtv.dev.qingzhou.mobi/nmtv/2352general.flv?txSecret=ad96b9116526fcc1d710713b645a8648&txTime=771E8800
+#EXTINF:-1 tvg-name="二连浩特综合" tvg-logo="https://epg.v1.mk/logo/二连浩特综合.png" group-title="内蒙古",二连浩特综合
+rtmp://livestream.nmtv.dev.qingzhou.mobi/nmtv/2352general?txSecret=ad96b9116526fcc1d710713b645a8648&txTime=771E8800
+#EXTINF:-1 tvg-name="鄂温克电视台" tvg-logo="https://epg.v1.mk/logo/鄂温克电视台.png" group-title="内蒙古",鄂温克电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live169742765819039.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
+http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
+http://live.nxw.org.cn/lsdream/h2mxgj4/1000/live.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2349general.flv?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2349general?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
+http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
+http://play1-qk.nmtv.cn/live/1735546299241021.flv
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735546299241021
 #EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
 #EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
@@ -20558,35 +20758,67 @@ http://play1-qk.nmtv.cn:80/live/1735546299241021.m3u8
 #EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
 https://live.nxw.org.cn/lsdream/h2mxgj4/1000/live.m3u8
 #EXTINF:-1 tvg-name="鄂尔多斯蒙语综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯蒙语综合.png" group-title="内蒙古",鄂尔多斯蒙语综合
+http://live.nxw.org.cn/lsdream/3lZr8dK/1000/live.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯蒙语综合" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯蒙语综合.png" group-title="内蒙古",鄂尔多斯蒙语综合
 https://live.nxw.org.cn/lsdream/3lZr8dK/1000/live.m3u8
 #EXTINF:-1 tvg-name="鄂尔多斯经济服务" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯经济服务.png" group-title="内蒙古",鄂尔多斯经济服务
+http://live.nxw.org.cn/lsdream/ogvfqcp/1000/live.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯经济服务" tvg-logo="https://epg.v1.mk/logo/鄂尔多斯经济服务.png" group-title="内蒙古",鄂尔多斯经济服务
 https://live.nxw.org.cn/lsdream/ogvfqcp/1000/live.m3u8
-#EXTINF:-1 tvg-name="鄂托克旗综合频道" tvg-logo="https://epg.v1.mk/logo/鄂托克旗综合频道.png" group-title="内蒙古",鄂托克旗综合频道
-http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-#EXTINF:-1 tvg-name="鄂温克电视台" tvg-logo="https://epg.v1.mk/logo/鄂温克电视台.png" group-title="内蒙古",鄂温克电视台
-http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live169742765819039.m3u8
-#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://epg.v1.mk/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
-http://play1-qk.nmtv.cn:80/live/1735546791130040.m3u8
-#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://epg.v1.mk/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
-http://play1-qk.nmtv.cn:80/live/1735546745882037.m3u8
-#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
-http://play1-qk.nmtv.cn:80/live/1735546836103043.m3u8
-#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://epg.v1.mk/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
-https://pluslive.wrbtv.cn/xwzhpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="乌兰察布经济生活" tvg-logo="https://epg.v1.mk/logo/乌兰察布经济生活.png" group-title="内蒙古",乌兰察布经济生活
-https://pluslive.wrbtv.cn/jjshpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="乌兰察布生活频道" tvg-logo="https://epg.v1.mk/logo/乌兰察布生活频道.png" group-title="内蒙古",乌兰察布生活频道
-https://pluslive.wrbtv.cn/shpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="锡林郭勒盟新闻综合" tvg-logo="https://epg.v1.mk/logo/锡林郭勒盟新闻综合.png" group-title="内蒙古",锡林郭勒盟新闻综合
-http://play1-qk.nmtv.cn:80/live/1735546994821050.m3u8
-#EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://epg.v1.mk/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
-http://play1-qk.nmtv.cn:80/live/1735546886977046.m3u8
-#EXTINF:-1 tvg-name="元宝山综合" tvg-logo="https://epg.v1.mk/logo/元宝山综合.png" group-title="内蒙古",元宝山综合
-http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
-#EXTINF:-1 tvg-name="准格尔旗电视台" tvg-logo="https://epg.v1.mk/logo/准格尔旗电视台.png" group-title="内蒙古",准格尔旗电视台
-http://pili-live-hls-nmgapp12019.sobeylive.com/nmgapp12019/live170312713456494.m3u8
+#EXTINF:-1 tvg-name="达茂综合" tvg-logo="https://epg.v1.mk/logo/达茂综合.png" group-title="内蒙古",达茂综合
+http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
+#EXTINF:-1 tvg-name="达茂综合" tvg-logo="https://epg.v1.mk/logo/达茂综合.png" group-title="内蒙古",达茂综合
+http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.flv
+#EXTINF:-1 tvg-name="达茂综合" tvg-logo="https://epg.v1.mk/logo/达茂综合.png" group-title="内蒙古",达茂综合
+rtmp://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550
+#EXTINF:-1 tvg-name="达茂综合" tvg-logo="https://epg.v1.mk/logo/达茂综合.png" group-title="内蒙古",达茂综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live170528902231903.m3u8
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://epg.v1.mk/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2351general.flv?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://epg.v1.mk/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2351general?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://epg.v1.mk/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://epg.v1.mk/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
+http://play1-qk.nmtv.cn/live/1735546697341033.flv
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://epg.v1.mk/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735546697341033
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://epg.v1.mk/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://epg.v1.mk/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
+http://play1-qk.nmtv.cn:80/live/1735546697341033.m3u8
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://epg.v1.mk/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2348general.flv?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://epg.v1.mk/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2348general?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://epg.v1.mk/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
+http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://epg.v1.mk/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
+http://play1-qk.nmtv.cn/live/1735546423467029.flv
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://epg.v1.mk/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735546423467029
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://epg.v1.mk/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://epg.v1.mk/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
+http://play1-qk.nmtv.cn:80/live/1735546423467029.m3u8
+#EXTINF:-1 tvg-name="阿荣旗电视台" tvg-logo="https://epg.v1.mk/logo/阿荣旗电视台.png" group-title="内蒙古",阿荣旗电视台
+http://www.dsk.cc/nmtv/hl_arqtv.php?t=hls
+#EXTINF:-1 tvg-name="阿荣旗电视台" tvg-logo="https://epg.v1.mk/logo/阿荣旗电视台.png" group-title="内蒙古",阿荣旗电视台
+http://www.dsk.cc/nmtv/hl_arqtv.php?t=flv
+#EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://epg.v1.mk/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2347general.m3u8?txSecret=7516318a05754a7c1513eb01e1c66b77&txTime=771E8800
+#EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://epg.v1.mk/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2347general.flv?txSecret=7516318a05754a7c1513eb01e1c66b77&txTime=771E8800
+#EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://epg.v1.mk/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
+rtmp://livestream-bt.nmtv.cn/nmtv/2347general?txSecret=7516318a05754a7c1513eb01e1c66b77&txTime=771E8800
+#EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://epg.v1.mk/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
+http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
+#EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://epg.v1.mk/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
+http://play1-qk.nmtv.cn/live/1735547046115053.flv
+#EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://epg.v1.mk/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
+rtmp://play1-qk.nmtv.cn/live/1735547046115053
+#EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://epg.v1.mk/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
+http://play1-qk.nmtv.cn:80/live/1735547046115053.m3u8
 #EXTINF:-1 tvg-name="宁夏公共" tvg-logo="https://epg.v1.mk/logo/宁夏公共.png" group-title="宁夏",宁夏公共
 http://14.135.72.70:8888/rtp/239.121.4.97:8556
 #EXTINF:-1 tvg-name="宁夏公共" tvg-logo="https://epg.v1.mk/logo/宁夏公共.png" group-title="宁夏",宁夏公共
@@ -22403,22 +22635,90 @@ http://110.157.220.240:8088/udp/238.125.4.207:5140
 http://110.157.220.240:8088/udp/238.125.2.239:5140
 #EXTINF:-1 tvg-name="乌鲁木齐妇女儿童" tvg-logo="https://epg.v1.mk/logo/乌鲁木齐妇女儿童.png" group-title="新疆",乌鲁木齐妇女儿童
 http://110.157.220.240:8088/udp/238.125.7.205:5140
-#EXTINF:-1 tvg-name="昭苏一套" tvg-logo="https://epg.v1.mk/logo/昭苏一套.png" group-title="新疆",昭苏一套
-http://110.157.220.240:8088/udp/238.125.3.225:5140
+#EXTINF:-1 tvg-name="二师综合" tvg-logo="https://epg.v1.mk/logo/二师综合.png" group-title="新疆",二师综合
+http://110.157.220.240:8088/udp/238.125.3.111:5140
+#EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
+http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
+#EXTINF:-1 tvg-name="五师双河新闻综合http://liveout.btzx.com.cn/62ds9e/4nxdih.flv" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合http://liveout.btzx.com.cn/62ds9e/4nxdih.flv.png" group-title="新疆",五师双河新闻综合http://liveout.btzx.com.cn/62ds9e/4nxdih.flv
+undefined
+#EXTINF:-1 tvg-name="五师双河新闻综合rtmp://liveout.btzx.com.cn/62ds9e/4nxdih" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合rtmp://liveout.btzx.com.cn/62ds9e/4nxdih.png" group-title="新疆",五师双河新闻综合rtmp://liveout.btzx.com.cn/62ds9e/4nxdih
+undefined
+#EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
+http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
+#EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
+http://110.157.220.240:8088/udp/238.125.7.138:5140
+#EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://epg.v1.mk/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
+http://110.157.220.240:8088/udp/238.125.2.211:5140
+#EXTINF:-1 tvg-name="五师双河影视" tvg-logo="https://epg.v1.mk/logo/五师双河影视.png" group-title="新疆",五师双河影视
+http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
+#EXTINF:-1 tvg-name="五师双河影视" tvg-logo="https://epg.v1.mk/logo/五师双河影视.png" group-title="新疆",五师双河影视
+http://liveout.btzx.com.cn/62ds9e/6o77s4.flv
+#EXTINF:-1 tvg-name="五师双河影视" tvg-logo="https://epg.v1.mk/logo/五师双河影视.png" group-title="新疆",五师双河影视
+rtmp://liveout.btzx.com.cn/62ds9e/6o77s4
+#EXTINF:-1 tvg-name="五师双河影视" tvg-logo="https://epg.v1.mk/logo/五师双河影视.png" group-title="新疆",五师双河影视
+http://110.157.220.240:8088/udp/238.125.7.139:5140
+#EXTINF:-1 tvg-name="五师双河影视" tvg-logo="https://epg.v1.mk/logo/五师双河影视.png" group-title="新疆",五师双河影视
+http://110.157.220.240:8088/udp/238.125.2.210:5140
+#EXTINF:-1 tvg-name="六师五家渠新闻综合" tvg-logo="https://epg.v1.mk/logo/六师五家渠新闻综合.png" group-title="新疆",六师五家渠新闻综合
+https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
+#EXTINF:-1 tvg-name="六师五家渠新闻综合" tvg-logo="https://epg.v1.mk/logo/六师五家渠新闻综合.png" group-title="新疆",六师五家渠新闻综合
+https://liveout.btzx.com.cn/62ds9e/d9vi5g.flv
+#EXTINF:-1 tvg-name="六师五家渠新闻综合" tvg-logo="https://epg.v1.mk/logo/六师五家渠新闻综合.png" group-title="新疆",六师五家渠新闻综合
+rtmp://liveout.btzx.com.cn/62ds9e/d9vi5g
+#EXTINF:-1 tvg-name="七师胡杨河新闻综合" tvg-logo="https://epg.v1.mk/logo/七师胡杨河新闻综合.png" group-title="新疆",七师胡杨河新闻综合
+https://liveout.btzx.com.cn:443/ybtkau/078syl.m3u8
+#EXTINF:-1 tvg-name="七师胡杨河新闻综合" tvg-logo="https://epg.v1.mk/logo/七师胡杨河新闻综合.png" group-title="新疆",七师胡杨河新闻综合
+https://liveout.btzx.com.cn:443/ybtkau/078syl.flv
+#EXTINF:-1 tvg-name="七师胡杨河新闻综合" tvg-logo="https://epg.v1.mk/logo/七师胡杨河新闻综合.png" group-title="新疆",七师胡杨河新闻综合
+rtmp://liveout.btzx.com.cn:443/ybtkau/078syl
+#EXTINF:-1 tvg-name="七师胡杨河新闻综合" tvg-logo="https://epg.v1.mk/logo/七师胡杨河新闻综合.png" group-title="新疆",七师胡杨河新闻综合
+http://110.157.220.240:8088/udp/238.125.7.228:5140
+#EXTINF:-1 tvg-name="七师胡杨河新闻综合" tvg-logo="https://epg.v1.mk/logo/七师胡杨河新闻综合.png" group-title="新疆",七师胡杨河新闻综合
+http://110.157.220.240:8088/udp/238.125.2.160:5140
+#EXTINF:-1 tvg-name="八师石河子新闻综合" tvg-logo="https://epg.v1.mk/logo/八师石河子新闻综合.png" group-title="新疆",八师石河子新闻综合
+http://www.shznews.com/ds/xwzh/playlist.m3u8
+#EXTINF:-1 tvg-name="八师石河子新闻综合" tvg-logo="https://epg.v1.mk/logo/八师石河子新闻综合.png" group-title="新疆",八师石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 tvg-name="八师石河子新闻综合" tvg-logo="https://epg.v1.mk/logo/八师石河子新闻综合.png" group-title="新疆",八师石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 tvg-name="八师石河子新闻综合" tvg-logo="https://epg.v1.mk/logo/八师石河子新闻综合.png" group-title="新疆",八师石河子新闻综合
+http://110.157.220.240:8088/udp/238.125.3.143:5140
+#EXTINF:-1 tvg-name="八师石河子八师二套" tvg-logo="https://epg.v1.mk/logo/八师石河子八师二套.png" group-title="新疆",八师石河子八师二套
+http://110.157.220.240:8088/udp/238.125.3.144:5140
+#EXTINF:-1 tvg-name="八师石河子八师三套" tvg-logo="https://epg.v1.mk/logo/八师石河子八师三套.png" group-title="新疆",八师石河子八师三套
+http://110.157.220.240:8088/udp/238.125.3.145:5140
+#EXTINF:-1 tvg-name="八师石河子八师四套" tvg-logo="https://epg.v1.mk/logo/八师石河子八师四套.png" group-title="新疆",八师石河子八师四套
+http://110.157.220.240:8088/udp/238.125.3.146:5140
+#EXTINF:-1 tvg-name="九师综合" tvg-logo="https://epg.v1.mk/logo/九师综合.png" group-title="新疆",九师综合
+https://liveout.btzx.com.cn/3pyc0h/dbfvwu.m3u8
+#EXTINF:-1 tvg-name="九师综合" tvg-logo="https://epg.v1.mk/logo/九师综合.png" group-title="新疆",九师综合
+http://110.157.220.240:8088/udp/238.125.3.109:5140
+#EXTINF:-1 tvg-name="十二师综合" tvg-logo="https://epg.v1.mk/logo/十二师综合.png" group-title="新疆",十二师综合
+https://liveout.btzx.com.cn/62ds9e/454mm6.m3u8
+#EXTINF:-1 tvg-name="十二师综合" tvg-logo="https://epg.v1.mk/logo/十二师综合.png" group-title="新疆",十二师综合
+http://110.157.220.240:8088/udp/238.125.7.114:5140
+#EXTINF:-1 tvg-name="十二师综合" tvg-logo="https://epg.v1.mk/logo/十二师综合.png" group-title="新疆",十二师综合
+http://110.157.220.240:8088/udp/238.125.2.212:5140
+#EXTINF:-1 tvg-name="十四师昆玉综合" tvg-logo="https://epg.v1.mk/logo/十四师昆玉综合.png" group-title="新疆",十四师昆玉综合
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="十四师昆玉综合" tvg-logo="https://epg.v1.mk/logo/十四师昆玉综合.png" group-title="新疆",十四师昆玉综合
+http://110.157.220.240:8088/udp/238.125.3.105:5140
 #EXTINF:-1 tvg-name="昭苏一套" tvg-logo="https://epg.v1.mk/logo/昭苏一套.png" group-title="新疆",昭苏一套
 http://110.157.220.240:8088/udp/238.125.7.171:5140
-#EXTINF:-1 tvg-name="昭苏二套" tvg-logo="https://epg.v1.mk/logo/昭苏二套.png" group-title="新疆",昭苏二套
-http://110.157.220.240:8088/udp/238.125.3.226:5140
+#EXTINF:-1 tvg-name="昭苏一套" tvg-logo="https://epg.v1.mk/logo/昭苏一套.png" group-title="新疆",昭苏一套
+http://110.157.220.240:8088/udp/238.125.3.225:5140
 #EXTINF:-1 tvg-name="昭苏二套" tvg-logo="https://epg.v1.mk/logo/昭苏二套.png" group-title="新疆",昭苏二套
 http://110.157.220.240:8088/udp/238.125.7.172:5140
-#EXTINF:-1 tvg-name="泽普一套" tvg-logo="https://epg.v1.mk/logo/泽普一套.png" group-title="新疆",泽普一套
-http://110.157.220.240:8088/udp/238.125.2.229:5140
+#EXTINF:-1 tvg-name="昭苏二套" tvg-logo="https://epg.v1.mk/logo/昭苏二套.png" group-title="新疆",昭苏二套
+http://110.157.220.240:8088/udp/238.125.3.226:5140
 #EXTINF:-1 tvg-name="泽普一套" tvg-logo="https://epg.v1.mk/logo/泽普一套.png" group-title="新疆",泽普一套
 http://110.157.220.240:8088/udp/238.125.7.124:5140
-#EXTINF:-1 tvg-name="泽普四套" tvg-logo="https://epg.v1.mk/logo/泽普四套.png" group-title="新疆",泽普四套
-http://110.157.220.240:8088/udp/238.125.2.228:5140
+#EXTINF:-1 tvg-name="泽普一套" tvg-logo="https://epg.v1.mk/logo/泽普一套.png" group-title="新疆",泽普一套
+http://110.157.220.240:8088/udp/238.125.2.229:5140
 #EXTINF:-1 tvg-name="泽普二套" tvg-logo="https://epg.v1.mk/logo/泽普二套.png" group-title="新疆",泽普二套
 http://110.157.220.240:8088/udp/238.125.7.125:5140
+#EXTINF:-1 tvg-name="泽普四套" tvg-logo="https://epg.v1.mk/logo/泽普四套.png" group-title="新疆",泽普四套
+http://110.157.220.240:8088/udp/238.125.2.228:5140
 #EXTINF:-1 tvg-name="岳普湖一套" tvg-logo="https://epg.v1.mk/logo/岳普湖一套.png" group-title="新疆",岳普湖一套
 http://110.157.220.240:8088/udp/238.125.7.193:5140
 #EXTINF:-1 tvg-name="岳普湖一套" tvg-logo="https://epg.v1.mk/logo/岳普湖一套.png" group-title="新疆",岳普湖一套
@@ -22430,257 +22730,179 @@ http://110.157.220.240:8088/udp/238.125.2.248:5140
 #EXTINF:-1 tvg-name="裕民一套" tvg-logo="https://epg.v1.mk/logo/裕民一套.png" group-title="新疆",裕民一套
 http://110.157.220.240:8088/udp/238.125.2.191:5140
 #EXTINF:-1 tvg-name="于田一套" tvg-logo="https://epg.v1.mk/logo/于田一套.png" group-title="新疆",于田一套
-http://110.157.220.240:8088/udp/238.125.2.225:5140
-#EXTINF:-1 tvg-name="于田一套" tvg-logo="https://epg.v1.mk/logo/于田一套.png" group-title="新疆",于田一套
 http://110.157.220.240:8088/udp/238.125.7.128:5140
-#EXTINF:-1 tvg-name="于田二套" tvg-logo="https://epg.v1.mk/logo/于田二套.png" group-title="新疆",于田二套
-http://110.157.220.240:8088/udp/238.125.2.224:5140
+#EXTINF:-1 tvg-name="于田一套" tvg-logo="https://epg.v1.mk/logo/于田一套.png" group-title="新疆",于田一套
+http://110.157.220.240:8088/udp/238.125.2.225:5140
 #EXTINF:-1 tvg-name="于田二套" tvg-logo="https://epg.v1.mk/logo/于田二套.png" group-title="新疆",于田二套
 http://110.157.220.240:8088/udp/238.125.7.129:5140
-#EXTINF:-1 tvg-name="英吉沙一套" tvg-logo="https://epg.v1.mk/logo/英吉沙一套.png" group-title="新疆",英吉沙一套
-http://110.157.220.240:8088/udp/238.125.2.251:5140
+#EXTINF:-1 tvg-name="于田二套" tvg-logo="https://epg.v1.mk/logo/于田二套.png" group-title="新疆",于田二套
+http://110.157.220.240:8088/udp/238.125.2.224:5140
 #EXTINF:-1 tvg-name="英吉沙一套" tvg-logo="https://epg.v1.mk/logo/英吉沙一套.png" group-title="新疆",英吉沙一套
 http://110.157.220.240:8088/udp/238.125.7.191:5140
+#EXTINF:-1 tvg-name="英吉沙一套" tvg-logo="https://epg.v1.mk/logo/英吉沙一套.png" group-title="新疆",英吉沙一套
+http://110.157.220.240:8088/udp/238.125.2.251:5140
 #EXTINF:-1 tvg-name="英吉沙二套" tvg-logo="https://epg.v1.mk/logo/英吉沙二套.png" group-title="新疆",英吉沙二套
 http://110.157.220.240:8088/udp/238.125.7.192:5140
 #EXTINF:-1 tvg-name="英吉沙二套" tvg-logo="https://epg.v1.mk/logo/英吉沙二套.png" group-title="新疆",英吉沙二套
 http://110.157.220.240:8088/udp/238.125.2.250:5140
 #EXTINF:-1 tvg-name="伊吾一套" tvg-logo="https://epg.v1.mk/logo/伊吾一套.png" group-title="新疆",伊吾一套
-http://110.157.220.240:8088/udp/238.125.2.246:5140
-#EXTINF:-1 tvg-name="伊吾一套" tvg-logo="https://epg.v1.mk/logo/伊吾一套.png" group-title="新疆",伊吾一套
 http://110.157.220.240:8088/udp/238.125.7.196:5140
-#EXTINF:-1 tvg-name="伊宁新闻" tvg-logo="https://epg.v1.mk/logo/伊宁新闻.png" group-title="新疆",伊宁新闻
-http://110.157.220.240:8088/udp/238.125.3.186:5140
-#EXTINF:-1 tvg-name="伊宁新闻" tvg-logo="https://epg.v1.mk/logo/伊宁新闻.png" group-title="新疆",伊宁新闻
-http://110.157.220.240:8088/udp/238.125.7.157:5140
-#EXTINF:-1 tvg-name="伊宁县一套" tvg-logo="https://epg.v1.mk/logo/伊宁县一套.png" group-title="新疆",伊宁县一套
-http://110.157.220.240:8088/udp/238.125.3.228:5140
+#EXTINF:-1 tvg-name="伊吾一套" tvg-logo="https://epg.v1.mk/logo/伊吾一套.png" group-title="新疆",伊吾一套
+http://110.157.220.240:8088/udp/238.125.2.246:5140
+#EXTINF:-1 tvg-name="伊宁一套" tvg-logo="https://epg.v1.mk/logo/伊宁一套.png" group-title="新疆",伊宁一套
+http://222.81.52.40:9898/out_1/index.m3u8
 #EXTINF:-1 tvg-name="伊宁县一套" tvg-logo="https://epg.v1.mk/logo/伊宁县一套.png" group-title="新疆",伊宁县一套
 http://110.157.220.240:8088/udp/238.125.7.174:5140
-#EXTINF:-1 tvg-name="伊宁县二套" tvg-logo="https://epg.v1.mk/logo/伊宁县二套.png" group-title="新疆",伊宁县二套
-http://110.157.220.240:8088/udp/238.125.3.229:5140
+#EXTINF:-1 tvg-name="伊宁县一套" tvg-logo="https://epg.v1.mk/logo/伊宁县一套.png" group-title="新疆",伊宁县一套
+http://110.157.220.240:8088/udp/238.125.3.228:5140
 #EXTINF:-1 tvg-name="伊宁县二套" tvg-logo="https://epg.v1.mk/logo/伊宁县二套.png" group-title="新疆",伊宁县二套
 http://110.157.220.240:8088/udp/238.125.7.175:5140
-#EXTINF:-1 tvg-name="伊宁维吾尔" tvg-logo="https://epg.v1.mk/logo/伊宁维吾尔.png" group-title="新疆",伊宁维吾尔
+#EXTINF:-1 tvg-name="伊宁县二套" tvg-logo="https://epg.v1.mk/logo/伊宁县二套.png" group-title="新疆",伊宁县二套
+http://110.157.220.240:8088/udp/238.125.3.229:5140
+#EXTINF:-1 tvg-name="伊宁二套" tvg-logo="https://epg.v1.mk/logo/伊宁二套.png" group-title="新疆",伊宁二套
 http://222.81.52.40:9898/out_2/index.m3u8
-#EXTINF:-1 tvg-name="伊宁维吾尔" tvg-logo="https://epg.v1.mk/logo/伊宁维吾尔.png" group-title="新疆",伊宁维吾尔
-http://110.157.220.240:8088/udp/238.125.3.187:5140
-#EXTINF:-1 tvg-name="伊宁维吾尔" tvg-logo="https://epg.v1.mk/logo/伊宁维吾尔.png" group-title="新疆",伊宁维吾尔
-http://110.157.220.240:8088/udp/238.125.7.158:5140
-#EXTINF:-1 tvg-name="伊宁汉语综合" tvg-logo="https://epg.v1.mk/logo/伊宁汉语综合.png" group-title="新疆",伊宁汉语综合
-http://222.81.52.40:9898/out_1/index.m3u8
-#EXTINF:-1 tvg-name="伊犁一套" tvg-logo="https://epg.v1.mk/logo/伊犁一套.png" group-title="新疆",伊犁一套
-http://110.157.220.240:8088/udp/238.125.0.147:5140
 #EXTINF:-1 tvg-name="伊犁一套" tvg-logo="https://epg.v1.mk/logo/伊犁一套.png" group-title="新疆",伊犁一套
 http://110.157.220.240:8088/udp/238.125.4.147:5140
-#EXTINF:-1 tvg-name="伊犁维吾尔" tvg-logo="https://epg.v1.mk/logo/伊犁维吾尔.png" group-title="新疆",伊犁维吾尔
-http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 tvg-name="伊犁四套" tvg-logo="https://epg.v1.mk/logo/伊犁四套.png" group-title="新疆",伊犁四套
-http://110.157.220.240:8088/udp/238.125.0.150:5140
-#EXTINF:-1 tvg-name="伊犁四套" tvg-logo="https://epg.v1.mk/logo/伊犁四套.png" group-title="新疆",伊犁四套
-http://110.157.220.240:8088/udp/238.125.4.150:5140
-#EXTINF:-1 tvg-name="伊犁三套" tvg-logo="https://epg.v1.mk/logo/伊犁三套.png" group-title="新疆",伊犁三套
-http://110.157.220.240:8088/udp/238.125.0.149:5140
-#EXTINF:-1 tvg-name="伊犁三套" tvg-logo="https://epg.v1.mk/logo/伊犁三套.png" group-title="新疆",伊犁三套
-http://110.157.220.240:8088/udp/238.125.4.149:5140
-#EXTINF:-1 tvg-name="伊犁经济法制" tvg-logo="https://epg.v1.mk/logo/伊犁经济法制.png" group-title="新疆",伊犁经济法制
-http://110.153.180.106:55555/out_4/index.m3u8
-#EXTINF:-1 tvg-name="伊犁汉语综合" tvg-logo="https://epg.v1.mk/logo/伊犁汉语综合.png" group-title="新疆",伊犁汉语综合
-http://110.153.180.106:55555/out_1/index.m3u8
-#EXTINF:-1 tvg-name="伊犁哈萨克" tvg-logo="https://epg.v1.mk/logo/伊犁哈萨克.png" group-title="新疆",伊犁哈萨克
-http://110.153.180.106:55555/out_3/index.m3u8
-#EXTINF:-1 tvg-name="伊犁二套" tvg-logo="https://epg.v1.mk/logo/伊犁二套.png" group-title="新疆",伊犁二套
-http://110.157.220.240:8088/udp/238.125.0.148:5140
+#EXTINF:-1 tvg-name="伊犁一套" tvg-logo="https://epg.v1.mk/logo/伊犁一套.png" group-title="新疆",伊犁一套
+http://110.157.220.240:8088/udp/238.125.0.147:5140
 #EXTINF:-1 tvg-name="伊犁二套" tvg-logo="https://epg.v1.mk/logo/伊犁二套.png" group-title="新疆",伊犁二套
 http://110.157.220.240:8088/udp/238.125.4.148:5140
-#EXTINF:-1 tvg-name="叶城一套" tvg-logo="https://epg.v1.mk/logo/叶城一套.png" group-title="新疆",叶城一套
-http://110.157.220.240:8088/udp/238.125.2.253:5140
+#EXTINF:-1 tvg-name="伊犁二套" tvg-logo="https://epg.v1.mk/logo/伊犁二套.png" group-title="新疆",伊犁二套
+http://110.157.220.240:8088/udp/238.125.0.148:5140
+#EXTINF:-1 tvg-name="伊犁三套" tvg-logo="https://epg.v1.mk/logo/伊犁三套.png" group-title="新疆",伊犁三套
+http://110.157.220.240:8088/udp/238.125.4.149:5140
+#EXTINF:-1 tvg-name="伊犁三套" tvg-logo="https://epg.v1.mk/logo/伊犁三套.png" group-title="新疆",伊犁三套
+http://110.157.220.240:8088/udp/238.125.0.149:5140
+#EXTINF:-1 tvg-name="伊犁四套" tvg-logo="https://epg.v1.mk/logo/伊犁四套.png" group-title="新疆",伊犁四套
+http://110.157.220.240:8088/udp/238.125.4.150:5140
+#EXTINF:-1 tvg-name="伊犁四套" tvg-logo="https://epg.v1.mk/logo/伊犁四套.png" group-title="新疆",伊犁四套
+http://110.157.220.240:8088/udp/238.125.0.150:5140
 #EXTINF:-1 tvg-name="叶城一套" tvg-logo="https://epg.v1.mk/logo/叶城一套.png" group-title="新疆",叶城一套
 http://110.157.220.240:8088/udp/238.125.6.169:5140
-#EXTINF:-1 tvg-name="叶城二套" tvg-logo="https://epg.v1.mk/logo/叶城二套.png" group-title="新疆",叶城二套
-http://110.157.220.240:8088/udp/238.125.2.252:5140
+#EXTINF:-1 tvg-name="叶城一套" tvg-logo="https://epg.v1.mk/logo/叶城一套.png" group-title="新疆",叶城一套
+http://110.157.220.240:8088/udp/238.125.2.253:5140
 #EXTINF:-1 tvg-name="叶城二套" tvg-logo="https://epg.v1.mk/logo/叶城二套.png" group-title="新疆",叶城二套
 http://110.157.220.240:8088/udp/238.125.6.170:5140
-#EXTINF:-1 tvg-name="新源一套" tvg-logo="https://epg.v1.mk/logo/新源一套.png" group-title="新疆",新源一套
-http://110.157.220.240:8088/udp/238.125.3.233:5140
+#EXTINF:-1 tvg-name="叶城二套" tvg-logo="https://epg.v1.mk/logo/叶城二套.png" group-title="新疆",叶城二套
+http://110.157.220.240:8088/udp/238.125.2.252:5140
 #EXTINF:-1 tvg-name="新源一套" tvg-logo="https://epg.v1.mk/logo/新源一套.png" group-title="新疆",新源一套
 http://110.157.220.240:8088/udp/238.125.7.179:5140
-#EXTINF:-1 tvg-name="新源二套" tvg-logo="https://epg.v1.mk/logo/新源二套.png" group-title="新疆",新源二套
-http://110.157.220.240:8088/udp/238.125.3.232:5140
+#EXTINF:-1 tvg-name="新源一套" tvg-logo="https://epg.v1.mk/logo/新源一套.png" group-title="新疆",新源一套
+http://110.157.220.240:8088/udp/238.125.3.233:5140
 #EXTINF:-1 tvg-name="新源二套" tvg-logo="https://epg.v1.mk/logo/新源二套.png" group-title="新疆",新源二套
 http://110.157.220.240:8088/udp/238.125.7.178:5140
-#EXTINF:-1 tvg-name="新星综合" tvg-logo="https://epg.v1.mk/logo/新星综合.png" group-title="新疆",新星综合
-http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="五师综合" tvg-logo="https://epg.v1.mk/logo/五师综合.png" group-title="新疆",五师综合
-http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
-#EXTINF:-1 tvg-name="五师一套" tvg-logo="https://epg.v1.mk/logo/五师一套.png" group-title="新疆",五师一套
-http://110.157.220.240:8088/udp/238.125.2.211:5140
-#EXTINF:-1 tvg-name="五师一套" tvg-logo="https://epg.v1.mk/logo/五师一套.png" group-title="新疆",五师一套
-http://110.157.220.240:8088/udp/238.125.7.138:5140
-#EXTINF:-1 tvg-name="五师双河" tvg-logo="https://epg.v1.mk/logo/五师双河.png" group-title="新疆",五师双河
-http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
-#EXTINF:-1 tvg-name="五师二套" tvg-logo="https://epg.v1.mk/logo/五师二套.png" group-title="新疆",五师二套
-http://110.157.220.240:8088/udp/238.125.2.210:5140
-#EXTINF:-1 tvg-name="五师二套" tvg-logo="https://epg.v1.mk/logo/五师二套.png" group-title="新疆",五师二套
-http://110.157.220.240:8088/udp/238.125.7.139:5140
-#EXTINF:-1 tvg-name="五家渠综合频道" tvg-logo="https://epg.v1.mk/logo/五家渠综合频道.png" group-title="新疆",五家渠综合频道
-https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
-#EXTINF:-1 tvg-name="五家渠新闻" tvg-logo="https://epg.v1.mk/logo/五家渠新闻.png" group-title="新疆",五家渠新闻
-http://110.157.220.240:8088/udp/238.125.3.165:5140
-#EXTINF:-1 tvg-name="五家渠新闻" tvg-logo="https://epg.v1.mk/logo/五家渠新闻.png" group-title="新疆",五家渠新闻
-http://110.157.220.240:8088/udp/238.125.7.141:5140
-#EXTINF:-1 tvg-name="五家渠经济生活" tvg-logo="https://epg.v1.mk/logo/五家渠经济生活.png" group-title="新疆",五家渠经济生活
-http://110.157.220.240:8088/udp/238.125.3.166:5140
-#EXTINF:-1 tvg-name="五家渠经济生活" tvg-logo="https://epg.v1.mk/logo/五家渠经济生活.png" group-title="新疆",五家渠经济生活
-http://110.157.220.240:8088/udp/238.125.7.142:5140
-#EXTINF:-1 tvg-name="五家渠广告" tvg-logo="https://epg.v1.mk/logo/五家渠广告.png" group-title="新疆",五家渠广告
-http://110.157.220.240:8088/udp/238.125.3.164:5140
-#EXTINF:-1 tvg-name="五家渠广告" tvg-logo="https://epg.v1.mk/logo/五家渠广告.png" group-title="新疆",五家渠广告
-http://110.157.220.240:8088/udp/238.125.7.144:5140
-#EXTINF:-1 tvg-name="乌什一套" tvg-logo="https://epg.v1.mk/logo/乌什一套.png" group-title="新疆",乌什一套
-http://110.157.220.240:8088/udp/238.125.3.130:5140
+#EXTINF:-1 tvg-name="新源二套" tvg-logo="https://epg.v1.mk/logo/新源二套.png" group-title="新疆",新源二套
+http://110.157.220.240:8088/udp/238.125.3.232:5140
 #EXTINF:-1 tvg-name="乌什一套" tvg-logo="https://epg.v1.mk/logo/乌什一套.png" group-title="新疆",乌什一套
 http://110.157.220.240:8088/udp/238.125.7.130:5140
-#EXTINF:-1 tvg-name="乌什二套" tvg-logo="https://epg.v1.mk/logo/乌什二套.png" group-title="新疆",乌什二套
-http://110.157.220.240:8088/udp/238.125.3.131:5140
+#EXTINF:-1 tvg-name="乌什一套" tvg-logo="https://epg.v1.mk/logo/乌什一套.png" group-title="新疆",乌什一套
+http://110.157.220.240:8088/udp/238.125.3.130:5140
 #EXTINF:-1 tvg-name="乌什二套" tvg-logo="https://epg.v1.mk/logo/乌什二套.png" group-title="新疆",乌什二套
 http://110.157.220.240:8088/udp/238.125.7.131:5140
+#EXTINF:-1 tvg-name="乌什二套" tvg-logo="https://epg.v1.mk/logo/乌什二套.png" group-title="新疆",乌什二套
+http://110.157.220.240:8088/udp/238.125.3.131:5140
 #EXTINF:-1 tvg-name="乌恰二套" tvg-logo="https://epg.v1.mk/logo/乌恰二套.png" group-title="新疆",乌恰二套
 http://110.157.220.240:8088/udp/238.125.2.189:5140
 #EXTINF:-1 tvg-name="温宿一套" tvg-logo="https://epg.v1.mk/logo/温宿一套.png" group-title="新疆",温宿一套
-http://110.157.220.240:8088/udp/238.125.3.195:5140
-#EXTINF:-1 tvg-name="温宿一套" tvg-logo="https://epg.v1.mk/logo/温宿一套.png" group-title="新疆",温宿一套
 http://110.157.220.240:8088/udp/238.125.7.162:5140
-#EXTINF:-1 tvg-name="温宿二套" tvg-logo="https://epg.v1.mk/logo/温宿二套.png" group-title="新疆",温宿二套
-http://110.157.220.240:8088/udp/238.125.3.196:5140
+#EXTINF:-1 tvg-name="温宿一套" tvg-logo="https://epg.v1.mk/logo/温宿一套.png" group-title="新疆",温宿一套
+http://110.157.220.240:8088/udp/238.125.3.195:5140
 #EXTINF:-1 tvg-name="温宿二套" tvg-logo="https://epg.v1.mk/logo/温宿二套.png" group-title="新疆",温宿二套
 http://110.157.220.240:8088/udp/238.125.7.163:5140
-#EXTINF:-1 tvg-name="温泉县" tvg-logo="https://epg.v1.mk/logo/温泉县.png" group-title="新疆",温泉县
-http://110.157.220.240:8088/udp/238.125.3.148:5140
-#EXTINF:-1 tvg-name="尉犁一套" tvg-logo="https://epg.v1.mk/logo/尉犁一套.png" group-title="新疆",尉犁一套
-http://110.157.220.240:8088/udp/238.125.3.128:5140
+#EXTINF:-1 tvg-name="温宿二套" tvg-logo="https://epg.v1.mk/logo/温宿二套.png" group-title="新疆",温宿二套
+http://110.157.220.240:8088/udp/238.125.3.196:5140
 #EXTINF:-1 tvg-name="尉犁一套" tvg-logo="https://epg.v1.mk/logo/尉犁一套.png" group-title="新疆",尉犁一套
 http://110.157.220.240:8088/udp/238.125.7.70:5140
+#EXTINF:-1 tvg-name="尉犁一套" tvg-logo="https://epg.v1.mk/logo/尉犁一套.png" group-title="新疆",尉犁一套
+http://110.157.220.240:8088/udp/238.125.3.128:5140
 #EXTINF:-1 tvg-name="托里一套" tvg-logo="https://epg.v1.mk/logo/托里一套.png" group-title="新疆",托里一套
 http://110.157.220.240:8088/udp/238.125.2.213:5140
 #EXTINF:-1 tvg-name="托克逊一套" tvg-logo="https://epg.v1.mk/logo/托克逊一套.png" group-title="新疆",托克逊一套
 http://110.157.220.240:8088/udp/238.125.3.25:5140
-#EXTINF:-1 tvg-name="托克逊维语" tvg-logo="https://epg.v1.mk/logo/托克逊维语.png" group-title="新疆",托克逊维语
-http://110.157.220.240:8088/udp/238.125.7.26:5140
 #EXTINF:-1 tvg-name="托克逊二套" tvg-logo="https://epg.v1.mk/logo/托克逊二套.png" group-title="新疆",托克逊二套
 http://110.157.220.240:8088/udp/238.125.3.26:5140
-#EXTINF:-1 tvg-name="托克逊" tvg-logo="https://epg.v1.mk/logo/托克逊.png" group-title="新疆",托克逊
-http://110.157.220.240:8088/udp/238.125.7.25:5140
-#EXTINF:-1 tvg-name="吐鲁番综合" tvg-logo="https://epg.v1.mk/logo/吐鲁番综合.png" group-title="新疆",吐鲁番综合
-http://110.157.220.240:8088/udp/238.125.3.17:5140
-#EXTINF:-1 tvg-name="吐鲁番综合" tvg-logo="https://epg.v1.mk/logo/吐鲁番综合.png" group-title="新疆",吐鲁番综合
-http://110.157.220.240:8088/udp/238.125.7.17:5140
-#EXTINF:-1 tvg-name="吐鲁番三套" tvg-logo="https://epg.v1.mk/logo/吐鲁番三套.png" group-title="新疆",吐鲁番三套
-http://110.157.220.240:8088/udp/238.125.3.19:5140
-#EXTINF:-1 tvg-name="吐鲁番三套" tvg-logo="https://epg.v1.mk/logo/吐鲁番三套.png" group-title="新疆",吐鲁番三套
-http://110.157.220.240:8088/udp/238.125.7.19:5140
 #EXTINF:-1 tvg-name="吐鲁番二套" tvg-logo="https://epg.v1.mk/logo/吐鲁番二套.png" group-title="新疆",吐鲁番二套
-http://110.157.220.240:8088/udp/238.125.3.18:5140
-#EXTINF:-1 tvg-name="吐鲁番二套" tvg-logo="https://epg.v1.mk/logo/吐鲁番二套.png" group-title="新疆",吐鲁番二套
-http://110.157.220.240:8088/udp/238.125.3.20:5140
+http://110.157.220.240:8088/udp/238.125.7.20:5140
 #EXTINF:-1 tvg-name="吐鲁番二套" tvg-logo="https://epg.v1.mk/logo/吐鲁番二套.png" group-title="新疆",吐鲁番二套
 http://110.157.220.240:8088/udp/238.125.7.18:5140
 #EXTINF:-1 tvg-name="吐鲁番二套" tvg-logo="https://epg.v1.mk/logo/吐鲁番二套.png" group-title="新疆",吐鲁番二套
-http://110.157.220.240:8088/udp/238.125.7.20:5140
-#EXTINF:-1 tvg-name="图木舒克一套" tvg-logo="https://epg.v1.mk/logo/图木舒克一套.png" group-title="新疆",图木舒克一套
-http://110.157.220.240:8088/udp/238.125.3.239:5140
+http://110.157.220.240:8088/udp/238.125.3.20:5140
+#EXTINF:-1 tvg-name="吐鲁番二套" tvg-logo="https://epg.v1.mk/logo/吐鲁番二套.png" group-title="新疆",吐鲁番二套
+http://110.157.220.240:8088/udp/238.125.3.18:5140
+#EXTINF:-1 tvg-name="吐鲁番三套" tvg-logo="https://epg.v1.mk/logo/吐鲁番三套.png" group-title="新疆",吐鲁番三套
+http://110.157.220.240:8088/udp/238.125.7.19:5140
+#EXTINF:-1 tvg-name="吐鲁番三套" tvg-logo="https://epg.v1.mk/logo/吐鲁番三套.png" group-title="新疆",吐鲁番三套
+http://110.157.220.240:8088/udp/238.125.3.19:5140
 #EXTINF:-1 tvg-name="图木舒克一套" tvg-logo="https://epg.v1.mk/logo/图木舒克一套.png" group-title="新疆",图木舒克一套
 http://110.157.220.240:8088/udp/238.125.7.181:5140
-#EXTINF:-1 tvg-name="图木舒克二套" tvg-logo="https://epg.v1.mk/logo/图木舒克二套.png" group-title="新疆",图木舒克二套
-http://110.157.220.240:8088/udp/238.125.3.240:5140
+#EXTINF:-1 tvg-name="图木舒克一套" tvg-logo="https://epg.v1.mk/logo/图木舒克一套.png" group-title="新疆",图木舒克一套
+http://110.157.220.240:8088/udp/238.125.3.239:5140
 #EXTINF:-1 tvg-name="图木舒克二套" tvg-logo="https://epg.v1.mk/logo/图木舒克二套.png" group-title="新疆",图木舒克二套
 http://110.157.220.240:8088/udp/238.125.7.182:5140
-#EXTINF:-1 tvg-name="特克斯一套" tvg-logo="https://epg.v1.mk/logo/特克斯一套.png" group-title="新疆",特克斯一套
-http://110.157.220.240:8088/udp/238.125.3.10:5140
+#EXTINF:-1 tvg-name="图木舒克二套" tvg-logo="https://epg.v1.mk/logo/图木舒克二套.png" group-title="新疆",图木舒克二套
+http://110.157.220.240:8088/udp/238.125.3.240:5140
 #EXTINF:-1 tvg-name="特克斯一套" tvg-logo="https://epg.v1.mk/logo/特克斯一套.png" group-title="新疆",特克斯一套
 http://110.157.220.240:8088/udp/238.125.7.199:5140
-#EXTINF:-1 tvg-name="特克斯二套" tvg-logo="https://epg.v1.mk/logo/特克斯二套.png" group-title="新疆",特克斯二套
-http://110.157.220.240:8088/udp/238.125.3.9:5140
+#EXTINF:-1 tvg-name="特克斯一套" tvg-logo="https://epg.v1.mk/logo/特克斯一套.png" group-title="新疆",特克斯一套
+http://110.157.220.240:8088/udp/238.125.3.10:5140
 #EXTINF:-1 tvg-name="特克斯二套" tvg-logo="https://epg.v1.mk/logo/特克斯二套.png" group-title="新疆",特克斯二套
 http://110.157.220.240:8088/udp/238.125.7.198:5140
-#EXTINF:-1 tvg-name="塔县一套" tvg-logo="https://epg.v1.mk/logo/塔县一套.png" group-title="新疆",塔县一套
-http://110.157.220.240:8088/udp/238.125.3.252:5140
+#EXTINF:-1 tvg-name="特克斯二套" tvg-logo="https://epg.v1.mk/logo/特克斯二套.png" group-title="新疆",特克斯二套
+http://110.157.220.240:8088/udp/238.125.3.9:5140
 #EXTINF:-1 tvg-name="塔县一套" tvg-logo="https://epg.v1.mk/logo/塔县一套.png" group-title="新疆",塔县一套
 http://110.157.220.240:8088/udp/238.125.7.188:5140
-#EXTINF:-1 tvg-name="塔县二套" tvg-logo="https://epg.v1.mk/logo/塔县二套.png" group-title="新疆",塔县二套
-http://110.157.220.240:8088/udp/238.125.2.247:5140
+#EXTINF:-1 tvg-name="塔县一套" tvg-logo="https://epg.v1.mk/logo/塔县一套.png" group-title="新疆",塔县一套
+http://110.157.220.240:8088/udp/238.125.3.252:5140
 #EXTINF:-1 tvg-name="塔县二套" tvg-logo="https://epg.v1.mk/logo/塔县二套.png" group-title="新疆",塔县二套
 http://110.157.220.240:8088/udp/238.125.7.195:5140
-#EXTINF:-1 tvg-name="塔里木一套" tvg-logo="https://epg.v1.mk/logo/塔里木一套.png" group-title="新疆",塔里木一套
-http://110.157.220.240:8088/udp/238.125.3.150:5140
+#EXTINF:-1 tvg-name="塔县二套" tvg-logo="https://epg.v1.mk/logo/塔县二套.png" group-title="新疆",塔县二套
+http://110.157.220.240:8088/udp/238.125.2.247:5140
 #EXTINF:-1 tvg-name="塔里木一套" tvg-logo="https://epg.v1.mk/logo/塔里木一套.png" group-title="新疆",塔里木一套
 http://110.157.220.240:8088/udp/238.125.7.120:5140
-#EXTINF:-1 tvg-name="塔里木二套" tvg-logo="https://epg.v1.mk/logo/塔里木二套.png" group-title="新疆",塔里木二套
-http://110.157.220.240:8088/udp/238.125.3.151:5140
+#EXTINF:-1 tvg-name="塔里木一套" tvg-logo="https://epg.v1.mk/logo/塔里木一套.png" group-title="新疆",塔里木一套
+http://110.157.220.240:8088/udp/238.125.3.150:5140
 #EXTINF:-1 tvg-name="塔里木二套" tvg-logo="https://epg.v1.mk/logo/塔里木二套.png" group-title="新疆",塔里木二套
 http://110.157.220.240:8088/udp/238.125.7.121:5140
+#EXTINF:-1 tvg-name="塔里木二套" tvg-logo="https://epg.v1.mk/logo/塔里木二套.png" group-title="新疆",塔里木二套
+http://110.157.220.240:8088/udp/238.125.3.151:5140
 #EXTINF:-1 tvg-name="塔城一套" tvg-logo="https://epg.v1.mk/logo/塔城一套.png" group-title="新疆",塔城一套
 http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
-#EXTINF:-1 tvg-name="塔城乌苏" tvg-logo="https://epg.v1.mk/logo/塔城乌苏.png" group-title="新疆",塔城乌苏
-http://110.157.220.240:8088/udp/238.125.2.194:5140
-#EXTINF:-1 tvg-name="塔城市" tvg-logo="https://epg.v1.mk/logo/塔城市.png" group-title="新疆",塔城市
-http://110.157.220.240:8088/udp/238.125.3.194:5140
-#EXTINF:-1 tvg-name="塔城市" tvg-logo="https://epg.v1.mk/logo/塔城市.png" group-title="新疆",塔城市
-http://110.157.220.240:8088/udp/238.125.7.159:5140
-#EXTINF:-1 tvg-name="塔城三套" tvg-logo="https://epg.v1.mk/logo/塔城三套.png" group-title="新疆",塔城三套
-http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
+#EXTINF:-1 tvg-name="塔城二套" tvg-logo="https://epg.v1.mk/logo/塔城二套.png" group-title="新疆",塔城二套
+rtmp://218.84.35.38/live/tctv-2
 #EXTINF:-1 tvg-name="塔城二套" tvg-logo="https://epg.v1.mk/logo/塔城二套.png" group-title="新疆",塔城二套
 http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
-#EXTINF:-1 tvg-name="塔城地区一套" tvg-logo="https://epg.v1.mk/logo/塔城地区一套.png" group-title="新疆",塔城地区一套
-http://110.157.220.240:8088/udp/238.125.3.29:5140
+#EXTINF:-1 tvg-name="塔城二套" tvg-logo="https://epg.v1.mk/logo/塔城二套.png" group-title="新疆",塔城二套
+http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
+#EXTINF:-1 tvg-name="塔城三套" tvg-logo="https://epg.v1.mk/logo/塔城三套.png" group-title="新疆",塔城三套
+http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
 #EXTINF:-1 tvg-name="塔城地区一套" tvg-logo="https://epg.v1.mk/logo/塔城地区一套.png" group-title="新疆",塔城地区一套
 http://110.157.220.240:8088/udp/238.125.7.29:5140
-#EXTINF:-1 tvg-name="塔城地区三套" tvg-logo="https://epg.v1.mk/logo/塔城地区三套.png" group-title="新疆",塔城地区三套
-http://110.157.220.240:8088/udp/238.125.3.31:5140
-#EXTINF:-1 tvg-name="塔城地区三套" tvg-logo="https://epg.v1.mk/logo/塔城地区三套.png" group-title="新疆",塔城地区三套
-http://110.157.220.240:8088/udp/238.125.7.31:5140
-#EXTINF:-1 tvg-name="塔城地区二套" tvg-logo="https://epg.v1.mk/logo/塔城地区二套.png" group-title="新疆",塔城地区二套
-http://110.157.220.240:8088/udp/238.125.3.30:5140
+#EXTINF:-1 tvg-name="塔城地区一套" tvg-logo="https://epg.v1.mk/logo/塔城地区一套.png" group-title="新疆",塔城地区一套
+http://110.157.220.240:8088/udp/238.125.3.29:5140
 #EXTINF:-1 tvg-name="塔城地区二套" tvg-logo="https://epg.v1.mk/logo/塔城地区二套.png" group-title="新疆",塔城地区二套
 http://110.157.220.240:8088/udp/238.125.7.30:5140
-#EXTINF:-1 tvg-name="疏勒一套" tvg-logo="https://epg.v1.mk/logo/疏勒一套.png" group-title="新疆",疏勒一套
-http://110.157.220.240:8088/udp/238.125.2.215:5140
+#EXTINF:-1 tvg-name="塔城地区二套" tvg-logo="https://epg.v1.mk/logo/塔城地区二套.png" group-title="新疆",塔城地区二套
+http://110.157.220.240:8088/udp/238.125.3.30:5140
+#EXTINF:-1 tvg-name="塔城地区三套" tvg-logo="https://epg.v1.mk/logo/塔城地区三套.png" group-title="新疆",塔城地区三套
+http://110.157.220.240:8088/udp/238.125.7.31:5140
+#EXTINF:-1 tvg-name="塔城地区三套" tvg-logo="https://epg.v1.mk/logo/塔城地区三套.png" group-title="新疆",塔城地区三套
+http://110.157.220.240:8088/udp/238.125.3.31:5140
 #EXTINF:-1 tvg-name="疏勒一套" tvg-logo="https://epg.v1.mk/logo/疏勒一套.png" group-title="新疆",疏勒一套
 http://110.157.220.240:8088/udp/238.125.7.208:5140
-#EXTINF:-1 tvg-name="疏勒二套" tvg-logo="https://epg.v1.mk/logo/疏勒二套.png" group-title="新疆",疏勒二套
-http://110.157.220.240:8088/udp/238.125.2.214:5140
+#EXTINF:-1 tvg-name="疏勒一套" tvg-logo="https://epg.v1.mk/logo/疏勒一套.png" group-title="新疆",疏勒一套
+http://110.157.220.240:8088/udp/238.125.2.215:5140
 #EXTINF:-1 tvg-name="疏勒二套" tvg-logo="https://epg.v1.mk/logo/疏勒二套.png" group-title="新疆",疏勒二套
 http://110.157.220.240:8088/udp/238.125.7.209:5140
-#EXTINF:-1 tvg-name="疏附一套" tvg-logo="https://epg.v1.mk/logo/疏附一套.png" group-title="新疆",疏附一套
-http://110.157.220.240:8088/udp/238.125.2.185:5140
+#EXTINF:-1 tvg-name="疏勒二套" tvg-logo="https://epg.v1.mk/logo/疏勒二套.png" group-title="新疆",疏勒二套
+http://110.157.220.240:8088/udp/238.125.2.214:5140
 #EXTINF:-1 tvg-name="疏附一套" tvg-logo="https://epg.v1.mk/logo/疏附一套.png" group-title="新疆",疏附一套
 http://110.157.220.240:8088/udp/238.125.7.216:5140
-#EXTINF:-1 tvg-name="疏附二套" tvg-logo="https://epg.v1.mk/logo/疏附二套.png" group-title="新疆",疏附二套
-http://110.157.220.240:8088/udp/238.125.2.184:5140
+#EXTINF:-1 tvg-name="疏附一套" tvg-logo="https://epg.v1.mk/logo/疏附一套.png" group-title="新疆",疏附一套
+http://110.157.220.240:8088/udp/238.125.2.185:5140
 #EXTINF:-1 tvg-name="疏附二套" tvg-logo="https://epg.v1.mk/logo/疏附二套.png" group-title="新疆",疏附二套
 http://110.157.220.240:8088/udp/238.125.7.217:5140
-#EXTINF:-1 tvg-name="石河子新闻综合" tvg-logo="https://epg.v1.mk/logo/石河子新闻综合.png" group-title="新疆",石河子新闻综合
-http://124.88.144.73:1935/live/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-name="石河子八师一套" tvg-logo="https://epg.v1.mk/logo/石河子八师一套.png" group-title="新疆",石河子八师一套
-http://110.157.220.240:8088/udp/238.125.3.143:5140
-#EXTINF:-1 tvg-name="石河子八师四套" tvg-logo="https://epg.v1.mk/logo/石河子八师四套.png" group-title="新疆",石河子八师四套
-http://110.157.220.240:8088/udp/238.125.3.146:5140
-#EXTINF:-1 tvg-name="石河子八师三套" tvg-logo="https://epg.v1.mk/logo/石河子八师三套.png" group-title="新疆",石河子八师三套
-http://110.157.220.240:8088/udp/238.125.3.145:5140
-#EXTINF:-1 tvg-name="石河子八师二套" tvg-logo="https://epg.v1.mk/logo/石河子八师二套.png" group-title="新疆",石河子八师二套
-http://110.157.220.240:8088/udp/238.125.3.144:5140
-#EXTINF:-1 tvg-name="十二师一套" tvg-logo="https://epg.v1.mk/logo/十二师一套.png" group-title="新疆",十二师一套
-http://110.157.220.240:8088/udp/238.125.2.212:5140
-#EXTINF:-1 tvg-name="十二师一套" tvg-logo="https://epg.v1.mk/logo/十二师一套.png" group-title="新疆",十二师一套
-http://110.157.220.240:8088/udp/238.125.7.114:5140
-#EXTINF:-1 tvg-name="鄯善维语" tvg-logo="https://epg.v1.mk/logo/鄯善维语.png" group-title="新疆",鄯善维语
-http://110.157.220.240:8088/udp/238.125.3.24:5140
-#EXTINF:-1 tvg-name="鄯善维语" tvg-logo="https://epg.v1.mk/logo/鄯善维语.png" group-title="新疆",鄯善维语
-http://110.157.220.240:8088/udp/238.125.7.24:5140
-#EXTINF:-1 tvg-name="鄯善" tvg-logo="https://epg.v1.mk/logo/鄯善.png" group-title="新疆",鄯善
-http://110.157.220.240:8088/udp/238.125.3.23:5140
-#EXTINF:-1 tvg-name="鄯善" tvg-logo="https://epg.v1.mk/logo/鄯善.png" group-title="新疆",鄯善
-http://110.157.220.240:8088/udp/238.125.7.23:5140
+#EXTINF:-1 tvg-name="疏附二套" tvg-logo="https://epg.v1.mk/logo/疏附二套.png" group-title="新疆",疏附二套
+http://110.157.220.240:8088/udp/238.125.2.184:5140
 #EXTINF:-1 tvg-name="莎车一套" tvg-logo="https://epg.v1.mk/logo/莎车一套.png" group-title="新疆",莎车一套
 http://110.157.220.240:8088/udp/238.125.0.252:5140
 #EXTINF:-1 tvg-name="莎车二套" tvg-logo="https://epg.v1.mk/logo/莎车二套.png" group-title="新疆",莎车二套
@@ -22688,441 +22910,101 @@ http://110.157.220.240:8088/udp/238.125.0.253:5140
 #EXTINF:-1 tvg-name="沙湾一套" tvg-logo="https://epg.v1.mk/logo/沙湾一套.png" group-title="新疆",沙湾一套
 http://110.157.220.240:8088/udp/238.125.3.32:5140
 #EXTINF:-1 tvg-name="若羌电视台一套" tvg-logo="https://epg.v1.mk/logo/若羌电视台一套.png" group-title="新疆",若羌电视台一套
-http://110.157.220.240:8088/udp/238.125.2.140:5140
-#EXTINF:-1 tvg-name="若羌电视台一套" tvg-logo="https://epg.v1.mk/logo/若羌电视台一套.png" group-title="新疆",若羌电视台一套
 http://110.157.220.240:8088/udp/238.125.7.173:5140
+#EXTINF:-1 tvg-name="若羌电视台一套" tvg-logo="https://epg.v1.mk/logo/若羌电视台一套.png" group-title="新疆",若羌电视台一套
+http://110.157.220.240:8088/udp/238.125.2.140:5140
 #EXTINF:-1 tvg-name="青河一套" tvg-logo="https://epg.v1.mk/logo/青河一套.png" group-title="新疆",青河一套
 http://110.157.220.240:8088/udp/238.125.2.162:5140
 #EXTINF:-1 tvg-name="青河二套" tvg-logo="https://epg.v1.mk/logo/青河二套.png" group-title="新疆",青河二套
-http://110.157.220.240:8088/udp/238.125.2.161:5140
+http://110.157.220.240:8088/udp/238.125.7.227:5140
 #EXTINF:-1 tvg-name="青河二套" tvg-logo="https://epg.v1.mk/logo/青河二套.png" group-title="新疆",青河二套
 http://110.157.220.240:8088/udp/238.125.7.226:5140
 #EXTINF:-1 tvg-name="青河二套" tvg-logo="https://epg.v1.mk/logo/青河二套.png" group-title="新疆",青河二套
-http://110.157.220.240:8088/udp/238.125.7.227:5140
-#EXTINF:-1 tvg-name="且末一套" tvg-logo="https://epg.v1.mk/logo/且末一套.png" group-title="新疆",且末一套
-http://110.157.220.240:8088/udp/238.125.3.241:5140
+http://110.157.220.240:8088/udp/238.125.2.161:5140
 #EXTINF:-1 tvg-name="且末一套" tvg-logo="https://epg.v1.mk/logo/且末一套.png" group-title="新疆",且末一套
 http://110.157.220.240:8088/udp/238.125.7.183:5140
-#EXTINF:-1 tvg-name="且末二套" tvg-logo="https://epg.v1.mk/logo/且末二套.png" group-title="新疆",且末二套
-http://110.157.220.240:8088/udp/238.125.3.242:5140
+#EXTINF:-1 tvg-name="且末一套" tvg-logo="https://epg.v1.mk/logo/且末一套.png" group-title="新疆",且末一套
+http://110.157.220.240:8088/udp/238.125.3.241:5140
 #EXTINF:-1 tvg-name="且末二套" tvg-logo="https://epg.v1.mk/logo/且末二套.png" group-title="新疆",且末二套
 http://110.157.220.240:8088/udp/238.125.7.184:5140
-#EXTINF:-1 tvg-name="奇台一套" tvg-logo="https://epg.v1.mk/logo/奇台一套.png" group-title="新疆",奇台一套
+#EXTINF:-1 tvg-name="且末二套" tvg-logo="https://epg.v1.mk/logo/且末二套.png" group-title="新疆",且末二套
+http://110.157.220.240:8088/udp/238.125.3.242:5140
+#EXTINF:-1 tvg-name="伊宁新闻" tvg-logo="https://epg.v1.mk/logo/伊宁新闻.png" group-title="新疆",伊宁新闻
+http://110.157.220.240:8088/udp/238.125.7.157:5140
+#EXTINF:-1 tvg-name="伊宁新闻" tvg-logo="https://epg.v1.mk/logo/伊宁新闻.png" group-title="新疆",伊宁新闻
+http://110.157.220.240:8088/udp/238.125.3.186:5140
+#EXTINF:-1 tvg-name="伊宁维吾尔" tvg-logo="https://epg.v1.mk/logo/伊宁维吾尔.png" group-title="新疆",伊宁维吾尔
+http://222.81.52.40:9898/out_2/index.m3u8
+#EXTINF:-1 tvg-name="伊宁维吾尔" tvg-logo="https://epg.v1.mk/logo/伊宁维吾尔.png" group-title="新疆",伊宁维吾尔
+http://110.157.220.240:8088/udp/238.125.7.158:5140
+#EXTINF:-1 tvg-name="伊宁维吾尔" tvg-logo="https://epg.v1.mk/logo/伊宁维吾尔.png" group-title="新疆",伊宁维吾尔
+http://110.157.220.240:8088/udp/238.125.3.187:5140
+#EXTINF:-1 tvg-name="伊宁汉语综合" tvg-logo="https://epg.v1.mk/logo/伊宁汉语综合.png" group-title="新疆",伊宁汉语综合
+http://222.81.52.40:9898/out_1/index.m3u8
+#EXTINF:-1 tvg-name="伊犁维语综合" tvg-logo="https://epg.v1.mk/logo/伊犁维语综合.png" group-title="新疆",伊犁维语综合
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 tvg-name="伊犁维吾尔" tvg-logo="https://epg.v1.mk/logo/伊犁维吾尔.png" group-title="新疆",伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 tvg-name="伊犁经济法制" tvg-logo="https://epg.v1.mk/logo/伊犁经济法制.png" group-title="新疆",伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 tvg-name="伊犁经济法制" tvg-logo="https://epg.v1.mk/logo/伊犁经济法制.png" group-title="新疆",伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 tvg-name="伊犁汉语综合" tvg-logo="https://epg.v1.mk/logo/伊犁汉语综合.png" group-title="新疆",伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8
+#EXTINF:-1 tvg-name="伊犁汉语综合" tvg-logo="https://epg.v1.mk/logo/伊犁汉语综合.png" group-title="新疆",伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8
+#EXTINF:-1 tvg-name="伊犁哈语综合" tvg-logo="https://epg.v1.mk/logo/伊犁哈语综合.png" group-title="新疆",伊犁哈语综合
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 tvg-name="伊犁哈萨克" tvg-logo="https://epg.v1.mk/logo/伊犁哈萨克.png" group-title="新疆",伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 tvg-name="新星综合" tvg-logo="https://epg.v1.mk/logo/新星综合.png" group-title="新疆",新星综合
+http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="五家渠综合频道" tvg-logo="https://epg.v1.mk/logo/五家渠综合频道.png" group-title="新疆",五家渠综合频道
+https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
+#EXTINF:-1 tvg-name="五家渠新闻" tvg-logo="https://epg.v1.mk/logo/五家渠新闻.png" group-title="新疆",五家渠新闻
+http://110.157.220.240:8088/udp/238.125.7.141:5140
+#EXTINF:-1 tvg-name="五家渠新闻" tvg-logo="https://epg.v1.mk/logo/五家渠新闻.png" group-title="新疆",五家渠新闻
+http://110.157.220.240:8088/udp/238.125.3.165:5140
+#EXTINF:-1 tvg-name="五家渠经济生活" tvg-logo="https://epg.v1.mk/logo/五家渠经济生活.png" group-title="新疆",五家渠经济生活
+http://110.157.220.240:8088/udp/238.125.7.142:5140
+#EXTINF:-1 tvg-name="五家渠经济生活" tvg-logo="https://epg.v1.mk/logo/五家渠经济生活.png" group-title="新疆",五家渠经济生活
+http://110.157.220.240:8088/udp/238.125.3.166:5140
+#EXTINF:-1 tvg-name="五家渠广告" tvg-logo="https://epg.v1.mk/logo/五家渠广告.png" group-title="新疆",五家渠广告
+http://110.157.220.240:8088/udp/238.125.7.144:5140
+#EXTINF:-1 tvg-name="五家渠广告" tvg-logo="https://epg.v1.mk/logo/五家渠广告.png" group-title="新疆",五家渠广告
+http://110.157.220.240:8088/udp/238.125.3.164:5140
+#EXTINF:-1 tvg-name="温泉县" tvg-logo="https://epg.v1.mk/logo/温泉县.png" group-title="新疆",温泉县
+http://110.157.220.240:8088/udp/238.125.3.148:5140
+#EXTINF:-1 tvg-name="托克逊维语" tvg-logo="https://epg.v1.mk/logo/托克逊维语.png" group-title="新疆",托克逊维语
+http://110.157.220.240:8088/udp/238.125.7.26:5140
+#EXTINF:-1 tvg-name="托克逊" tvg-logo="https://epg.v1.mk/logo/托克逊.png" group-title="新疆",托克逊
+http://110.157.220.240:8088/udp/238.125.7.25:5140
+#EXTINF:-1 tvg-name="吐鲁番综合" tvg-logo="https://epg.v1.mk/logo/吐鲁番综合.png" group-title="新疆",吐鲁番综合
+http://110.157.220.240:8088/udp/238.125.7.17:5140
+#EXTINF:-1 tvg-name="吐鲁番综合" tvg-logo="https://epg.v1.mk/logo/吐鲁番综合.png" group-title="新疆",吐鲁番综合
+http://110.157.220.240:8088/udp/238.125.3.17:5140
+#EXTINF:-1 tvg-name="塔城乌苏" tvg-logo="https://epg.v1.mk/logo/塔城乌苏.png" group-title="新疆",塔城乌苏
+http://110.157.220.240:8088/udp/238.125.2.194:5140
+#EXTINF:-1 tvg-name="塔城汉语综合" tvg-logo="https://epg.v1.mk/logo/塔城汉语综合.png" group-title="新疆",塔城汉语综合
+rtmp://218.84.35.38/live/tctv-1
+#EXTINF:-1 tvg-name="塔城汉语综合" tvg-logo="https://epg.v1.mk/logo/塔城汉语综合.png" group-title="新疆",塔城汉语综合
+http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
+#EXTINF:-1 tvg-name="塔城汉语综合" tvg-logo="https://epg.v1.mk/logo/塔城汉语综合.png" group-title="新疆",塔城汉语综合
+http://110.157.220.240:8088/udp/238.125.7.159:5140
+#EXTINF:-1 tvg-name="塔城汉语综合" tvg-logo="https://epg.v1.mk/logo/塔城汉语综合.png" group-title="新疆",塔城汉语综合
+http://110.157.220.240:8088/udp/238.125.3.194:5140
+#EXTINF:-1 tvg-name="鄯善维语" tvg-logo="https://epg.v1.mk/logo/鄯善维语.png" group-title="新疆",鄯善维语
+http://110.157.220.240:8088/udp/238.125.7.24:5140
+#EXTINF:-1 tvg-name="鄯善维语" tvg-logo="https://epg.v1.mk/logo/鄯善维语.png" group-title="新疆",鄯善维语
+http://110.157.220.240:8088/udp/238.125.3.24:5140
+#EXTINF:-1 tvg-name="鄯善" tvg-logo="https://epg.v1.mk/logo/鄯善.png" group-title="新疆",鄯善
+http://110.157.220.240:8088/udp/238.125.7.23:5140
+#EXTINF:-1 tvg-name="鄯善" tvg-logo="https://epg.v1.mk/logo/鄯善.png" group-title="新疆",鄯善
+http://110.157.220.240:8088/udp/238.125.3.23:5140
+#EXTINF:-1 tvg-name="奇台综合" tvg-logo="https://epg.v1.mk/logo/奇台综合.png" group-title="新疆",奇台综合
+http://117.146.76.46:9090/stream1/m2e2000.m3u8
+#EXTINF:-1 tvg-name="奇台综合" tvg-logo="https://epg.v1.mk/logo/奇台综合.png" group-title="新疆",奇台综合
 http://110.157.220.240:8088/udp/238.125.3.115:5140
-#EXTINF:-1 tvg-name="农七师" tvg-logo="https://epg.v1.mk/logo/农七师.png" group-title="新疆",农七师
-http://110.157.220.240:8088/udp/238.125.2.160:5140
-#EXTINF:-1 tvg-name="农七师" tvg-logo="https://epg.v1.mk/logo/农七师.png" group-title="新疆",农七师
-http://110.157.220.240:8088/udp/238.125.7.228:5140
-#EXTINF:-1 tvg-name="尼勒克一套" tvg-logo="https://epg.v1.mk/logo/尼勒克一套.png" group-title="新疆",尼勒克一套
-http://110.157.220.240:8088/udp/238.125.3.223:5140
-#EXTINF:-1 tvg-name="尼勒克一套" tvg-logo="https://epg.v1.mk/logo/尼勒克一套.png" group-title="新疆",尼勒克一套
-http://110.157.220.240:8088/udp/238.125.7.169:5140
-#EXTINF:-1 tvg-name="尼勒克二套" tvg-logo="https://epg.v1.mk/logo/尼勒克二套.png" group-title="新疆",尼勒克二套
-http://110.157.220.240:8088/udp/238.125.3.224:5140
-#EXTINF:-1 tvg-name="尼勒克二套" tvg-logo="https://epg.v1.mk/logo/尼勒克二套.png" group-title="新疆",尼勒克二套
-http://110.157.220.240:8088/udp/238.125.7.170:5140
-#EXTINF:-1 tvg-name="木垒一套" tvg-logo="https://epg.v1.mk/logo/木垒一套.png" group-title="新疆",木垒一套
-http://110.157.220.240:8088/udp/238.125.3.87:5140
-#EXTINF:-1 tvg-name="米东一套" tvg-logo="https://epg.v1.mk/logo/米东一套.png" group-title="新疆",米东一套
-http://110.157.220.240:8088/udp/238.125.2.207:5140
-#EXTINF:-1 tvg-name="麦盖提一套" tvg-logo="https://epg.v1.mk/logo/麦盖提一套.png" group-title="新疆",麦盖提一套
-http://110.157.220.240:8088/udp/238.125.3.192:5140
-#EXTINF:-1 tvg-name="麦盖提一套" tvg-logo="https://epg.v1.mk/logo/麦盖提一套.png" group-title="新疆",麦盖提一套
-http://110.157.220.240:8088/udp/238.125.7.160:5140
-#EXTINF:-1 tvg-name="麦盖提二套" tvg-logo="https://epg.v1.mk/logo/麦盖提二套.png" group-title="新疆",麦盖提二套
-http://110.157.220.240:8088/udp/238.125.3.193:5140
-#EXTINF:-1 tvg-name="麦盖提二套" tvg-logo="https://epg.v1.mk/logo/麦盖提二套.png" group-title="新疆",麦盖提二套
-http://110.157.220.240:8088/udp/238.125.7.161:5140
-#EXTINF:-1 tvg-name="玛纳斯综合频道" tvg-logo="https://epg.v1.mk/logo/玛纳斯综合频道.png" group-title="新疆",玛纳斯综合频道
-http://218.84.127.245:1026/hls/main1/playlist.m3u8
-#EXTINF:-1 tvg-name="玛纳斯一套" tvg-logo="https://epg.v1.mk/logo/玛纳斯一套.png" group-title="新疆",玛纳斯一套
-http://110.157.220.240:8088/udp/238.125.3.114:5140
-#EXTINF:-1 tvg-name="洛浦二套" tvg-logo="https://epg.v1.mk/logo/洛浦二套.png" group-title="新疆",洛浦二套
-http://110.157.220.240:8088/udp/238.125.2.181:5140
-#EXTINF:-1 tvg-name="洛浦二套" tvg-logo="https://epg.v1.mk/logo/洛浦二套.png" group-title="新疆",洛浦二套
-http://110.157.220.240:8088/udp/238.125.7.219:5140
-#EXTINF:-1 tvg-name="奎屯一套" tvg-logo="https://epg.v1.mk/logo/奎屯一套.png" group-title="新疆",奎屯一套
-http://110.157.220.240:8088/udp/238.125.3.248:5140
-#EXTINF:-1 tvg-name="奎屯一套" tvg-logo="https://epg.v1.mk/logo/奎屯一套.png" group-title="新疆",奎屯一套
-http://110.157.220.240:8088/udp/238.125.7.185:5140
-#EXTINF:-1 tvg-name="奎屯三套" tvg-logo="https://epg.v1.mk/logo/奎屯三套.png" group-title="新疆",奎屯三套
-http://110.157.220.240:8088/udp/238.125.3.250:5140
-#EXTINF:-1 tvg-name="奎屯三套" tvg-logo="https://epg.v1.mk/logo/奎屯三套.png" group-title="新疆",奎屯三套
-http://110.157.220.240:8088/udp/238.125.7.187:5140
-#EXTINF:-1 tvg-name="奎屯汉语综合" tvg-logo="https://epg.v1.mk/logo/奎屯汉语综合.png" group-title="新疆",奎屯汉语综合
-http://218.84.12.186:8001/hls/main/playlist.m3u8
-#EXTINF:-1 tvg-name="奎屯哈萨克语" tvg-logo="https://epg.v1.mk/logo/奎屯哈萨克语.png" group-title="新疆",奎屯哈萨克语
-http://218.84.12.186:8002/hls/main/playlist.m3u8
-#EXTINF:-1 tvg-name="库尔勒一套" tvg-logo="https://epg.v1.mk/logo/库尔勒一套.png" group-title="新疆",库尔勒一套
-http://110.157.220.240:8088/udp/238.125.3.138:5140
-#EXTINF:-1 tvg-name="库尔勒二套" tvg-logo="https://epg.v1.mk/logo/库尔勒二套.png" group-title="新疆",库尔勒二套
-http://110.157.220.240:8088/udp/238.125.3.139:5140
-#EXTINF:-1 tvg-name="库车一套" tvg-logo="https://epg.v1.mk/logo/库车一套.png" group-title="新疆",库车一套
-http://110.157.220.240:8088/udp/238.125.3.117:5140
-#EXTINF:-1 tvg-name="库车二套" tvg-logo="https://epg.v1.mk/logo/库车二套.png" group-title="新疆",库车二套
-http://110.157.220.240:8088/udp/238.125.3.118:5140
-#EXTINF:-1 tvg-name="克州一套" tvg-logo="https://epg.v1.mk/logo/克州一套.png" group-title="新疆",克州一套
-http://110.157.220.240:8088/udp/238.125.0.240:5140
-#EXTINF:-1 tvg-name="克州一套" tvg-logo="https://epg.v1.mk/logo/克州一套.png" group-title="新疆",克州一套
-http://110.157.220.240:8088/udp/238.125.4.240:5140
-#EXTINF:-1 tvg-name="克州三套" tvg-logo="https://epg.v1.mk/logo/克州三套.png" group-title="新疆",克州三套
-http://110.157.220.240:8088/udp/238.125.0.241:5140
-#EXTINF:-1 tvg-name="克州三套" tvg-logo="https://epg.v1.mk/logo/克州三套.png" group-title="新疆",克州三套
-http://110.157.220.240:8088/udp/238.125.4.242:5140
-#EXTINF:-1 tvg-name="克州二套" tvg-logo="https://epg.v1.mk/logo/克州二套.png" group-title="新疆",克州二套
-http://110.157.220.240:8088/udp/238.125.0.242:5140
-#EXTINF:-1 tvg-name="克州二套" tvg-logo="https://epg.v1.mk/logo/克州二套.png" group-title="新疆",克州二套
-http://110.157.220.240:8088/udp/238.125.4.241:5140
-#EXTINF:-1 tvg-name="克拉玛依影视剧场" tvg-logo="https://epg.v1.mk/logo/克拉玛依影视剧场.png" group-title="新疆",克拉玛依影视剧场
-http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
-#EXTINF:-1 tvg-name="克拉玛依一套" tvg-logo="https://epg.v1.mk/logo/克拉玛依一套.png" group-title="新疆",克拉玛依一套
-http://110.157.220.240:8088/udp/238.125.0.247:5140
-#EXTINF:-1 tvg-name="克拉玛依一套" tvg-logo="https://epg.v1.mk/logo/克拉玛依一套.png" group-title="新疆",克拉玛依一套
-http://110.157.220.240:8088/udp/238.125.4.247:5140
-#EXTINF:-1 tvg-name="克拉玛依二套" tvg-logo="https://epg.v1.mk/logo/克拉玛依二套.png" group-title="新疆",克拉玛依二套
-http://110.157.220.240:8088/udp/238.125.0.248:5140
-#EXTINF:-1 tvg-name="克拉玛依二套" tvg-logo="https://epg.v1.mk/logo/克拉玛依二套.png" group-title="新疆",克拉玛依二套
-http://110.157.220.240:8088/udp/238.125.4.248:5140
-#EXTINF:-1 tvg-name="克拉玛依三套" tvg-logo="https://epg.v1.mk/logo/克拉玛依三套.png" group-title="新疆",克拉玛依三套
-http://110.157.220.240:8088/udp/238.125.0.249:5140
-#EXTINF:-1 tvg-name="克拉玛依三套" tvg-logo="https://epg.v1.mk/logo/克拉玛依三套.png" group-title="新疆",克拉玛依三套
-http://110.157.220.240:8088/udp/238.125.4.249:5140
-#EXTINF:-1 tvg-name="克拉玛依四套" tvg-logo="https://epg.v1.mk/logo/克拉玛依四套.png" group-title="新疆",克拉玛依四套
-http://110.157.220.240:8088/udp/238.125.0.250:5140
-#EXTINF:-1 tvg-name="克拉玛依四套" tvg-logo="https://epg.v1.mk/logo/克拉玛依四套.png" group-title="新疆",克拉玛依四套
-http://110.157.220.240:8088/udp/238.125.4.250:5140
-#EXTINF:-1 tvg-name="克拉玛依五套" tvg-logo="https://epg.v1.mk/logo/克拉玛依五套.png" group-title="新疆",克拉玛依五套
-http://110.157.220.240:8088/udp/238.125.0.251:5140
-#EXTINF:-1 tvg-name="克拉玛依五套" tvg-logo="https://epg.v1.mk/logo/克拉玛依五套.png" group-title="新疆",克拉玛依五套
-http://110.157.220.240:8088/udp/238.125.4.251:5140
-#EXTINF:-1 tvg-name="可克达拉新闻综合" tvg-logo="https://epg.v1.mk/logo/可克达拉新闻综合.png" group-title="新疆",可克达拉新闻综合
-http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="可克达拉新闻综合" tvg-logo="https://epg.v1.mk/logo/可克达拉新闻综合.png" group-title="新疆",可克达拉新闻综合
-http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="可克达拉" tvg-logo="https://epg.v1.mk/logo/可克达拉.png" group-title="新疆",可克达拉
-http://110.157.220.240:8088/udp/238.125.2.158:5140
-#EXTINF:-1 tvg-name="可克达拉" tvg-logo="https://epg.v1.mk/logo/可克达拉.png" group-title="新疆",可克达拉
-http://110.157.220.240:8088/udp/238.125.7.164:5140
-#EXTINF:-1 tvg-name="喀什综合" tvg-logo="https://epg.v1.mk/logo/喀什综合.png" group-title="新疆",喀什综合
-http://222.80.82.206:9300/hls/live/kstv1.m3u8
-#EXTINF:-1 tvg-name="喀什一套" tvg-logo="https://epg.v1.mk/logo/喀什一套.png" group-title="新疆",喀什一套
-http://110.157.220.240:8088/udp/238.125.3.214:5140
-#EXTINF:-1 tvg-name="喀什二套" tvg-logo="https://epg.v1.mk/logo/喀什二套.png" group-title="新疆",喀什二套
-http://222.80.82.206:9300/hls/live/kstv2.m3u8
-#EXTINF:-1 tvg-name="喀什二套" tvg-logo="https://epg.v1.mk/logo/喀什二套.png" group-title="新疆",喀什二套
-http://110.157.220.240:8088/udp/238.125.3.215:5140
-#EXTINF:-1 tvg-name="喀什三套" tvg-logo="https://epg.v1.mk/logo/喀什三套.png" group-title="新疆",喀什三套
-http://110.157.220.240:8088/udp/238.125.3.216:5140
-#EXTINF:-1 tvg-name="九师一套" tvg-logo="https://epg.v1.mk/logo/九师一套.png" group-title="新疆",九师一套
-http://110.157.220.240:8088/udp/238.125.3.109:5140
-#EXTINF:-1 tvg-name="精河一套" tvg-logo="https://epg.v1.mk/logo/精河一套.png" group-title="新疆",精河一套
-http://110.157.220.240:8088/udp/238.125.3.126:5140
-#EXTINF:-1 tvg-name="吉木萨尔" tvg-logo="https://epg.v1.mk/logo/吉木萨尔.png" group-title="新疆",吉木萨尔
-http://110.157.220.240:8088/udp/238.125.3.28:5140
-#EXTINF:-1 tvg-name="吉木萨尔" tvg-logo="https://epg.v1.mk/logo/吉木萨尔.png" group-title="新疆",吉木萨尔
-http://110.157.220.240:8088/udp/238.125.7.28:5140
-#EXTINF:-1 tvg-name="吉木乃汉语" tvg-logo="https://epg.v1.mk/logo/吉木乃汉语.png" group-title="新疆",吉木乃汉语
-http://110.157.220.240:8088/udp/238.125.3.46:5140
-#EXTINF:-1 tvg-name="吉木乃汉语" tvg-logo="https://epg.v1.mk/logo/吉木乃汉语.png" group-title="新疆",吉木乃汉语
-http://110.157.220.240:8088/udp/238.125.7.46:5140
-#EXTINF:-1 tvg-name="吉木乃哈语" tvg-logo="https://epg.v1.mk/logo/吉木乃哈语.png" group-title="新疆",吉木乃哈语
-http://110.157.220.240:8088/udp/238.125.3.48:5140
-#EXTINF:-1 tvg-name="吉木乃哈语" tvg-logo="https://epg.v1.mk/logo/吉木乃哈语.png" group-title="新疆",吉木乃哈语
-http://110.157.220.240:8088/udp/238.125.7.48:5140
-#EXTINF:-1 tvg-name="霍尔果斯一套" tvg-logo="https://epg.v1.mk/logo/霍尔果斯一套.png" group-title="新疆",霍尔果斯一套
-http://117.190.118.174:9090/stream3/hegs.m3u8
-#EXTINF:-1 tvg-name="霍尔果斯一套" tvg-logo="https://epg.v1.mk/logo/霍尔果斯一套.png" group-title="新疆",霍尔果斯一套
-http://110.157.220.240:8088/udp/238.125.3.238:5140
-#EXTINF:-1 tvg-name="霍尔果斯一套" tvg-logo="https://epg.v1.mk/logo/霍尔果斯一套.png" group-title="新疆",霍尔果斯一套
-http://110.157.220.240:8088/udp/238.125.7.180:5140
-#EXTINF:-1 tvg-name="霍城一套" tvg-logo="https://epg.v1.mk/logo/霍城一套.png" group-title="新疆",霍城一套
-http://110.157.220.240:8088/udp/238.125.3.7:5140
-#EXTINF:-1 tvg-name="霍城一套" tvg-logo="https://epg.v1.mk/logo/霍城一套.png" group-title="新疆",霍城一套
-http://110.157.220.240:8088/udp/238.125.7.7:5140
-#EXTINF:-1 tvg-name="霍城二套" tvg-logo="https://epg.v1.mk/logo/霍城二套.png" group-title="新疆",霍城二套
-http://110.157.220.240:8088/udp/238.125.3.6:5140
-#EXTINF:-1 tvg-name="霍城二套" tvg-logo="https://epg.v1.mk/logo/霍城二套.png" group-title="新疆",霍城二套
-http://110.157.220.240:8088/udp/238.125.7.6:5140
-#EXTINF:-1 tvg-name="胡杨河新闻综合" tvg-logo="https://epg.v1.mk/logo/胡杨河新闻综合.png" group-title="新疆",胡杨河新闻综合
-http://klmysjtzb.rcsxzx.com/hls/qishi1.m3u8
-#EXTINF:-1 tvg-name="呼图壁一套" tvg-logo="https://epg.v1.mk/logo/呼图壁一套.png" group-title="新疆",呼图壁一套
-http://110.157.220.240:8088/udp/238.125.3.91:5140
-#EXTINF:-1 tvg-name="和田维语综合" tvg-logo="https://epg.v1.mk/logo/和田维语综合.png" group-title="新疆",和田维语综合
-https://livehtrmt.chinamcache.com/live/htzb4.m3u8?txSecret=2e647e4346e83356f25c91bb17079819&txTime=6631F764
-#EXTINF:-1 tvg-name="和田维语综合" tvg-logo="https://epg.v1.mk/logo/和田维语综合.png" group-title="新疆",和田维语综合
-http://110.157.220.240:8088/udp/238.125.3.34:5140
-#EXTINF:-1 tvg-name="和田维语综合" tvg-logo="https://epg.v1.mk/logo/和田维语综合.png" group-title="新疆",和田维语综合
-http://110.157.220.240:8088/udp/238.125.7.34:5140
-#EXTINF:-1 tvg-name="和田维语影视" tvg-logo="https://epg.v1.mk/logo/和田维语影视.png" group-title="新疆",和田维语影视
-https://livehtrmt.chinamcache.com/live/htzb3.m3u8?txSecret=049b5e3cb4e70b1931e02eeba33ed6a5&txTime=6631F764
-#EXTINF:-1 tvg-name="和田洛浦一套" tvg-logo="https://epg.v1.mk/logo/和田洛浦一套.png" group-title="新疆",和田洛浦一套
-http://110.157.220.240:8088/udp/238.125.2.182:5140
-#EXTINF:-1 tvg-name="和田洛浦一套" tvg-logo="https://epg.v1.mk/logo/和田洛浦一套.png" group-title="新疆",和田洛浦一套
-http://110.157.220.240:8088/udp/238.125.7.218:5140
-#EXTINF:-1 tvg-name="和田汉语综合" tvg-logo="https://epg.v1.mk/logo/和田汉语综合.png" group-title="新疆",和田汉语综合
-https://livehtrmt.chinamcache.com/live/htzb1.m3u8?txSecret=2efa149b9b51399cddb510ee38ec477d&txTime=6631F764
-#EXTINF:-1 tvg-name="和田汉语综合" tvg-logo="https://epg.v1.mk/logo/和田汉语综合.png" group-title="新疆",和田汉语综合
-http://110.157.220.240:8088/udp/238.125.3.35:5140
-#EXTINF:-1 tvg-name="和田汉语综合" tvg-logo="https://epg.v1.mk/logo/和田汉语综合.png" group-title="新疆",和田汉语综合
-http://110.157.220.240:8088/udp/238.125.7.35:5140
-#EXTINF:-1 tvg-name="和田汉语影视" tvg-logo="https://epg.v1.mk/logo/和田汉语影视.png" group-title="新疆",和田汉语影视
-https://livehtrmt.chinamcache.com/live/htzb2.m3u8?txSecret=9669dd78bd27d6b2218d74c386c52fc7&txTime=6631F764
-#EXTINF:-1 tvg-name="和硕" tvg-logo="https://epg.v1.mk/logo/和硕.png" group-title="新疆",和硕
-http://110.157.220.240:8088/udp/238.125.3.188:5140
-#EXTINF:-1 tvg-name="和静一套" tvg-logo="https://epg.v1.mk/logo/和静一套.png" group-title="新疆",和静一套
-http://110.157.220.240:8088/udp/238.125.3.149:5140
-#EXTINF:-1 tvg-name="和静一套" tvg-logo="https://epg.v1.mk/logo/和静一套.png" group-title="新疆",和静一套
-http://110.157.220.240:8088/udp/238.125.7.119:5140
-#EXTINF:-1 tvg-name="和丰一套" tvg-logo="https://epg.v1.mk/logo/和丰一套.png" group-title="新疆",和丰一套
-http://110.157.220.240:8088/udp/238.125.2.192:5140
-#EXTINF:-1 tvg-name="哈密一套" tvg-logo="https://epg.v1.mk/logo/哈密一套.png" group-title="新疆",哈密一套
-https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
-#EXTINF:-1 tvg-name="哈密一套" tvg-logo="https://epg.v1.mk/logo/哈密一套.png" group-title="新疆",哈密一套
-http://110.157.220.240:8088/udp/238.125.3.81:5140
-#EXTINF:-1 tvg-name="哈密二套" tvg-logo="https://epg.v1.mk/logo/哈密二套.png" group-title="新疆",哈密二套
-https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711.flv
-#EXTINF:-1 tvg-name="哈密二套" tvg-logo="https://epg.v1.mk/logo/哈密二套.png" group-title="新疆",哈密二套
-http://110.157.220.240:8088/udp/238.125.3.82:5140
-#EXTINF:-1 tvg-name="哈密三套" tvg-logo="https://epg.v1.mk/logo/哈密三套.png" group-title="新疆",哈密三套
-https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44.flv
-#EXTINF:-1 tvg-name="哈密三套" tvg-logo="https://epg.v1.mk/logo/哈密三套.png" group-title="新疆",哈密三套
-http://110.157.220.240:8088/udp/238.125.3.83:5140
-#EXTINF:-1 tvg-name="哈密巴里坤一套" tvg-logo="https://epg.v1.mk/logo/哈密巴里坤一套.png" group-title="新疆",哈密巴里坤一套
-http://110.157.220.240:8088/udp/238.125.2.180:5140
-#EXTINF:-1 tvg-name="哈密巴里坤一套" tvg-logo="https://epg.v1.mk/logo/哈密巴里坤一套.png" group-title="新疆",哈密巴里坤一套
-http://110.157.220.240:8088/udp/238.125.7.220:5140
-#EXTINF:-1 tvg-name="哈密巴里坤二套" tvg-logo="https://epg.v1.mk/logo/哈密巴里坤二套.png" group-title="新疆",哈密巴里坤二套
-http://110.157.220.240:8088/udp/238.125.2.179:5140
-#EXTINF:-1 tvg-name="哈密巴里坤二套" tvg-logo="https://epg.v1.mk/logo/哈密巴里坤二套.png" group-title="新疆",哈密巴里坤二套
-http://110.157.220.240:8088/udp/238.125.7.221:5140
-#EXTINF:-1 tvg-name="哈巴河一套" tvg-logo="https://epg.v1.mk/logo/哈巴河一套.png" group-title="新疆",哈巴河一套
-http://110.157.220.240:8088/udp/238.125.2.188:5140
-#EXTINF:-1 tvg-name="哈巴河二套" tvg-logo="https://epg.v1.mk/logo/哈巴河二套.png" group-title="新疆",哈巴河二套
-http://110.157.220.240:8088/udp/238.125.2.187:5140
-#EXTINF:-1 tvg-name="巩留一套" tvg-logo="https://epg.v1.mk/logo/巩留一套.png" group-title="新疆",巩留一套
-http://110.157.220.240:8088/udp/238.125.0.194:5140
-#EXTINF:-1 tvg-name="巩留一套" tvg-logo="https://epg.v1.mk/logo/巩留一套.png" group-title="新疆",巩留一套
-http://110.157.220.240:8088/udp/238.125.4.194:5140
-#EXTINF:-1 tvg-name="巩留一套" tvg-logo="https://epg.v1.mk/logo/巩留一套.png" group-title="新疆",巩留一套
-http://110.157.220.240:8088/udp/238.125.4.195:5140
-#EXTINF:-1 tvg-name="巩留三套" tvg-logo="https://epg.v1.mk/logo/巩留三套.png" group-title="新疆",巩留三套
-http://110.157.220.240:8088/udp/238.125.0.195:5140
-#EXTINF:-1 tvg-name="高昌维语" tvg-logo="https://epg.v1.mk/logo/高昌维语.png" group-title="新疆",高昌维语
-http://110.157.220.240:8088/udp/238.125.3.21:5140
-#EXTINF:-1 tvg-name="高昌维语" tvg-logo="https://epg.v1.mk/logo/高昌维语.png" group-title="新疆",高昌维语
-http://110.157.220.240:8088/udp/238.125.7.21:5140
-#EXTINF:-1 tvg-name="高昌汉语" tvg-logo="https://epg.v1.mk/logo/高昌汉语.png" group-title="新疆",高昌汉语
-http://110.157.220.240:8088/udp/238.125.3.22:5140
-#EXTINF:-1 tvg-name="高昌电视台" tvg-logo="https://epg.v1.mk/logo/高昌电视台.png" group-title="新疆",高昌电视台
-http://110.157.220.240:8088/udp/238.125.7.22:5140
-#EXTINF:-1 tvg-name="伽师一套" tvg-logo="https://epg.v1.mk/logo/伽师一套.png" group-title="新疆",伽师一套
-http://110.157.220.240:8088/udp/238.125.3.141:5140
-#EXTINF:-1 tvg-name="伽师二套" tvg-logo="https://epg.v1.mk/logo/伽师二套.png" group-title="新疆",伽师二套
-http://110.157.220.240:8088/udp/238.125.3.142:5140
-#EXTINF:-1 tvg-name="富蕴汉语" tvg-logo="https://epg.v1.mk/logo/富蕴汉语.png" group-title="新疆",富蕴汉语
-http://110.157.220.240:8088/udp/238.125.3.136:5140
-#EXTINF:-1 tvg-name="富蕴汉语" tvg-logo="https://epg.v1.mk/logo/富蕴汉语.png" group-title="新疆",富蕴汉语
-http://110.157.220.240:8088/udp/238.125.7.136:5140
-#EXTINF:-1 tvg-name="富蕴哈语" tvg-logo="https://epg.v1.mk/logo/富蕴哈语.png" group-title="新疆",富蕴哈语
-http://110.157.220.240:8088/udp/238.125.3.137:5140
-#EXTINF:-1 tvg-name="富蕴哈语" tvg-logo="https://epg.v1.mk/logo/富蕴哈语.png" group-title="新疆",富蕴哈语
-http://110.157.220.240:8088/udp/238.125.7.137:5140
-#EXTINF:-1 tvg-name="阜康一套" tvg-logo="https://epg.v1.mk/logo/阜康一套.png" group-title="新疆",阜康一套
-http://110.157.220.240:8088/udp/238.125.3.51:5140
-#EXTINF:-1 tvg-name="阜康新闻综合" tvg-logo="https://epg.v1.mk/logo/阜康新闻综合.png" group-title="新疆",阜康新闻综合
-http://120.69.17.15:50002/live/test1.m3u8
-#EXTINF:-1 tvg-name="福海一套" tvg-logo="https://epg.v1.mk/logo/福海一套.png" group-title="新疆",福海一套
-http://110.157.220.240:8088/udp/238.125.2.167:5140
-#EXTINF:-1 tvg-name="福海一套" tvg-logo="https://epg.v1.mk/logo/福海一套.png" group-title="新疆",福海一套
-http://110.157.220.240:8088/udp/238.125.7.222:5140
-#EXTINF:-1 tvg-name="福海维语综合" tvg-logo="https://epg.v1.mk/logo/福海维语综合.png" group-title="新疆",福海维语综合
-http://222.81.86.42:8060/hls/ch4/ch4.m3u8
-#EXTINF:-1 tvg-name="福海汉语综合" tvg-logo="https://epg.v1.mk/logo/福海汉语综合.png" group-title="新疆",福海汉语综合
-http://222.81.86.42:8060/hls/ch3/ch3.m3u8
-#EXTINF:-1 tvg-name="福海二套" tvg-logo="https://epg.v1.mk/logo/福海二套.png" group-title="新疆",福海二套
-http://110.157.220.240:8088/udp/238.125.2.166:5140
-#EXTINF:-1 tvg-name="福海二套" tvg-logo="https://epg.v1.mk/logo/福海二套.png" group-title="新疆",福海二套
-http://110.157.220.240:8088/udp/238.125.7.223:5140
-#EXTINF:-1 tvg-name="二师一套" tvg-logo="https://epg.v1.mk/logo/二师一套.png" group-title="新疆",二师一套
-http://110.157.220.240:8088/udp/238.125.3.111:5140
-#EXTINF:-1 tvg-name="额敏一套" tvg-logo="https://epg.v1.mk/logo/额敏一套.png" group-title="新疆",额敏一套
-http://110.157.220.240:8088/udp/238.125.2.193:5140
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="新疆",第一财经
-http://110.157.220.240:8088/udp/238.125.0.165:5140
-#EXTINF:-1 tvg-name="第十四师昆玉市" tvg-logo="https://epg.v1.mk/logo/第十四师昆玉市.png" group-title="新疆",第十四师昆玉市
-http://110.157.220.240:8088/udp/238.125.3.105:5140
-#EXTINF:-1 tvg-name="昌吉综合频道" tvg-logo="https://epg.v1.mk/logo/昌吉综合频道.png" group-title="新疆",昌吉综合频道
-http://play.xjbzrk.com/live/cjzh.m3u8
-#EXTINF:-1 tvg-name="昌吉综合" tvg-logo="https://epg.v1.mk/logo/昌吉综合.png" group-title="新疆",昌吉综合
-http://110.157.220.240:8088/udp/238.125.0.145:5140
-#EXTINF:-1 tvg-name="昌吉综合" tvg-logo="https://epg.v1.mk/logo/昌吉综合.png" group-title="新疆",昌吉综合
-http://110.157.220.240:8088/udp/238.125.4.145:5140
-#EXTINF:-1 tvg-name="昌吉市" tvg-logo="https://epg.v1.mk/logo/昌吉市.png" group-title="新疆",昌吉市
-http://110.157.220.240:8088/udp/238.125.3.27:5140
-#EXTINF:-1 tvg-name="昌吉市" tvg-logo="https://epg.v1.mk/logo/昌吉市.png" group-title="新疆",昌吉市
-http://110.157.220.240:8088/udp/238.125.7.27:5140
-#EXTINF:-1 tvg-name="昌吉城市生活" tvg-logo="https://epg.v1.mk/logo/昌吉城市生活.png" group-title="新疆",昌吉城市生活
-http://play.xjbzrk.com/live/cjsh.m3u8
-#EXTINF:-1 tvg-name="察布查尔一套" tvg-logo="https://epg.v1.mk/logo/察布查尔一套.png" group-title="新疆",察布查尔一套
-http://110.157.220.240:8088/udp/238.125.0.189:5140
-#EXTINF:-1 tvg-name="察布查尔二套" tvg-logo="https://epg.v1.mk/logo/察布查尔二套.png" group-title="新疆",察布查尔二套
-http://110.157.220.240:8088/udp/238.125.3.52:5140
-#EXTINF:-1 tvg-name="策勒一套汉语" tvg-logo="https://epg.v1.mk/logo/策勒一套汉语.png" group-title="新疆",策勒一套汉语
-http://110.157.220.240:8088/udp/238.125.3.37:5140
-#EXTINF:-1 tvg-name="策勒一套汉语" tvg-logo="https://epg.v1.mk/logo/策勒一套汉语.png" group-title="新疆",策勒一套汉语
-http://110.157.220.240:8088/udp/238.125.7.37:5140
-#EXTINF:-1 tvg-name="策勒二套维语" tvg-logo="https://epg.v1.mk/logo/策勒二套维语.png" group-title="新疆",策勒二套维语
-http://110.157.220.240:8088/udp/238.125.3.36:5140
-#EXTINF:-1 tvg-name="策勒二套维语" tvg-logo="https://epg.v1.mk/logo/策勒二套维语.png" group-title="新疆",策勒二套维语
-http://110.157.220.240:8088/udp/238.125.7.36:5140
-#EXTINF:-1 tvg-name="布尔津县一套" tvg-logo="https://epg.v1.mk/logo/布尔津县一套.png" group-title="新疆",布尔津县一套
-http://110.157.220.240:8088/udp/238.125.2.164:5140
-#EXTINF:-1 tvg-name="布尔津县二套" tvg-logo="https://epg.v1.mk/logo/布尔津县二套.png" group-title="新疆",布尔津县二套
-http://110.157.220.240:8088/udp/238.125.2.163:5140
-#EXTINF:-1 tvg-name="布尔津县二套" tvg-logo="https://epg.v1.mk/logo/布尔津县二套.png" group-title="新疆",布尔津县二套
-http://110.157.220.240:8088/udp/238.125.7.225:5140
-#EXTINF:-1 tvg-name="布尔津汉语综合" tvg-logo="https://epg.v1.mk/logo/布尔津汉语综合.png" group-title="新疆",布尔津汉语综合
-https://st-video.xjmty.com/fs/livedit/6fc961a3e0f06313/c9338510613c6394.m3u8
-#EXTINF:-1 tvg-name="布尔津哈语综合" tvg-logo="https://epg.v1.mk/logo/布尔津哈语综合.png" group-title="新疆",布尔津哈语综合
-https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
-#EXTINF:-1 tvg-name="博州一套" tvg-logo="https://epg.v1.mk/logo/博州一套.png" group-title="新疆",博州一套
-http://110.157.220.240:8088/udp/238.125.3.12:5140
-#EXTINF:-1 tvg-name="博州一套" tvg-logo="https://epg.v1.mk/logo/博州一套.png" group-title="新疆",博州一套
-http://110.157.220.240:8088/udp/238.125.7.12:5140
-#EXTINF:-1 tvg-name="博州二套" tvg-logo="https://epg.v1.mk/logo/博州二套.png" group-title="新疆",博州二套
-http://110.157.220.240:8088/udp/238.125.3.13:5140
-#EXTINF:-1 tvg-name="博州二套" tvg-logo="https://epg.v1.mk/logo/博州二套.png" group-title="新疆",博州二套
-http://110.157.220.240:8088/udp/238.125.7.13:5140
-#EXTINF:-1 tvg-name="博州三套" tvg-logo="https://epg.v1.mk/logo/博州三套.png" group-title="新疆",博州三套
-http://110.157.220.240:8088/udp/238.125.3.14:5140
-#EXTINF:-1 tvg-name="博州三套" tvg-logo="https://epg.v1.mk/logo/博州三套.png" group-title="新疆",博州三套
-http://110.157.220.240:8088/udp/238.125.7.14:5140
-#EXTINF:-1 tvg-name="博州维语综合" tvg-logo="https://epg.v1.mk/logo/博州维语综合.png" group-title="新疆",博州维语综合
-https://alitv-play.boznews.cn/live/bttv3.m3u8?auth_key=1718209451-0-0-8c6e7db80a773017dc7d8eb0d5f73453
-#EXTINF:-1 tvg-name="博州蒙语综合" tvg-logo="https://epg.v1.mk/logo/博州蒙语综合.png" group-title="新疆",博州蒙语综合
-https://alitv-play.boznews.cn/live/bttv2.m3u8?auth_key=1718209433-0-0-b44e8fb277a810bbde60b4cf7df6bfa9
-#EXTINF:-1 tvg-name="博州汉语综合" tvg-logo="https://epg.v1.mk/logo/博州汉语综合.png" group-title="新疆",博州汉语综合
-https://alitv-play.boznews.cn/live/bttv1.m3u8?auth_key=1718209426-0-0-ddc1781460bc7b5062ae943c6d7164af
-#EXTINF:-1 tvg-name="博乐" tvg-logo="https://epg.v1.mk/logo/博乐.png" group-title="新疆",博乐
-http://110.157.220.240:8088/udp/238.125.2.186:5140
-#EXTINF:-1 tvg-name="兵团五师双河影视" tvg-logo="https://epg.v1.mk/logo/兵团五师双河影视.png" group-title="新疆",兵团五师双河影视
-https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
-#EXTINF:-1 tvg-name="兵团五师双河新闻综合" tvg-logo="https://epg.v1.mk/logo/兵团五师双河新闻综合.png" group-title="新疆",兵团五师双河新闻综合
-https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
-#EXTINF:-1 tvg-name="兵团十四师昆玉综合" tvg-logo="https://epg.v1.mk/logo/兵团十四师昆玉综合.png" group-title="新疆",兵团十四师昆玉综合
-http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="兵团十二师综合" tvg-logo="https://epg.v1.mk/logo/兵团十二师综合.png" group-title="新疆",兵团十二师综合
-https://liveout.btzx.com.cn/62ds9e/454mm6.m3u8
-#EXTINF:-1 tvg-name="兵团九师电视台" tvg-logo="https://epg.v1.mk/logo/兵团九师电视台.png" group-title="新疆",兵团九师电视台
-https://liveout.btzx.com.cn/3pyc0h/dbfvwu.m3u8
-#EXTINF:-1 tvg-name="北屯一套" tvg-logo="https://epg.v1.mk/logo/北屯一套.png" group-title="新疆",北屯一套
-http://110.157.220.240:8088/udp/238.125.3.55:5140
-#EXTINF:-1 tvg-name="拜城一套" tvg-logo="https://epg.v1.mk/logo/拜城一套.png" group-title="新疆",拜城一套
-http://110.157.220.240:8088/udp/238.125.3.107:5140
-#EXTINF:-1 tvg-name="拜城一套" tvg-logo="https://epg.v1.mk/logo/拜城一套.png" group-title="新疆",拜城一套
-http://110.157.220.240:8088/udp/238.125.7.107:5140
-#EXTINF:-1 tvg-name="拜城二套" tvg-logo="https://epg.v1.mk/logo/拜城二套.png" group-title="新疆",拜城二套
-http://110.157.220.240:8088/udp/238.125.3.108:5140
-#EXTINF:-1 tvg-name="拜城二套" tvg-logo="https://epg.v1.mk/logo/拜城二套.png" group-title="新疆",拜城二套
-http://110.157.220.240:8088/udp/238.125.7.108:5140
-#EXTINF:-1 tvg-name="巴州一套" tvg-logo="https://epg.v1.mk/logo/巴州一套.png" group-title="新疆",巴州一套
-http://110.157.220.240:8088/udp/238.125.3.38:5140
-#EXTINF:-1 tvg-name="巴州一套" tvg-logo="https://epg.v1.mk/logo/巴州一套.png" group-title="新疆",巴州一套
-http://110.157.220.240:8088/udp/238.125.7.38:5140
-#EXTINF:-1 tvg-name="巴州二套" tvg-logo="https://epg.v1.mk/logo/巴州二套.png" group-title="新疆",巴州二套
-http://110.157.220.240:8088/udp/238.125.3.39:5140
-#EXTINF:-1 tvg-name="巴州二套" tvg-logo="https://epg.v1.mk/logo/巴州二套.png" group-title="新疆",巴州二套
-http://110.157.220.240:8088/udp/238.125.7.39:5140
-#EXTINF:-1 tvg-name="巴州三套" tvg-logo="https://epg.v1.mk/logo/巴州三套.png" group-title="新疆",巴州三套
-http://110.157.220.240:8088/udp/238.125.3.40:5140
-#EXTINF:-1 tvg-name="巴州三套" tvg-logo="https://epg.v1.mk/logo/巴州三套.png" group-title="新疆",巴州三套
-http://110.157.220.240:8088/udp/238.125.7.40:5140
-#EXTINF:-1 tvg-name="巴州四套" tvg-logo="https://epg.v1.mk/logo/巴州四套.png" group-title="新疆",巴州四套
-http://110.157.220.240:8088/udp/238.125.3.43:5140
-#EXTINF:-1 tvg-name="巴州四套" tvg-logo="https://epg.v1.mk/logo/巴州四套.png" group-title="新疆",巴州四套
-http://110.157.220.240:8088/udp/238.125.7.43:5140
-#EXTINF:-1 tvg-name="巴音郭楞州综合" tvg-logo="https://epg.v1.mk/logo/巴音郭楞州综合.png" group-title="新疆",巴音郭楞州综合
-http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
-#EXTINF:-1 tvg-name="巴音郭楞州维吾尔语" tvg-logo="https://epg.v1.mk/logo/巴音郭楞州维吾尔语.png" group-title="新疆",巴音郭楞州维吾尔语
-http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
-#EXTINF:-1 tvg-name="巴音郭楞州蒙语" tvg-logo="https://epg.v1.mk/logo/巴音郭楞州蒙语.png" group-title="新疆",巴音郭楞州蒙语
-http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
-#EXTINF:-1 tvg-name="巴音郭楞州教育" tvg-logo="https://epg.v1.mk/logo/巴音郭楞州教育.png" group-title="新疆",巴音郭楞州教育
-http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
-#EXTINF:-1 tvg-name="巴楚一套" tvg-logo="https://epg.v1.mk/logo/巴楚一套.png" group-title="新疆",巴楚一套
-http://110.157.220.240:8088/udp/238.125.3.49:5140
-#EXTINF:-1 tvg-name="巴楚一套" tvg-logo="https://epg.v1.mk/logo/巴楚一套.png" group-title="新疆",巴楚一套
-http://110.157.220.240:8088/udp/238.125.7.49:5140
-#EXTINF:-1 tvg-name="巴楚二套" tvg-logo="https://epg.v1.mk/logo/巴楚二套.png" group-title="新疆",巴楚二套
-http://110.157.220.240:8088/udp/238.125.3.50:5140
-#EXTINF:-1 tvg-name="阿瓦提综合" tvg-logo="https://epg.v1.mk/logo/阿瓦提综合.png" group-title="新疆",阿瓦提综合
-http://110.157.220.240:8088/udp/238.125.3.173:5140
-#EXTINF:-1 tvg-name="阿瓦提综合" tvg-logo="https://epg.v1.mk/logo/阿瓦提综合.png" group-title="新疆",阿瓦提综合
-http://110.157.220.240:8088/udp/238.125.6.173:5140
-#EXTINF:-1 tvg-name="阿图什一套" tvg-logo="https://epg.v1.mk/logo/阿图什一套.png" group-title="新疆",阿图什一套
-http://110.157.220.240:8088/udp/238.125.0.243:5140
-#EXTINF:-1 tvg-name="阿图什一套" tvg-logo="https://epg.v1.mk/logo/阿图什一套.png" group-title="新疆",阿图什一套
-http://110.157.220.240:8088/udp/238.125.4.243:5140
-#EXTINF:-1 tvg-name="阿图什二套" tvg-logo="https://epg.v1.mk/logo/阿图什二套.png" group-title="新疆",阿图什二套
-http://110.157.220.240:8088/udp/238.125.0.244:5140
-#EXTINF:-1 tvg-name="阿图什二套" tvg-logo="https://epg.v1.mk/logo/阿图什二套.png" group-title="新疆",阿图什二套
-http://110.157.220.240:8088/udp/238.125.4.244:5140
-#EXTINF:-1 tvg-name="阿勒泰一套" tvg-logo="https://epg.v1.mk/logo/阿勒泰一套.png" group-title="新疆",阿勒泰一套
-http://110.157.220.240:8088/udp/238.125.3.54:5140
-#EXTINF:-1 tvg-name="阿勒泰一套" tvg-logo="https://epg.v1.mk/logo/阿勒泰一套.png" group-title="新疆",阿勒泰一套
-http://110.157.220.240:8088/udp/238.125.7.54:5140
-#EXTINF:-1 tvg-name="阿勒泰汉语综合" tvg-logo="https://epg.v1.mk/logo/阿勒泰汉语综合.png" group-title="新疆",阿勒泰汉语综合
-https://play-a2.quklive.com/live/1704380285590041.m3u8
-#EXTINF:-1 tvg-name="阿勒泰哈萨克语综合" tvg-logo="https://epg.v1.mk/logo/阿勒泰哈萨克语综合.png" group-title="新疆",阿勒泰哈萨克语综合
-https://play-a2.quklive.com/live/1704380366011045.m3u8
-#EXTINF:-1 tvg-name="阿勒泰二套" tvg-logo="https://epg.v1.mk/logo/阿勒泰二套.png" group-title="新疆",阿勒泰二套
-http://110.157.220.240:8088/udp/238.125.2.222:5140
-#EXTINF:-1 tvg-name="阿勒泰二套" tvg-logo="https://epg.v1.mk/logo/阿勒泰二套.png" group-title="新疆",阿勒泰二套
-http://110.157.220.240:8088/udp/238.125.7.134:5140
-#EXTINF:-1 tvg-name="阿拉山口" tvg-logo="https://epg.v1.mk/logo/阿拉山口.png" group-title="新疆",阿拉山口
-http://110.157.220.240:8088/udp/238.125.3.16:5140
-#EXTINF:-1 tvg-name="阿拉山口" tvg-logo="https://epg.v1.mk/logo/阿拉山口.png" group-title="新疆",阿拉山口
-http://110.157.220.240:8088/udp/238.125.7.16:5140
-#EXTINF:-1 tvg-name="阿拉尔一套" tvg-logo="https://epg.v1.mk/logo/阿拉尔一套.png" group-title="新疆",阿拉尔一套
-http://110.157.220.240:8088/udp/238.125.3.88:5140
-#EXTINF:-1 tvg-name="阿拉尔一套" tvg-logo="https://epg.v1.mk/logo/阿拉尔一套.png" group-title="新疆",阿拉尔一套
-http://110.157.220.240:8088/udp/238.125.7.88:5140
-#EXTINF:-1 tvg-name="阿克陶一套" tvg-logo="https://epg.v1.mk/logo/阿克陶一套.png" group-title="新疆",阿克陶一套
-http://110.157.220.240:8088/udp/238.125.3.45:5140
-#EXTINF:-1 tvg-name="阿克陶一套" tvg-logo="https://epg.v1.mk/logo/阿克陶一套.png" group-title="新疆",阿克陶一套
-http://110.157.220.240:8088/udp/238.125.7.45:5140
-#EXTINF:-1 tvg-name="阿克苏一套" tvg-logo="https://epg.v1.mk/logo/阿克苏一套.png" group-title="新疆",阿克苏一套
-http://110.157.220.240:8088/udp/238.125.3.84:5140
-#EXTINF:-1 tvg-name="阿克苏一套" tvg-logo="https://epg.v1.mk/logo/阿克苏一套.png" group-title="新疆",阿克苏一套
-http://110.157.220.240:8088/udp/238.125.7.84:5140
-#EXTINF:-1 tvg-name="阿克苏一套" tvg-logo="https://epg.v1.mk/logo/阿克苏一套.png" group-title="新疆",阿克苏一套
-http://110.157.220.240:8088/udp/238.125.3.222:5140
-#EXTINF:-1 tvg-name="阿克苏一套" tvg-logo="https://epg.v1.mk/logo/阿克苏一套.png" group-title="新疆",阿克苏一套
-http://110.157.220.240:8088/udp/238.125.7.104:5140
-#EXTINF:-1 tvg-name="阿克苏二套" tvg-logo="https://epg.v1.mk/logo/阿克苏二套.png" group-title="新疆",阿克苏二套
-http://110.157.220.240:8088/udp/238.125.3.85:5140
-#EXTINF:-1 tvg-name="阿克苏二套" tvg-logo="https://epg.v1.mk/logo/阿克苏二套.png" group-title="新疆",阿克苏二套
-http://110.157.220.240:8088/udp/238.125.3.221:5140
-#EXTINF:-1 tvg-name="阿克苏二套" tvg-logo="https://epg.v1.mk/logo/阿克苏二套.png" group-title="新疆",阿克苏二套
-http://110.157.220.240:8088/udp/238.125.7.102:5140
-#EXTINF:-1 tvg-name="阿克苏二套" tvg-logo="https://epg.v1.mk/logo/阿克苏二套.png" group-title="新疆",阿克苏二套
-http://110.157.220.240:8088/udp/238.125.7.85:5140
-#EXTINF:-1 tvg-name="阿克苏三套" tvg-logo="https://epg.v1.mk/logo/阿克苏三套.png" group-title="新疆",阿克苏三套
-http://110.157.220.240:8088/udp/238.125.3.86:5140
-#EXTINF:-1 tvg-name="阿克苏三套" tvg-logo="https://epg.v1.mk/logo/阿克苏三套.png" group-title="新疆",阿克苏三套
-http://110.157.220.240:8088/udp/238.125.7.86:5140
-#EXTINF:-1 tvg-name="阿克苏新和一套" tvg-logo="https://epg.v1.mk/logo/阿克苏新和一套.png" group-title="新疆",阿克苏新和一套
-http://110.157.220.240:8088/udp/238.125.2.254:5140
-#EXTINF:-1 tvg-name="阿克苏新和一套" tvg-logo="https://epg.v1.mk/logo/阿克苏新和一套.png" group-title="新疆",阿克苏新和一套
-http://110.157.220.240:8088/udp/238.125.7.190:5140
-#EXTINF:-1 tvg-name="阿克苏新和二套" tvg-logo="https://epg.v1.mk/logo/阿克苏新和二套.png" group-title="新疆",阿克苏新和二套
-http://110.157.220.240:8088/udp/238.125.3.253:5140
-#EXTINF:-1 tvg-name="阿克苏新和二套" tvg-logo="https://epg.v1.mk/logo/阿克苏新和二套.png" group-title="新疆",阿克苏新和二套
-http://110.157.220.240:8088/udp/238.125.7.189:5140
-#EXTINF:-1 tvg-name="阿合奇一套" tvg-logo="https://epg.v1.mk/logo/阿合奇一套.png" group-title="新疆",阿合奇一套
-http://110.157.220.240:8088/udp/238.125.3.189:5140
-#EXTINF:-1 tvg-name="阿合奇二套" tvg-logo="https://epg.v1.mk/logo/阿合奇二套.png" group-title="新疆",阿合奇二套
-http://110.157.220.240:8088/udp/238.125.3.190:5140
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="https://epg.v1.mk/logo/云南都市.png" group-title="云南",云南都市
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/yunnan.js?id=yunnandushi
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="https://epg.v1.mk/logo/云南都市.png" group-title="云南",云南都市
