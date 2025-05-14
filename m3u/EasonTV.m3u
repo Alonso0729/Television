@@ -8377,9 +8377,9 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7889730693553663314
 https://live.iill.top/douyu/4238637
 #EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",咻咻满
 http://A/ku9/js/HuyaAndDouyu.js?id=U4238637
-#EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",气人主播QQQ
+#EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://epg.v1.mk/logo/抖音.png" group-title="娱乐",气人主播QQQ
 https://live.iill.top/douyin/427652269946
-#EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",气人主播QQQ
+#EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://epg.v1.mk/logo/抖音.png" group-title="娱乐",气人主播QQQ
 https://live.iill.top/douyin/38993952516
 #EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",米娜Minana
 https://live.iill.top/douyu/5551871
@@ -8415,9 +8415,9 @@ https://live.iill.top/bilibili/21737720
 https://live.iill.top/douyin/769667829224
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://epg.v1.mk/logo/douyu.png" group-title="娱乐",刘飞儿Fare
 https://live.iill.top/douyin/fayelau
-#EXTINF:-1 tvg-name="Mr.619" tvg-logo="https://epg.v1.mk/logo/douyin.png" group-title="娱乐",Mr.619
+#EXTINF:-1 tvg-name="Mr.619" tvg-logo="https://epg.v1.mk/logo/抖音.jpg" group-title="娱乐",Mr.619
 https://live.iill.top/douyin/20855128
-#EXTINF:-1 tvg-name="56学姐" tvg-logo="https://epg.v1.mk/logo/douyin.png" group-title="娱乐",56学姐
+#EXTINF:-1 tvg-name="56学姐" tvg-logo="https://epg.v1.mk/logo/抖音.jpg" group-title="娱乐",56学姐
 https://live.iill.top/douyin/10429123
 #EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://epg.v1.mk/logo/1905环球经典.png" group-title="娱乐",1905环球经典
 http://php.jdshipin.com/1905.php?id=1905dy2
@@ -26107,6 +26107,26 @@ http://lin.he.cn:35455/huya/11352922
 http://A/ku9/js/HuyaAndDouyu.js?id=11352922
 #EXTINF:-1 tvg-name="四驱兄弟" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",四驱兄弟
 webview://https://www.huya.com/11352922
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",蜡笔小新
+http://lin.he.cn:35455/huya/11352970
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",蜡笔小新
+http://A/ku9/js/HuyaAndDouyu.js?id=11352970
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",蜡笔小新
+webview://https://www.huya.com/11352970
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",蜡笔小新
+http://lin.he.cn:35455/huya/29837259
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",蜡笔小新
+http://A/ku9/js/HuyaAndDouyu.js?id=29837259
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",蜡笔小新
+webview://https://www.huya.com/29837259
+#EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="轮播",武林外传-B
+https://live.iill.top/bilibili/22970821
+#EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="轮播",武林外传-B
+webview://https://live.bilibili.com/22970821
+#EXTINF:-1 tvg-name="炊事班的故事-B" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="轮播",炊事班的故事-B
+https://live.iill.top/bilibili/31730622
+#EXTINF:-1 tvg-name="炊事班的故事-B" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="轮播",炊事班的故事-B
+webview://https://live.bilibili.com/31730622
 #EXTINF:-1 tvg-name="好久不见-武林外传" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",好久不见-武林外传
 http://lin.he.cn:35455/yy/1355914397
 #EXTINF:-1 tvg-name="好久不见-武林外传" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",好久不见-武林外传
