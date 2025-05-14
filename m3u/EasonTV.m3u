@@ -20843,6 +20843,20 @@ http://zjtv.wshls.homecdn.com/live/8c3.m3u8
 http://zjtv.wshls.homecdn.com/live/8c3.flv
 #EXTINF:-1 tvg-name="扬州邗江" tvg-logo="https://epg.v1.mk/logo/扬州邗江.png" group-title="江苏",扬州邗江
 rtmp://zjtv.wshls.homecdn.com/live/8c3
+#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
+http://49.65.176.61:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
+http://121.226.124.73:9999/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
+http://58.209.4.118:7777/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
+http://wx.puchengyu2009.top:9999/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
+http://st.sportbabytoy.com:9999/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
+http://dell.puchengyu2009.top:9999/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
+http://121.232.17.113:8848/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://epg.v1.mk/logo/徐州新闻综合.png" group-title="江苏",徐州新闻综合
 https://tv.iill.top/migu/xzxwzh
 #EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://epg.v1.mk/logo/徐州新闻综合.png" group-title="江苏",徐州新闻综合
@@ -21130,11 +21144,19 @@ https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-7.m3u8
 #EXTINF:-1 tvg-name="靖江新闻综合" tvg-logo="https://epg.v1.mk/logo/靖江新闻综合.png" group-title="江苏",靖江新闻综合
 https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.v1.mk/logo/金湖新闻综合.png" group-title="江苏",金湖新闻综合
-http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
-#EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.v1.mk/logo/金湖新闻综合.png" group-title="江苏",金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
 #EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.v1.mk/logo/金湖新闻综合.png" group-title="江苏",金湖新闻综合
-https://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.v1.mk/logo/金湖新闻综合.png" group-title="江苏",金湖新闻综合
+http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.flv
+#EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.v1.mk/logo/金湖新闻综合.png" group-title="江苏",金湖新闻综合
+rtmp://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh
+#EXTINF:-1 tvg-name="姜堰综合" tvg-logo="https://epg.v1.mk/logo/姜堰综合.png" group-title="江苏",姜堰综合
+http://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
+#EXTINF:-1 tvg-name="姜堰综合" tvg-logo="https://epg.v1.mk/logo/姜堰综合.png" group-title="江苏",姜堰综合
+http://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.flv
+#EXTINF:-1 tvg-name="姜堰综合" tvg-logo="https://epg.v1.mk/logo/姜堰综合.png" group-title="江苏",姜堰综合
+rtmp://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh
 #EXTINF:-1 tvg-name="江阴新闻综合" tvg-logo="https://epg.v1.mk/logo/江阴新闻综合.png" group-title="江苏",江阴新闻综合
 http://221.228.70.101:8080/live/xinwen.m3u8
 #EXTINF:-1 tvg-name="江阴新闻综合" tvg-logo="https://epg.v1.mk/logo/江阴新闻综合.png" group-title="江苏",江阴新闻综合
@@ -21232,8 +21254,6 @@ http://encshplay.21cs.cn/cstv1/cstv1.m3u8
 #EXTINF:-1 tvg-name="常熟综合" tvg-logo="https://epg.v1.mk/logo/常熟综合.png" group-title="江苏",常熟综合
 http://encshplay.21cs.cn/cstv1/cstv1.flv
 #EXTINF:-1 tvg-name="常熟综合" tvg-logo="https://epg.v1.mk/logo/常熟综合.png" group-title="江苏",常熟综合
-http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
-#EXTINF:-1 tvg-name="常熟综合" tvg-logo="https://epg.v1.mk/logo/常熟综合.png" group-title="江苏",常熟综合
 rtmp://cstvplay.21cs.cn/cstv1/cstv1
 #EXTINF:-1 tvg-name="常熟综合" tvg-logo="https://epg.v1.mk/logo/常熟综合.png" group-title="江苏",常熟综合
 rtmp://cstvplay.21cs.cn/kcsapp/cstv1
@@ -21241,12 +21261,6 @@ rtmp://cstvplay.21cs.cn/kcsapp/cstv1
 http://cstvplay.21cs.cn/kcsapp/cstv2.m3u8
 #EXTINF:-1 tvg-name="常熟民生经济" tvg-logo="https://epg.v1.mk/logo/常熟民生经济.png" group-title="江苏",常熟民生经济
 http://cstvplay.21cs.cn/kcsapp/cstv2.flv
-#EXTINF:-1 tvg-name="常熟民生经济" tvg-logo="https://epg.v1.mk/logo/常熟民生经济.png" group-title="江苏",常熟民生经济
-http://encshplay.21cs.cn/cstv2/cstv2.m3u8
-#EXTINF:-1 tvg-name="常熟民生经济" tvg-logo="https://epg.v1.mk/logo/常熟民生经济.png" group-title="江苏",常熟民生经济
-http://encshplay.21cs.cn/cstv2/cstv2.flv
-#EXTINF:-1 tvg-name="常熟民生经济" tvg-logo="https://epg.v1.mk/logo/常熟民生经济.png" group-title="江苏",常熟民生经济
-http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
 #EXTINF:-1 tvg-name="常熟民生经济" tvg-logo="https://epg.v1.mk/logo/常熟民生经济.png" group-title="江苏",常熟民生经济
 rtmp://cstvplay.21cs.cn/cstv2/cstv2
 #EXTINF:-1 tvg-name="常熟民生经济" tvg-logo="https://epg.v1.mk/logo/常熟民生经济.png" group-title="江苏",常熟民生经济
@@ -21257,32 +21271,6 @@ http://binhai-tv-hls.cm.jstv.com/binhai-tv/news.m3u8
 http://binhai-tv-hls.cm.jstv.com/binhai-tv/news.flv
 #EXTINF:-1 tvg-name="滨海新闻综合" tvg-logo="https://epg.v1.mk/logo/滨海新闻综合.png" group-title="江苏",滨海新闻综合
 rtmp://binhai-tv-hls.cm.jstv.com/binhai-tv/news
-#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
-http://49.65.176.61:8888/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
-http://121.226.124.73:9999/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
-http://58.209.4.118:7777/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
-http://wx.puchengyu2009.top:9999/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
-http://st.sportbabytoy.com:9999/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
-http://dell.puchengyu2009.top:9999/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-name="盐城综合" tvg-logo="https://epg.v1.mk/logo/盐城综合.png" group-title="江苏",盐城综合
-http://121.232.17.113:8848/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.v1.mk/logo/金湖新闻综合.png" group-title="江苏",金湖新闻综合
-http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
-#EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.v1.mk/logo/金湖新闻综合.png" group-title="江苏",金湖新闻综合
-http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.flv
-#EXTINF:-1 tvg-name="金湖新闻综合" tvg-logo="https://epg.v1.mk/logo/金湖新闻综合.png" group-title="江苏",金湖新闻综合
-rtmp://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh
-#EXTINF:-1 tvg-name="姜堰综合" tvg-logo="https://epg.v1.mk/logo/姜堰综合.png" group-title="江苏",姜堰综合
-http://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
-#EXTINF:-1 tvg-name="姜堰综合" tvg-logo="https://epg.v1.mk/logo/姜堰综合.png" group-title="江苏",姜堰综合
-http://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.flv
-#EXTINF:-1 tvg-name="姜堰综合" tvg-logo="https://epg.v1.mk/logo/姜堰综合.png" group-title="江苏",姜堰综合
-rtmp://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://epg.v1.mk/logo/江西都市.png" group-title="江西",江西都市
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://epg.v1.mk/logo/江西都市.png" group-title="江西",江西都市
