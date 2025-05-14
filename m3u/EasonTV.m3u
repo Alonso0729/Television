@@ -20716,6 +20716,8 @@ http://58.219.17.113:8001/rtp/239.49.0.215:8000
 #EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.v1.mk/logo/泰州新闻综合.png" group-title="江苏",泰州新闻综合
 http://121.232.17.113:8848/rtp/239.49.0.215:8000
 #EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.v1.mk/logo/泰州经济生活.png" group-title="江苏",泰州经济生活
+http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
+#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.v1.mk/logo/泰州经济生活.png" group-title="江苏",泰州经济生活
 http://114.231.64.58:8888/rtp/239.49.0.217:8000
 #EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.v1.mk/logo/泰州经济生活.png" group-title="江苏",泰州经济生活
 http://121.226.124.73:9999/rtp/239.49.0.217:8000
@@ -20727,8 +20729,8 @@ http://121.232.17.113:8848/rtp/239.49.0.217:8000
 http://49.65.176.61:8888/rtp/239.49.0.217:8000
 #EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.v1.mk/logo/泰州经济生活.png" group-title="江苏",泰州经济生活
 http://58.209.4.118:7777/rtp/239.49.0.217:8000
-#EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.v1.mk/logo/泰州经济生活.png" group-title="江苏",泰州经济生活
-http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
+#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.v1.mk/logo/泰州影视娱乐.png" group-title="江苏",泰州影视娱乐
+http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 #EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.v1.mk/logo/泰州影视娱乐.png" group-title="江苏",泰州影视娱乐
 http://114.231.64.58:8888/rtp/239.49.0.222:8000
 #EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.v1.mk/logo/泰州影视娱乐.png" group-title="江苏",泰州影视娱乐
@@ -20741,8 +20743,6 @@ http://49.65.176.61:8888/rtp/239.49.0.222:8000
 http://121.226.124.73:9999/rtp/239.49.0.222:8000
 #EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.v1.mk/logo/泰州影视娱乐.png" group-title="江苏",泰州影视娱乐
 http://58.209.4.118:7777/rtp/239.49.0.222:8000
-#EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.v1.mk/logo/泰州影视娱乐.png" group-title="江苏",泰州影视娱乐
-http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 #EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://epg.v1.mk/logo/镇江新闻综合.png" group-title="江苏",镇江新闻综合
 http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://epg.v1.mk/logo/镇江新闻综合.png" group-title="江苏",镇江新闻综合
