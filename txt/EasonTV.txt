@@ -40,6 +40,7 @@ CCTV-1,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000265001
 CCTV-1,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265001
 CCTV-1,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000029752
 CCTV-1,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000029752
+CCTV-1,http://api.mytv666.top/api/migu.php?id=CCTV1综合&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-2,https://tv.iill.top/migu/cctv2
 CCTV-2,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870745.m3u8
 CCTV-2,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870745.m3u8
@@ -80,6 +81,7 @@ CCTV-2,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=535332353945394972
 CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5353323539453949720
 CCTV-2,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000014161
 CCTV-2,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000014161
+CCTV-2,http://api.mytv666.top/api/migu.php?id=CCTV2财经&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-3,https://tv.iill.top/migu/cctv3
 CCTV-3,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870746.m3u8
 CCTV-3,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870746.m3u8
@@ -123,6 +125,7 @@ CCTV-3,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000022313
 CCTV-3,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000022313
 CCTV-3,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8378175926191110263
 CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8378175926191110263
+CCTV-3,http://api.mytv666.top/api/migu.php?id=CCTV3综艺&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-4,https://tv.iill.top/migu/cctv4
 CCTV-4,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870747.m3u8
 CCTV-4,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870747.m3u8
@@ -160,8 +163,11 @@ CCTV-4,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000265004
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265004
 CCTV-4,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8183388942203045169
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8183388942203045169
+CCTV-4,http://api.mytv666.top/api/migu.php?id=CCTV4中文国际&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-4美洲,https://tv.iill.top/migu/cctv4m
+CCTV4-美洲,http://api.mytv666.top/api/migu.php?id=CCTV4美洲&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-4欧洲,https://tv.iill.top/migu/cctv4o
+CCTV-4欧洲,http://api.mytv666.top/api/migu.php?id=CCTV4欧洲&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-5,https://tv.iill.top/migu/cctv5
 CCTV-5,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870748.m3u8
 CCTV-5,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870748.m3u8
@@ -205,6 +211,7 @@ CCTV-5,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000265005
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265005
 CCTV-5,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000016431
 CCTV-5,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000016431
+CCTV-5,http://api.mytv666.top/api/migu.php?id=CCTV5体育&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-5+,https://tv.iill.top/migu/cctv5p
 CCTV-5+,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870759.m3u8
 CCTV-5+,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870759.m3u8
@@ -242,6 +249,7 @@ CCTV-5+,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=600000000100001587
 CCTV-5+,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000015875
 CCTV-5+,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=reallive-cctv5plus
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=reallive-cctv5plus
+CCTV-5+,http://api.mytv666.top/api/migu.php?id=CCTV5 体育赛事&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-6,https://tv.iill.top/migu/cctv6
 CCTV-6,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870749.m3u8
 CCTV-6,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870749.m3u8
@@ -285,6 +293,7 @@ CCTV-6,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000004574
 CCTV-6,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000004574
 CCTV-6,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6117099895556651277
 CCTV-6,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6117099895556651277
+CCTV-6,http://api.mytv666.top/api/migu.php?id=CCTV6电影&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-7,https://tv.iill.top/migu/cctv7
 CCTV-7,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870750.m3u8
 CCTV-7,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870750.m3u8
@@ -325,6 +334,7 @@ CCTV-7,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000009055
 CCTV-7,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000009055
 CCTV-7,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7050628689018054317
 CCTV-7,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7050628689018054317
+CCTV-7,http://api.mytv666.top/api/migu.php?id=CCTV7国防军事&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-8,https://tv.iill.top/migu/cctv8
 CCTV-8,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870838.m3u8
 CCTV-8,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870838.m3u8
@@ -365,6 +375,7 @@ CCTV-8,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000001070
 CCTV-8,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000001070
 CCTV-8,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8871488051501921127
 CCTV-8,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8871488051501921127
+CCTV-8,http://api.mytv666.top/api/migu.php?id=CCTV8电视剧&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-9,https://tv.iill.top/migu/cctv9
 CCTV-9,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870752.m3u8
 CCTV-9,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870752.m3u8
@@ -397,6 +408,7 @@ CCTV-9,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000018384
 CCTV-9,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018384
 CCTV-9,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000032162
 CCTV-9,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000032162
+CCTV-9,http://api.mytv666.top/api/migu.php?id=CCTV9纪录&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-10,https://tv.iill.top/migu/cctv10
 CCTV-10,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870753.m3u8
 CCTV-10,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870753.m3u8
@@ -437,6 +449,7 @@ CCTV-10,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=600000000100003150
 CCTV-10,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000031506
 CCTV-10,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7019587760656900133
 CCTV-10,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7019587760656900133
+CCTV-10,http://api.mytv666.top/api/migu.php?id=CCTV10科教&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-11,https://tv.iill.top/migu/cctv11
 CCTV-11,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870754.m3u8
 CCTV-11,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870754.m3u8
@@ -469,6 +482,7 @@ CCTV-11,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031106
 CCTV-11,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031106
 CCTV-11,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6351457414282570521
 CCTV-11,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6351457414282570521
+CCTV-11,http://api.mytv666.top/api/migu.php?id=CCTV11戏曲&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-12,https://tv.iill.top/migu/cctv12
 CCTV-12,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870755.m3u8
 CCTV-12,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870755.m3u8
@@ -509,6 +523,7 @@ CCTV-12,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=53256310751934901
 CCTV-12,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5325631075193490169
 CCTV-12,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000022586
 CCTV-12,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000022586
+CCTV-12,http://api.mytv666.top/api/migu.php?id=CCTV12社会与法&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-13,https://tv.iill.top/migu/cctv13
 CCTV-13,http://cici2012.synology.me:35455/bptv/10000100000000050000000004796248.m3u8
 CCTV-13,http://test.smart-more.cn:35455/bptv/10000100000000050000000004796248.m3u8
@@ -538,6 +553,7 @@ CCTV-13,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031108
 CCTV-13,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031108
 CCTV-13,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6918130250570453526
 CCTV-13,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6918130250570453526
+CCTV-13,http://api.mytv666.top/api/migu.php?id=CCTV13新闻&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-14,https://tv.iill.top/migu/cctv14
 CCTV-14,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870756.m3u8
 CCTV-14,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870756.m3u8
@@ -578,6 +594,7 @@ CCTV-14,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=600000000100001364
 CCTV-14,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000013647
 CCTV-14,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8203666801302077036
 CCTV-14,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8203666801302077036
+CCTV-14,http://api.mytv666.top/api/migu.php?id=CCTV14少儿&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-15,https://tv.iill.top/migu/cctv15
 CCTV-15,http://cici2012.synology.me:35455/bptv/10000100000000050000000003870757.m3u8
 CCTV-15,http://test.smart-more.cn:35455/bptv/10000100000000050000000003870757.m3u8
@@ -611,6 +628,7 @@ CCTV-15,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000005000018417
 CCTV-15,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000018417
 CCTV-15,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031109
 CCTV-15,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031109
+CCTV-15,http://api.mytv666.top/api/migu.php?id=CCTV15音乐&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-16,http://cici2012.synology.me:35455/bptv/10000100000000050000000004972604.m3u8
 CCTV-16,http://test.smart-more.cn:35455/bptv/10000100000000050000000004972604.m3u8
 CCTV-16,http://lin.he.cn:35455/bptv/10000100000000050000000004972604.m3u8
@@ -669,6 +687,7 @@ CCTV-17,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=10000000050002650
 CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265015
 CCTV-17,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000268004
 CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000268004
+CCTV-17,http://api.mytv666.top/api/migu.php?id=CCTV17农业农村&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CCTV-4K,http://cici2012.synology.me:35455/gaoma/cctv4k.m3u8
 CCTV-4K,http://test.smart-more.cn:35455/gaoma/cctv4k.m3u8
 CCTV-4K,http://lin.he.cn:35455/gaoma/cctv4k.m3u8
@@ -708,6 +727,7 @@ CETV-1,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000018981
 CETV-1,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000003000018981
 CETV-1,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7106250793420582078
 CETV-1,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7106250793420582078
+CETV-1,http://api.mytv666.top/api/migu.php?id=CETV1&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CETV-2,https://tv.iill.top/migu/cetv2
 CETV-2,http://cici2012.synology.me:35455/itv/1000000005000266004.m3u8?cdn=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=3
 CETV-2,http://test.smart-more.cn:35455/itv/2000000003000000047.m3u8?cdn=hnbblive&Contentid=2000000003000000047&livemode=1&stbId=3
@@ -727,6 +747,7 @@ CETV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266004
 CETV-2,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000047
 CETV-2,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000047
 CETV-2,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031201
+CETV-2,http://api.mytv666.top/api/migu.php?id=CETV2&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CETV-3,http://iptv.huuc.edu.cn/hls/cetv3.m3u8
 CETV-4,https://tv.iill.top/migu/cetv4
 CETV-4,http://cici2012.synology.me:35455/itv/1000000005000025333.m3u8?cdn=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=3
@@ -749,13 +770,14 @@ CETV-4,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031126
 CETV-4,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031126
 CETV-4,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000005000042312
 CETV-4,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000005000042312
+CETV-4,http://api.mytv666.top/api/migu.php?id=CETV4&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CETV早期教育,http://wein66.ddnsfree.com:4022/udp/239.45.0.54:5140$上海电信
 CETV早期教育,http://wein66.ddnsfree.com:4022/udp/233.18.204.187:5140$上海电信
 CETV早期教育,http://218.78.183.200:8888/udp/239.45.0.54:5140$上海电信
 CETV早期教育,http://home.yulei.online:9999/rtp/226.0.2.99:8704$山西联通
 CETV早期教育,http://ds920.dsmynas.net:5555/rtp/226.0.2.99:8704$山西联通
 CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN英语,https://tv.iill.top/migu/cgtn
+CGTN英语,http://api.mytv666.top/api/migu.php?id=CGTN&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CGTN英语,http://cici2012.synology.me:35455/gaoma/cgtnen.m3u8
 CGTN英语,http://test.smart-more.cn:35455/gaoma/cgtnen.m3u8
 CGTN英语,http://lin.he.cn:35455/gaoma/cgtnen.m3u8
@@ -781,7 +803,7 @@ CGTN英语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000009569
 CGTN英语,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7745129417417101820
 CGTN英语,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN阿语,https://tv.iill.top/migu/cgtna
+CGTN阿语,http://api.mytv666.top/api/migu.php?id=CGTN阿拉伯语&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CGTN阿语,http://cici2012.synology.me:35455/gaoma/cgtnar.m3u8
 CGTN阿语,http://test.smart-more.cn:35455/gaoma/cgtnar.m3u8
 CGTN阿语,http://lin.he.cn:35455/gaoma/cgtnar.m3u8
@@ -802,7 +824,7 @@ CGTN阿语,http://[2409:8087:5e20:24::03]:6610/000000001000/1/100000000600028000
 CGTN阿语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280001
 CGTN阿语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280001
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN俄语,https://tv.iill.top/migu/cgtnr
+CGTN俄语,http://api.mytv666.top/api/migu.php?id=CGTN俄语&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CGTN俄语,http://cici2012.synology.me:35455/gaoma/cgtnru.m3u8
 CGTN俄语,http://test.smart-more.cn:35455/gaoma/cgtnru.m3u8
 CGTN俄语,http://lin.he.cn:35455/gaoma/cgtnru.m3u8
@@ -823,7 +845,7 @@ CGTN俄语,http://[2409:8087:5e20:24::03]:6610/000000001000/1/100000000600028000
 CGTN俄语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280004
 CGTN俄语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280004
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN法语,https://tv.iill.top/migu/cgtnf
+CGTN法语,http://api.mytv666.top/api/migu.php?id=CGTN法语&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CGTN法语,http://cici2012.synology.me:35455/gaoma/cgtnfr.m3u8
 CGTN法语,http://test.smart-more.cn:35455/gaoma/cgtnfr.m3u8
 CGTN法语,http://lin.he.cn:35455/gaoma/cgtnfr.m3u8
@@ -844,7 +866,7 @@ CGTN法语,http://[2409:8087:5e20:24::03]:6610/000000001000/1/100000000600028000
 CGTN法语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280003
 CGTN法语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280003
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN西语,https://tv.iill.top/migu/cgtne
+CGTN西语,http://api.mytv666.top/api/migu.php?id=CGTN西班牙语&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CGTN西语,http://cici2012.synology.me:35455/gaoma/cgtnsp.m3u8
 CGTN西语,http://test.smart-more.cn:35455/gaoma/cgtnsp.m3u8
 CGTN西语,http://lin.he.cn:35455/gaoma/cgtnsp.m3u8
@@ -865,7 +887,7 @@ CGTN西语,http://[2409:8087:5e20:24::03]:6610/000000001000/1/100000000600028000
 CGTN西语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280002
 CGTN西语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280002
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN纪录,https://tv.iill.top/migu/cgtnjl
+CGTN纪录,http://api.mytv666.top/api/migu.php?id=CGTN外语记录&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CGTN纪录,http://cici2012.synology.me:35455/gaoma/cgtndoc.m3u8
 CGTN纪录,http://test.smart-more.cn:35455/gaoma/cgtndoc.m3u8
 CGTN纪录,http://lin.he.cn:35455/gaoma/cgtndoc.m3u8
@@ -1171,7 +1193,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 兵器科技,http://wein66.ddnsfree.com:4022/udp/233.18.204.178:5140$上海电信
 兵器科技,http://218.78.183.200:8888/udp/239.45.0.45:5140$上海电信
 兵器科技,http://218.78.183.200:8888/udp/239.45.1.74:5140$上海电信
-老故事,https://tv.iill.top/migu/lgs
+老故事,http://api.mytv666.top/api/migu.php?id=老故事&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 老故事,http://www.tico2.eu.org:4022/rtp/239.69.1.85:10150$湖北电信
 老故事,http://www.akw323.com:9527/rtp/238.255.2.35:5999$贵州电信
 老故事,http://121.19.134.10:4022/rtp/239.253.92.132:8068$河北联通
@@ -1183,7 +1205,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 老故事,http://imlucky.win:10001/udp/239.77.1.197:5146$广东电信
 老故事,http://www.feizhu1212.top:9999/udp/239.77.0.220:5146$广东电信
 老故事,http://www.feizhu1212.top:9999/udp/239.77.1.197:5146$广东电信
-发现之旅,https://tv.iill.top/migu/fxzl
+发现之旅,http://api.mytv666.top/api/migu.php?id=发现之旅&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 发现之旅,http://www.akw323.com:9527/rtp/238.255.2.184:5999$贵州电信
 发现之旅,http://121.19.134.10:4022/rtp/239.253.94.30:6629$河北联通
 发现之旅,http://121.29.91.210:7077/rtp/239.253.94.30:6629$河北联通
@@ -1194,7 +1216,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 发现之旅,http://home.frayun.com:10000/udp/239.253.43.127:5146$广东电信
 发现之旅,http://imlucky.win:10001/udp/239.253.43.127:5146$广东电信
 发现之旅,http://www.feizhu1212.top:9999/udp/239.253.43.127:5146$广东电信
-中学生,https://tv.iill.top/migu/zxs
+中学生,http://api.mytv666.top/api/migu.php?id=中学生&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 中学生,http://www.akw323.com:9527/rtp/238.255.2.181:5999$贵州电信
 中学生,http://121.19.134.10:4022/rtp/239.253.92.27:6106$河北联通
 中学生,http://121.29.91.210:7077/rtp/239.253.92.27:6106$河北联通
@@ -1215,6 +1237,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 上海,#genre#
 东方卫视,http://A/ku9/js/KanKanNews.js?id=1
 东方卫视,https://tv.iill.top/migu/dfws
+东方卫视,http://api.mytv666.top/api/migu.php?id=东方卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 东方卫视,http://cici2012.synology.me:35455/bptv/10000100000000050000000003873462.m3u8
 东方卫视,http://test.smart-more.cn:35455/bptv/10000100000000050000000003873462.m3u8
 东方卫视,http://lin.he.cn:35455/bptv/10000100000000050000000003873462.m3u8
@@ -1267,7 +1290,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 东方卫视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=6131854485504331903
 东方卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=6131854485504331903
 上海新闻综合,http://A/ku9/js/KanKanNews.js?id=2
-上海新闻综合,https://tv.iill.top/migu/shxw
+上海新闻综合,http://api.mytv666.top/api/migu.php?id=上海新闻综合&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 上海新闻综合,http://cici2012.synology.me:35455/itv/2000000002000000005.m3u8?cdn=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
 上海新闻综合,http://test.smart-more.cn:35455/itv/2000000002000000005.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 上海新闻综合,http://lin.he.cn:35455/itv/5000000011000031110.m3u8?cdn=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
@@ -1307,6 +1330,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 上海都市,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000018926
 上海都市,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018926
 东方影视,https://tv.iill.top/migu/shys
+东方影视,http://api.mytv666.top/api/migu.php?id=上视东方影视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 东方影视,http://cici2012.synology.me:35455/itv/2000000002000000013.m3u8?cdn=hnbblive&Contentid=2000000002000000013&livemode=1&stbId=3
 东方影视,http://test.smart-more.cn:35455/itv/2000000002000000013.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 东方影视,http://lin.he.cn:35455/itv/5000000010000032212.m3u8?cdn=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
@@ -1329,7 +1353,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 东方影视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000032212
 第一财经,http://A/ku9/js/KanKanNews.js?id=5
-第一财经,https://tv.iill.top/migu/dycj
+第一财经,http://api.mytv666.top/api/migu.php?id=上海第一财经&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 第一财经,http://cici2012.synology.me:35455/itv/2000000002000000004.m3u8?cdn=hnbblive&Contentid=2000000002000000004&livemode=1&stbId=3
 第一财经,http://test.smart-more.cn:35455/itv/2000000002000000004.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 第一财经,http://lin.he.cn:35455/itv/5000000010000027146.m3u8?cdn=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
@@ -1436,7 +1460,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 重温经典,http://iptv.huuc.edu.cn/hls/cwjdhd.m3u8
-乐游,https://tv.iill.top/migu/ly
+乐游,http://api.mytv666.top/api/migu.php?id=乐游&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 乐游,http://cici2012.synology.me:35455/itv/2000000002000000059.m3u8?cdn=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=3
 乐游,http://test.smart-more.cn:35455/itv/2000000002000000059.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000059&IASHttpSessionId=OTT19019320240419154124000281
 乐游,http://lin.he.cn:35455/itv/2000000002000000092.m3u8?cdn=hnbblive&Contentid=2000000002000000092&livemode=1&stbId=3
@@ -1482,7 +1506,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 金色学堂,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000061
 金色学堂,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
 金色学堂,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000026105
-法治天地,https://tv.iill.top/migu/fztd
+法治天地,http://api.mytv666.top/api/migu.php?id=法治天地&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 法治天地,http://cici2012.synology.me:35455/itv/2000000002000000014.m3u8?cdn=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
 法治天地,http://test.smart-more.cn:35455/itv/2000000002000000014.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
 法治天地,http://lin.he.cn:35455/itv/9001547084732463424.m3u8?cdn=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
@@ -1519,7 +1543,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 东方财经,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000090
 东方财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
 东方财经,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010003
-欢笑剧场,https://tv.iill.top/migu/hxjc
+欢笑剧场,http://api.mytv666.top/api/migu.php?id=欢笑剧场&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 欢笑剧场,http://cici2012.synology.me:35455/itv/2000000002000000016.m3u8?cdn=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
 欢笑剧场,http://test.smart-more.cn:35455/itv/2000000002000000016.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281
 欢笑剧场,http://lin.he.cn:35455/itv/5000000002000009455.m3u8?cdn=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
@@ -1539,7 +1563,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 欢笑剧场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000009455
 欢笑剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010001
 欢笑剧场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010001
-魅力足球,https://tv.iill.top/migu/mlzq
+魅力足球,http://api.mytv666.top/api/migu.php?id=魅力足球&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 魅力足球,http://cici2012.synology.me:35455/itv/2000000002000000068.m3u8?cdn=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3
 魅力足球,http://test.smart-more.cn:35455/itv/2000000002000000068.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281
 魅力足球,http://lin.he.cn:35455/itv/5000000011000031207.m3u8?cdn=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
@@ -1561,7 +1585,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 魅力足球,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000068
 魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
 魅力足球,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031207
-劲爆体育,https://tv.iill.top/migu/jbty
+劲爆体育,http://api.mytv666.top/api/migu.php?id=劲爆体育&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 劲爆体育,http://cici2012.synology.me:35455/itv/2000000002000000008.m3u8?cdn=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 劲爆体育,http://test.smart-more.cn:35455/itv/2000000002000000008.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 劲爆体育,http://lin.he.cn:35455/itv/5000000002000029972.m3u8?cdn=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
@@ -1641,7 +1665,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 生活时尚,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
 生活时尚,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000019634
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-11.m3u8
-游戏风云,https://tv.iill.top/migu/yxfy
+游戏风云,http://api.mytv666.top/api/migu.php?id=游戏风云&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 游戏风云,http://cici2012.synology.me:35455/itv/2000000002000000011.m3u8?cdn=hnbblive&Contentid=2000000002000000011&livemode=1&stbId=3
 游戏风云,http://test.smart-more.cn:35455/itv/2000000002000000011.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281
 游戏风云,http://lin.he.cn:35455/itv/5000000002000027005.m3u8?cdn=bestzb&Contentid=5000000002000027005&livemode=1&stbId=3
@@ -3083,7 +3107,7 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 重庆卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=4995134319251569870
 重庆卫视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000004000025797
 重庆卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000025797
-大湾区卫视,https://tv.iill.top/migu/dwqws
+大湾区卫视,http://api.mytv666.top/api/migu.php?id=大湾区卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 大湾区卫视,http://cici2012.synology.me:35455/itv/2000000003000000045.m3u8?cdn=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=3
 大湾区卫视,http://test.smart-more.cn:35455/itv/1000000002000011619.m3u8?cdn=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=3
 大湾区卫视,http://lin.he.cn:35455/itv/2000000003000000045.m3u8?cdn=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=3
@@ -3163,7 +3187,7 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 甘肃卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040021
 甘肃卫视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031121
 甘肃卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031121
-广东卫视,https://tv.iill.top/migu/gdws
+广东卫视,http://api.mytv666.top/api/migu.php?id=广东卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 广东卫视,http://cici2012.synology.me:35455/bptv/10000100000000050000000003873459.m3u8
 广东卫视,http://test.smart-more.cn:35455/bptv/10000100000000050000000003873459.m3u8
 广东卫视,http://lin.he.cn:35455/bptv/10000100000000050000000003873459.m3u8
@@ -3257,6 +3281,7 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 海南卫视,https://livelyws.chinamcache.com/lyws/zb03.flv
 海南卫视,rtmp://livelyws.chinamcache.com/lyws/zb03
 海南卫视,http://zhibo.feylen.top/fltv/js/k-web/ku9/js/hainan.js?id=STHaiNan_channel_lywsgq
+海南卫视,http://api.mytv666.top/api/migu.php?id=海南卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 海南卫视,http://cici2012.synology.me:35455/itv/1000000002000023773.m3u8?cdn=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=3
 海南卫视,http://test.smart-more.cn:35455/itv/5000000004000006211.m3u8?cdn=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
 海南卫视,http://lin.he.cn:35455/itv/7899627377857656087.m3u8?cdn=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=3
@@ -3279,7 +3304,6 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 海南卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7899627377857656087
 海南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7899627377857656087
 海峡卫视,http://zhibo.feylen.top/fltv/js/k-web/ku9/js/fjtv.js?id=hxws
-海峡卫视,https://tv.iill.top/migu/hxws
 海峡卫视,http://kudan.x3322.net:3456/fujian.php?id=3
 海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
 海峡卫视,http://php.jdshipin.com/bestv.php?id=hxwshd4m/4000000
@@ -3316,7 +3340,7 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 河北卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040016
 河南卫视,http://php.jdshipin.com:8880/hntv.php?id=hnws
 河南卫视,http://php.jdshipin.com/hntv.php?id=hnws
-河南卫视,https://tv.iill.top/migu/hnws
+河南卫视,http://api.mytv666.top/api/migu.php?id=河南卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 河南卫视,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887270.m3u8
 河南卫视,http://test.smart-more.cn:35455/bptv/10000100000000050000000003887270.m3u8
 河南卫视,http://lin.he.cn:35455/bptv/10000100000000050000000003887270.m3u8
@@ -3384,6 +3408,7 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 黑龙江卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8467838254824392379
 黑龙江卫视,http://my.tmos.cn:15181/chs005.m3u8
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+湖北卫视,http://api.mytv666.top/api/migu.php?id=湖北卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 湖北卫视,http://cici2012.synology.me:35455/bptv/10000100000000050000000003873465.m3u8
 湖北卫视,http://test.smart-more.cn:35455/bptv/10000100000000050000000003873465.m3u8
 湖北卫视,http://lin.he.cn:35455/bptv/10000100000000050000000003873465.m3u8
@@ -3469,6 +3494,7 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 湖南卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8655038471675748531
 湖南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8655038471675748531
 吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+吉林卫视,http://api.mytv666.top/api/migu.php?id=吉林卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 吉林卫视,http://cici2012.synology.me:35455/bptv/10000100000000050000000004972569.m3u8
 吉林卫视,http://test.smart-more.cn:35455/bptv/10000100000000050000000004972569.m3u8
 吉林卫视,http://lin.he.cn:35455/bptv/10000100000000050000000004972569.m3u8
@@ -3541,7 +3567,8 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 江苏卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265009
 江苏卫视,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000014861
 江苏卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000014861
-江西卫视,https://tv.iill.top/migu/jxws
+江苏卫视,http://api.mytv666.top/api/migu.php?id=江苏卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
+江西卫视,http://api.mytv666.top/api/migu.php?id=江西卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 江西卫视,http://cici2012.synology.me:35455/bptv/10000100000000050000000004796511.m3u8
 江西卫视,http://test.smart-more.cn:35455/bptv/10000100000000050000000004796511.m3u8
 江西卫视,http://lin.he.cn:35455/bptv/10000100000000050000000004796511.m3u8
@@ -3694,6 +3721,7 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 青海安多卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000022124
 青海安多卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7248678452522064966
 青海安多卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7248678452522064966
+青海卫视,http://api.mytv666.top/api/migu.php?id=青海卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 青海卫视,http://zhibo.feylen.top/fltv/js/k-web/ku9/js/qinghai.js?id=3
 青海卫视,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887430.m3u8
 青海卫视,http://test.smart-more.cn:35455/bptv/10000100000000050000000003887430.m3u8
@@ -3869,7 +3897,7 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 陕西农林卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266003
 陕西农林卫视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000046
 陕西农林卫视,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000046
-陕西卫视,https://tv.iill.top/migu/sxws
+陕西卫视,http://api.mytv666.top/api/migu.php?id=陕西卫视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 陕西卫视,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887404.m3u8
 陕西卫视,http://test.smart-more.cn:35455/bptv/10000100000000050000000003887404.m3u8
 陕西卫视,http://lin.he.cn:35455/bptv/10000100000000050000000003887404.m3u8
@@ -4394,6 +4422,7 @@ CHC影迷电影,http://home.yulei.online:9999/rtp/226.0.2.93:8004
 CHC影迷电影,http://218.78.183.200:8888/udp/239.45.0.42:5140
 CHC影迷电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 CHC家庭影院,https://tv.iill.top/migu/jtyy
+CHC家庭影院,http://api.mytv666.top/api/migu.php?id=CHC家庭影院&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
 CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8$大学
@@ -4409,7 +4438,7 @@ CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$江西电�
 CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820
 CHC家庭影院,http://218.78.183.200:8888/udp/239.45.0.40:5140
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-CHC动作电影,https://tv.iill.top/migu/dzdy
+CHC动作电影,http://api.mytv666.top/api/migu.php?id=CHC动作电影&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
@@ -6859,7 +6888,6 @@ CETV3,http://123.56.129.203:3878/udp/225.1.8.194:4120$北京电信
 临夏市电视台,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 临夏经济,http://www.lebaobei.top:6868/udp/239.255.30.106:8231
 临夏经济,http://42.92.117.213:8888/udp/239.255.30.106:8231
-临洮电视台,https://tv.iill.top/migu/lttv
 临潭新闻综合,rtmp://play.kankanlive.com/live/1711955919910986
 临潭新闻综合,https://play.kankanlive.com/live/1711955919910986.m3u8
 临潭新闻综合,https://play.kankanlive.com/live/1711955919910986.flv
@@ -7004,6 +7032,7 @@ CETV3,http://123.56.129.203:3878/udp/225.1.8.194:4120$北京电信
 广东新闻,http://www.feizhu1212.top:9999/udp/239.77.0.4:5146
 广东新闻,http://imlucky.win:10001/udp/239.77.0.173:5146
 广东新闻,http://imlucky.win:10001/udp/239.77.0.4:5146
+广东嘉佳卡通,http://api.mytv666.top/api/migu.php?id=嘉佳卡通&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 广东嘉佳卡通,http://cici2012.synology.me:35455/bptv/10000100000000050000000003887459.m3u8
 广东嘉佳卡通,http://test.smart-more.cn:35455/bptv/10000100000000050000000003887459.m3u8
 广东嘉佳卡通,http://lin.he.cn:35455/bptv/10000100000000050000000003887459.m3u8
@@ -7044,7 +7073,7 @@ CETV3,http://123.56.129.203:3878/udp/225.1.8.194:4120$北京电信
 广东经济科教,http://imlucky.win:10001/udp/239.77.0.167:5146
 广东经济科教,http://imlucky.win:10001/udp/239.77.0.8:5146
 广东经济科教,http://imlucky.win:10001/udp/239.77.0.85:5146
-广东影视,https://tv.iill.top/migu/gdys
+广东影视,http://api.mytv666.top/api/migu.php?id=广东影视&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 广东影视,http://119.123.79.35:9600/hls/25/index.m3u8
 广东影视,http://113.101.119.94:808/hls/110/index.m3u8
 广东影视,http://home.frayun.com:10000/udp/239.77.0.11:5146
@@ -10083,7 +10112,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 白城公共,http://nas.tuyuannet.cn:8800/rtp/239.37.0.136:5540
 
 江苏,#genre#
-江苏城市,https://tv.iill.top/migu/jscs
+江苏城市,http://api.mytv666.top/api/migu.php?id=江苏城市频道&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 江苏城市,http://live.nctv.top/6688/jstv.php?id=jscs
 江苏城市,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSCS/G_JSCS.m3u8
 江苏城市,http://114.231.64.58:8888/rtp/239.49.0.17:8128
@@ -10101,7 +10130,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏城市,http://58.209.4.118:7777/rtp/239.49.0.17:8128
 江苏城市,http://58.219.17.113:8001/rtp/239.49.0.17:8128
 江苏城市,http://121.232.17.113:8848/rtp/239.49.0.17:8128
-江苏综艺,https://tv.iill.top/migu/jszy
+江苏综艺,http://api.mytv666.top/api/migu.php?id=江苏综艺频道&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 江苏综艺,http://live.nctv.top/6688/jstv.php?id=jszy
 江苏综艺,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSZY/G_JSZY.m3u8
 江苏综艺,http://114.231.64.58:8888/rtp/239.49.0.18:8136
@@ -10119,7 +10148,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏综艺,http://58.209.4.118:7777/rtp/239.49.0.18:8136
 江苏综艺,http://58.219.17.113:8001/rtp/239.49.0.18:8136
 江苏综艺,http://121.232.17.113:8848/rtp/239.49.0.18:8136
-江苏影视,https://tv.iill.top/migu/jsys
+江苏影视,http://api.mytv666.top/api/migu.php?id=江苏影视频道&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 江苏影视,https://stream1.freetv.fun/jiang-su-ying-shi-3.ctv
 江苏影视,http://live.nctv.top/6688/jstv.php?id=jsys
 江苏影视,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
@@ -10138,7 +10167,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏影视,http://58.209.4.118:7777/rtp/239.49.0.20:8152
 江苏影视,http://58.219.17.113:8001/rtp/239.49.0.20:8152
 江苏影视,http://121.232.17.113:8848/rtp/239.49.0.20:8152
-江苏新闻,https://tv.iill.top/migu/jsxw
+江苏新闻,http://api.mytv666.top/api/migu.php?id=公共新闻频道&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 江苏新闻,https://stream1.freetv.fun/jiang-su-xin-wen-3.ctv
 江苏新闻,http://live.nctv.top/6688/jstv.php?id=jsxw
 江苏新闻,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
@@ -10157,7 +10186,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏新闻,http://58.209.4.118:7777/rtp/239.49.0.149:9186
 江苏新闻,http://58.219.17.113:8001/rtp/239.49.0.149:9186
 江苏新闻,http://121.232.17.113:8848/rtp/239.49.0.149:9186
-江苏体育休闲,https://tv.iill.top/migu/jstyxx
+江苏体育休闲,http://api.mytv666.top/api/migu.php?id=体育休闲频道&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 江苏体育休闲,http://live.nctv.top/6688/jstv.php?id=jsty
 江苏体育休闲,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSTY/G_JSTY.m3u8
 江苏体育休闲,http://114.231.64.58:8888/rtp/239.49.0.19:8144
@@ -10175,7 +10204,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏体育休闲,http://58.209.4.118:7777/rtp/239.49.0.19:8144
 江苏体育休闲,http://58.219.17.113:8001/rtp/239.49.0.19:8144
 江苏体育休闲,http://121.232.17.113:8848/rtp/239.49.0.19:8144
-江苏优漫卡通,https://tv.iill.top/migu/ymkt
+江苏优漫卡通,http://api.mytv666.top/api/migu.php?id=优漫卡通频道&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 江苏优漫卡通,http://cici2012.synology.me:35455/itv/1000000002000010063.m3u8?cdn=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 江苏优漫卡通,http://test.smart-more.cn:35455/itv/6000000003000030492.m3u8?cdn=wasusyt&Contentid=6000000003000030492&livemode=1&stbId=3
 江苏优漫卡通,http://lin.he.cn:35455/itv/1000000002000010063.m3u8?cdn=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
@@ -10196,7 +10225,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏优漫卡通,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000010063
 江苏优漫卡通,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000030492
 江苏优漫卡通,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000003000030492
-江苏国际,https://tv.iill.top/migu/jsgj
+江苏国际,http://api.mytv666.top/api/migu.php?id=江苏国际&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 江苏国际,http://live.nctv.top/6688/jstv.php?id=jsgj
 江苏国际,http://114.231.64.58:8888/rtp/239.49.0.22:8168
 江苏国际,http://49.65.176.61:8888/rtp/239.49.0.22:8168
@@ -10206,7 +10235,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏国际,http://121.232.17.113:8848/rtp/239.49.0.22:8168
 江苏国际,http://cdn.jdshipin.com:8880/jstv.php?id=jsgj
 江苏国际,http://cdn.jdshipin.com/jstv.php?id=jsgj
-江苏教育,https://tv.iill.top/migu/jsjy
+江苏教育,http://api.mytv666.top/api/migu.php?id=江苏教育&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 江苏教育,https://stream1.freetv.fun/jiang-su-jiao-yu-3.ctv
 江苏教育,http://live.nctv.top/6688/jstv.php?id=jsjy
 江苏教育,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
@@ -10243,16 +10272,16 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏财富天下,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000069
 江苏财富天下,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031208
 江苏财富天下,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031208
-南京新闻综合,https://tv.iill.top/migu/njxwzh
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
+南京新闻综合,http://api.mytv666.top/api/migu.php?id=南京新闻综合频道&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 南京新闻综合,http://114.231.64.58:8888/rtp/239.49.0.25:8192
 南京新闻综合,http://49.65.176.61:8888/rtp/239.49.0.25:8192
 南京新闻综合,http://121.226.124.73:9999/rtp/239.49.0.25:8192
 南京新闻综合,http://58.209.4.118:7777/rtp/239.49.0.25:8192
 南京新闻综合,http://58.219.17.113:8001/rtp/239.49.0.25:8192
 南京新闻综合,http://121.232.17.113:8848/rtp/239.49.0.25:8192
-南京教科,https://tv.iill.top/migu/njkj
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+南京教科,http://api.mytv666.top/api/migu.php?id=南京教科频道&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 南京教科,http://114.231.64.58:8888/rtp/239.49.0.183:9434
 南京教科,http://49.65.176.61:8888/rtp/239.49.0.183:9434
 南京教科,http://121.226.124.73:9999/rtp/239.49.0.183:9434
@@ -10272,8 +10301,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 南京少儿,http://58.209.4.118:7777/rtp/239.49.0.45:8000
 南京少儿,http://58.219.17.113:8001/rtp/239.49.0.45:8000
 南京少儿,http://121.232.17.113:8848/rtp/239.49.0.45:8000
-南京十八生活,https://tv.iill.top/migu/njsb
 南京十八生活,http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
+南京十八生活,http://api.mytv666.top/api/migu.php?id=南京十八频道&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 南京十八生活,http://114.231.64.58:8888/rtp/239.49.0.26:8200
 南京十八生活,http://49.65.176.61:8888/rtp/239.49.0.26:8200
 南京十八生活,http://121.226.124.73:9999/rtp/239.49.0.26:8200
@@ -10287,7 +10316,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 南京文旅纪录,http://58.209.4.118:7777/rtp/239.49.0.38:8000
 南京文旅纪录,http://58.219.17.113:8001/rtp/239.49.0.38:8000
 南京文旅纪录,http://121.232.17.113:8848/rtp/239.49.0.38:8000
-南京NBS23,https://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 苏州新闻综合,http://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州新闻综合,http://live-auth.51kandianshi.com/szgd/csztv1.flv
 苏州新闻综合,http://61.155.203.93:5021/live_hls/1/.m3u8
@@ -10390,7 +10418,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 丹阳新闻综合,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8?zjiangsd
 丹阳新闻综合,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.flv
 丹阳新闻综合,rtmp://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv
-泰州新闻综合,https://tv.iill.top/migu/tzxwzh
+泰州新闻综合,http://api.mytv666.top/api/migu.php?id=泰州新闻综合&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 泰州新闻综合,http://114.231.64.58:8888/rtp/239.49.0.215:8000
 泰州新闻综合,http://49.65.176.61:8888/rtp/239.49.0.215:8000
 泰州新闻综合,http://121.226.124.73:9999/rtp/239.49.0.215:8000
@@ -10468,7 +10496,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 盐城综合,http://st.sportbabytoy.com:9999/rtp/239.49.8.30:8000
 盐城综合,http://dell.puchengyu2009.top:9999/rtp/239.49.8.30:8000
 盐城综合,http://121.232.17.113:8848/rtp/239.49.8.30:8000
-徐州新闻综合,https://tv.iill.top/migu/xzxwzh
+徐州新闻综合,http://api.mytv666.top/api/migu.php?id=徐州新闻综合&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 徐州新闻综合,http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
 徐州经济生活,http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 徐州文艺影视,http://stream3.huaihai.tv/xz3t/sd/live.m3u8
@@ -10497,6 +10525,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 吴江新闻综合,http://ctlive2.wjdaily.com/wjtv/ch1.m3u8
 吴江新闻综合,http://ctlive2.wjdaily.com/wjtv/ch1.flv
 吴江新闻综合,rtmp://ctlive2.wjdaily.com/wjtv/ch1
+宿迁新闻综合,http://api.mytv666.top/api/migu.php?id=宿迁新闻综合&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 睢宁综合,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 睢宁综合,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
 睢宁综合,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.flv
@@ -10585,7 +10614,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
 涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.flv
 涟水综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
-连云港新闻综合,https://tv.iill.top/migu/lygxwzh
+连云港新闻综合,http://api.mytv666.top/api/migu.php?id=连云港新闻综合&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
 溧阳新闻综合,http://tvlive.cxzly.com/live/tv.m3u8
@@ -10626,7 +10655,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 淮阴综合,http://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 淮阴综合,http://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.flv
 淮阴综合,rtmp://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf
-淮安新闻综合,https://tv.iill.top/migu/haxwzh
+淮安新闻综合,http://api.mytv666.top/api/migu.php?id=淮安新闻综合&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
