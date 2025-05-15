@@ -26392,6 +26392,14 @@ http://A/ku9/js/HuyaAndDouyu.js?id=29837259
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",蜡笔小新
 webview://https://www.huya.com/29837259
 #EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="轮播",武林外传-B
+https://live.iill.top/bilibili/1978981263
+#EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="轮播",武林外传-B
+webview://https://live.bilibili.com/1978981263
+#EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="轮播",武林外传-B
+https://live.iill.top/bilibili/1908329437
+#EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="轮播",武林外传-B
+webview://https://live.bilibili.com/1908329437
+#EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="轮播",武林外传-B
 https://live.iill.top/bilibili/22970821
 #EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://epg.v1.mk/logo/bilibili.png" group-title="轮播",武林外传-B
 webview://https://live.bilibili.com/22970821
