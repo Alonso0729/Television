@@ -502,6 +502,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=reallive-cctv5plus
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://api.mytv666.top/api/migu.php?id=CCTV5 体育赛事&type=1&auth_key=18b7a64b2029b9cfd6ff981d531bb48ff7704d540c2e040827f609ba80efe530&t=1747271040&session=b14a57eb1a78d4b9b5cf4a59586d1fb6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
+http://A/ku9/js/1905.js?id=cctv6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
 https://tv.iill.top/migu/cctv6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
 http://cici2012.synology.me:35455/bptv/10000100000000050000000003870749.m3u8
@@ -8501,14 +8503,16 @@ https://live.iill.top/douyin/fayelau
 https://live.iill.top/douyin/20855128
 #EXTINF:-1 tvg-name="56学姐" tvg-logo="https://epg.v1.mk/logo/抖音.jpg" group-title="娱乐",56学姐
 https://live.iill.top/douyin/10429123
-#EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://epg.v1.mk/logo/1905环球经典.png" group-title="娱乐",1905环球经典
-http://php.jdshipin.com/1905.php?id=1905dy2
-#EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://epg.v1.mk/logo/1905环球经典.png" group-title="娱乐",1905环球经典
-http://php.jdshipin.com:8880/1905.php?id=1905dy2
+#EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://epg.v1.mk/logo/1905极限反转.png" group-title="娱乐",1905极限反转
+http://A/ku9/js/1905.js?id=1905a
 #EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://epg.v1.mk/logo/1905极限反转.png" group-title="娱乐",1905极限反转
 http://php.jdshipin.com/1905.php?id=1905dy
 #EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://epg.v1.mk/logo/1905极限反转.png" group-title="娱乐",1905极限反转
 http://php.jdshipin.com:8880/1905.php?id=1905dy
+#EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://epg.v1.mk/logo/1905环球经典.png" group-title="娱乐",1905环球经典
+http://php.jdshipin.com/1905.php?id=1905dy2
+#EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://epg.v1.mk/logo/1905环球经典.png" group-title="娱乐",1905环球经典
+http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://epg.v1.mk/logo/4KUHD.png" group-title="娱乐",4KUHD
 http://cici2012.synology.me:35455/itv/1000000004000011651.m3u8?cdn=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://epg.v1.mk/logo/4KUHD.png" group-title="娱乐",4KUHD
