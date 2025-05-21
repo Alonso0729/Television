@@ -7086,7 +7086,7 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6956052407855047826
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6956052407855047826
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=hbws
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=hubws
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://test.smart-more.cn:35455/bptv/10000100000000050000000003873458.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
@@ -7179,6 +7179,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8655038471675748531
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8655038471675748531
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=hunws
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=hnws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
