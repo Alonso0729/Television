@@ -21680,9 +21680,9 @@ http://121.232.17.113:8848/rtp/239.49.0.18:8136
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://epg.v1.mk/logo/江苏综艺.png" group-title="江苏",江苏综艺
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=jsys
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏",江苏影视
-https://stream1.freetv.fun/jiang-su-ying-shi-3.ctv
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏",江苏影视
 http://live.nctv.top/6688/jstv.php?id=jsys
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏",江苏影视
+https://stream1.freetv.fun/jiang-su-ying-shi-3.ctv
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏",江苏影视
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏",江苏影视
@@ -21716,13 +21716,11 @@ http://58.219.17.113:8001/rtp/239.49.0.20:8152
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏",江苏影视
 http://121.232.17.113:8848/rtp/239.49.0.20:8152
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=jsgg
-#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=jsxw
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
-https://stream1.freetv.fun/jiang-su-xin-wen-3.ctv
-#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://live.nctv.top/6688/jstv.php?id=jsxw
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
+https://stream1.freetv.fun/jiang-su-xin-wen-3.ctv
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
@@ -21858,9 +21856,9 @@ http://cdn.jdshipin.com/jstv.php?id=jsgj
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=jsjy
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
-https://stream1.freetv.fun/jiang-su-jiao-yu-3.ctv
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
 http://live.nctv.top/6688/jstv.php?id=jsjy
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
+https://stream1.freetv.fun/jiang-su-jiao-yu-3.ctv
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
@@ -21894,7 +21892,7 @@ http://58.219.17.113:8001/rtp/239.49.0.23:8176
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
 http://121.232.17.113:8848/rtp/239.49.0.23:8176
 #EXTINF:-1 tvg-name="江苏财富天下" tvg-logo="https://epg.v1.mk/logo/江苏财富天下.png" group-title="江苏",江苏财富天下
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=cftx
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=jscftx
 #EXTINF:-1 tvg-name="江苏财富天下" tvg-logo="https://epg.v1.mk/logo/江苏财富天下.png" group-title="江苏",江苏财富天下
 http://test.smart-more.cn:35455/itv/2000000002000000069.m3u8?cdn=hnbblive&Contentid=2000000002000000069&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="江苏财富天下" tvg-logo="https://epg.v1.mk/logo/江苏财富天下.png" group-title="江苏",江苏财富天下
