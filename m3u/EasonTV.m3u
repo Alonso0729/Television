@@ -12375,6 +12375,22 @@ http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000005000031974
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000005000031974
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.v1.mk/logo/中国天气.png" group-title="娱乐",中国天气
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
+#EXTINF:-1 tvg-name="不良林" tvg-logo="https://epg.v1.mk/logo/youtube.png" group-title="娱乐",不良林
+https://live.iill.top/youtube/@bulianglin
+#EXTINF:-1 tvg-name="BirderKing" tvg-logo="https://epg.v1.mk/logo/youtube.png" group-title="娱乐",BirderKing
+https://live.iill.top/youtube/@BirderKing
+#EXTINF:-1 tvg-name="11点热吵店" tvg-logo="https://epg.v1.mk/logo/youtube.png" group-title="娱乐",11点热吵店
+https://live.iill.top/youtube/@chopchopshow
+#EXTINF:-1 tvg-name="New York Fashion Times" tvg-logo="https://epg.v1.mk/logo/youtube.png" group-title="娱乐",New York Fashion Times
+https://live.iill.top/youtube/@NYFT
+#EXTINF:-1 tvg-name="Splash Fashion" tvg-logo="https://epg.v1.mk/logo/youtube.png" group-title="娱乐",Splash Fashion
+https://live.iill.top/youtube/@SPLASHme
+#EXTINF:-1 tvg-name="Evelone Tiles Hop" tvg-logo="https://epg.v1.mk/logo/youtube.png" group-title="娱乐",Evelone Tiles Hop
+https://live.iill.top/youtube/@EveloneTilesHop
+#EXTINF:-1 tvg-name="Shift Swim" tvg-logo="https://epg.v1.mk/logo/youtube.png" group-title="娱乐",Shift Swim
+https://live.iill.top/youtube/@shiftswim
+#EXTINF:-1 tvg-name="SwimwearUnderwear" tvg-logo="https://epg.v1.mk/logo/youtube.png" group-title="娱乐",SwimwearUnderwear
+https://live.iill.top/youtube/@SwimwearUnderwear
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://epg.v1.mk/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
 http://live.ahcartv.dev.geek-zoo.cn/live/jjshtv.m3u8?txSecret=94e99c3721b25b3ac3d04be07d92fa3c&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://epg.v1.mk/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
@@ -27328,6 +27344,8 @@ https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://eastscreen.tv/ooooo.php?id=fhws
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+https://live.iill.top/youtube/@phoenixtvhk
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -27367,6 +27385,8 @@ rtmp://60.248.77.66/sat/tv721
 rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="港澳台",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="港澳台",纬来体育
+https://live.iill.top/youtube/@vlsports
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://epg.v1.mk/logo/纬来育乐.png" group-title="港澳台",纬来育乐
 rtmp://60.248.77.68/sat/tv701
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://epg.v1.mk/logo/纬来育乐.png" group-title="港澳台",纬来育乐
@@ -27628,6 +27648,8 @@ https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳视综艺" tvg-logo="https://epg.v1.mk/logo/澳视综艺.png" group-title="港澳台",澳视综艺
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳台",翡翠台
+https://yang-1989.eu.org/live/TVB-Jade
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://cdn.163189.xyz/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳台",翡翠台
 https://live.iill.top/IPTV/fct
@@ -27701,6 +27723,8 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 http://php.jdshipin.com/smt.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="私人影院" tvg-logo="https://epg.v1.mk/logo/私人影院.png" group-title="港澳台",私人影院
 http://13457610200.8866.org:2018/live/影视频道HD/index.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="港澳台",无线新闻台
+https://yang-1989.eu.org/live/TVB-News-Channel
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="港澳台",无线新闻台
 https://live.iill.top/IPTV/wxsw
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="港澳台",无线新闻台
@@ -27812,6 +27836,8 @@ http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsu
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://epg.v1.mk/logo/TVBS.png" group-title="港澳台",TVBS
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
+https://live.iill.top/youtube/TVBSNEWS01
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
 https://tv.iill.top/litv/4gtv-4gtv072
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
 https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
@@ -27821,6 +27847,10 @@ http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&t
 http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="TVBS选新闻" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS选新闻
+https://live.iill.top/youtube/@TVBSNEWS02
+#EXTINF:-1 tvg-name="TVBS亚洲台" tvg-logo="https://epg.v1.mk/logo/TVBS亚洲台.png" group-title="港澳台",TVBS亚洲台
+https://live.iill.top/youtube/m_dhMSvUCIc
 #EXTINF:-1 tvg-name="TVBS亚洲台" tvg-logo="https://epg.v1.mk/logo/TVBS亚洲台.png" group-title="港澳台",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲台" tvg-logo="https://epg.v1.mk/logo/TVBS亚洲台.png" group-title="港澳台",TVBS亚洲台
@@ -27928,11 +27958,17 @@ https://tv.iill.top/4gtv/245
 #EXTINF:-1 tvg-name="电影原声台CMUSIC" tvg-logo="https://epg.v1.mk/logo/电影原声台CMUSIC.png" group-title="港澳台",电影原声台CMUSIC
 https://tv.iill.top/4gtv/218
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="港澳台",东森新闻
+https://live.iill.top/youtube/@newsebc
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="港澳台",东森新闻
+https://live.iill.top/youtube/V1p33hqPrUk
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="港澳台",东森新闻
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="港澳台",东森新闻
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="港澳台",东森新闻
 https://tv.iill.top/litv/4gtv-4gtv152
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://epg.v1.mk/logo/东森财经.png" group-title="港澳台",东森财经
+https://live.iill.top/youtube/@57ETFN
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://epg.v1.mk/logo/东森财经.png" group-title="港澳台",东森财经
 http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://epg.v1.mk/logo/东森财经.png" group-title="港澳台",东森财经
@@ -27983,14 +28019,18 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 tvg-name="番薯音乐" tvg-logo="https://epg.v1.mk/logo/番薯音乐.png" group-title="港澳台",番薯音乐
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
-#EXTINF:-1 tvg-name="非凡商业台" tvg-logo="https://epg.v1.mk/logo/非凡商业台.png" group-title="港澳台",非凡商业台
-https://tv.iill.top/litv/4gtv-4gtv048
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://epg.v1.mk/logo/非凡新闻.png" group-title="港澳台",非凡新闻
+https://live.iill.top/youtube/@ustv
 #EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://epg.v1.mk/logo/非凡新闻.png" group-title="港澳台",非凡新闻
 http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 #EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://epg.v1.mk/logo/非凡新闻.png" group-title="港澳台",非凡新闻
 http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://epg.v1.mk/logo/非凡新闻台.png" group-title="港澳台",非凡新闻台
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://epg.v1.mk/logo/非凡新闻.png" group-title="港澳台",非凡新闻
 https://tv.iill.top/litv/4gtv-4gtv010
+#EXTINF:-1 tvg-name="非凡商业" tvg-logo="https://epg.v1.mk/logo/非凡商业.png" group-title="港澳台",非凡商业
+https://tv.iill.top/litv/4gtv-4gtv048
+#EXTINF:-1 tvg-name="公视" tvg-logo="https://epg.v1.mk/logo/公视.png" group-title="港澳台",公视
+https://live.iill.top/youtube/@PNNPTS
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://epg.v1.mk/logo/公视.png" group-title="港澳台",公视
 http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://epg.v1.mk/logo/公视.png" group-title="港澳台",公视
@@ -28044,6 +28084,8 @@ http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 #EXTINF:-1 tvg-name="寰宇财经台" tvg-logo="https://epg.v1.mk/logo/寰宇财经台.png" group-title="港澳台",寰宇财经台
 https://tv.iill.top/litv/4gtv-4gtv158
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台.png" group-title="港澳台",寰宇新闻台
+https://live.iill.top/youtube/@globalnewstw
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台.png" group-title="港澳台",寰宇新闻台
 https://tv.iill.top/litv/litv-longturn14
 #EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台湾台.png" group-title="港澳台",寰宇新闻台湾台
 https://tv.iill.top/litv/4gtv-4gtv156
@@ -28085,7 +28127,9 @@ https://tv.iill.top/litv/4gtv-4gtv046
 https://tv.iill.top/litv/4gtv-4gtv057
 #EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://epg.v1.mk/logo/靖洋戏剧台.png" group-title="港澳台",靖洋戏剧台
 https://tv.iill.top/litv/4gtv-4gtv045
-#EXTINF:-1 tvg-name="镜电视新闻台" tvg-logo="https://epg.v1.mk/logo/镜电视新闻台.png" group-title="港澳台",镜电视新闻台
+#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://epg.v1.mk/logo/镜新闻.png" group-title="港澳台",镜新闻
+https://live.iill.top/youtube/@mnews-tw
+#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://epg.v1.mk/logo/镜新闻.png" group-title="港澳台",镜新闻
 https://tv.iill.top/litv/4gtv-4gtv075
 #EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://epg.v1.mk/logo/客家电视台.png" group-title="港澳台",客家电视台
 https://tv.iill.top/litv/4gtv-4gtv043
@@ -28107,6 +28151,8 @@ http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&
 https://tv.iill.top/litv/litv-longturn18
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://epg.v1.mk/logo/龙华洋片.png" group-title="港澳台",龙华洋片
 http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民视
+https://live.iill.top/youtube/@FTV_News
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民视
 http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民视
@@ -28133,6 +28179,8 @@ https://tv.iill.top/litv/4gtv-4gtv003
 https://tv.iill.top/litv/litv-ftv07
 #EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="港澳台",民视台湾台
 https://tv.iill.top/litv/4gtv-4gtv001
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="港澳台",民视新闻台
+https://live.iill.top/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="港澳台",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="港澳台",民视新闻台
@@ -28164,7 +28212,11 @@ https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e3
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://epg.v1.mk/logo/人间卫视.png" group-title="港澳台",人间卫视
 https://tv.iill.top/4gtv/210
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="港澳台",三立新闻
+https://live.iill.top/youtube/@setnews
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="港澳台",三立新闻
 https://tv.iill.top/4gtv/229
+#EXTINF:-1 tvg-name="三立iNews" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="港澳台",三立iNews
+https://live.iill.top/youtube/@setinews
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://epg.v1.mk/logo/三立综合台.png" group-title="港澳台",三立综合台
 http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 #EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://epg.v1.mk/logo/三立综合台.png" group-title="港澳台",三立综合台
@@ -28195,6 +28247,8 @@ http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="视纳华仁纪实频道" tvg-logo="https://epg.v1.mk/logo/视纳华仁纪实频道.png" group-title="港澳台",视纳华仁纪实频道
 https://tv.iill.top/litv/4gtv-4gtv013
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="港澳台",台视
+https://live.iill.top/youtube/@TTV_NEWS
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="港澳台",台视
 https://tv.iill.top/litv/4gtv-4gtv066
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="港澳台",台视
@@ -28262,6 +28316,8 @@ https://tv.iill.top/4gtv/273
 #EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://epg.v1.mk/logo/中华小当家.png" group-title="港澳台",中华小当家
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中视
+https://live.iill.top/youtube/@twctvnews
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中视
 http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中视
 https://tv.iill.top/litv/4gtv-4gtv040
@@ -28274,6 +28330,8 @@ rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中视
 rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 tvg-name="中视经典台" tvg-logo="https://epg.v1.mk/logo/中视经典台.png" group-title="港澳台",中视经典台
+https://live.iill.top/youtube/@ctvent_classic
+#EXTINF:-1 tvg-name="中视经典台" tvg-logo="https://epg.v1.mk/logo/中视经典台.png" group-title="港澳台",中视经典台
 https://tv.iill.top/litv/4gtv-4gtv080
 #EXTINF:-1 tvg-name="中视菁采台" tvg-logo="https://epg.v1.mk/logo/中视菁采台.png" group-title="港澳台",中视菁采台
 https://tv.iill.top/litv/4gtv-4gtv064
@@ -28281,6 +28339,8 @@ https://tv.iill.top/litv/4gtv-4gtv064
 http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 #EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://epg.v1.mk/logo/中视新闻台.png" group-title="港澳台",中视新闻台
 https://tv.iill.top/litv/4gtv-4gtv074
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="港澳台",中天新闻台
+https://live.iill.top/youtube/vr3XyVCR4T0
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="港澳台",中天新闻台
 https://tv.iill.top/litv/4gtv-4gtv009
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.v1.mk/logo/中天亚洲台.png" group-title="港澳台",中天亚洲台
@@ -28293,8 +28353,14 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="https://epg.v1.mk/logo/中天综合.png" group-title="港澳台",中天综合
 http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
+#EXTINF:-1 tvg-name="中天电视CtiTv" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="港澳台",中天电视CtiTv
+https://live.iill.top/youtube/@中天電視CtiTv
+#EXTINF:-1 tvg-name="中天新闻CtiNews" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="港澳台",中天新闻CtiNews
+https://live.iill.top/youtube/@中天新聞CtiNews
 #EXTINF:-1 tvg-name="中旺电视" tvg-logo="https://epg.v1.mk/logo/中旺电视.png" group-title="港澳台",中旺电视
 http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+#EXTINF:-1 tvg-name="中广流行" tvg-logo="https://epg.v1.mk/logo/中广流行.png" group-title="港澳台",中广流行
+https://live.iill.top/youtube/@ILikeRadioFM103
 #EXTINF:-1 tvg-name="猪哥亮歌厅秀" tvg-logo="https://epg.v1.mk/logo/猪哥亮歌厅秀.png" group-title="港澳台",猪哥亮歌厅秀
 https://tv.iill.top/litv/4gtv-4gtv006
 #EXTINF:-1 tvg-name="ARIRANGTV" tvg-logo="https://epg.v1.mk/logo/ARIRANGTV.png" group-title="港澳台",ARIRANGTV
