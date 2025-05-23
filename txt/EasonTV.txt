@@ -3731,7 +3731,7 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 深圳卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000002116
 深圳卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7696950400632248401
 深圳卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7696950400632248401
-四川康巴卫视,http://api.vonchange.com/utao/sctv?tag=9
+四川康巴卫视,https://tvshow.scgchc.com/hdlive/kangba8f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959902-1881382939321516033-0-c4b449a73789ce180d41084221513c71
 四川康巴卫视,http://112.122.32.110:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 四川康巴卫视,http://112.122.32.119:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 四川康巴卫视,http://112.122.32.4:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
@@ -3758,7 +3758,7 @@ Star Sports,http://iptv.huuc.edu.cn/hls/starsports.m3u8
 四川康巴卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000003000001598
 四川康巴卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=9131971102485823367
 四川康巴卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=9131971102485823367
-四川卫视,http://api.vonchange.com/utao/sctv?tag=1
+四川卫视,https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959901-1881382939321516033-0-91106b7ae205311693188e1bc274f4bd
 四川卫视,http://test.smart-more.cn:35455/bptv/10000100000000050000000003887274.m3u8
 四川卫视,http://ychz.myds.me:35455/bptv/10000100000000050000000003887274.m3u8
 四川卫视,http://lin.he.cn:35455/bptv/10000100000000050000000003887274.m3u8
@@ -9422,12 +9422,12 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 安泽综合,https://qnwjgp6u.live.sxmty.com/live/hls/dbc13d75496d4203ae47dbefbc4ecec2/f6f863a0944346819c63bb413b5bd35c.m3u8
 
 四川,#genre#
-四川经济,http://api.vonchange.com/utao/sctv?tag=3
-四川文化旅游,http://api.vonchange.com/utao/sctv?tag=4
-四川新闻,http://api.vonchange.com/utao/sctv?tag=2
-四川影视文艺,http://api.vonchange.com/utao/sctv?tag=5
-四川星空购物,http://api.vonchange.com/utao/sctv?tag=7
-四川妇女儿童,http://api.vonchange.com/utao/sctv?tag=6
+四川经济,https://tvshow.scgchc.com/hdlive/sctv28f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959901-1881382939321516033-0-4cab665bfa15ac5ed0498df60b2e4cc6
+四川文化旅游,https://tvshow.scgchc.com/hdlive/sctv38f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959902-1881382939321516033-0-a020e1a7d7ba8b2a5003a7e6a431e8d5
+四川新闻,https://tvshow.scgchc.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959901-1881382939321516033-0-9af7d02289b0906ccce57403004da535
+四川影视文艺,https://tvshow.scgchc.com/hdlive/sctv58f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959902-1881382939321516033-0-02a21219c117dec85beb3937beda6fce
+四川星空购物,https://tvshow.scgchc.com/hdlive/sctv68f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959902-1881382939321516033-0-37fe812e8d4834eb98db3ab0cc7319c1
+四川妇女儿童,https://tvshow.scgchc.com/hdlive/sctv78f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959902-1881382939321516033-0-225659af171dfba4c266fd9ab723a7aa
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_16.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_32.m3u8
@@ -9444,7 +9444,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_208.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_224.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_240.m3u8
-四川乡村,http://api.vonchange.com/utao/sctv?tag=8
+四川乡村,https://tvshow.scgchc.com/hdlive/sctv98f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959902-1881382939321516033-0-3c670710dc96125feb239e3a7eb35583
 四川乡村,http://scxclivepull.sctvcloud.com/live/c0b8c1c3018e1000e51198d100000000/playlist.m3u8?wsSecret=b627c9d9b2cdf4afed08253b6125fe1f&wsTime=2019657600
 四川每经AI电视,https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 四川AI要闻直播,https://mmslivef.scgchc.com/live/7064.m3u8?auth_key=1767344707-0-0-b9b74dffb7b58ae86837233d783727a5
