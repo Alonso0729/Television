@@ -6160,6 +6160,8 @@ http://php.jdshipin.com/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
 http://A/ku9/js/henan.js?id=hnws&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=hnws
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
 http://test.smart-more.cn:35455/bptv/10000100000000050000000003887270.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
 http://ychz.myds.me:35455/bptv/10000100000000050000000003887270.m3u8
@@ -7250,6 +7252,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7744799445271696577
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
 http://A/ku9/js/shenzhen.js?id=sxiws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sxiws
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
 http://k.061899.xyz/k.php?id=sxiws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
 http://test.smart-more.cn:35455/bptv/10000100000000050000000003887413.m3u8
@@ -7413,6 +7417,8 @@ http://tv.hqx9988.eu.org:35455/bptv/10000100000000050000000003873474.m3u8
 http://www.mfykeke.top:35455/bptv/10000100000000050000000003873474.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://A/ku9/js/shenzhen.js?id=szws
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=szws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://test.smart-more.cn:35455/itv/1000000001000009227.m3u8?cdn=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
@@ -11705,12 +11711,20 @@ https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index
 http://A/ku9/js/anhui.js?id=ydds&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="合肥新闻" tvg-logo="https://epg.v1.mk/logo/合肥新闻.png" group-title="安徽",合肥新闻
 http://A/ku9/js/hefei.js?id=1
+#EXTINF:-1 tvg-name="合肥新闻" tvg-logo="https://epg.v1.mk/logo/合肥新闻.png" group-title="安徽",合肥新闻
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/hefei.js?id=1
 #EXTINF:-1 tvg-name="合肥生活" tvg-logo="https://epg.v1.mk/logo/合肥生活.png" group-title="安徽",合肥生活
 http://A/ku9/js/hefei.js?id=2
+#EXTINF:-1 tvg-name="合肥生活" tvg-logo="https://epg.v1.mk/logo/合肥生活.png" group-title="安徽",合肥生活
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/hefei.js?id=2
 #EXTINF:-1 tvg-name="合肥科创" tvg-logo="https://epg.v1.mk/logo/合肥科创.png" group-title="安徽",合肥科创
 http://A/ku9/js/hefei.js?id=3
+#EXTINF:-1 tvg-name="合肥科创" tvg-logo="https://epg.v1.mk/logo/合肥科创.png" group-title="安徽",合肥科创
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/hefei.js?id=3
 #EXTINF:-1 tvg-name="合肥教育法制" tvg-logo="https://epg.v1.mk/logo/合肥教育法制.png" group-title="安徽",合肥教育法制
 http://A/ku9/js/hefei.js?id=4
+#EXTINF:-1 tvg-name="合肥教育法制" tvg-logo="https://epg.v1.mk/logo/合肥教育法制.png" group-title="安徽",合肥教育法制
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/hefei.js?id=4
 #EXTINF:-1 tvg-name="肥东新闻综合" tvg-logo="https://epg.v1.mk/logo/肥东新闻综合.png" group-title="安徽",肥东新闻综合
 https://31699.hlsplay.aodianyun.com/tv_radio_31699/tv_channel_3780.m3u8?auth_key=3318562388-0-0-8ebbb954451edcaa4ab7f7e8f6b9f8c
 #EXTINF:-1 tvg-name="肥东经济生活" tvg-logo="https://epg.v1.mk/logo/肥东经济生活.png" group-title="安徽",肥东经济生活
@@ -13243,20 +13257,36 @@ http://58.144.154.93/tencentplay.gztv.com/live/nanguodushi.m3u8
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/gztv.js?id=nanguodushi
 #EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://epg.v1.mk/logo/深圳都市.png" group-title="广东",深圳都市
 http://A/ku9/js/shenzhen.js?id=szds
+#EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://epg.v1.mk/logo/深圳都市.png" group-title="广东",深圳都市
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=szds
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://epg.v1.mk/logo/深圳电视剧.png" group-title="广东",深圳电视剧
 http://A/ku9/js/shenzhen.js?id=szdsj
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://epg.v1.mk/logo/深圳电视剧.png" group-title="广东",深圳电视剧
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=szdsj
 #EXTINF:-1 tvg-name="深圳经济生活" tvg-logo="https://epg.v1.mk/logo/深圳经济生活.png" group-title="广东",深圳经济生活
 http://A/ku9/js/shenzhen.js?id=szcjsh
+#EXTINF:-1 tvg-name="深圳经济生活" tvg-logo="https://epg.v1.mk/logo/深圳经济生活.png" group-title="广东",深圳经济生活
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=szcjsh
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://epg.v1.mk/logo/深圳体育健康.png" group-title="广东",深圳体育健康
 http://A/ku9/js/shenzhen.js?id=sztyjk
+#EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://epg.v1.mk/logo/深圳体育健康.png" group-title="广东",深圳体育健康
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sztyjk
 #EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://epg.v1.mk/logo/深圳少儿.png" group-title="广东",深圳少儿
 http://A/ku9/js/shenzhen.js?id=szse
+#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://epg.v1.mk/logo/深圳少儿.png" group-title="广东",深圳少儿
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=szse
 #EXTINF:-1 tvg-name="深圳国际" tvg-logo="https://epg.v1.mk/logo/深圳国际.png" group-title="广东",深圳国际
 http://A/ku9/js/shenzhen.js?id=szgj
+#EXTINF:-1 tvg-name="深圳国际" tvg-logo="https://epg.v1.mk/logo/深圳国际.png" group-title="广东",深圳国际
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=szgj
 #EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://epg.v1.mk/logo/深圳宜和购物.png" group-title="广东",深圳宜和购物
 http://A/ku9/js/shenzhen.js?id=yhgw
+#EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://epg.v1.mk/logo/深圳宜和购物.png" group-title="广东",深圳宜和购物
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=yhgw
 #EXTINF:-1 tvg-name="深圳移动电视" tvg-logo="https://epg.v1.mk/logo/深圳移动电视.png" group-title="广东",深圳移动电视
 http://A/ku9/js/shenzhen.js?id=szyd
+#EXTINF:-1 tvg-name="深圳移动电视" tvg-logo="https://epg.v1.mk/logo/深圳移动电视.png" group-title="广东",深圳移动电视
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=szyd
 #EXTINF:-1 tvg-name="深圳龙岗" tvg-logo="https://epg.v1.mk/logo/深圳龙岗.png" group-title="广东",深圳龙岗
 rtmp://lglivepull.sznews.com/live/2647
 #EXTINF:-1 tvg-name="深圳众创TV" tvg-logo="https://epg.v1.mk/logo/深圳众创TV.png" group-title="广东",深圳众创TV
@@ -14312,6 +14342,8 @@ http://zhap.city1000.cn/xinwen/ap_xw.flv
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.v1.mk/logo/河南都市.png" group-title="河南",河南都市
 http://A/ku9/js/henan.js?id=hnds&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.v1.mk/logo/河南都市.png" group-title="河南",河南都市
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=hnds
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.v1.mk/logo/河南都市.png" group-title="河南",河南都市
 http://php.jdshipin.com:8880/hntv.php?id=hnds
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://epg.v1.mk/logo/河南都市.png" group-title="河南",河南都市
 http://php.jdshipin.com/hntv.php?id=hnds
@@ -14321,6 +14353,8 @@ http://www.cdnstv.com:6398/hls/1110/index.m3u8
 http://1.197.253.9:885/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.v1.mk/logo/河南民生.png" group-title="河南",河南民生
 http://A/ku9/js/henan.js?id=hnms&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.v1.mk/logo/河南民生.png" group-title="河南",河南民生
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=hnms
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.v1.mk/logo/河南民生.png" group-title="河南",河南民生
 http://php.jdshipin.com:8880/hntv.php?id=hnms
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://epg.v1.mk/logo/河南民生.png" group-title="河南",河南民生
@@ -14332,6 +14366,8 @@ http://1.197.253.9:885/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.v1.mk/logo/河南法治.png" group-title="河南",河南法治
 http://A/ku9/js/henan.js?id=hnfz&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.v1.mk/logo/河南法治.png" group-title="河南",河南法治
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=hnfz
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.v1.mk/logo/河南法治.png" group-title="河南",河南法治
 http://php.jdshipin.com:8880/hntv.php?id=hmfz
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://epg.v1.mk/logo/河南法治.png" group-title="河南",河南法治
 http://php.jdshipin.com/hntv.php?id=hmfz
@@ -14341,6 +14377,8 @@ http://www.cdnstv.com:6398/hls/1112/index.m3u8
 http://1.197.253.9:885/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.v1.mk/logo/河南电视剧.png" group-title="河南",河南电视剧
 http://A/ku9/js/henan.js?id=hndsj&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.v1.mk/logo/河南电视剧.png" group-title="河南",河南电视剧
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=hndsj
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.v1.mk/logo/河南电视剧.png" group-title="河南",河南电视剧
 http://php.jdshipin.com:8880/hntv.php?id=hndsj
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://epg.v1.mk/logo/河南电视剧.png" group-title="河南",河南电视剧
@@ -14352,6 +14390,8 @@ http://1.197.253.9:885/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.v1.mk/logo/河南新闻.png" group-title="河南",河南新闻
 http://A/ku9/js/henan.js?id=hnxw&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.v1.mk/logo/河南新闻.png" group-title="河南",河南新闻
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=hnxw
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.v1.mk/logo/河南新闻.png" group-title="河南",河南新闻
 http://php.jdshipin.com:8880/hntv.php?id=hnxw
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://epg.v1.mk/logo/河南新闻.png" group-title="河南",河南新闻
 http://php.jdshipin.com/hntv.php?id=hnxw
@@ -14362,6 +14402,8 @@ http://1.197.253.9:885/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.v1.mk/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
 http://A/ku9/js/henan.js?id=htgw&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.v1.mk/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=htgw
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.v1.mk/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
 http://php.jdshipin.com:8880/hntv.php?id=htgw
 #EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://epg.v1.mk/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
 http://php.jdshipin.com/hntv.php?id=htgw
@@ -14370,6 +14412,8 @@ http://www.cdnstv.com:6398/hls/1122/index.m3u8
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://epg.v1.mk/logo/河南公共.png" group-title="河南",河南公共
 http://A/ku9/js/henan.js?id=hngg&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://epg.v1.mk/logo/河南公共.png" group-title="河南",河南公共
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=hngg
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://epg.v1.mk/logo/河南公共.png" group-title="河南",河南公共
 http://php.jdshipin.com:8880/hntv.php?id=hngg
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://epg.v1.mk/logo/河南公共.png" group-title="河南",河南公共
 http://php.jdshipin.com/hntv.php?id=hngg
@@ -14377,6 +14421,8 @@ http://php.jdshipin.com/hntv.php?id=hngg
 http://www.cdnstv.com:6398/hls/1115/index.m3u8
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://epg.v1.mk/logo/河南乡村.png" group-title="河南",河南乡村
 http://A/ku9/js/henan.js?id=hnxc&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://epg.v1.mk/logo/河南乡村.png" group-title="河南",河南乡村
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=hnxc
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://epg.v1.mk/logo/河南乡村.png" group-title="河南",河南乡村
 http://php.jdshipin.com:8880/hntv.php?id=hnxc
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://epg.v1.mk/logo/河南乡村.png" group-title="河南",河南乡村
@@ -14388,6 +14434,8 @@ http://1.197.253.9:885/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://epg.v1.mk/logo/河南梨园.png" group-title="河南",河南梨园
 http://A/ku9/js/henan.js?id=hnly&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://epg.v1.mk/logo/河南梨园.png" group-title="河南",河南梨园
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=hnly
+#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://epg.v1.mk/logo/河南梨园.png" group-title="河南",河南梨园
 http://php.jdshipin.com:8880/hntv.php?id=hnly
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://epg.v1.mk/logo/河南梨园.png" group-title="河南",河南梨园
 http://php.jdshipin.com/hntv.php?id=hnly
@@ -14395,6 +14443,8 @@ http://php.jdshipin.com/hntv.php?id=hnly
 http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.v1.mk/logo/河南武术世界.png" group-title="河南",河南武术世界
 http://A/ku9/js/henan.js?id=wspd&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.v1.mk/logo/河南武术世界.png" group-title="河南",河南武术世界
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=wspd
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.v1.mk/logo/河南武术世界.png" group-title="河南",河南武术世界
 http://php.jdshipin.com:8880/hntv.php?id=wspd
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://epg.v1.mk/logo/河南武术世界.png" group-title="河南",河南武术世界
@@ -14407,6 +14457,8 @@ http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 http://111.61.236.247:9081/hls/60/index.m3u8
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.v1.mk/logo/河南文物宝库.png" group-title="河南",河南文物宝库
 http://A/ku9/js/henan.js?id=wwbk&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.v1.mk/logo/河南文物宝库.png" group-title="河南",河南文物宝库
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=wwbk
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.v1.mk/logo/河南文物宝库.png" group-title="河南",河南文物宝库
 http://php.jdshipin.com:8880/hntv.php?id=wwbk
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://epg.v1.mk/logo/河南文物宝库.png" group-title="河南",河南文物宝库
@@ -14433,12 +14485,20 @@ http://www.cdnstv.com:6398/hls/1120/index.m3u8
 http://1.197.253.9:885/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://epg.v1.mk/logo/河南曲艺.png" group-title="河南",河南曲艺
 http://A/ku9/js/henan.js?id=jczy&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://epg.v1.mk/logo/河南曲艺.png" group-title="河南",河南曲艺
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=jczy
 #EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://epg.v1.mk/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
 http://A/ku9/js/henan.js?id=ydxj&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://epg.v1.mk/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=ydxj
 #EXTINF:-1 tvg-name="河南象视界" tvg-logo="https://epg.v1.mk/logo/河南象视界.png" group-title="河南",河南象视界
 http://A/ku9/js/henan.js?id=xsj&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="河南象视界" tvg-logo="https://epg.v1.mk/logo/河南象视界.png" group-title="河南",河南象视界
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=xsj
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://epg.v1.mk/logo/国学.png" group-title="河南",国学
 http://A/ku9/js/henan.js?id=gxpd&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://epg.v1.mk/logo/国学.png" group-title="河南",国学
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/henan.js?id=gxpd
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://epg.v1.mk/logo/国学.png" group-title="河南",国学
 http://www.cdnstv.com:6398/hls/1121/index.m3u8
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://epg.v1.mk/logo/国学.png" group-title="河南",国学
@@ -18976,41 +19036,67 @@ http://stream.hhek.cn/ggpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="山西",山西黄河
 http://A/ku9/js/shenzhen.js?id=sxhh
 #EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="山西",山西黄河
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sxhh
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="山西",山西黄河
 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.v1.mk/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 http://A/ku9/js/shenzhen.js?id=sxjj
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.v1.mk/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sxjj
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.v1.mk/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.v1.mk/logo/山西影视.png" group-title="山西",山西影视
 http://A/ku9/js/shenzhen.js?id=sxys
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.v1.mk/logo/山西影视.png" group-title="山西",山西影视
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sxys
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.v1.mk/logo/山西影视.png" group-title="山西",山西影视
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.v1.mk/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://A/ku9/js/shenzhen.js?id=sxshfz
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.v1.mk/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sxshfz
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.v1.mk/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.v1.mk/logo/山西文体生活.png" group-title="山西",山西文体生活
 http://A/ku9/js/shenzhen.js?id=sxwtsh
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.v1.mk/logo/山西文体生活.png" group-title="山西",山西文体生活
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sxwtsh
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.v1.mk/logo/山西文体生活.png" group-title="山西",山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.v1.mk/logo/山西文体生活.png" group-title="山西",山西文体生活
 https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
 #EXTINF:-1 tvg-name="太原新闻综合" tvg-logo="https://epg.v1.mk/logo/太原新闻综合.png" group-title="山西",太原新闻综合
 http://A/ku9/js/shenzhen.js?id=tyxwzh
+#EXTINF:-1 tvg-name="太原新闻综合" tvg-logo="https://epg.v1.mk/logo/太原新闻综合.png" group-title="山西",太原新闻综合
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=tyxwzh
 #EXTINF:-1 tvg-name="太原经济生活" tvg-logo="https://epg.v1.mk/logo/太原经济生活.png" group-title="山西",太原经济生活
 http://A/ku9/js/shenzhen.js?id=tyjjsh
+#EXTINF:-1 tvg-name="太原经济生活" tvg-logo="https://epg.v1.mk/logo/太原经济生活.png" group-title="山西",太原经济生活
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=tyjjsh
 #EXTINF:-1 tvg-name="太原社教法制" tvg-logo="https://epg.v1.mk/logo/太原社教法制.png" group-title="山西",太原社教法制
 http://A/ku9/js/shenzhen.js?id=tysjfz
+#EXTINF:-1 tvg-name="太原社教法制" tvg-logo="https://epg.v1.mk/logo/太原社教法制.png" group-title="山西",太原社教法制
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=tysjfz
 #EXTINF:-1 tvg-name="太原影视" tvg-logo="https://epg.v1.mk/logo/太原影视.png" group-title="山西",太原影视
 http://A/ku9/js/shenzhen.js?id=tyys
+#EXTINF:-1 tvg-name="太原影视" tvg-logo="https://epg.v1.mk/logo/太原影视.png" group-title="山西",太原影视
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=tyys
 #EXTINF:-1 tvg-name="太原文体" tvg-logo="https://epg.v1.mk/logo/太原文体.png" group-title="山西",太原文体
 http://A/ku9/js/shenzhen.js?id=tywt
+#EXTINF:-1 tvg-name="太原文体" tvg-logo="https://epg.v1.mk/logo/太原文体.png" group-title="山西",太原文体
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=tywt
 #EXTINF:-1 tvg-name="太原佰乐购" tvg-logo="https://epg.v1.mk/logo/太原佰乐购.png" group-title="山西",太原佰乐购
 http://A/ku9/js/shenzhen.js?id=tyblg
+#EXTINF:-1 tvg-name="太原佰乐购" tvg-logo="https://epg.v1.mk/logo/太原佰乐购.png" group-title="山西",太原佰乐购
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=tyblg
 #EXTINF:-1 tvg-name="太原城市生活" tvg-logo="https://epg.v1.mk/logo/太原城市生活.png" group-title="山西",太原城市生活
 http://A/ku9/js/shenzhen.js?id=tycssh
+#EXTINF:-1 tvg-name="太原城市生活" tvg-logo="https://epg.v1.mk/logo/太原城市生活.png" group-title="山西",太原城市生活
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=tycssh
 #EXTINF:-1 tvg-name="太原教育" tvg-logo="https://epg.v1.mk/logo/太原教育.png" group-title="山西",太原教育
 http://A/ku9/js/shenzhen.js?id=tyjy
+#EXTINF:-1 tvg-name="太原教育" tvg-logo="https://epg.v1.mk/logo/太原教育.png" group-title="山西",太原教育
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=tyjy
 #EXTINF:-1 tvg-name="左云电视台" tvg-logo="https://epg.v1.mk/logo/左云电视台.png" group-title="山西",左云电视台
 http://wu31afbh.live.sxmty.com/live/hls/c5a0ebd3e73b4c4cbc91ea3b9abf1f54/51859030f2384070bf5bedce43126f6b-1.m3u8
 #EXTINF:-1 tvg-name="长子综合" tvg-logo="https://epg.v1.mk/logo/长子综合.png" group-title="山西",长子综合
