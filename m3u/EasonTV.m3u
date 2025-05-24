@@ -7892,6 +7892,8 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000049
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
 http://k.061899.xyz/k.php?id=ynws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
+http://A/ku9/js/qicaiyunnan.js?id=yunnanweishi
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/yunnan.js?id=yunnanweishi
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
 http://A/ku9/js/yn.js?id=ynws
