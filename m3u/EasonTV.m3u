@@ -20074,7 +20074,7 @@ https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="https://epg.v1.mk/logo/云南都市.png" group-title="云南",云南都市
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/yunnan.js?id=yunnandushi
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="https://epg.v1.mk/logo/云南都市.png" group-title="云南",云南都市
-http://A/ku9/js/qicaiyunnan.js?id=qicaiyunnandushi
+http://A/ku9/js/qicaiyunnan.js?id=yunnandushi
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="https://epg.v1.mk/logo/云南都市.png" group-title="云南",云南都市
 http://A/ku9/js/yn.js?id=ynds
 #EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://epg.v1.mk/logo/云南娱乐.png" group-title="云南",云南娱乐
@@ -20082,7 +20082,7 @@ https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 #EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://epg.v1.mk/logo/云南娱乐.png" group-title="云南",云南娱乐
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/yunnan.js?id=yunnanyule
 #EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://epg.v1.mk/logo/云南娱乐.png" group-title="云南",云南娱乐
-http://A/ku9/js/qicaiyunnan.js?id=qicaiyunnanyule
+http://A/ku9/js/qicaiyunnan.js?id=yunnanyule
 #EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://epg.v1.mk/logo/云南娱乐.png" group-title="云南",云南娱乐
 http://A/ku9/js/yn.js?id=ynyl
 #EXTINF:-1 tvg-name="云南影视" tvg-logo="https://epg.v1.mk/logo/云南影视.png" group-title="云南",云南影视
@@ -20092,19 +20092,19 @@ https://hwapi.yntv.net/62hdvf/227q43.m3u8
 #EXTINF:-1 tvg-name="云南康旅" tvg-logo="https://epg.v1.mk/logo/云南康旅.png" group-title="云南",云南康旅
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/yunnan.js?id=yunnangonggong
 #EXTINF:-1 tvg-name="云南康旅" tvg-logo="https://epg.v1.mk/logo/云南康旅.png" group-title="云南",云南康旅
-http://A/ku9/js/qicaiyunnan.js?id=qicaiyunnangonggong
+http://A/ku9/js/qicaiyunnan.js?id=yunnangonggong
 #EXTINF:-1 tvg-name="云南康旅" tvg-logo="https://epg.v1.mk/logo/云南康旅.png" group-title="云南",云南康旅
 http://A/ku9/js/yn.js?id=ynkl
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://epg.v1.mk/logo/云南少儿.png" group-title="云南",云南少儿
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/yunnan.js?id=yunnanshaoer
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://epg.v1.mk/logo/云南少儿.png" group-title="云南",云南少儿
-http://A/ku9/js/qicaiyunnan.js?id=qicaiyunnanshaoer
+http://A/ku9/js/qicaiyunnan.js?id=yunnanshaoer
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://epg.v1.mk/logo/云南少儿.png" group-title="云南",云南少儿
 http://A/ku9/js/yn.js?id=ynse
 #EXTINF:-1 tvg-name="云南澜湄国际" tvg-logo="https://epg.v1.mk/logo/云南澜湄国际.png" group-title="云南",云南澜湄国际
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/yunnan.js?id=yunnanguoji
 #EXTINF:-1 tvg-name="云南澜湄国际" tvg-logo="https://epg.v1.mk/logo/云南澜湄国际.png" group-title="云南",云南澜湄国际
-http://A/ku9/js/qicaiyunnan.js?id=qicaiyunnanguoji
+http://A/ku9/js/qicaiyunnan.js?id=yunnanguoji
 #EXTINF:-1 tvg-name="云南澜湄国际" tvg-logo="https://epg.v1.mk/logo/云南澜湄国际.png" group-title="云南",云南澜湄国际
 http://A/ku9/js/yn.js?id=yngj
 #EXTINF:-1 tvg-name="昆明新闻综合" tvg-logo="https://epg.v1.mk/logo/昆明新闻综合.png" group-title="云南",昆明新闻综合
