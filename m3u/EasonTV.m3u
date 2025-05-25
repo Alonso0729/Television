@@ -13211,9 +13211,9 @@ http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=szds
 http://A/ku9/js/shenzhen.js?id=szdsj
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://epg.v1.mk/logo/深圳电视剧.png" group-title="广东",深圳电视剧
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=szdsj
-#EXTINF:-1 tvg-name="深圳经济生活" tvg-logo="https://epg.v1.mk/logo/深圳经济生活.png" group-title="广东",深圳经济生活
+#EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://epg.v1.mk/logo/深圳财经生活.png" group-title="广东",深圳财经生活
 http://A/ku9/js/shenzhen.js?id=szcjsh
-#EXTINF:-1 tvg-name="深圳经济生活" tvg-logo="https://epg.v1.mk/logo/深圳经济生活.png" group-title="广东",深圳经济生活
+#EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://epg.v1.mk/logo/深圳财经生活.png" group-title="广东",深圳财经生活
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=szcjsh
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://epg.v1.mk/logo/深圳体育健康.png" group-title="广东",深圳体育健康
 http://A/ku9/js/shenzhen.js?id=sztyjk
@@ -13371,6 +13371,10 @@ http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/wxmz1.m3
 http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/wxmz2.m3u8
 #EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
+#EXTINF:-1 tvg-name="江门综合" tvg-logo="https://epg.v1.mk/logo/江门综合.png" group-title="广东",江门综合
+http://A/ku9/js/shenzhen.js?id=jmzh
+#EXTINF:-1 tvg-name="江门侨乡生活" tvg-logo="https://epg.v1.mk/logo/江门侨乡生活.png" group-title="广东",江门侨乡生活
+http://A/ku9/js/shenzhen.js?id=jmqxsh
 #EXTINF:-1 tvg-name="惠州综合" tvg-logo="https://epg.v1.mk/logo/惠州综合.png" group-title="广东",惠州综合
 http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
 #EXTINF:-1 tvg-name="怀集综合" tvg-logo="https://epg.v1.mk/logo/怀集综合.png" group-title="广东",怀集综合
@@ -19373,6 +19377,8 @@ http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc19602
 https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8
 #EXTINF:-1 tvg-name="高平综合" tvg-logo="https://epg.v1.mk/logo/高平综合.png" group-title="山西",高平综合
 http://live.gprmt.cn/gpnews/hd/live.m3u8
+#EXTINF:-1 tvg-name="汾阳电视台" tvg-logo="https://epg.v1.mk/logo/汾阳电视台.png" group-title="山西",汾阳电视台
+http://A/ku9/js/shanxifenyang.js?id=4
 #EXTINF:-1 tvg-name="汾阳电视台" tvg-logo="https://epg.v1.mk/logo/汾阳电视台.png" group-title="山西",汾阳电视台
 http://A/ku9/js/shanxi.js?id=fenyang
 #EXTINF:-1 tvg-name="汾西综合" tvg-logo="https://epg.v1.mk/logo/汾西综合.png" group-title="山西",汾西综合
