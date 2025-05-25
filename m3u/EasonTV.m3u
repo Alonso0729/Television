@@ -13373,8 +13373,12 @@ http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/wxmz2.m3
 http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
 #EXTINF:-1 tvg-name="江门综合" tvg-logo="https://epg.v1.mk/logo/江门综合.png" group-title="广东",江门综合
 http://A/ku9/js/shenzhen.js?id=jmzh
+#EXTINF:-1 tvg-name="江门综合" tvg-logo="https://epg.v1.mk/logo/江门综合.png" group-title="广东",江门综合
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=jmzh
 #EXTINF:-1 tvg-name="江门侨乡生活" tvg-logo="https://epg.v1.mk/logo/江门侨乡生活.png" group-title="广东",江门侨乡生活
 http://A/ku9/js/shenzhen.js?id=jmqxsh
+#EXTINF:-1 tvg-name="江门侨乡生活" tvg-logo="https://epg.v1.mk/logo/江门侨乡生活.png" group-title="广东",江门侨乡生活
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=jmqxsh
 #EXTINF:-1 tvg-name="惠州综合" tvg-logo="https://epg.v1.mk/logo/惠州综合.png" group-title="广东",惠州综合
 http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
 #EXTINF:-1 tvg-name="怀集综合" tvg-logo="https://epg.v1.mk/logo/怀集综合.png" group-title="广东",怀集综合
