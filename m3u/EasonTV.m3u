@@ -1866,9 +1866,9 @@ http://www.cdnstv.com:6398/hls/1176/index.m3u8
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://epg.v1.mk/logo/书画.png" group-title="央视",书画
 http://php.jdshipin.com/cqyx.php?id=shuhua
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/ku9/js/KanKanNews.js?id=1
+http://A/ku9/js/Shanghai/KanKanNews.js?id=1
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/ku9/js/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活
+http://A/ku9/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
 http://test.smart-more.cn:35455/bptv/10000100000000050000000003873462.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
@@ -1974,9 +1974,9 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=6131854485504331903
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=dfws$咪咕源
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-http://A/ku9/js/KanKanNews.js?id=2
+http://A/ku9/js/Shanghai/KanKanNews.js?id=2
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-http://A/ku9/js/shanghai.js?id=shxwzh&key=关注公共号❤：AI科技生活
+http://A/ku9/js/Shanghai/shanghai.js?id=shxwzh&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://k.061899.xyz/k.php?id=shxw
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
@@ -2022,9 +2022,9 @@ http://218.1.217.21:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$�
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=shxw$咪咕源
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
-http://A/ku9/js/KanKanNews.js?id=4
+http://A/ku9/js/Shanghai/KanKanNews.js?id=4
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
-http://A/ku9/js/shanghai.js?id=shds&key=关注公共号❤：AI科技生活
+http://A/ku9/js/Shanghai/shanghai.js?id=shds&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
 http://test.smart-more.cn:35455/itv/2000000002000000012.m3u8?cdn=hnbblive&Contentid=2000000002000000012&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
@@ -2066,9 +2066,9 @@ http://218.1.217.21:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
 http://218.1.217.21:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="新纪实" tvg-logo="https://epg.v1.mk/logo/新纪实.png" group-title="上海",新纪实
-http://A/ku9/js/KanKanNews.js?id=12
+http://A/ku9/js/Shanghai/KanKanNews.js?id=12
 #EXTINF:-1 tvg-name="新纪实" tvg-logo="https://epg.v1.mk/logo/新纪实.png" group-title="上海",新纪实
-http://A/ku9/js/shanghai.js?id=xjs&key=关注公共号❤：AI科技生活
+http://A/ku9/js/Shanghai/shanghai.js?id=xjs&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=shys$咪咕源
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
@@ -2118,9 +2118,9 @@ http://218.1.217.21:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
 http://218.1.217.21:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://A/ku9/js/KanKanNews.js?id=5
+http://A/ku9/js/Shanghai/KanKanNews.js?id=5
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
-http://A/ku9/js/shanghai.js?id=dycj&key=关注公共号❤：AI科技生活
+http://A/ku9/js/Shanghai/shanghai.js?id=dycj&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://k.061899.xyz/k.php?id=dycj
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
@@ -2162,9 +2162,9 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000027146
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=dycj$咪咕源
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
-http://A/ku9/js/KanKanNews.js?id=10
+http://A/ku9/js/Shanghai/KanKanNews.js?id=10
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
-http://A/ku9/js/shanghai.js?id=wxty&key=关注公共号❤：AI科技生活
+http://A/ku9/js/Shanghai/shanghai.js?id=wxty&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
 http://test.smart-more.cn:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
@@ -2212,9 +2212,9 @@ http://218.1.217.21:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
 http://218.1.217.21:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
-http://A/ku9/js/KanKanNews.js?id=9
+http://A/ku9/js/Shanghai/KanKanNews.js?id=9
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
-http://A/ku9/js/shanghai.js?id=hhxd&key=关注公共号❤：AI科技生活
+http://A/ku9/js/Shanghai/shanghai.js?id=hhxd&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://test.smart-more.cn:35455/itv/1000000002000000172.m3u8?cdn=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
@@ -2260,9 +2260,9 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031123
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 https://stream1.freetv.fun/ha-ha-xuan-dong-13.m3u8
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.v1.mk/logo/魔都眼.png" group-title="上海",魔都眼
-http://A/ku9/js/KanKanNews.js?id=11
+http://A/ku9/js/Shanghai/KanKanNews.js?id=11
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.v1.mk/logo/魔都眼.png" group-title="上海",魔都眼
-http://A/ku9/js/shanghai.js?id=mdy&key=关注公共号❤：AI科技生活
+http://A/ku9/js/Shanghai/shanghai.js?id=mdy&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物一台
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://epg.v1.mk/logo/东方购物.png" group-title="上海",东方购物一台
