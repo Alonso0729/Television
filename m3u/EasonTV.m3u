@@ -20186,55 +20186,55 @@ https://consolestream.rkzrm.cn:20323/8.m3u8
 #EXTINF:-1 tvg-name="察隅电视台" tvg-logo="https://epg.v1.mk/logo/察隅电视台.png" group-title="西藏",察隅电视台
 http://file.chayutv.com/nmip-media/channellive/channel105276/playlist.m3u8
 #EXTINF:-1 tvg-name="新疆维语新闻综合" tvg-logo="https://epg.v1.mk/logo/新疆维语新闻综合.png" group-title="新疆",新疆维语新闻综合
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=wyzh
-#EXTINF:-1 tvg-name="新疆维语新闻综合" tvg-logo="https://epg.v1.mk/logo/新疆维语新闻综合.png" group-title="新疆",新疆维语新闻综合
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjwyzh
-#EXTINF:-1 tvg-name="新疆哈语综合" tvg-logo="https://epg.v1.mk/logo/新疆哈语综合.png" group-title="新疆",新疆哈语综合
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hazh
+#EXTINF:-1 tvg-name="新疆维语新闻综合" tvg-logo="https://epg.v1.mk/logo/新疆维语新闻综合.png" group-title="新疆",新疆维语新闻综合
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=wyzh
 #EXTINF:-1 tvg-name="新疆哈语综合" tvg-logo="https://epg.v1.mk/logo/新疆哈语综合.png" group-title="新疆",新疆哈语综合
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjhyzh
-#EXTINF:-1 tvg-name="新疆综艺" tvg-logo="https://epg.v1.mk/logo/新疆综艺.png" group-title="新疆",新疆综艺
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyzy
+#EXTINF:-1 tvg-name="新疆哈语综合" tvg-logo="https://epg.v1.mk/logo/新疆哈语综合.png" group-title="新疆",新疆哈语综合
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hazh
 #EXTINF:-1 tvg-name="新疆综艺" tvg-logo="https://epg.v1.mk/logo/新疆综艺.png" group-title="新疆",新疆综艺
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjzy
 #EXTINF:-1 tvg-name="新疆综艺" tvg-logo="https://epg.v1.mk/logo/新疆综艺.png" group-title="新疆",新疆综艺
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyzy
+#EXTINF:-1 tvg-name="新疆综艺" tvg-logo="https://epg.v1.mk/logo/新疆综艺.png" group-title="新疆",新疆综艺
 http://cdn.jdshipin.com:8880/xjtv.php?id=xjzy
 #EXTINF:-1 tvg-name="新疆维语影视" tvg-logo="https://epg.v1.mk/logo/新疆维语影视.png" group-title="新疆",新疆维语影视
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=wyys
-#EXTINF:-1 tvg-name="新疆维语影视" tvg-logo="https://epg.v1.mk/logo/新疆维语影视.png" group-title="新疆",新疆维语影视
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjwyys
-#EXTINF:-1 tvg-name="新疆影视" tvg-logo="https://epg.v1.mk/logo/新疆影视.png" group-title="新疆",新疆影视
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyys
+#EXTINF:-1 tvg-name="新疆维语影视" tvg-logo="https://epg.v1.mk/logo/新疆维语影视.png" group-title="新疆",新疆维语影视
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=wyys
 #EXTINF:-1 tvg-name="新疆影视" tvg-logo="https://epg.v1.mk/logo/新疆影视.png" group-title="新疆",新疆影视
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjys
-#EXTINF:-1 tvg-name="新疆经济生活" tvg-logo="https://epg.v1.mk/logo/新疆经济生活.png" group-title="新疆",新疆经济生活
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyjj
+#EXTINF:-1 tvg-name="新疆影视" tvg-logo="https://epg.v1.mk/logo/新疆影视.png" group-title="新疆",新疆影视
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyys
 #EXTINF:-1 tvg-name="新疆经济生活" tvg-logo="https://epg.v1.mk/logo/新疆经济生活.png" group-title="新疆",新疆经济生活
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjjjsh
 #EXTINF:-1 tvg-name="新疆经济生活" tvg-logo="https://epg.v1.mk/logo/新疆经济生活.png" group-title="新疆",新疆经济生活
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyjj
+#EXTINF:-1 tvg-name="新疆经济生活" tvg-logo="https://epg.v1.mk/logo/新疆经济生活.png" group-title="新疆",新疆经济生活
 http://cdn.jdshipin.com:8880/xjtv.php?id=xjjj
 #EXTINF:-1 tvg-name="新疆哈语综艺" tvg-logo="https://epg.v1.mk/logo/新疆哈语综艺.png" group-title="新疆",新疆哈语综艺
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hazy
-#EXTINF:-1 tvg-name="新疆哈语综艺" tvg-logo="https://epg.v1.mk/logo/新疆哈语综艺.png" group-title="新疆",新疆哈语综艺
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjhyzy
-#EXTINF:-1 tvg-name="新疆维语经济生活" tvg-logo="https://epg.v1.mk/logo/新疆维语经济生活.png" group-title="新疆",新疆维语经济生活
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=wyjj
+#EXTINF:-1 tvg-name="新疆哈语综艺" tvg-logo="https://epg.v1.mk/logo/新疆哈语综艺.png" group-title="新疆",新疆哈语综艺
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hazy
 #EXTINF:-1 tvg-name="新疆维语经济生活" tvg-logo="https://epg.v1.mk/logo/新疆维语经济生活.png" group-title="新疆",新疆维语经济生活
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjwyjjsh
-#EXTINF:-1 tvg-name="新疆体育健康" tvg-logo="https://epg.v1.mk/logo/新疆体育健康.png" group-title="新疆",新疆体育健康
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyty
+#EXTINF:-1 tvg-name="新疆维语经济生活" tvg-logo="https://epg.v1.mk/logo/新疆维语经济生活.png" group-title="新疆",新疆维语经济生活
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=wyjj
 #EXTINF:-1 tvg-name="新疆体育健康" tvg-logo="https://epg.v1.mk/logo/新疆体育健康.png" group-title="新疆",新疆体育健康
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjtyjk
 #EXTINF:-1 tvg-name="新疆体育健康" tvg-logo="https://epg.v1.mk/logo/新疆体育健康.png" group-title="新疆",新疆体育健康
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyty
+#EXTINF:-1 tvg-name="新疆体育健康" tvg-logo="https://epg.v1.mk/logo/新疆体育健康.png" group-title="新疆",新疆体育健康
 http://cdn.jdshipin.com:8880/xjtv.php?id=xjty
 #EXTINF:-1 tvg-name="新疆信息服务" tvg-logo="https://epg.v1.mk/logo/新疆信息服务.png" group-title="新疆",新疆信息服务
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyxx
-#EXTINF:-1 tvg-name="新疆信息服务" tvg-logo="https://epg.v1.mk/logo/新疆信息服务.png" group-title="新疆",新疆信息服务
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjxxfw
-#EXTINF:-1 tvg-name="新疆少儿" tvg-logo="https://epg.v1.mk/logo/新疆少儿.png" group-title="新疆",新疆少儿
-http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=xjse
+#EXTINF:-1 tvg-name="新疆信息服务" tvg-logo="https://epg.v1.mk/logo/新疆信息服务.png" group-title="新疆",新疆信息服务
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=hyxx
 #EXTINF:-1 tvg-name="新疆少儿" tvg-logo="https://epg.v1.mk/logo/新疆少儿.png" group-title="新疆",新疆少儿
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjse
+#EXTINF:-1 tvg-name="新疆少儿" tvg-logo="https://epg.v1.mk/logo/新疆少儿.png" group-title="新疆",新疆少儿
+http://zhibo.feylen.top/fltv/js/k-web/ku9/js/xinjiang.js?id=xjse
 #EXTINF:-1 tvg-name="新疆少儿" tvg-logo="https://epg.v1.mk/logo/新疆少儿.png" group-title="新疆",新疆少儿
 http://cdn.jdshipin.com:8880/xjtv.php?id=xjse
 #EXTINF:-1 tvg-name="乌鲁木齐汉语综合" tvg-logo="https://epg.v1.mk/logo/乌鲁木齐汉语综合.png" group-title="新疆",乌鲁木齐汉语综合
