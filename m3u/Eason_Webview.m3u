@@ -21,7 +21,7 @@ webview://https://yangshipin.cn/tv/home?pid=600001818
 webview://https://tv.cctv.com/live/cctv5/
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://live.wzi.me/tv/CCTV-5+.png" group-title="央视",CCTV-5+
 webview://https://yangshipin.cn/tv/home?pid=600001817
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://live.wzi.me/tv/CCTV-5.png" group-title="央视",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://live.wzi.me/tv/CCTV-5+.png" group-title="央视",CCTV-5+
 webview://https://tv.cctv.com/live/cctv5plus/
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://live.wzi.me/tv/CCTV-6.png" group-title="央视",CCTV-6
 webview://https://yangshipin.cn/tv/home?pid=600108442
