@@ -1553,6 +1553,14 @@ http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000005000042312
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000005000042312
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="央视",CETV-4
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=cetv4$咪咕源
+#EXTINF:-1 tvg-name="CECTV-汉语文化" tvg-logo="https://epg.v1.mk/logo/CECTV-汉语文化.png" group-title="央视",CECTV-汉语文化
+http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+#EXTINF:-1 tvg-name="CECTV-国际旅游" tvg-logo="https://epg.v1.mk/logo/CECTV-国际旅游.png" group-title="央视",CECTV-国际旅游
+http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+#EXTINF:-1 tvg-name="CECTV-国际教育" tvg-logo="https://epg.v1.mk/logo/CECTV-国际教育.png" group-title="央视",CECTV-国际教育
+http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1 tvg-name="CECTV-国际健康" tvg-logo="https://epg.v1.mk/logo/CECTV-国际健康.png" group-title="央视",CECTV-国际健康
+http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.v1.mk/logo/CGTN英语.png" group-title="央视",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://epg.v1.mk/logo/CGTN英语.png" group-title="央视",CGTN英语
