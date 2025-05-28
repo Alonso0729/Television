@@ -7460,7 +7460,7 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7696950400632248401
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7696950400632248401
 #EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://api.vonchange.com/utao/sctv?tag=9
+http://A/ku9/js/Sichuan/sichuan1.js?id=kbws
 #EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
 http://112.122.32.8:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
@@ -7514,7 +7514,7 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=9131971102485823367
 #EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=9131971102485823367
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
-http://api.vonchange.com/utao/sctv?tag=1
+http://A/ku9/js/Sichuan/sichuan1.js?id=scws
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
 http://test.smart-more.cn:35455/bptv/10000100000000050000000003887274.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
@@ -19414,17 +19414,17 @@ http://A/ku9/js/Shanxi/baode.js?id=https://rmtzx.bdxrmtzx.com/api/media/channelM
 #EXTINF:-1 tvg-name="安泽综合" tvg-logo="https://epg.v1.mk/logo/安泽综合.png" group-title="山西",安泽综合
 https://qnwjgp6u.live.sxmty.com/live/hls/dbc13d75496d4203ae47dbefbc4ecec2/f6f863a0944346819c63bb413b5bd35c.m3u8
 #EXTINF:-1 tvg-name="四川经济" tvg-logo="https://epg.v1.mk/logo/四川经济.png" group-title="四川",四川经济
-http://api.vonchange.com/utao/sctv?tag=3
+http://A/ku9/js/Sichuan/sichuan1.js?id=scjj
 #EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://epg.v1.mk/logo/四川文化旅游.png" group-title="四川",四川文化旅游
-http://api.vonchange.com/utao/sctv?tag=4
+http://A/ku9/js/Sichuan/sichuan1.js?id=scwhly
 #EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://epg.v1.mk/logo/四川新闻.png" group-title="四川",四川新闻
-http://api.vonchange.com/utao/sctv?tag=2
+http://A/ku9/js/Sichuan/sichuan1.js?id=scxw
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://epg.v1.mk/logo/四川影视文艺.png" group-title="四川",四川影视文艺
-http://api.vonchange.com/utao/sctv?tag=5
+http://A/ku9/js/Sichuan/sichuan1.js?id=scyswy
 #EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://epg.v1.mk/logo/四川星空购物.png" group-title="四川",四川星空购物
-http://api.vonchange.com/utao/sctv?tag=7
+http://A/ku9/js/Sichuan/sichuan1.js?id=scxkgw
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://epg.v1.mk/logo/四川妇女儿童.png" group-title="四川",四川妇女儿童
-http://api.vonchange.com/utao/sctv?tag=6
+http://A/ku9/js/Sichuan/sichuan1.js?id=scfnet
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://epg.v1.mk/logo/四川科教.png" group-title="四川",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://epg.v1.mk/logo/四川科教.png" group-title="四川",四川科教
@@ -19457,6 +19457,8 @@ http://182.150.115.21:8030/pcgacg/pcgacg_208.m3u8
 http://182.150.115.21:8030/pcgacg/pcgacg_224.m3u8
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://epg.v1.mk/logo/四川科教.png" group-title="四川",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_240.m3u8
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://epg.v1.mk/logo/四川乡村.png" group-title="四川",四川乡村
+http://A/ku9/js/Sichuan/sichuan1.js?id=scxc
 #EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://epg.v1.mk/logo/四川乡村.png" group-title="四川",四川乡村
 https://tvshow.scgchc.com/hdlive/sctv98f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959902-1881382939321516033-0-3c670710dc96125feb239e3a7eb35583
 #EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://epg.v1.mk/logo/四川乡村.png" group-title="四川",四川乡村
