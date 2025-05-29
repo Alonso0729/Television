@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV-1.png" group-title="央视",CCTV-1
-webview://https://yangshipin.cn/tv/home?pid=600001859
+webview://https://yangshipin.cn/tv/home?pid=600001859$Webview源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV-1.png" group-title="央视",CCTV-1
 webview://https://tv.cctv.com/live/cctv1/
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV-2.png" group-title="央视",CCTV-2
@@ -15,6 +15,14 @@ webview://https://tv.cctv.com/live/cctv3/
 webview://https://yangshipin.cn/tv/home?pid=600001814
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV-4.png" group-title="央视",CCTV-4
 webview://https://tv.cctv.com/live/cctv4/
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4美洲.png" group-title="央视",CCTV-4美洲
+webview://https://tv.cctv.com/live/cctvamerica/
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4美洲.png" group-title="央视",CCTV-4美洲
+webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://epg.v1.mk/logo/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲
+webview://https://tv.cctv.com/live/cctveurope/
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://epg.v1.mk/logo/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲
+webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctveurope
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV-5.png" group-title="央视",CCTV-5
 webview://https://yangshipin.cn/tv/home?pid=600001818
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV-5.png" group-title="央视",CCTV-5
@@ -137,6 +145,10 @@ webview://https://live.kankanews.com/huikan?id=9
 webview://https://live.kankanews.com/huikan?id=10
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.v1.mk/logo/魔都眼.png" group-title="上海",魔都眼
 webview://https://live.kankanews.com/huikan?id=11
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="上海",上海教育
+webview://https://www.setv.sh.cn/#/tvshow
+#EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://epg.v1.mk/logo/金山电视台.png" group-title="上海",金山电视台
+webview://https://www.shmedia.live/h5/template.html?id=09d5a236bf3e4f8ba84e6a7c1ed00138fee1
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
 webview://https://yangshipin.cn/tv/home?pid=600002532
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -147,6 +159,8 @@ webview://https://yangshipin.cn/tv/home?pid=600002309
 webview://https://www.btime.com/btv/btvsy_index
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
 webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
+webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
 webview://https://yangshipin.cn/tv/home?pid=600002531
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
@@ -219,12 +233,18 @@ webview://https://yangshipin.cn/tv/home?pid=600190401
 webview://https://yangshipin.cn/tv/home?pid=600190737
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 webview://https://www.nxtv.com.cn/tv/ws/
+#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
+webview://http://www.qhtb.cn/onlin/
+#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
+webview://http://www.qhtb.cn/onlin/onlin_tv/
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
 webview://https://yangshipin.cn/tv/home?pid=600190406
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
 webview://https://www.qhbtv.com/new_index/live/folder2646/
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="卫视",三沙卫视
 webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
+webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727571808803282944#/
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
 webview://https://www.sdetv.com.cn/edu/pc/live/index.html
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
@@ -255,6 +275,8 @@ http://php.jdshipin.com:8880/xztv.php?id=zy
 webview://https://yangshipin.cn/tv/home?pid=600190403
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
 webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://epg.v1.mk/logo/延边卫视.png" group-title="卫视",延边卫视
+webview://https://www.yb983.com/cys/index.html
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
 webview://https://yangshipin.cn/tv/home?pid=600190402
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
@@ -727,6 +749,10 @@ webview://https://chinactv.com/live/1442880854423678977.html
 webview://https://chinactv.com/live/1442880940893450241.html
 #EXTINF:-1 tvg-name="长春汽车" tvg-logo="https://epg.v1.mk/logo/长春汽车.png" group-title="吉林",长春汽车
 webview://https://chinactv.com/live/1442881026868293634.html
+#EXTINF:-1 tvg-name="延边朝鲜语综合" tvg-logo="https://epg.v1.mk/logo/延边朝鲜语综合.png" group-title="吉林",延边朝鲜语综合
+webview://https://www.yb983.com/ybtv1/index.html
+#EXTINF:-1 tvg-name="延边汉语综合" tvg-logo="https://epg.v1.mk/logo/延边汉语综合.png" group-title="吉林",延边汉语综合
+webview://https://www.yb983.com/ybtv2/index.html
 #EXTINF:-1 tvg-name="吉林市新闻综合" tvg-logo="https://epg.v1.mk/logo/吉林市新闻综合.png" group-title="吉林",吉林市新闻综合
 webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
 #EXTINF:-1 tvg-name="四平综合" tvg-logo="https://epg.v1.mk/logo/四平综合.png" group-title="吉林",四平综合
@@ -761,6 +787,8 @@ webview://https://www.nbs.cn/live/?id=110094
 webview://https://www.nbs.cn/live/?id=110093
 #EXTINF:-1 tvg-name="无锡移动电视" tvg-logo="https://epg.v1.mk/logo/无锡移动电视.png" group-title="江苏",无锡移动电视
 webview://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://epg.v1.mk/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+webview://http://www.cztv.tv/channel.html
 #EXTINF:-1 tvg-name="江宁电视台" tvg-logo="https://epg.v1.mk/logo/江宁电视台.png" group-title="江苏",江宁电视台
 webview://http://tv.haoqu99.com/3/jiangsu/jiangning.html
 #EXTINF:-1 tvg-name="盐城新闻综合" tvg-logo="https://epg.v1.mk/logo/盐城新闻综合.png" group-title="江苏",盐城新闻综合
@@ -939,6 +967,16 @@ webview://http://www.lcxw.cn/kands/
 webview://http://www.taianxinwen.com/tatv/contents/113/1.html
 #EXTINF:-1 tvg-name="泰安经济生活" tvg-logo="https://epg.v1.mk/logo/泰安经济生活.png" group-title="山东",泰安经济生活
 webview://http://live.1545ts.net/zhibotatv2.html
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="山西",山西黄河
+webview://https://apphhplushttps.sxrtv.com//television/live_wap_651.html?site=53&color=0697F4
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.v1.mk/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+webview://https://apphhplushttps.sxrtv.com//television/live_wap_653.html
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.v1.mk/logo/山西影视.png" group-title="山西",山西影视
+webview://https://apphhplushttps.sxrtv.com//television/live_wap_654.html
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.v1.mk/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+webview://https://apphhplushttps.sxrtv.com//television/live_wap_655.html
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.v1.mk/logo/山西文体生活.png" group-title="山西",山西文体生活
+webview://https://apphhplushttps.sxrtv.com//television/live_wap_656.html
 #EXTINF:-1 tvg-name="太原新闻综合" tvg-logo="https://epg.v1.mk/logo/太原新闻综合.png" group-title="山西",太原新闻综合
 webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811850.html
 #EXTINF:-1 tvg-name="太原新闻综合" tvg-logo="https://epg.v1.mk/logo/太原新闻综合.png" group-title="山西",太原新闻综合

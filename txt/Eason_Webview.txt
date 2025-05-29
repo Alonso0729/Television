@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
+CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859$Webview源
 CCTV-1,webview://https://tv.cctv.com/live/cctv1/
 CCTV-2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV-2,webview://https://tv.cctv.com/live/cctv2/
@@ -7,6 +7,10 @@ CCTV-3,webview://https://yangshipin.cn/tv/home?pid=600001801
 CCTV-3,webview://https://tv.cctv.com/live/cctv3/
 CCTV-4,webview://https://yangshipin.cn/tv/home?pid=600001814
 CCTV-4,webview://https://tv.cctv.com/live/cctv4/
+CCTV-4美洲,webview://https://tv.cctv.com/live/cctvamerica/
+CCTV-4美洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctvamerica
+CCTV-4欧洲,webview://https://tv.cctv.com/live/cctveurope/
+CCTV-4欧洲,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctveurope
 CCTV-5,webview://https://yangshipin.cn/tv/home?pid=600001818
 CCTV-5,webview://https://tv.cctv.com/live/cctv5/
 CCTV-5+,webview://https://yangshipin.cn/tv/home?pid=600001817
@@ -70,6 +74,8 @@ CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
 哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
 五星体育,webview://https://live.kankanews.com/huikan?id=10
 魔都眼,webview://https://live.kankanews.com/huikan?id=11
+上海教育,webview://https://www.setv.sh.cn/#/tvshow
+金山电视台,webview://https://www.shmedia.live/h5/template.html?id=09d5a236bf3e4f8ba84e6a7c1ed00138fee1
 
 卫视,#genre#
 安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532
@@ -77,6 +83,7 @@ CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
 北京卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
+兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
 重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
 大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
 大湾区卫视-海外版,webview://https://www.gdtv.cn/tvChannelDetail/46
@@ -113,9 +120,12 @@ CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
 内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
 宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737
 宁夏卫视,webview://https://www.nxtv.com.cn/tv/ws/
+青海安多卫视,webview://http://www.qhtb.cn/onlin/
+青海安多卫视,webview://http://www.qhtb.cn/onlin/onlin_tv/
 青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
 青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
+厦门卫视,webview://https://www.fjtv.net/front-cloudlive-manage-h5/index.html?id=727571808803282944#/
 山东教育卫视,webview://https://www.sdetv.com.cn/edu/pc/live/index.html
 山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
 山东卫视,webview://https://v.iqilu.com/live/sdtv/
@@ -131,6 +141,7 @@ CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
+延边卫视,webview://https://www.yb983.com/cys/index.html
 云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402
 云南卫视,webview://https://www.yntv.cn/live.html
 浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
@@ -395,6 +406,8 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
 长春经济,webview://https://chinactv.com/live/1442880940893450241.html
 长春汽车,webview://https://chinactv.com/live/1442881026868293634.html
+延边朝鲜语综合,webview://https://www.yb983.com/ybtv1/index.html
+延边汉语综合,webview://https://www.yb983.com/ybtv2/index.html
 吉林市新闻综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
 四平综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
 九台综合,webview://https://www.jjntv.cn/live?spm=0.0.0.0.JHNB6X&id=jjtv1
@@ -414,6 +427,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 南京十八生活,webview://https://www.nbs.cn/live/?id=110094
 南京文旅纪录,webview://https://www.nbs.cn/live/?id=110093
 无锡移动电视,webview://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
+常州新闻综合,webview://http://www.cztv.tv/channel.html
 江宁电视台,webview://http://tv.haoqu99.com/3/jiangsu/jiangning.html
 盐城新闻综合,webview://https://www.0515yc.cn/folder147/folder148/folder156/
 张家港新闻综合,webview://http://jrwx.zjgonline.com.cn/ysz_share/share/index_share.html?contentType=tvlive&channelId=1&mmsurl=http://mms.zjgonline.com.cn:8080/mms4.5&token=lgijnojhrspoywsk
@@ -519,6 +533,11 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 泰安经济生活,webview://http://live.1545ts.net/zhibotatv2.html
 
 山西,#genre#
+山西黄河,webview://https://apphhplushttps.sxrtv.com//television/live_wap_651.html?site=53&color=0697F4
+山西经济与科技,webview://https://apphhplushttps.sxrtv.com//television/live_wap_653.html
+山西影视,webview://https://apphhplushttps.sxrtv.com//television/live_wap_654.html
+山西社会与法治,webview://https://apphhplushttps.sxrtv.com//television/live_wap_655.html
+山西文体生活,webview://https://apphhplushttps.sxrtv.com//television/live_wap_656.html
 太原新闻综合,webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811850.html
 太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
 大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
