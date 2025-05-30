@@ -7304,6 +7304,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=7744799445271696577
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7744799445271696577
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxws
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
 http://A/ku9/js/Shanxi/shanxi.js?id=sxws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxiws
@@ -19268,6 +19270,8 @@ http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd
 #EXTINF:-1 tvg-name="东营公共" tvg-logo="https://epg.v1.mk/logo/东营公共.png" group-title="山东",东营公共
 http://stream.hhek.cn/ggpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="山西",山西黄河
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxhh
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="山西",山西黄河
 http://A/ku9/js/Shanxi/shanxi.js?id=sxhh
 #EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="山西",山西黄河
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxhh
@@ -19275,6 +19279,8 @@ http://A/ku9/js/Guangdong/shenzhen.js?id=sxhh
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sxhh
 #EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="山西",山西黄河
 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.v1.mk/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxjj
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.v1.mk/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 http://A/ku9/js/Shanxi/shanxi.js?id=sxjj
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.v1.mk/logo/山西经济与科技.png" group-title="山西",山西经济与科技
@@ -19284,6 +19290,8 @@ http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sxjj
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://epg.v1.mk/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.v1.mk/logo/山西影视.png" group-title="山西",山西影视
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxys
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.v1.mk/logo/山西影视.png" group-title="山西",山西影视
 http://A/ku9/js/Shanxi/shanxi.js?id=sxys
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.v1.mk/logo/山西影视.png" group-title="山西",山西影视
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxys
@@ -19292,6 +19300,8 @@ http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sxys
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://epg.v1.mk/logo/山西影视.png" group-title="山西",山西影视
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.v1.mk/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxfz
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.v1.mk/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://A/ku9/js/Shanxi/shanxi.js?id=sxfz
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.v1.mk/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxshfz
@@ -19299,6 +19309,8 @@ http://A/ku9/js/Guangdong/shenzhen.js?id=sxshfz
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/shenzhen.js?id=sxshfz
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://epg.v1.mk/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.v1.mk/logo/山西文体生活.png" group-title="山西",山西文体生活
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxwt
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.v1.mk/logo/山西文体生活.png" group-title="山西",山西文体生活
 http://A/ku9/js/Shanxi/shanxi.js?id=sxwt
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://epg.v1.mk/logo/山西文体生活.png" group-title="山西",山西文体生活
