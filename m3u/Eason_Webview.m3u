@@ -269,8 +269,6 @@ webview://https://www.sztv.com.cn/pindao/index.html?id=7867$Webview源
 webview://https://yangshipin.cn/tv/home?pid=600002516$Webview源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
 webview://https://yangshipin.cn/tv/home?pid=600152137$Webview源
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
-http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
 webview://https://yangshipin.cn/tv/home?pid=600190403$Webview源
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
@@ -1101,8 +1099,6 @@ webview://https://www.ganzitv.com/cms/tv/1027139$Webview源
 webview://https://www.cditv.cn/show/4844-572.html$Webview源
 #EXTINF:-1 tvg-name="成华有线" tvg-logo="https://epg.v1.mk/logo/成华有线.png" group-title="四川",成华有线
 webview://https://www.cditv.cn/show/4844-586.html$Webview源
-#EXTINF:-1 tvg-name="西藏文化影视" tvg-logo="https://epg.v1.mk/logo/西藏文化影视.png" group-title="西藏",西藏文化影视
-http://php.jdshipin.com:8880/xztv.php?id=ys
 #EXTINF:-1 tvg-name="日喀则汉语综合" tvg-logo="https://epg.v1.mk/logo/日喀则汉语综合.png" group-title="西藏",日喀则汉语综合
 webview://https://www.rkzrm.cn/2/2zb/index.shtml$Webview源
 #EXTINF:-1 tvg-name="新疆维语新闻综合" tvg-logo="https://epg.v1.mk/logo/新疆维语新闻综合.png" group-title="新疆",新疆维语新闻综合
