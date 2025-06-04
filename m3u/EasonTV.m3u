@@ -361,13 +361,13 @@ http://218.1.217.21:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://218.1.217.21:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=cctv4$咪咕源
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4美洲
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4美洲
 http://k.061899.xyz/k.php?id=cctv4m
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4美洲
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4美洲
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=cctv4m$咪咕源
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4欧洲
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4欧洲
 http://k.061899.xyz/k.php?id=cctv4o
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4欧洲
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4欧洲
 http://zhibo.feylen.top/fltv/js/k-web/ku9/js/migu.js?id=cctv4o$咪咕源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
 http://k.061899.xyz/k.php?id=cctv5
