@@ -7384,6 +7384,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000013
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000013
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/PLTV/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
 http://jy.hutao.cool:35455/bptv/10000100000000050000000003873467.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
 http://18561315553.xicp.net:35455/bptv/10000100000000050000000003873467.m3u8
@@ -19202,13 +19204,23 @@ http://player4.juyun.tv/camera/167348174.flv
 #EXTINF:-1 tvg-name="商洛公共" tvg-logo="https://epg.v1.mk/logo/商洛公共.png" group-title="陕西",商洛公共
 rtmp://player4.juyun.tv/camera/167348174
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://epg.v1.mk/logo/山东齐鲁.png" group-title="山东",山东齐鲁
+http://A/PLTV/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=qlpd&channelid=5
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://epg.v1.mk/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 http://m.176178.xyz/sdtv/sdtv.php?id=sdql
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://epg.v1.mk/logo/山东文旅.png" group-title="山东",山东文旅
+http://A/PLTV/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=wlpd&channelid=13
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://epg.v1.mk/logo/山东文旅.png" group-title="山东",山东文旅
 http://m.176178.xyz/sdtv/sdtv.php?id=sdwl
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://epg.v1.mk/logo/山东综艺.png" group-title="山东",山东综艺
+http://A/PLTV/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zypd&channelid=11
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://epg.v1.mk/logo/山东综艺.png" group-title="山东",山东综艺
 http://m.176178.xyz/sdtv/sdtv.php?id=sdzy
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://epg.v1.mk/logo/山东生活.png" group-title="山东",山东生活
+http://A/PLTV/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=shpd&channelid=9
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://epg.v1.mk/logo/山东生活.png" group-title="山东",山东生活
 http://m.176178.xyz/sdtv/sdtv.php?id=sdsh
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://epg.v1.mk/logo/山东体育休闲.png" group-title="山东",山东体育休闲
+http://A/PLTV/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=txyx&channelid=7
 #EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://epg.v1.mk/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://m.176178.xyz/sdtv/sdtv.php?id=sdty
 #EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://epg.v1.mk/logo/山东体育休闲.png" group-title="山东",山东体育休闲
@@ -19216,11 +19228,17 @@ http://182.32.159.39:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$�
 #EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://epg.v1.mk/logo/山东体育休闲.png" group-title="山东",山东体育休闲
 http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$山东酒店
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://epg.v1.mk/logo/山东农科.png" group-title="山东",山东农科
+http://A/PLTV/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=nkpd&channelid=15
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://epg.v1.mk/logo/山东农科.png" group-title="山东",山东农科
 http://m.176178.xyz/sdtv/sdtv.php?id=sdnk
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://epg.v1.mk/logo/山东新闻.png" group-title="山东",山东新闻
+http://A/PLTV/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=xwpd&channelid=3
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://epg.v1.mk/logo/山东新闻.png" group-title="山东",山东新闻
 http://m.176178.xyz/sdtv/sdtv.php?id=sdxw
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://epg.v1.mk/logo/山东少儿.png" group-title="山东",山东少儿
 http://m.176178.xyz/sdtv/sdtv.php?id=sdse
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://epg.v1.mk/logo/山东少儿.png" group-title="山东",山东少儿
+http://A/PLTV/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sepd&channelid=17
 #EXTINF:-1 tvg-name="中华美食" tvg-logo="https://epg.v1.mk/logo/中华美食.png" group-title="山东",中华美食
 http://A/PLTV/ku9/js/Others/yditv.js?cid=ystenlive&key=1000000005000266015$ITV脚本
 #EXTINF:-1 tvg-name="中华美食" tvg-logo="https://epg.v1.mk/logo/中华美食.png" group-title="山东",中华美食
@@ -19264,6 +19282,8 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000052
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://epg.v1.mk/logo/济南新闻综合.png" group-title="山东",济南新闻综合
 http://A/ku9/js/Shandong/jinan.js?id=1676
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://epg.v1.mk/logo/济南新闻综合.png" group-title="山东",济南新闻综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=jndst&channelid=29883
+#EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://epg.v1.mk/logo/济南新闻综合.png" group-title="山东",济南新闻综合
 http://dspull.ijntv.cn/ijnlive/1541.flv?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://epg.v1.mk/logo/济南新闻综合.png" group-title="山东",济南新闻综合
 http://dspull.ijntv.cn/ijnlive/1541.m3u8?hwSecret=93b2c0d66e0549806aa4d665b1cc23ba0f051991b0b693ac4a2ad53e8b62aca0&hwTime=66d32cec
@@ -19297,6 +19317,10 @@ http://dspull.ijntv.cn/ijnlive/1621.m3u8?hwSecret=aa3cbd8c46f010c4f9d789dc64fc9e
 https://livejnedu.chinamcache.com/live/jneduzb04.m3u8
 #EXTINF:-1 tvg-name="青岛蓝睛" tvg-logo="https://epg.v1.mk/logo/青岛蓝睛.png" group-title="山东",青岛蓝睛
 http://hlspull.qtv.com.cn/v31faxcg/channel/1126ac08401969c70b0aa7814ad40975/index.m3u8
+#EXTINF:-1 tvg-name="淄博新闻综合" tvg-logo="https://epg.v1.mk/logo/淄博新闻综合.png" group-title="山东",淄博新闻综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zbdst&channelid=100010
+#EXTINF:-1 tvg-name="枣庄新闻综合" tvg-logo="https://epg.v1.mk/logo/枣庄新闻综合.png" group-title="山东",枣庄新闻综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zzdst&channelid=100023
 #EXTINF:-1 tvg-name="枣庄新闻综合" tvg-logo="https://epg.v1.mk/logo/枣庄新闻综合.png" group-title="山东",枣庄新闻综合
 http://stream.zztvzd.com/1/sd/live.m3u8?shandd
 #EXTINF:-1 tvg-name="枣庄新闻综合" tvg-logo="https://epg.v1.mk/logo/枣庄新闻综合.png" group-title="山东",枣庄新闻综合
@@ -19321,8 +19345,8 @@ http://stream.zztvzd.com/3/sd/live.m3u8
 http://pili-live-rtmp-zdzz-tv.zzxwcm.cn/zdzz-tv/dianshi3.m3u8
 #EXTINF:-1 tvg-name="枣庄公共" tvg-logo="https://epg.v1.mk/logo/枣庄公共.png" group-title="山东",枣庄公共
 http://pili-live-rtmp-zdzz-tv.zzxwcm.cn/zdzz-tv/dianshi3.flv
-#EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://epg.v1.mk/logo/烟台影视.png" group-title="山东",烟台影视
-http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="https://epg.v1.mk/logo/烟台新闻综合.png" group-title="山东",烟台新闻综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=ytdst&channelid=100012
 #EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="https://epg.v1.mk/logo/烟台新闻综合.png" group-title="山东",烟台新闻综合
 http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
 #EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="https://epg.v1.mk/logo/烟台新闻综合.png" group-title="山东",烟台新闻综合
@@ -19333,6 +19357,8 @@ http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8f
 http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
 #EXTINF:-1 tvg-name="烟台经济科技" tvg-logo="https://epg.v1.mk/logo/烟台经济科技.png" group-title="山东",烟台经济科技
 http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+#EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://epg.v1.mk/logo/烟台影视.png" group-title="山东",烟台影视
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 #EXTINF:-1 tvg-name="烟台公共" tvg-logo="https://epg.v1.mk/logo/烟台公共.png" group-title="山东",烟台公共
 http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
 #EXTINF:-1 tvg-name="烟台公共" tvg-logo="https://epg.v1.mk/logo/烟台公共.png" group-title="山东",烟台公共
@@ -19340,11 +19366,17 @@ http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b3
 #EXTINF:-1 tvg-name="烟台公共" tvg-logo="https://epg.v1.mk/logo/烟台公共.png" group-title="山东",烟台公共
 http://live.yantaitv.cn/live/412a6764092149faa58f80a0fd8004e9/22bbe85c960145dc95fc25e699d0fb3a.m3u8
 #EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://epg.v1.mk/logo/威海新闻综合.png" group-title="山东",威海新闻综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=whdst&channelid=100016
+#EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://epg.v1.mk/logo/威海新闻综合.png" group-title="山东",威海新闻综合
 http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 #EXTINF:-1 tvg-name="威海海洋" tvg-logo="https://epg.v1.mk/logo/威海海洋.png" group-title="山东",威海海洋
 http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
 #EXTINF:-1 tvg-name="威海都市生活" tvg-logo="https://epg.v1.mk/logo/威海都市生活.png" group-title="山东",威海都市生活
 http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
+#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://epg.v1.mk/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=wfdst&channelid=100013
+#EXTINF:-1 tvg-name="泰安综合" tvg-logo="https://epg.v1.mk/logo/泰安综合.png" group-title="山东",泰安综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=tadst&channelid=100015
 #EXTINF:-1 tvg-name="泰安综合" tvg-logo="https://epg.v1.mk/logo/泰安综合.png" group-title="山东",泰安综合
 http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
 #EXTINF:-1 tvg-name="泰安综合" tvg-logo="https://epg.v1.mk/logo/泰安综合.png" group-title="山东",泰安综合
@@ -19353,6 +19385,8 @@ http://zzbb.1545ts.com:8068/live/tatv0111.flv
 http://zzbb.1545ts.com:8068/live/tatv222.m3u8
 #EXTINF:-1 tvg-name="泰安经济生活" tvg-logo="https://epg.v1.mk/logo/泰安经济生活.png" group-title="山东",泰安经济生活
 http://zzbb.1545ts.com:8068/live/tatv222.flv
+#EXTINF:-1 tvg-name="日照新闻综合" tvg-logo="https://epg.v1.mk/logo/日照新闻综合.png" group-title="山东",日照新闻综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=rzdst&channelid=100017
 #EXTINF:-1 tvg-name="青州综合" tvg-logo="https://epg.v1.mk/logo/青州综合.png" group-title="山东",青州综合
 rtmp://sdqz.chinashadt.com:2036/live/1.stream
 #EXTINF:-1 tvg-name="青州综合" tvg-logo="https://epg.v1.mk/logo/青州综合.png" group-title="山东",青州综合
@@ -19370,6 +19404,8 @@ http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="青州文化旅游" tvg-logo="https://epg.v1.mk/logo/青州文化旅游.png" group-title="山东",青州文化旅游
 http://sdqz.chinashadt.com:2036/live/3..stream/playlist.m3u8
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://epg.v1.mk/logo/临沂综合.png" group-title="山东",临沂综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lydst&channelid=100019
+#EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://epg.v1.mk/logo/临沂综合.png" group-title="山东",临沂综合
 rtmp://tv.lytv.tv/channellive/ch1
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://epg.v1.mk/logo/临沂综合.png" group-title="山东",临沂综合
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
@@ -19381,6 +19417,8 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 rtmp://tv.lytv.tv/channellive/ch2
 #EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://epg.v1.mk/logo/临沂公共.png" group-title="山东",临沂公共
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+#EXTINF:-1 tvg-name="聊城综合" tvg-logo="https://epg.v1.mk/logo/聊城综合.png" group-title="山东",聊城综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lcdst&channelid=100021
 #EXTINF:-1 tvg-name="聊城综合" tvg-logo="https://epg.v1.mk/logo/聊城综合.png" group-title="山东",聊城综合
 http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
 #EXTINF:-1 tvg-name="聊城民生" tvg-logo="https://epg.v1.mk/logo/聊城民生.png" group-title="山东",聊城民生
@@ -19394,6 +19432,8 @@ http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 #EXTINF:-1 tvg-name="济宁公共" tvg-logo="https://epg.v1.mk/logo/济宁公共.png" group-title="山东",济宁公共
 http://221.2.36.14/video/s10001-JNTV3/index.m3u8
 #EXTINF:-1 tvg-name="菏泽新闻" tvg-logo="https://epg.v1.mk/logo/菏泽新闻.png" group-title="山东",菏泽新闻
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=hzdst&channelid=100024
+#EXTINF:-1 tvg-name="菏泽新闻" tvg-logo="https://epg.v1.mk/logo/菏泽新闻.png" group-title="山东",菏泽新闻
 http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 #EXTINF:-1 tvg-name="菏泽新闻" tvg-logo="https://epg.v1.mk/logo/菏泽新闻.png" group-title="山东",菏泽新闻
 http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
@@ -19403,6 +19443,10 @@ http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="菏泽影视" tvg-logo="https://epg.v1.mk/logo/菏泽影视.png" group-title="山东",菏泽影视
 http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://epg.v1.mk/logo/德州新闻综合.png" group-title="山东",德州新闻综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dzdst&channelid=100020
+#EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://epg.v1.mk/logo/东营新闻综合.png" group-title="山东",东营新闻综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dydst&channelid=100011
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://epg.v1.mk/logo/东营新闻综合.png" group-title="山东",东营新闻综合
 rtmp://stream.hhek.cn:9936/live/xwzh_sd
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://epg.v1.mk/logo/东营新闻综合.png" group-title="山东",东营新闻综合
@@ -19421,6 +19465,8 @@ rtmp://stream.hhek.cn:9936/live/ggpd_sd
 http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd
 #EXTINF:-1 tvg-name="东营公共" tvg-logo="https://epg.v1.mk/logo/东营公共.png" group-title="山东",东营公共
 http://stream.hhek.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="滨州新闻综合" tvg-logo="https://epg.v1.mk/logo/滨州新闻综合.png" group-title="山东",滨州新闻综合
+http://A/ku9/js//Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=bzdst&channelid=100022
 #EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="山西",山西黄河
 http://A/ku9/js/Shanxi/shanxi_new.js?id=sxhh
 #EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://epg.v1.mk/logo/山西黄河.png" group-title="山西",山西黄河
