@@ -21362,7 +21362,7 @@ webview://https://www.yy.com/23402146
 #EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
 http://A/ku9/js/Entertainment/yy.js?id=1352227227
 #EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
-video://https://www.yy.com/1352227227
+webview://https://www.yy.com/1352227227
 #EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
 http://A/ku9/js/Entertainment/yy.js?id=63826933
 #EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://epg.v1.mk/logo/YY.png" group-title="轮播",纪晓岚
