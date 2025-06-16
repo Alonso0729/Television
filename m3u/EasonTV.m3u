@@ -79,10 +79,6 @@ http://112.122.33.230:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://112.122.33.45:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
 http://112.122.32.238:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://218.1.217.21:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
-http://218.1.217.21:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
 http://2788q9b236.wicp.vip:35455/mgtv/631780532.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV-2
@@ -235,10 +231,6 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000022313
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8378175926191110263
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8378175926191110263
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
-http://218.1.217.21:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视",CCTV-3
-http://218.1.217.21:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
 http://2788q9b236.wicp.vip:35455/mgtv/631780421.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
@@ -301,10 +293,6 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265004
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=8183388942203045169
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8183388942203045169
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://218.1.217.21:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV-4
-http://218.1.217.21:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4美洲.png" group-title="央视",CCTV-4美洲
 http://2788q9b236.wicp.vip:35455/mgtv/608807416.m3u8
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://epg.v1.mk/logo/CCTV4美洲.png" group-title="央视",CCTV-4美洲
@@ -407,10 +395,6 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265005
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000001000016431
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000016431
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://218.1.217.21:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV-5
-http://218.1.217.21:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://2788q9b236.wicp.vip:35455/mgtv/641886773.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视",CCTV-5+
@@ -549,10 +533,6 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000004574
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6117099895556651277
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6117099895556651277
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://218.1.217.21:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
-http://218.1.217.21:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
 http://2788q9b236.wicp.vip:35455/mgtv/673168121.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
@@ -631,10 +611,6 @@ http://112.122.33.230:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://112.122.33.45:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
 http://112.122.32.238:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://218.1.217.21:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
-http://218.1.217.21:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="央视",CCTV-8
 http://2788q9b236.wicp.vip:35455/mgtv/624878356.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="央视",CCTV-8
@@ -2051,10 +2027,6 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000005
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031110
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-http://218.1.217.21:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-http://218.1.217.21:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
 http://A/ku9/js/Shanghai/KanKanNews.js?id=4
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
@@ -2091,10 +2063,6 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000012
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000018926
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018926
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
-http://218.1.217.21:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
-http://218.1.217.21:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="新纪实" tvg-logo="https://epg.v1.mk/logo/新纪实.png" group-title="上海",新纪实
 http://A/ku9/js/Shanghai/KanKanNews.js?id=12
 #EXTINF:-1 tvg-name="新纪实" tvg-logo="https://epg.v1.mk/logo/新纪实.png" group-title="上海",新纪实
@@ -2149,10 +2117,6 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000013
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000032212
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
-http://218.1.217.21:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
-http://218.1.217.21:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
 http://A/ku9/js/Shanghai/KanKanNews.js?id=5
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经
@@ -2233,10 +2197,6 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000007
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000017540
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
-http://218.1.217.21:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
-http://218.1.217.21:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://A/ku9/js/Shanghai/KanKanNews.js?id=9
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="上海",哈哈炫动
@@ -2333,10 +2293,6 @@ http://[2409:8087:5e20:24::09]:6610/000000001000/1/2000000002000000107/index.m3u
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000107
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="上海",上海教育
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000107
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="上海",上海教育
-http://218.1.217.21:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.v1.mk/logo/上海教育.png" group-title="上海",上海教育
-http://218.1.217.21:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="上海",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="上海",重温经典
@@ -2461,10 +2417,6 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000014
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=9001547084732463424
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
-http://218.1.217.21:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
-http://218.1.217.21:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
 http://112.122.32.157:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="上海",法治天地
@@ -2653,10 +2605,6 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000004412
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031111
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
-http://218.1.217.21:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="上海",都市剧场
-http://218.1.217.21:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://2788q9b236.wicp.vip:35455/itv/2000000002000000009.m3u8?cdn=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="上海",动漫秀场
@@ -5311,10 +5259,6 @@ http://112.122.33.230:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://112.122.33.45:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
 http://112.122.32.238:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://218.1.217.21:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
-http://218.1.217.21:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
@@ -5755,10 +5699,6 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000003169
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000004000025843
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000025843
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://218.1.217.21:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://218.1.217.21:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视
 http://2788q9b236.wicp.vip:35455/nptv/hainan.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视
@@ -5915,10 +5855,6 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000017118
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000006000040016
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040016
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
-http://218.1.217.21:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
-http://218.1.217.21:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
 http://2788q9b236.wicp.vip:35455/nptv/henan.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
@@ -6299,10 +6235,6 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031117
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=6042486520432105075
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6042486520432105075
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://218.1.217.21:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://218.1.217.21:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://2788q9b236.wicp.vip:35455/nptv/jiangsu.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
@@ -6543,10 +6475,6 @@ http://112.122.33.230:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://112.122.33.45:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://112.122.32.238:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://218.1.217.21:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://218.1.217.21:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 #EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
@@ -7629,10 +7557,6 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040019
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031120
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031120
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
-http://218.1.217.21:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
-http://218.1.217.21:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
