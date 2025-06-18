@@ -23839,3 +23839,71 @@ http://sjyt127.synology.me:35455/huya/11274154
 http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=11274154
 #EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",搞笑_陈翔六点半
 webview://https://www.huya.com/11274154
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="AKTV",凤凰中文
+https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="AKTV",凤凰资讯
+https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="AKTV",凤凰香港
+https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="AKTV",纬来体育
+https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="AKTV",东森新闻
+https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://epg.v1.mk/logo/东森洋片.png" group-title="AKTV",东森洋片
+https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="AKTV",东森电影
+https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="AKTV",TVBS新闻
+https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="AKTV",中天新闻台
+https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://epg.v1.mk/logo/民视第一台.png" group-title="AKTV",民视第一台
+https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/明珠剧集台(北美).png" group-title="AKTV",明珠剧集台(北美)
+https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="AKTV",明珠台
+https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="AKTV",无线新闻台
+https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="美亚电影台(香港)" tvg-logo="https://epg.v1.mk/logo/美亚电影台(香港).png" group-title="AKTV",美亚电影台(香港)
+https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/翡翠剧集台(北美).png" group-title="AKTV",翡翠剧集台(北美)
+https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV",翡翠台
+https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://epg.v1.mk/logo/翡翠综合台(北美).png" group-title="AKTV",翡翠综合台(北美)
+https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://epg.v1.mk/logo/AXN.png" group-title="AKTV",AXN
+https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://epg.v1.mk/logo/Channel 5 HD.png" group-title="AKTV",Channel 5 HD
+https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="https://epg.v1.mk/logo/Channel 8 HD.png" group-title="AKTV",Channel 8 HD
+https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel U HD" tvg-logo="https://epg.v1.mk/logo/Channel U HD.png" group-title="AKTV",Channel U HD
+https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="https://epg.v1.mk/logo/myTV SUPER 18台.png" group-title="AKTV",myTV SUPER 18台
+https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://epg.v1.mk/logo/PopC.png" group-title="AKTV",PopC
+https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://epg.v1.mk/logo/ROCK Action.png" group-title="AKTV",ROCK Action
+https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/TVB Plus.png" group-title="AKTV",TVB Plus
+https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN.png" group-title="AKTV",tvN
+https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="Japan News 24H LIVE" tvg-logo="https://epg.v1.mk/logo/Japan News 24H LIVE.png" group-title="AKTV",Japan News 24H LIVE
+https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+#EXTINF:-1 tvg-name="日テレNEWS LIVE" tvg-logo="https://epg.v1.mk/logo/日テレNEWS LIVE.png" group-title="AKTV",日テレNEWS LIVE
+https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="AKTV",HBO
+https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+#EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://epg.v1.mk/logo/IQIYI.png" group-title="AKTV",IQIYI
+https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://epg.v1.mk/logo/VIUTV.png" group-title="AKTV",VIUTV
+https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://epg.v1.mk/logo/CNA.png" group-title="AKTV",CNA
+https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1 tvg-name="KPOP+" tvg-logo="https://epg.v1.mk/logo/KPOP+.png" group-title="AKTV",KPOP+
+https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
+#EXTINF:-1 tvg-name="朝鲜恩情台" tvg-logo="https://epg.v1.mk/logo/朝鲜恩情台.png" group-title="AKTV",朝鲜恩情台
+https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
