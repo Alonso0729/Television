@@ -1558,6 +1558,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 海南卫视,http://my-cloud.cn:35455/nptv/hainan.m3u8
 海南卫视,http://sjyt127.synology.me:35455/nptv/hainan.m3u8
 海南卫视,http://sykes.i234.me:35455/nptv/hainan.m3u8
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,http://k.061899.xyz/k.php?id=hinws
 海南卫视,http://my-cloud.cn:35455/mgtv/947472502.m3u8
 海南卫视,http://sjyt127.synology.me:35455/mgtv/947472502.m3u8
@@ -1832,6 +1833,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 青海卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040015
 青海卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6399324389404552555
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 三沙卫视,http://112.122.33.213:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 三沙卫视,http://112.122.33.193:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 三沙卫视,http://112.122.33.230:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
@@ -3801,18 +3803,23 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 凤冈综合,http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
 
 海南,#genre#
+海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/
 海南自贸,http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000116
 海南自贸,http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000116
+海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/
 海南公共,http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/460000100000000057
 海南公共,http://php.jdshipin.com/TVOD/hnyd.php?id=460000100000000057
+海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/
 海南文旅,http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000113
 海南文旅,http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000113
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000110/
 海南少儿,http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000112
 海南少儿,http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000112
+海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/
 海南新闻,http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000111
 海南新闻,http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000111
