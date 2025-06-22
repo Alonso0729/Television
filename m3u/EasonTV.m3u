@@ -18193,6 +18193,8 @@ http://sjyt127.synology.me:35455/huya/11274154
 http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=11274154
 #EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://epg.v1.mk/logo/huya.png" group-title="轮播",搞笑_陈翔六点半
 webview://https://www.huya.com/11274154
+#EXTINF:-1 tvg-name="TEST" tvg-logo="https://epg.v1.mk/logo/TEST.png" group-title="TEST",TEST
+https://nmsl.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="AKTV",凤凰中文
 https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="AKTV",凤凰资讯
