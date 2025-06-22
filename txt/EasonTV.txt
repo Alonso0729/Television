@@ -16,7 +16,7 @@ CCTV-1,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000002226
 CCTV-1,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000030810
 CCTV-1,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265001
 CCTV-1,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000029752
-CCTV-1,http://112.122.33.213:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+CCTV-1,http://112.122.33.165:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-1,http://112.122.33.193:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-1,http://112.122.33.230:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-2,http://mycloud.acecloud.top:35455/mgtv/631780532.m3u8
@@ -36,7 +36,7 @@ CCTV-2,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000031113
 CCTV-2,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031101
 CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5353323539453949720
 CCTV-2,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000014161
-CCTV-2,http://112.122.33.213:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+CCTV-2,http://112.122.33.165:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-2,http://112.122.33.193:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-2,http://112.122.33.230:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-3,http://mycloud.acecloud.top:35455/mgtv/624878271.m3u8
@@ -151,7 +151,7 @@ CCTV-7,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000026715
 CCTV-7,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031104
 CCTV-7,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000009055
 CCTV-7,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7050628689018054317
-CCTV-7,http://112.122.33.213:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+CCTV-7,http://112.122.33.165:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-7,http://112.122.33.193:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-7,http://112.122.33.230:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-8,http://mycloud.acecloud.top:35455/mgtv/624878356.m3u8
@@ -186,7 +186,7 @@ CCTV-9,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000028286
 CCTV-9,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265009
 CCTV-9,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018384
 CCTV-9,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000032162
-CCTV-9,http://112.122.33.213:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+CCTV-9,http://112.122.33.165:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-9,http://112.122.33.193:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-9,http://112.122.33.230:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-10,http://mycloud.acecloud.top:35455/mgtv/624878405.m3u8
@@ -206,7 +206,7 @@ CCTV-10,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000012827
 CCTV-10,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000016738
 CCTV-10,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000031506
 CCTV-10,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7019587760656900133
-CCTV-10,http://112.122.33.213:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+CCTV-10,http://112.122.33.165:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-10,http://112.122.33.193:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-10,http://112.122.33.230:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-11,http://mycloud.acecloud.top:35455/mgtv/667987558.m3u8
@@ -241,7 +241,7 @@ CCTV-12,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040012
 CCTV-12,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031107
 CCTV-12,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5325631075193490169
 CCTV-12,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000022586
-CCTV-12,http://112.122.33.213:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+CCTV-12,http://112.122.33.165:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-12,http://112.122.33.193:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-12,http://112.122.33.230:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 CCTV-13,http://mycloud.acecloud.top:35455/mgtv/608807423.m3u8
@@ -334,7 +334,7 @@ CETV-1,http://sjyt127.synology.me:35455/mgtv/923287154.m3u8
 CETV-1,http://sykes.i234.me:35455/mgtv/923287154.m3u8
 CETV-1,http://k.061899.xyz/k.php?id=cetv1
 CETV-1,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140$江西电信
-CETV-1,http://112.122.33.213:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
+CETV-1,http://112.122.33.165:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 CETV-1,http://112.122.33.193:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 CETV-1,http://112.122.33.230:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 CETV-1,http://mycloud.acecloud.top:35455/itv/1000000002000027253.m3u8?cdn=ystenlive&Contentid=1000000002000027253&livemode=1&stbId=3
@@ -351,7 +351,7 @@ CETV-2,http://sjyt127.synology.me:35455/mgtv/923287211.m3u8
 CETV-2,http://sykes.i234.me:35455/mgtv/923287211.m3u8
 CETV-2,http://k.061899.xyz/k.php?id=cetv2
 CETV-2,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140$江西电信
-CETV-2,http://112.122.33.213:85/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
+CETV-2,http://112.122.33.165:85/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 CETV-2,http://112.122.33.193:85/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 CETV-2,http://112.122.33.230:85/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 CETV-2,http://mycloud.acecloud.top:35455/itv/1000000005000266004.m3u8?cdn=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=3
@@ -368,7 +368,7 @@ CETV-4,http://sjyt127.synology.me:35455/mgtv/923287339.m3u8
 CETV-4,http://sykes.i234.me:35455/mgtv/923287339.m3u8
 CETV-4,http://k.061899.xyz/k.php?id=cetv4
 CETV-4,http://www.lizhinas.top:1009/rtp/239.252.219.169:5140$江西电信
-CETV-4,http://112.122.33.213:85/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
+CETV-4,http://112.122.33.165:85/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 CETV-4,http://112.122.33.193:85/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 CETV-4,http://112.122.33.230:85/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 CETV-4,http://mycloud.acecloud.top:35455/itv/1000000005000025333.m3u8?cdn=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=3
@@ -502,7 +502,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 第一剧场,http://mycloud.acecloud.top:35455/nptv/dyjc.m3u8
 第一剧场,http://sjyt127.synology.me:35455/nptv/dyjc.m3u8
 第一剧场,http://sykes.i234.me:35455/nptv/dyjc.m3u8
-第一剧场,http://112.122.33.213:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+第一剧场,http://112.122.33.165:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 第一剧场,http://112.122.33.193:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 第一剧场,http://112.122.33.230:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 第一剧场,http://61.184.46.85:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
@@ -510,18 +510,18 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 风云剧场,http://mycloud.acecloud.top:35455/nptv/fyjc.m3u8
 风云剧场,http://sjyt127.synology.me:35455/nptv/fyjc.m3u8
 风云剧场,http://sykes.i234.me:35455/nptv/fyjc.m3u8
-风云剧场,http://112.122.33.213:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+风云剧场,http://112.122.33.165:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 风云剧场,http://112.122.33.193:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 风云剧场,http://112.122.33.230:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140$江西电信
-风云音乐,http://112.122.33.213:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+风云音乐,http://112.122.33.165:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 风云音乐,http://112.122.33.193:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 风云音乐,http://112.122.33.230:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140$江西电信
 怀旧剧场,http://mycloud.acecloud.top:35455/nptv/hjjc.m3u8
 怀旧剧场,http://sjyt127.synology.me:35455/nptv/hjjc.m3u8
 怀旧剧场,http://sykes.i234.me:35455/nptv/hjjc.m3u8
-怀旧剧场,http://112.122.33.213:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+怀旧剧场,http://112.122.33.165:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 怀旧剧场,http://112.122.33.193:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 怀旧剧场,http://112.122.33.230:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 怀旧剧场,http://61.184.46.85:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
@@ -607,7 +607,7 @@ HITFM劲曲调频,https://tv.iill.top/fm/662
 东方卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000003639
 东方卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6081477947334326291
 东方卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=6131854485504331903
-东方卫视,http://112.122.33.213:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+东方卫视,http://112.122.33.165:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 东方卫视,http://112.122.33.193:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 东方卫视,http://112.122.33.230:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 上海新闻综合,http://A/ku9/js/Shanghai/KanKanNews.js?id=2
@@ -688,7 +688,7 @@ HITFM劲曲调频,https://tv.iill.top/fm/662
 哈哈炫动,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000000172
 哈哈炫动,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000031641
 哈哈炫动,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031123
-哈哈炫动,http://112.122.33.213:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+哈哈炫动,http://112.122.33.165:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 哈哈炫动,http://112.122.33.193:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 哈哈炫动,http://112.122.33.230:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 魔都眼,http://A/ku9/js/Shanghai/KanKanNews.js?id=11
@@ -737,7 +737,7 @@ HITFM劲曲调频,https://tv.iill.top/fm/662
 法治天地,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 法治天地,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000014
 法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
-法治天地,http://112.122.33.213:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+法治天地,http://112.122.33.165:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 法治天地,http://112.122.33.193:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 法治天地,http://112.122.33.230:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 东方财经,http://mycloud.acecloud.top:35455/itv/2000000002000000090.m3u8?cdn=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
@@ -1394,7 +1394,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 赛事最经典,http://sykes.i234.me:35455/mgtv/646596895.m3u8
 
 卫视,#genre#
-安多卫视,http://112.122.33.213:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+安多卫视,http://112.122.33.165:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安多卫视,http://112.122.33.193:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安多卫视,http://112.122.33.230:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安多卫视,http://mycloud.acecloud.top:35455/itv/5000000006000022124.m3u8?cdn=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
@@ -1445,7 +1445,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 北京卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000020451
 北京卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8186688740528366039
 北京卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8258663409451267714
-北京卫视,http://112.122.33.213:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+北京卫视,http://112.122.33.165:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 北京卫视,http://112.122.33.193:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 北京卫视,http://112.122.33.230:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
@@ -1458,7 +1458,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 兵团卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266005
 兵团卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040020
-兵团卫视,http://112.122.33.213:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+兵团卫视,http://112.122.33.165:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 兵团卫视,http://112.122.33.193:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 兵团卫视,http://112.122.33.230:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 重庆卫视,http://mycloud.acecloud.top:35455/nptv/chongqing.m3u8
@@ -1542,7 +1542,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 广东卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5616881981321254555
 广东卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000031076
 广东卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6604532991586541024
-广东卫视,http://112.122.33.213:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+广东卫视,http://112.122.33.165:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 广东卫视,http://112.122.33.193:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 广东卫视,http://112.122.33.230:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 广西卫视,http://mycloud.acecloud.top:35455/nptv/guangxi.m3u8
@@ -1653,7 +1653,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 黑龙江卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8467838254824392379
 黑龙江卫视,http://my.tmos.cn:15181/chs005.m3u8
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-黑龙江卫视,http://112.122.33.213:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+黑龙江卫视,http://112.122.33.165:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 黑龙江卫视,http://112.122.33.193:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 黑龙江卫视,http://112.122.33.230:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 湖北卫视,http://mycloud.acecloud.top:35455/nptv/hubei.m3u8
@@ -1676,7 +1676,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 湖北卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000022140
 湖北卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000015436
 湖北卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6956052407855047826
-湖北卫视,http://112.122.33.213:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+湖北卫视,http://112.122.33.165:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 湖北卫视,http://112.122.33.193:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 湖北卫视,http://112.122.33.230:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 湖南卫视,http://mycloud.acecloud.top:35455/nptv/hunan.m3u8
@@ -1697,7 +1697,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 湖南卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000018044
 湖南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6954818217931477266
 湖南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8655038471675748531
-湖南卫视,http://112.122.33.213:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+湖南卫视,http://112.122.33.165:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 湖南卫视,http://112.122.33.193:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 湖南卫视,http://112.122.33.230:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 吉林卫视,http://mycloud.acecloud.top:35455/nptv/jiling.m3u8
@@ -1761,7 +1761,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 江西卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5616078396620462481
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 康巴卫视,http://A/ku9/js/Sichuan/sichuan1.js?id=kbws
-康巴卫视,http://112.122.33.213:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+康巴卫视,http://112.122.33.165:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 康巴卫视,http://112.122.33.193:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 康巴卫视,http://112.122.33.230:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 康巴卫视,http://mycloud.acecloud.top:35455/itv/5000000003000001598.m3u8?cdn=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
@@ -1788,7 +1788,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 辽宁卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000008940
 辽宁卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000011671
 辽宁卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7638375013635582245
-辽宁卫视,http://112.122.33.213:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+辽宁卫视,http://112.122.33.165:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 辽宁卫视,http://112.122.33.193:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 辽宁卫视,http://112.122.33.230:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
@@ -1798,7 +1798,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.flv
 内蒙古蒙语卫视,rtmp://play1-qk.nmtv.cn/live/1686560387346365
-内蒙古蒙语卫视,http://112.122.33.213:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+内蒙古蒙语卫视,http://112.122.33.165:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 内蒙古蒙语卫视,http://112.122.33.193:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 内蒙古蒙语卫视,http://112.122.33.230:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 内蒙古蒙语卫视,http://1.24.190.98:10089/hls/39/index.m3u8
@@ -1830,7 +1830,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 宁夏卫视,http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000002000031451/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=3
 宁夏卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031451
 宁夏卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040022
-农林卫视,http://112.122.33.213:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+农林卫视,http://112.122.33.165:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 农林卫视,http://112.122.33.193:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 农林卫视,http://112.122.33.230:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 农林卫视,http://A/ku9/js/Shaanxi/shaanxi2.js?id=1126
@@ -1859,7 +1859,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 青海卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6399324389404552555
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-三沙卫视,http://112.122.33.213:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
+三沙卫视,http://112.122.33.165:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 三沙卫视,http://112.122.33.193:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 三沙卫视,http://112.122.33.230:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 三沙卫视,http://mycloud.acecloud.top:35455/itv/2000000002000000106.m3u8?stbId=3&livemode=1&HlsProfileId=&cdn=hnbblive&Contentid=2000000002000000106&IASHttpSessionId=OTT19019320240419154124000281
@@ -1878,7 +1878,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 厦门卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266006
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 山东教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-山东教育卫视,http://112.122.33.213:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+山东教育卫视,http://112.122.33.165:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 山东教育卫视,http://112.122.33.193:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 山东教育卫视,http://112.122.33.230:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 山东教育卫视,http://101.18.28.102:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$河北联通酒店
@@ -1909,7 +1909,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 山东卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000004134
 山东卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7347081113971056899
 山东卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7744799445271696577
-山东卫视,http://112.122.33.213:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+山东卫视,http://112.122.33.165:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 山东卫视,http://112.122.33.193:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 山东卫视,http://112.122.33.230:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 山西卫视,http://A/ku9/js/Shanxi/shanxi_new.js?id=sxws
@@ -1961,7 +1961,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 深圳卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5352218613763113657
 深圳卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000002116
 深圳卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7696950400632248401
-深圳卫视,http://112.122.33.213:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+深圳卫视,http://112.122.33.165:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 深圳卫视,http://112.122.33.193:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 深圳卫视,http://112.122.33.230:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 四川卫视,http://mycloud.acecloud.top:35455/nptv/sichuan.m3u8
@@ -1993,7 +1993,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 天津卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000009186
 天津卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6707942579111517572
 天津卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8798367982904688776
-天津卫视,http://112.122.33.213:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+天津卫视,http://112.122.33.165:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 天津卫视,http://112.122.33.193:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 天津卫视,http://112.122.33.230:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 西藏藏语卫视,http://php.jdshipin.com/xztv.php?id=zy
@@ -2086,7 +2086,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 浙江卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000017320
 浙江卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000032070
 浙江卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7889730693553663314
-浙江卫视,http://112.122.33.213:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+浙江卫视,http://112.122.33.165:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 浙江卫视,http://112.122.33.193:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 浙江卫视,http://112.122.33.230:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 
@@ -2840,7 +2840,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 中国交通,http://111.225.93.174:33333/hls/26/index.m3u8
 中国交通,http://111.225.94.177:33333/hls/26/index.m3u8
 中国交通,http://111.225.95.105:33333/hls/26/index.m3u8
-中国天气,http://112.122.33.213:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
+中国天气,http://112.122.33.165:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 中国天气,http://112.122.33.193:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 中国天气,http://112.122.33.230:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0$安徽联通酒店
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
@@ -2877,7 +2877,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 
 安徽,#genre#
 安徽经济生活,http://A/ku9/js/Anhui/anhui.js?id=jjsh&key=关注公共号❤：AI科技生活
-安徽经济生活,http://112.122.33.213:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+安徽经济生活,http://112.122.33.165:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽经济生活,http://112.122.33.193:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽经济生活,http://112.122.33.230:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽经济生活,http://live.ahcartv.dev.geek-zoo.cn/live/jjshtv.m3u8?txSecret=94e99c3721b25b3ac3d04be07d92fa3c&txTime=6861F1F6
@@ -2887,7 +2887,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
 安徽经济生活,http://203.205.191.53/live.ahsx.ahtv.cn/live/jjshtv.m3u8
 安徽影视,http://A/ku9/js/Anhui/anhui.js?id=yspd&key=关注公共号❤：AI科技生活
-安徽影视,http://112.122.33.213:85/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+安徽影视,http://112.122.33.165:85/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽影视,http://112.122.33.193:85/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽影视,http://112.122.33.230:85/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽影视,http://live.ahcartv.dev.geek-zoo.cn/live/ystv.m3u8?txSecret=e2c76086598b48e1fb4b6a823c69e2d5&txTime=6861F1F6
@@ -2897,13 +2897,13 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽影视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ystv.m3u8
 安徽公共,http://A/ku9/js/Anhui/anhui.js?id=ggpd&key=关注公共号❤：AI科技生活
-安徽公共,http://112.122.33.213:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+安徽公共,http://112.122.33.165:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽公共,http://112.122.33.193:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽公共,http://112.122.33.230:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽公共,http://live.ahcartv.dev.geek-zoo.cn/live/ggtv.m3u8?txSecret=642c057a63f8e7c6fcd0f236d3f24c69&txTime=6861F1F6
 安徽公共,http://203.205.191.53/live.ahsx.ahtv.cn/live/ggtv.m3u8
 安徽综艺体育,http://A/ku9/js/Anhui/anhui.js?id=zyty&key=关注公共号❤：AI科技生活
-安徽综艺体育,http://112.122.33.213:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+安徽综艺体育,http://112.122.33.165:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽综艺体育,http://112.122.33.193:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽综艺体育,http://112.122.33.230:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽综艺体育,http://live.ahcartv.dev.geek-zoo.cn/live/zytytv.m3u8?txSecret=095c3ce3216bfda624ec4acce6e8a02c&txTime=6861F1F6
@@ -2912,7 +2912,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽综艺体育,http://203.205.191.53/live.ahsx.ahtv.cn/live/zytytv.m3u8
 安徽农业科教,http://A/ku9/js/Anhui/anhui.js?id=nykj&key=关注公共号❤：AI科技生活
-安徽农业科教,http://112.122.33.213:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+安徽农业科教,http://112.122.33.165:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽农业科教,http://112.122.33.193:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽农业科教,http://112.122.33.230:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安徽农业科教,http://live.ahcartv.dev.geek-zoo.cn/live/nykjtv.m3u8?txSecret=4888aba85d563cfd8853ca0982febcbe&txTime=6861F1F6
@@ -2940,7 +2940,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 宿州新闻综合,rtmp://live.ahsz.tv/video?token=5ee5b1c3db702657f412ed18d270cdb7/s10001-szzh
 宿州新闻综合,rtmp://live.ahsz.tv/video/s10001-szzh
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-宿州新闻综合,http://112.122.33.213:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+宿州新闻综合,http://112.122.33.165:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 宿州新闻综合,http://112.122.33.193:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 宿州新闻综合,http://112.122.33.230:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 宿州科教,rtmp://live.ahsz.tv/video/s10001-kxjy
@@ -2997,7 +2997,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 霍邱新闻综合,http://112.30.194.221:20080/live/186d03e65fd64d33b033c31da5a4a5a0/hls.m3u8
 黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 黄山文旅,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
-淮南新闻综合,http://112.122.33.213:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+淮南新闻综合,http://112.122.33.165:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 淮南新闻综合,http://112.122.33.193:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 淮南新闻综合,http://112.122.33.230:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 淮南新闻综合,http://ahlive.ahwanyun.cn/live/8f025f302a3441f4b5a45ad4f06b42cb/hls.m3u8
@@ -3029,22 +3029,22 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 固镇综合,http://www.guzhenm.com:7002/hls/hd-live.m3u8
 固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
-阜阳新闻综合,http://112.122.33.213:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+阜阳新闻综合,http://112.122.33.165:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜阳新闻综合,http://112.122.33.193:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜阳新闻综合,http://112.122.33.230:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-阜阳生活,http://112.122.33.213:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+阜阳生活,http://112.122.33.165:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜阳生活,http://112.122.33.193:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜阳生活,http://112.122.33.230:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
 阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308
-阜阳教育,http://112.122.33.213:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+阜阳教育,http://112.122.33.165:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜阳教育,http://112.122.33.193:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜阳教育,http://112.122.33.230:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜阳教育,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
 阜阳教育,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca
 阜阳都市文艺,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
 阜阳都市文艺,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
-阜南新闻综合,http://112.122.33.213:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+阜南新闻综合,http://112.122.33.165:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜南新闻综合,http://112.122.33.193:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜南新闻综合,http://112.122.33.230:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 阜南新闻综合,https://xhmm-new-live.media.xinhuamm.net/liveNoRecord/a42bf9ee9c224a44a393aafc33990c78_111ae5a842ff4b32ab277ed1d9e216c5.m3u8?auth_key=2017017629-3866c768f70a4b47a2352f7b746e7bc1-0-1470ba4cbd641cbe479da8838d3396da
@@ -3069,7 +3069,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 亳州综合,http://zbbf2.ahbztv.com/live/416.m3u8
 亳州综合,http://zbbf2.ahbztv.com/live/416.flv
 亳州综合,rtmp://zbbf2.ahbztv.com/live/416
-亳州综合,http://112.122.33.213:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+亳州综合,http://112.122.33.165:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 亳州综合,http://112.122.33.193:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 亳州综合,http://112.122.33.230:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
@@ -3078,7 +3078,7 @@ Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_
 蚌埠新闻,http://A/ku9/js/Anhui/anhuidf.js?id=bbxw&key=关注公共号❤：AI科技生活
 蚌埠新闻,https://live.ahsx.ahtv.cn/live/bbtv.m3u8?txSecret=ebffe06acf43cdc63aa59bded04cca45&txTime=6954CAD3
 蚌埠新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/bbtv.m3u8
-安庆新闻综合,http://112.122.33.213:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+安庆新闻综合,http://112.122.33.165:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安庆新闻综合,http://112.122.33.193:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安庆新闻综合,http://112.122.33.230:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 安庆新闻综合,https://nrtapush.ahsx.ahtv.cn/live/aqpd.m3u8?txSecret=ffe64c1a8ed3f34b6277d30237f4618b&txTime=688AE38B
