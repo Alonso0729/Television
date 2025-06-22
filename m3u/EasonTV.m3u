@@ -2777,6 +2777,34 @@ http://mycloud.acecloud.top:35455/mgtv/646596895.m3u8
 http://sjyt127.synology.me:35455/mgtv/646596895.m3u8
 #EXTINF:-1 tvg-name="赛事最经典" tvg-logo="https://epg.v1.mk/logo/赛事最经典.png" group-title="体育",赛事最经典
 http://sykes.i234.me:35455/mgtv/646596895.m3u8
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://112.122.33.213:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://112.122.33.193:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://112.122.33.230:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://mycloud.acecloud.top:35455/itv/5000000006000022124.m3u8?cdn=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://sjyt127.synology.me:35455/itv/5000000006000022124.m3u8?cdn=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://sykes.i234.me:35455/itv/5000000006000022124.m3u8?cdn=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000005000266001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266001&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://[2409:8087:5e20:24::0b]:6610/000000001000/1/5000000006000022124/1.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://[2409:8087:5e20:24::0c]:6610/000000001000/1/7248678452522064966/1.m3u8?channel-id=ystenlive&Contentid=7248678452522064966&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://stream.qhbtv.com/adws/sd/live.m3u8
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+https://epg.pw/stream/64f8d4678019673ff347d3636f9aaa9cb5dcde274672e6d75a25aca77d453a12.m3u8
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266001
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000022124
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7248678452522064966
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://A/ku9/js/Anhui/anhui.js?id=ahws&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -3481,6 +3509,32 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000011210
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5616078396620462481
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://A/ku9/js/Sichuan/sichuan1.js?id=kbws
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://112.122.33.213:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://112.122.33.193:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://112.122.33.230:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://mycloud.acecloud.top:35455/itv/5000000003000001598.m3u8?cdn=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://sjyt127.synology.me:35455/itv/5000000003000001598.m3u8?cdn=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://sykes.i234.me:35455/itv/5000000003000001598.m3u8?cdn=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000005000266002/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266002&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://[2409:8087:5e20:24::0b]:6610/000000001000/1/5000000003000001598/1.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://[2409:8087:5e20:24::0c]:6610/000000001000/1/9131971102485823367/1.m3u8?channel-id=ystenlive&Contentid=9131971102485823367&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266002
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000003000001598
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=9131971102485823367
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://mycloud.acecloud.top:35455/nptv/liaoning.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
@@ -3595,34 +3649,30 @@ http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000002000031451/1.m3u8?ch
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031451
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040022
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://112.122.33.213:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://112.122.33.193:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://112.122.33.230:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://mycloud.acecloud.top:35455/itv/5000000006000022124.m3u8?cdn=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://sjyt127.synology.me:35455/itv/5000000006000022124.m3u8?cdn=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://sykes.i234.me:35455/itv/5000000006000022124.m3u8?cdn=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000005000266001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266001&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://[2409:8087:5e20:24::0b]:6610/000000001000/1/5000000006000022124/1.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://[2409:8087:5e20:24::0c]:6610/000000001000/1/7248678452522064966/1.m3u8?channel-id=ystenlive&Contentid=7248678452522064966&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://stream.qhbtv.com/adws/sd/live.m3u8
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-https://epg.pw/stream/64f8d4678019673ff347d3636f9aaa9cb5dcde274672e6d75a25aca77d453a12.m3u8
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266001
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000022124
-#EXTINF:-1 tvg-name="青海安多卫视" tvg-logo="https://epg.v1.mk/logo/青海安多卫视.png" group-title="卫视",青海安多卫视
-http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7248678452522064966
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://112.122.33.213:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://112.122.33.193:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://112.122.33.230:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://A/ku9/js/Shaanxi/shaanxi2.js?id=1126
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://mycloud.acecloud.top:35455/itv/2000000003000000046.m3u8?cdn=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://sjyt127.synology.me:35455/itv/2000000003000000046.m3u8?cdn=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://sykes.i234.me:35455/itv/2000000003000000046.m3u8?cdn=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000005000266003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://[2409:8087:5e20:24::0b]:6610/000000001000/1/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000266003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266003
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000046
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
 http://mycloud.acecloud.top:35455/nptv/qinghai.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
@@ -3793,30 +3843,6 @@ http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000002000021220/1.m3u8?ch
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000021220
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040023
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://112.122.33.213:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://112.122.33.193:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://112.122.33.230:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://A/ku9/js/Shaanxi/shaanxi2.js?id=1126
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://mycloud.acecloud.top:35455/itv/2000000003000000046.m3u8?cdn=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://sjyt127.synology.me:35455/itv/2000000003000000046.m3u8?cdn=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://sykes.i234.me:35455/itv/2000000003000000046.m3u8?cdn=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000005000266003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://[2409:8087:5e20:24::0b]:6610/000000001000/1/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000005000266003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266003
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://epg.v1.mk/logo/陕西农林卫视.png" group-title="卫视",陕西农林卫视
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000046
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://mycloud.acecloud.top:35455/nptv/shanxiws.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
@@ -3891,32 +3917,6 @@ http://112.122.33.213:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://112.122.33.193:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://112.122.33.230:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://A/ku9/js/Sichuan/sichuan1.js?id=kbws
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://112.122.33.213:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://112.122.33.193:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://112.122.33.230:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://mycloud.acecloud.top:35455/itv/5000000003000001598.m3u8?cdn=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://sjyt127.synology.me:35455/itv/5000000003000001598.m3u8?cdn=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://sykes.i234.me:35455/itv/5000000003000001598.m3u8?cdn=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000005000266002/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266002&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://[2409:8087:5e20:24::0b]:6610/000000001000/1/5000000003000001598/1.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://[2409:8087:5e20:24::0c]:6610/000000001000/1/9131971102485823367/1.m3u8?channel-id=ystenlive&Contentid=9131971102485823367&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266002
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000003000001598
-#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://epg.v1.mk/logo/四川康巴卫视.png" group-title="卫视",四川康巴卫视
-http://php.jdshipin.com/itv6.php?cid=ystenlive&id=9131971102485823367
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
 http://mycloud.acecloud.top:35455/nptv/sichuan.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
