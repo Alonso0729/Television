@@ -3571,27 +3571,27 @@ http://112.122.33.213:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://112.122.33.193:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://112.122.33.230:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.flv?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 rtmp://livestream-bt.nmtv.cn/nmtv/2315general?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://play1-qk.nmtv.cn:80/live/1686560387346365.m3u8
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://play1-qk.nmtv.cn/live/1686560387346365.flv
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 rtmp://play1-qk.nmtv.cn/live/1686560387346365
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://112.122.33.213:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://112.122.33.193:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://112.122.33.230:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://1.24.190.98:10089/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
@@ -3981,25 +3981,25 @@ http://112.122.33.213:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://112.122.33.193:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
 http://112.122.33.230:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0$安徽联通酒店
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://php.jdshipin.com/xztv.php?id=zy
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://A/ku9/js/Tibet/Tibet.js?id=1
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://mycloud.acecloud.top:35455/itv/5000000002000021549.m3u8?cdn=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://sjyt127.synology.me:35455/itv/5000000002000021549.m3u8?cdn=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://sykes.i234.me:35455/itv/5000000002000021549.m3u8?cdn=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/5000000002000021549/1.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://[2409:8087:5e20:24::0b]:6610/000000001000/1/7134589828528695864/1.m3u8?channel-id=ystenlive&Contentid=7134589828528695864&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://[2409:8087:5e20:24::0c]:6610/000000001000/1/5000000002000021549/1.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000021549
-#EXTINF:-1 tvg-name="西藏藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://epg.v1.mk/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7134589828528695864
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://php.jdshipin.com/xztv.php?id=ws
