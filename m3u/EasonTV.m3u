@@ -2320,6 +2320,10 @@ http://[2409:8087:5e20:24::0c]:6610/000000001000/1/1000000006000270004/1.m3u8?ch
 #EXTINF:-1 tvg-name="咪视通-35" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-35
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/1000000006000270004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270004&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="咪视通-3D" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-3D
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000010000015686
+#EXTINF:-1 tvg-name="咪视通-3D" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-3D
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000010000017678
+#EXTINF:-1 tvg-name="咪视通-3D" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-3D
 http://mycloud.acecloud.top:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="咪视通-3D" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-3D
 http://sjyt127.synology.me:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
@@ -2331,10 +2335,8 @@ http://[2409:8087:5e20:24::0b]:6610/000000001000/1/3000000010000017678/1.m3u8?ch
 http://[2409:8087:5e20:24::0c]:6610/000000001000/1/3000000010000017678/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="咪视通-3D" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-3D
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/3000000010000017678/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪视通-3D" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-3D
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000010000015686
-#EXTINF:-1 tvg-name="咪视通-3D" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-3D
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000010000017678
+#EXTINF:-1 tvg-name="咪视通-4K" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-4K
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000010000005180
 #EXTINF:-1 tvg-name="咪视通-4K" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-4K
 http://mycloud.acecloud.top:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="咪视通-4K" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-4K
@@ -2349,8 +2351,6 @@ http://[2409:8087:5e20:24::0c]:6610/000000001000/1/3000000010000005180/1.m3u8?ch
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="咪视通-4K" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-4K
 http://[2409:8087:5e20:24::0a]:6610/000000001000/1/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪视通-4K" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="体育",咪视通-4K
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000010000005180
 #EXTINF:-1 tvg-name="Sky 2 Racing" tvg-logo="https://epg.v1.mk/logo/Sky 2 Racing.png" group-title="体育",Sky 2 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 tvg-name="百视通直播-1" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="体育",百视通直播-1
@@ -7454,43 +7454,47 @@ http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.v1.mk/logo/海南自贸.png" group-title="海南",海南自贸
 http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.v1.mk/logo/海南自贸.png" group-title="海南",海南自贸
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/
-#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.v1.mk/logo/海南自贸.png" group-title="海南",海南自贸
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000116
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.v1.mk/logo/海南自贸.png" group-title="海南",海南自贸
 http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000116
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.v1.mk/logo/海南自贸.png" group-title="海南",海南自贸
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.v1.mk/logo/海南公共.png" group-title="海南",海南公共
 http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
-#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.v1.mk/logo/海南公共.png" group-title="海南",海南公共
-http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.v1.mk/logo/海南公共.png" group-title="海南",海南公共
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/460000100000000057
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.v1.mk/logo/海南公共.png" group-title="海南",海南公共
 http://php.jdshipin.com/TVOD/hnyd.php?id=460000100000000057
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.v1.mk/logo/海南公共.png" group-title="海南",海南公共
+http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.v1.mk/logo/海南文旅.png" group-title="海南",海南文旅
 http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
-#EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.v1.mk/logo/海南文旅.png" group-title="海南",海南文旅
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.v1.mk/logo/海南文旅.png" group-title="海南",海南文旅
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000113
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.v1.mk/logo/海南文旅.png" group-title="海南",海南文旅
 http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000113
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.v1.mk/logo/海南文旅.png" group-title="海南",海南文旅
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
 http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000110/
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000112
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
 http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000112
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
+http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000110
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
+http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000110
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000110/
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.v1.mk/logo/海南新闻.png" group-title="海南",海南新闻
 http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
-#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.v1.mk/logo/海南新闻.png" group-title="海南",海南新闻
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.v1.mk/logo/海南新闻.png" group-title="海南",海南新闻
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000111
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.v1.mk/logo/海南新闻.png" group-title="海南",海南新闻
 http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000111
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.v1.mk/logo/海南新闻.png" group-title="海南",海南新闻
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/
 #EXTINF:-1 tvg-name="海口综合" tvg-logo="https://epg.v1.mk/logo/海口综合.png" group-title="海南",海口综合
 https://www.hkbtv.cn/live/tv1001.m3u8
 #EXTINF:-1 tvg-name="海口综合" tvg-logo="https://epg.v1.mk/logo/海口综合.png" group-title="海南",海口综合
