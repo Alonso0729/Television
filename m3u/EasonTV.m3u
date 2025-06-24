@@ -7456,15 +7456,11 @@ http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.v1.mk/logo/海南自贸.png" group-title="海南",海南自贸
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000116
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.v1.mk/logo/海南自贸.png" group-title="海南",海南自贸
-http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000116
-#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://epg.v1.mk/logo/海南自贸.png" group-title="海南",海南自贸
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.v1.mk/logo/海南公共.png" group-title="海南",海南公共
 http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.v1.mk/logo/海南公共.png" group-title="海南",海南公共
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/460000100000000057
-#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.v1.mk/logo/海南公共.png" group-title="海南",海南公共
-http://php.jdshipin.com/TVOD/hnyd.php?id=460000100000000057
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://epg.v1.mk/logo/海南公共.png" group-title="海南",海南公共
 http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.v1.mk/logo/海南文旅.png" group-title="海南",海南文旅
@@ -7472,27 +7468,19 @@ http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.v1.mk/logo/海南文旅.png" group-title="海南",海南文旅
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000113
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.v1.mk/logo/海南文旅.png" group-title="海南",海南文旅
-http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000113
-#EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://epg.v1.mk/logo/海南文旅.png" group-title="海南",海南文旅
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
 http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000112
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
-http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000112
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000110
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
-http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000110
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://epg.v1.mk/logo/海南少儿.png" group-title="海南",海南少儿
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000110/
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.v1.mk/logo/海南新闻.png" group-title="海南",海南新闻
 http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.v1.mk/logo/海南新闻.png" group-title="海南",海南新闻
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000111
-#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.v1.mk/logo/海南新闻.png" group-title="海南",海南新闻
-http://php.jdshipin.com/TVOD/hnyd.php?id=4600001000000000111
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://epg.v1.mk/logo/海南新闻.png" group-title="海南",海南新闻
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/
 #EXTINF:-1 tvg-name="海口综合" tvg-logo="https://epg.v1.mk/logo/海口综合.png" group-title="海南",海口综合
