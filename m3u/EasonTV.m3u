@@ -240,6 +240,8 @@ http://sjyt127.synology.me:35455/mgtv/624878396.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
 http://leo0911.mycloudnas.com:35455/mgtv/624878396.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
+http://k.061899.xyz/k.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
 http://A/ku9/js/Entertainment/1905.js?id=cctv6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV-6
 http://phb888.myds.me:35455/itv/1000000001000001737.m3u8?cdn=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
@@ -1174,6 +1176,8 @@ http://sjyt127.synology.me:35455/mgtv/651632648.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
 http://leo0911.mycloudnas.com:35455/mgtv/651632648.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
+http://k.061899.xyz/k.php?id=dfws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
 http://phb888.myds.me:35455/itv/1000000001000005866.m3u8?cdn=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="上海",东方卫视
 http://sjyt127.synology.me:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
@@ -1282,6 +1286,8 @@ http://sjyt127.synology.me:35455/mgtv/617290047.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
 http://leo0911.mycloudnas.com:35455/mgtv/617290047.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
+http://k.061899.xyz/k.php?id=shys
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
 http://phb888.myds.me:35455/itv/2000000002000000013.m3u8?cdn=hnbblive&Contentid=2000000002000000013&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视
 http://sjyt127.synology.me:35455/itv/5000000010000032212.m3u8?cdn=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
@@ -1335,6 +1341,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000027146
 http://A/ku9/js/Shanghai/KanKanNews.js?id=10
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
 http://A/ku9/js/Shanghai/shanghai.js?id=wxty&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
+http://k.061899.xyz/k.php?id=wxty
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
 http://phb888.myds.me:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育
@@ -1513,6 +1521,8 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000016
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000009455
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010001
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
+http://k.061899.xyz/k.php?id=mlzq
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/mlzuhd/57/20230411/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="上海",魅力足球
@@ -2712,6 +2722,8 @@ http://sjyt127.synology.me:35455/nptv/anhui.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://leo0911.mycloudnas.com:35455/nptv/anhui.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://k.061899.xyz/k.php?id=ahws
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://phb888.myds.me:35455/itv/1000000001000020780.m3u8?cdn=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://sjyt127.synology.me:35455/itv/1000000005000265025.m3u8?cdn=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=3
@@ -2786,6 +2798,8 @@ http://112.122.32.250:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
+http://k.061899.xyz/k.php?id=btws
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://phb888.myds.me:35455/itv/5000000006000040020.m3u8?cdn=bestzb&Contentid=5000000006000040020&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://sjyt127.synology.me:35455/itv/5000000006000040020.m3u8?cdn=bestzb&Contentid=5000000006000040020&livemode=1&stbId=3
@@ -2815,6 +2829,8 @@ http://phb888.myds.me:35455/nptv/chongqing.m3u8
 http://sjyt127.synology.me:35455/nptv/chongqing.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://leo0911.mycloudnas.com:35455/nptv/chongqing.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://k.061899.xyz/k.php?id=cqws
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://phb888.myds.me:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
@@ -2870,6 +2886,8 @@ http://sjyt127.synology.me:35455/nptv/dongnan.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
 http://leo0911.mycloudnas.com:35455/nptv/dongnan.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
+http://k.061899.xyz/k.php?id=dnws
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
 http://A/ku9/js/Fujian/fjtv.js?id=dnws
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
 http://phb888.myds.me:35455/mgtv/849116810.m3u8
@@ -2905,6 +2923,8 @@ http://phb888.myds.me:35455/nptv/gansu.m3u8
 http://sjyt127.synology.me:35455/nptv/gansu.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://leo0911.mycloudnas.com:35455/nptv/gansu.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://k.061899.xyz/k.php?id=gsws
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://A/ku9/js/Gansu/gansu.js?id=gsws
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
@@ -2943,6 +2963,8 @@ http://phb888.myds.me:35455/mgtv/608831231.m3u8
 http://sjyt127.synology.me:35455/mgtv/608831231.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
 http://leo0911.mycloudnas.com:35455/mgtv/608831231.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
+http://k.061899.xyz/k.php?id=gdws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
 http://phb888.myds.me:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视
@@ -3009,6 +3031,8 @@ http://phb888.myds.me:35455/nptv/guizhou.m3u8
 http://sjyt127.synology.me:35455/nptv/guizhou.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://leo0911.mycloudnas.com:35455/nptv/guizhou.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://k.061899.xyz/k.php?id=gzws
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://phb888.myds.me:35455/itv/1000000002000003169.m3u8?cdn=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
@@ -3140,6 +3164,8 @@ http://sjyt127.synology.me:35455/mgtv/790187291.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
 http://leo0911.mycloudnas.com:35455/mgtv/790187291.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
+http://k.061899.xyz/k.php?id=hnws
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
 http://phb888.myds.me:35455/itv/1000000002000027731.m3u8?cdn=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
 http://sjyt127.synology.me:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
@@ -3163,6 +3189,8 @@ http://phb888.myds.me:35455/nptv/heilongjiang.m3u8
 http://sjyt127.synology.me:35455/nptv/heilongjiang.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://leo0911.mycloudnas.com:35455/nptv/heilongjiang.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://k.061899.xyz/k.php?id=hljws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://phb888.myds.me:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
@@ -3252,6 +3280,8 @@ http://sjyt127.synology.me:35455/nptv/hunan.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://leo0911.mycloudnas.com:35455/nptv/hunan.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://k.061899.xyz/k.php?id=hunws
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://phb888.myds.me:35455/itv/1000000001000009115.m3u8?cdn=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://sjyt127.synology.me:35455/itv/1000000005000265024.m3u8?cdn=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=3
@@ -3335,6 +3365,8 @@ http://phb888.myds.me:35455/mgtv/623899368.m3u8
 http://sjyt127.synology.me:35455/mgtv/623899368.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://leo0911.mycloudnas.com:35455/mgtv/623899368.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://k.061899.xyz/k.php?id=jsws
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://phb888.myds.me:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
@@ -3440,6 +3472,8 @@ http://sjyt127.synology.me:35455/nptv/liaoning.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://leo0911.mycloudnas.com:35455/nptv/liaoning.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://k.061899.xyz/k.php?id=lnws
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://phb888.myds.me:35455/itv/1000000001000001945.m3u8?cdn=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://sjyt127.synology.me:35455/itv/1000000005000265022.m3u8?cdn=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3
@@ -3532,6 +3566,8 @@ http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.flv
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://k.061899.xyz/k.php?id=nxws
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://phb888.myds.me:35455/itv/5000000006000040022.m3u8?cdn=bestzb&Contentid=5000000006000040022&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://sjyt127.synology.me:35455/itv/5000000006000040022.m3u8?cdn=bestzb&Contentid=5000000006000040022&livemode=1&stbId=3
@@ -3583,6 +3619,8 @@ http://phb888.myds.me:35455/mgtv/947472506.m3u8
 http://sjyt127.synology.me:35455/mgtv/947472506.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
 http://leo0911.mycloudnas.com:35455/mgtv/947472506.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
+http://k.061899.xyz/k.php?id=qhws
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
 http://phb888.myds.me:35455/itv/1000000002000013359.m3u8?cdn=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
@@ -3678,6 +3716,8 @@ http://sjyt127.synology.me:35455/nptv/shandong.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
 http://leo0911.mycloudnas.com:35455/nptv/shandong.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
+http://k.061899.xyz/k.php?id=sdws
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
 http://phb888.myds.me:35455/itv/1000000001000012807.m3u8?cdn=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
 http://sjyt127.synology.me:35455/itv/1000000005000265019.m3u8?cdn=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=3
@@ -3758,6 +3798,8 @@ http://sjyt127.synology.me:35455/mgtv/738910838.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://leo0911.mycloudnas.com:35455/mgtv/738910838.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://k.061899.xyz/k.php?id=sxws
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://phb888.myds.me:35455/itv/1000000002000007495.m3u8?cdn=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://sjyt127.synology.me:35455/itv/1000000002000007495.m3u8?cdn=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3
@@ -3781,6 +3823,8 @@ http://sjyt127.synology.me:35455/nptv/shenzheng.m3u8
 http://leo0911.mycloudnas.com:35455/nptv/shenzheng.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://A/ku9/js/Guangdong/shenzhen.js?id=szws
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://k.061899.xyz/k.php?id=szws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://phb888.myds.me:35455/itv/1000000001000009227.m3u8?cdn=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
@@ -3822,6 +3866,8 @@ http://sjyt127.synology.me:35455/nptv/sichuan.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
 http://leo0911.mycloudnas.com:35455/nptv/sichuan.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
+http://k.061899.xyz/k.php?id=scws
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
 http://A/ku9/js/Sichuan/sichuan1.js?id=scws
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
 http://phb888.myds.me:35455/itv/1000000002000016825.m3u8?cdn=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=3
@@ -3845,6 +3891,8 @@ http://phb888.myds.me:35455/nptv/tianjing.m3u8
 http://sjyt127.synology.me:35455/nptv/tianjing.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
 http://leo0911.mycloudnas.com:35455/nptv/tianjing.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
+http://k.061899.xyz/k.php?id=tjws
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
 http://phb888.myds.me:35455/itv/1000000001000000831.m3u8?cdn=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
@@ -6060,9 +6108,11 @@ http://A/ku9/js/Beijing/bjtime.js?id=bjwy
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.v1.mk/logo/北京文艺.png" group-title="北京",北京文艺
 http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://epg.v1.mk/logo/北京文艺.png" group-title="北京",北京文艺
-http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221279778
+http://k.061899.xyz/k.php?id=bjwy
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://A/ku9/js/Beijing/bjtime.js?id=bjjs
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="北京",北京纪实科教
+http://k.061899.xyz/k.php?id=bjjs
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://phb888.myds.me:35455/itv/1000000001000001910.m3u8?cdn=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实科教.png" group-title="北京",北京纪实科教
@@ -6092,35 +6142,39 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031204
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.v1.mk/logo/北京影视.png" group-title="北京",北京影视
 http://A/ku9/js/Beijing/bjtime.js?id=bjys
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.v1.mk/logo/北京影视.png" group-title="北京",北京影视
+http://k.061899.xyz/k.php?id=bjys
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.v1.mk/logo/北京影视.png" group-title="北京",北京影视
 http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.v1.mk/logo/北京影视.png" group-title="北京",北京影视
 http://mmitv.top:80/pltv/livetb2d5b/bjyd_ipv6.php?id=3221279788
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.v1.mk/logo/北京财经.png" group-title="北京",北京财经
 http://A/ku9/js/Beijing/bjtime.js?id=bjcj
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.v1.mk/logo/北京财经.png" group-title="北京",北京财经
-http://iptv.huuc.edu.cn/hls/btv5hd.m3u8
+http://k.061899.xyz/k.php?id=bjcj
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.v1.mk/logo/北京财经.png" group-title="北京",北京财经
-http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221282970
+http://iptv.huuc.edu.cn/hls/btv5hd.m3u8
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://A/ku9/js/Beijing/bjtime.js?id=bjty
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="北京",北京体育休闲
-http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+http://k.061899.xyz/k.php?id=bjty
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="北京",北京体育休闲
-http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221279780
+http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.v1.mk/logo/北京生活.png" group-title="北京",北京生活
 http://A/ku9/js/Beijing/bjtime.js?id=bjsh
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.v1.mk/logo/北京生活.png" group-title="北京",北京生活
-http://iptv.huuc.edu.cn/hls/btv7hd.m3u8
+http://k.061899.xyz/k.php?id=bjsh
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://epg.v1.mk/logo/北京生活.png" group-title="北京",北京生活
-http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221283599
+http://iptv.huuc.edu.cn/hls/btv7hd.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.v1.mk/logo/北京新闻.png" group-title="北京",北京新闻
 http://A/ku9/js/Beijing/bjtime.js?id=bjxw
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.v1.mk/logo/北京新闻.png" group-title="北京",北京新闻
-http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+http://k.061899.xyz/k.php?id=bjxw
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.v1.mk/logo/北京新闻.png" group-title="北京",北京新闻
-http://mmitv.top:80/pltv/livetb2d5b/bjyd.php?id=3221280389
+http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://A/ku9/js/Beijing/bjtime.js?id=bjkk
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://k.061899.xyz/k.php?id=bjkk
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://phb888.myds.me:35455/itv/1000000002000002413.m3u8?cdn=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
@@ -6758,6 +6812,8 @@ https://play.kankanlive.com/live/1720408280309109.m3u8
 #EXTINF:-1 tvg-name="白银文化教育" tvg-logo="https://epg.v1.mk/logo/白银文化教育.png" group-title="甘肃",白银文化教育
 https://play.kankanlive.com/live/1720408280309109.flv
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
+http://k.061899.xyz/k.php?id=gdzj
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
 http://cdn5.132.us.kg/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
 http://cdn5.163189.xyz/live/gdzj/stream.m3u8
@@ -6785,6 +6841,8 @@ http://ali.hlspull.yximgs.com/live/guangdong_zj.flv
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011655
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000033
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
+http://k.061899.xyz/k.php?id=gdty
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
 http://ali.hlspull.yximgs.com/live/guangdong_ty.flv
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
@@ -10128,6 +10186,8 @@ http://leo0911.mycloudnas.com:35455/mgtv/626064714.m3u8
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://epg.v1.mk/logo/江苏城市.png" group-title="江苏",江苏城市
 http://nas.xianbao.info:35455/mgtv/626064714.m3u8
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://epg.v1.mk/logo/江苏城市.png" group-title="江苏",江苏城市
+http://k.061899.xyz/k.php?id=jscs
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://epg.v1.mk/logo/江苏城市.png" group-title="江苏",江苏城市
 http://live.nctv.top/6688/jstv.php?id=jscs
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://epg.v1.mk/logo/江苏城市.png" group-title="江苏",江苏城市
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSCS/G_JSCS.m3u8
@@ -10149,6 +10209,8 @@ http://www.mfykeke.top:35455/mgtv/626065193.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/626065193.m3u8
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://epg.v1.mk/logo/江苏综艺.png" group-title="江苏",江苏综艺
 http://nas.xianbao.info:35455/mgtv/626065193.m3u8
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://epg.v1.mk/logo/江苏综艺.png" group-title="江苏",江苏综艺
+http://k.061899.xyz/k.php?id=jszy
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://epg.v1.mk/logo/江苏综艺.png" group-title="江苏",江苏综艺
 http://live.nctv.top/6688/jstv.php?id=jszy
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://epg.v1.mk/logo/江苏综艺.png" group-title="江苏",江苏综艺
@@ -10172,6 +10234,8 @@ http://leo0911.mycloudnas.com:35455/mgtv/626064697.m3u8
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏",江苏影视
 http://nas.xianbao.info:35455/mgtv/626064697.m3u8
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏",江苏影视
+http://k.061899.xyz/k.php?id=jsys
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏",江苏影视
 http://live.nctv.top/6688/jstv.php?id=jsys
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏",江苏影视
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
@@ -10194,6 +10258,8 @@ http://leo0911.mycloudnas.com:35455/mgtv/626064693.m3u8
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://nas.xianbao.info:35455/mgtv/626064693.m3u8
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
+http://k.061899.xyz/k.php?id=jsxw
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://live.nctv.top/6688/jstv.php?id=jsxw
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://epg.v1.mk/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
@@ -10215,6 +10281,8 @@ http://www.mfykeke.top:35455/mgtv/626064707.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/626064707.m3u8
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://epg.v1.mk/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
 http://nas.xianbao.info:35455/mgtv/626064707.m3u8
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://epg.v1.mk/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+http://k.061899.xyz/k.php?id=jstyxx
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://epg.v1.mk/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
 http://58.221.214.82:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&authid=0$江苏酒店
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://epg.v1.mk/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
@@ -10239,6 +10307,8 @@ http://www.mfykeke.top:35455/mgtv/626064703.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/626064703.m3u8
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://epg.v1.mk/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
 http://nas.xianbao.info:35455/mgtv/626064703.m3u8
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://epg.v1.mk/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
+http://k.061899.xyz/k.php?id=ymkt
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://epg.v1.mk/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
 http://phb888.myds.me:35455/itv/1000000002000010063.m3u8?cdn=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://epg.v1.mk/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
@@ -10274,6 +10344,8 @@ http://leo0911.mycloudnas.com:35455/mgtv/626064674.m3u8
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://epg.v1.mk/logo/江苏国际.png" group-title="江苏",江苏国际
 http://nas.xianbao.info:35455/mgtv/626064674.m3u8
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://epg.v1.mk/logo/江苏国际.png" group-title="江苏",江苏国际
+http://k.061899.xyz/k.php?id=jsgj
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://epg.v1.mk/logo/江苏国际.png" group-title="江苏",江苏国际
 http://live.nctv.top/6688/jstv.php?id=jsgj
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://epg.v1.mk/logo/江苏国际.png" group-title="江苏",江苏国际
 http://cdn.jdshipin.com:8880/jstv.php?id=jsgj
@@ -10293,6 +10365,8 @@ http://www.mfykeke.top:35455/mgtv/628008321.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/628008321.m3u8
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
 http://nas.xianbao.info:35455/mgtv/628008321.m3u8
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
+http://k.061899.xyz/k.php?id=jsjy
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
 http://live.nctv.top/6688/jstv.php?id=jsjy
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://epg.v1.mk/logo/江苏教育.png" group-title="江苏",江苏教育
@@ -10333,6 +10407,8 @@ http://www.mfykeke.top:35455/mgtv/838109047.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/838109047.m3u8
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://epg.v1.mk/logo/南京新闻综合.png" group-title="江苏",南京新闻综合
 http://nas.xianbao.info:35455/mgtv/838109047.m3u8
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://epg.v1.mk/logo/南京新闻综合.png" group-title="江苏",南京新闻综合
+http://k.061899.xyz/k.php?id=njxwzh
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://epg.v1.mk/logo/南京教科.png" group-title="江苏",南京教科
 http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://epg.v1.mk/logo/南京教科.png" group-title="江苏",南京教科
@@ -10347,6 +10423,8 @@ http://www.mfykeke.top:35455/mgtv/838153729.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/838153729.m3u8
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://epg.v1.mk/logo/南京教科.png" group-title="江苏",南京教科
 http://nas.xianbao.info:35455/mgtv/838153729.m3u8
+#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://epg.v1.mk/logo/南京教科.png" group-title="江苏",南京教科
+http://k.061899.xyz/k.php?id=njkj
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://epg.v1.mk/logo/南京少儿.png" group-title="江苏",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 #EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://epg.v1.mk/logo/南京十八生活.png" group-title="江苏",南京十八生活
@@ -10363,6 +10441,8 @@ http://www.mfykeke.top:35455/mgtv/838151753.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/838151753.m3u8
 #EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://epg.v1.mk/logo/南京十八生活.png" group-title="江苏",南京十八生活
 http://nas.xianbao.info:35455/mgtv/838151753.m3u8
+#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://epg.v1.mk/logo/南京十八生活.png" group-title="江苏",南京十八生活
+http://k.061899.xyz/k.php?id=njsb
 #EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://epg.v1.mk/logo/南京文旅纪录.png" group-title="江苏",南京文旅纪录
 http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
 #EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="https://epg.v1.mk/logo/苏州新闻综合.png" group-title="江苏",苏州新闻综合
@@ -10533,6 +10613,8 @@ http://www.mfykeke.top:35455/mgtv/639731818.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/639731818.m3u8
 #EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.v1.mk/logo/泰州新闻综合.png" group-title="江苏",泰州新闻综合
 http://nas.xianbao.info:35455/mgtv/639731818.m3u8
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://epg.v1.mk/logo/泰州新闻综合.png" group-title="江苏",泰州新闻综合
+http://k.061899.xyz/k.php?id=tzxwzh
 #EXTINF:-1 tvg-name="泰州经济生活" tvg-logo="https://epg.v1.mk/logo/泰州经济生活.png" group-title="江苏",泰州经济生活
 http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
 #EXTINF:-1 tvg-name="泰州影视娱乐" tvg-logo="https://epg.v1.mk/logo/泰州影视娱乐.png" group-title="江苏",泰州影视娱乐
@@ -10657,6 +10739,8 @@ http://www.mfykeke.top:35455/mgtv/639731747.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/639731747.m3u8
 #EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://epg.v1.mk/logo/徐州新闻综合.png" group-title="江苏",徐州新闻综合
 http://nas.xianbao.info:35455/mgtv/639731747.m3u8
+#EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://epg.v1.mk/logo/徐州新闻综合.png" group-title="江苏",徐州新闻综合
+http://k.061899.xyz/k.php?id=xzxwzh
 #EXTINF:-1 tvg-name="徐州经济生活" tvg-logo="https://epg.v1.mk/logo/徐州经济生活.png" group-title="江苏",徐州经济生活
 http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 #EXTINF:-1 tvg-name="徐州文艺影视" tvg-logo="https://epg.v1.mk/logo/徐州文艺影视.png" group-title="江苏",徐州文艺影视
@@ -10681,6 +10765,8 @@ http://www.mfykeke.top:35455/mgtv/639731832.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/639731832.m3u8
 #EXTINF:-1 tvg-name="宿迁新闻综合" tvg-logo="https://epg.v1.mk/logo/宿迁新闻综合.png" group-title="江苏",宿迁新闻综合
 http://nas.xianbao.info:35455/mgtv/639731832.m3u8
+#EXTINF:-1 tvg-name="宿迁新闻综合" tvg-logo="https://epg.v1.mk/logo/宿迁新闻综合.png" group-title="江苏",宿迁新闻综合
+http://k.061899.xyz/k.php?id=sqxwzh
 #EXTINF:-1 tvg-name="宿豫综合" tvg-logo="https://epg.v1.mk/logo/宿豫综合.png" group-title="江苏",宿豫综合
 http://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 #EXTINF:-1 tvg-name="宿豫综合" tvg-logo="https://epg.v1.mk/logo/宿豫综合.png" group-title="江苏",宿豫综合
@@ -10859,6 +10945,8 @@ http://www.mfykeke.top:35455/mgtv/639731715.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/639731715.m3u8
 #EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://epg.v1.mk/logo/连云港新闻综合.png" group-title="江苏",连云港新闻综合
 http://nas.xianbao.info:35455/mgtv/639731715.m3u8
+#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://epg.v1.mk/logo/连云港新闻综合.png" group-title="江苏",连云港新闻综合
+http://k.061899.xyz/k.php?id=lygxwzh
 #EXTINF:-1 tvg-name="连云港公共" tvg-logo="https://epg.v1.mk/logo/连云港公共.png" group-title="江苏",连云港公共
 http://live.lyg1.com/ggpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="溧阳新闻综合" tvg-logo="https://epg.v1.mk/logo/溧阳新闻综合.png" group-title="江苏",溧阳新闻综合
@@ -10955,6 +11043,8 @@ http://www.mfykeke.top:35455/mgtv/639731826.m3u8
 http://leo0911.mycloudnas.com:35455/mgtv/639731826.m3u8
 #EXTINF:-1 tvg-name="淮安新闻综合" tvg-logo="https://epg.v1.mk/logo/淮安新闻综合.png" group-title="江苏",淮安新闻综合
 http://nas.xianbao.info:35455/mgtv/639731826.m3u8
+#EXTINF:-1 tvg-name="淮安新闻综合" tvg-logo="https://epg.v1.mk/logo/淮安新闻综合.png" group-title="江苏",淮安新闻综合
+http://k.061899.xyz/k.php?id=haxwzh
 #EXTINF:-1 tvg-name="淮安影院娱乐" tvg-logo="https://epg.v1.mk/logo/淮安影院娱乐.png" group-title="江苏",淮安影院娱乐
 http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="淮安公共" tvg-logo="https://epg.v1.mk/logo/淮安公共.png" group-title="江苏",淮安公共
