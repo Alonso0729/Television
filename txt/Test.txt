@@ -5,12 +5,12 @@
 主力电信线路1,http://phb888.myds.me:35455/bptv/3221226438.m3u8
 主力电信线路1,http://phb888.myds.me:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 主力电信线路1,http://phb888.myds.me:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
-主力电信线路2,http://sjyt127.synology.me:35455/nptv/cctv16.m3u8
-主力电信线路2,http://sjyt127.synology.me:35455/mgtv/641886683.m3u8
-主力电信线路2,http://sjyt127.synology.me:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-主力电信线路2,http://sjyt127.synology.me:35455/bptv/3221226438.m3u8
-主力电信线路2,http://sjyt127.synology.me:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-主力电信线路2,http://sjyt127.synology.me:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
+主力电信线路2,http://aiony.top:35455/nptv/cctv16.m3u8
+主力电信线路2,http://aiony.top:35455/mgtv/641886683.m3u8
+主力电信线路2,http://aiony.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+主力电信线路2,http://aiony.top:35455/bptv/3221226438.m3u8
+主力电信线路2,http://aiony.top:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+主力电信线路2,http://aiony.top:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
 主力电信线路3,http://leo0911.mycloudnas.com:35455/nptv/cctv16.m3u8
 主力电信线路3,http://leo0911.mycloudnas.com:35455/mgtv/641886683.m3u8
 主力电信线路3,http://leo0911.mycloudnas.com:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
@@ -185,12 +185,12 @@
 电信线路28,http://happing0.x3322.net:35455/bptv/3221226438.m3u8
 电信线路28,http://happing0.x3322.net:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 电信线路28,http://happing0.x3322.net:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
-电信线路29,http://aiony.top:35455/nptv/cctv16.m3u8
-电信线路29,http://aiony.top:35455/mgtv/641886683.m3u8
-电信线路29,http://aiony.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-电信线路29,http://aiony.top:35455/bptv/3221226438.m3u8
-电信线路29,http://aiony.top:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-电信线路29,http://aiony.top:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
+电信线路29,http://sjyt127.synology.me:35455/nptv/cctv16.m3u8
+电信线路29,http://sjyt127.synology.me:35455/mgtv/641886683.m3u8
+电信线路29,http://sjyt127.synology.me:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+电信线路29,http://sjyt127.synology.me:35455/bptv/3221226438.m3u8
+电信线路29,http://sjyt127.synology.me:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+电信线路29,http://sjyt127.synology.me:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
 电信线路30,http://sykes.i234.me:35455/nptv/cctv16.m3u8
 电信线路30,http://sykes.i234.me:35455/mgtv/641886683.m3u8
 电信线路30,http://sykes.i234.me:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
@@ -601,8 +601,6 @@
 联通线路57,http://nas.xianbao.info:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
 
 爱看咪咕,#genre#
-CCTV-1,http://A/ku9/js/Others/miguvideo.js?id=cctv1
-CCTV-2,http://A/ku9/js/Others/miguvideo.js?id=cctv2
 CCTV-3,http://A/ku9/js/Others/miguvideo.js?id=cctv3
 CCTV-4,http://A/ku9/js/Others/miguvideo.js?id=cctv4
 CCTV-4美洲,http://A/ku9/js/Others/miguvideo.js?id=cctv4a
