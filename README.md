@@ -26,7 +26,7 @@ Windows：<a href="https://potplayer.daum.net/" target="_blank">PotPlayer</a> , 
 # 强烈推荐酷9播放器!
 该播放器可以直接在本地播放通过js脚本播放频道,效果类似php脚本,但是php需要本地部署,js可直接在本地播放,优势巨大!<br>
 使用方法:<br>
-本仓库js脚本存放位置: https://github.com/Alonso0729/Television/tree/main/ku9/js<br>
+本仓库js脚本存放位置: https://github.com/Alonso0729/Television/tree/main/Scripts/js<br>
 
 在直播源中调用js脚本举例,格式可参考:
 <p dir="auto"><code>http://A/ku9/js/xjtv.js?id=xjws</code></p>
