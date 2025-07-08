@@ -13704,6 +13704,8 @@ http://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1526.m3u8
 #EXTINF:-1 tvg-name="安吉生活影视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/安吉生活影视.png" group-title="浙江",安吉生活影视
 http://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1526.flv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰中文.png" group-title="港澳台",凤凰中文
+http://A/ku9/js/HongKong/Phoenix.js?id=fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰中文.png" group-title="港澳台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰中文.png" group-title="港澳台",凤凰中文
 http://php.jdshipin.com/smt.php?id=phoenixtv_hd
@@ -13722,6 +13724,8 @@ http://cdn5.132.us.kg/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰中文.png" group-title="港澳台",凤凰中文
 http://eastscreen.tv/ooooo.php?id=fhws
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://A/ku9/js/HongKong/Phoenix.js?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
@@ -13739,6 +13743,8 @@ http://cdn8.163189.xyz/live/fhzx/stream.m3u8
 http://cdn8.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://eastscreen.tv/ooooo.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰香港.png" group-title="港澳台",凤凰香港
+http://A/ku9/js/HongKong/Phoenix.js?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰香港.png" group-title="港澳台",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰香港.png" group-title="港澳台",凤凰香港
