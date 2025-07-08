@@ -481,18 +481,15 @@
 联通线路48,http://af2c2a1b.tlivemcdn.com:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
 
 JS远程测试,#genre#
-CCTV-1,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bocai.js?id=484
-CCTV-2,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bocai.js?id=485
-凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzw
-凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhzx
-凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ph720.js?id=fhhk
-凤凰中文,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzw
-凤凰资讯,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhzx
-凤凰香港,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/phoenix.js?id=fhhk
-CCTV4K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600002264
-CCTV8K,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://yangshipin.cn/tv/home?pid=600156816
-CCTV4欧洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctveurope/
-CCTV4美洲,https://gitee.com/smalltown240730/240730/raw/master/ku9js/k-web/ku9/js/ku9js.js?id=https://tv.cctv.com/live/cctvamerica/
+凤凰中文,https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/f3de33732c5b367c92754b8e1ec8407dfe8aec37/ku9/js/HongKong/k-web/ku9/js/Phoenix.js?id=fhzw
+凤凰中文,https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/ku9/js/HongKong/k-web/ku9/js/Phoenix.js?id=fhzw
+凤凰中文,https://ghproxy.net/https://github.com/Alonso0729/Television/tree/main/ku9/js/HongKong/k-web/ku9/js/Phoenix.js?id=fhzw
+凤凰资讯,https://ghproxy.net/https://github.com/Alonso0729/Television/tree/main/ku9/js/HongKong/k-web/ku9/js/Phoenix.js?id=fhzx
+凤凰资讯,https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/f3de33732c5b367c92754b8e1ec8407dfe8aec37/ku9/js/HongKong/k-web/ku9/js/Phoenix.js?id=fhzx
+凤凰资讯,https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/ku9/js/HongKong/k-web/ku9/js/Phoenix.js?id=fhzx
+凤凰香港,https://ghproxy.net/https://github.com/Alonso0729/Television/tree/main/ku9/js/HongKong/k-web/ku9/js/Phoenix.js?id=fhhk
+凤凰香港,https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/f3de33732c5b367c92754b8e1ec8407dfe8aec37/ku9/js/HongKong/k-web/ku9/js/Phoenix.js?id=fhhk
+凤凰香港,https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/ku9/js/HongKong/k-web/ku9/js/Phoenix.js?id=fhhk
 
 海南移动-含ystenlive,#genre#
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/5000000004000006211$海南移动
