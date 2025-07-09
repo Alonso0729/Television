@@ -480,6 +480,16 @@
 联通线路48,http://af2c2a1b.tlivemcdn.com:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 联通线路48,http://af2c2a1b.tlivemcdn.com:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
 
+PHP测试,#genre#
+东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
+上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
+上海新纪实,http://8.138.7.223/tv/shtv.php?id=xjs
+上海魔都眼,http://8.138.7.223/tv/shtv.php?id=mdy
+上海乐游,http://8.138.7.223/tv/shtv.php?id=ly
+第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
+上海都市,http://8.138.7.223/tv/shtv.php?id=ds
+五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+
 海南移动-含ystenlive,#genre#
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/5000000004000006211$海南移动
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/1000000002000023773$海南移动
