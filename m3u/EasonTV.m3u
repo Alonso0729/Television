@@ -1270,6 +1270,8 @@ http://cdn8.163189.xyz/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/重温经典.png" group-title="上海",重温经典
 http://iptv.huuc.edu.cn/hls/cwjdhd.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/乐游.png" group-title="上海",乐游
+http://8.138.7.223/tv/shtv.php?id=ly
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/乐游.png" group-title="上海",乐游
 http://www.lizhinas.top:1009/rtp/239.252.219.55:5140$江西电信
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/乐游.png" group-title="上海",乐游
 http://phb888.myds.me:35455/itv/2000000002000000059.m3u8?cdn=hnbblive&Contentid=2000000002000000059&livemode=1&stbId=3
