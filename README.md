@@ -32,7 +32,7 @@ Windows：<a href="https://potplayer.daum.net/" target="_blank">PotPlayer</a> , 
 <p dir="auto"><code>http://A/ku9/js/xjtv.js?id=xjws</code></p>
 
 如何将js脚本放到本地路径位置:<br>
-![image](ku9/js/js代码使用方法.jpg)
+![image](Scripts/js/js代码使用方法.jpg)
 
 劣势:该APP仅支持安卓设备,在Windows和iOS设备上均不可用,js脚本也不会生效</br>
 
