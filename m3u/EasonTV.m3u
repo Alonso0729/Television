@@ -13761,6 +13761,12 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 https://cdn8.163189.xyz/live/fhhk/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰香港.png" group-title="港澳台",凤凰香港
 http://cdn8.132.us.kg/live/fhhk/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰电影.png" group-title="港澳台",凤凰电影
+http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰电影.png" group-title="港澳台",凤凰电影
+http://39.107.120.164:8080/live/diyp_fhdy.flv
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/凤凰电影.png" group-title="港澳台",凤凰电影
+rtmp://39.107.120.164/live/diyp_fhdy
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/纬来体育.png" group-title="港澳台",纬来体育台
 rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/纬来体育.png" group-title="港澳台",纬来体育台
