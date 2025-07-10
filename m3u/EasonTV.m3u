@@ -1087,10 +1087,12 @@ http://[2409:8087:5e20:24::0c]:6610/000000001000/5000000010000018926/1.m3u8?chan
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000012
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/上海都市.png" group-title="上海",上海都市
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018926
-#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/新纪实.png" group-title="上海",新纪实
+#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/纪实人文.png" group-title="上海",新纪实
 http://A/ku9/js/Shanghai/KanKanNews.js?id=12
-#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/新纪实.png" group-title="上海",新纪实
+#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/纪实人文.png" group-title="上海",新纪实
 http://A/ku9/js/Shanghai/shanghai.js?id=xjs&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/纪实人文.png" group-title="上海",新纪实
+http://k.061899.xyz/k.php?id=xjs
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/东方影视.png" group-title="上海",东方影视
 http://phb888.myds.me:35455/mgtv/617290047.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/东方影视.png" group-title="上海",东方影视
@@ -1187,10 +1189,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000000172
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000031641
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/哈哈炫动.png" group-title="上海",哈哈炫动
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031123
-#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/魔都眼.png" group-title="上海",魔都眼
+#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/魔都眼.png" group-title="上海",魔都眼
 http://A/ku9/js/Shanghai/KanKanNews.js?id=11
-#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/魔都眼.png" group-title="上海",魔都眼
+#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/魔都眼.png" group-title="上海",魔都眼
 http://A/ku9/js/Shanghai/shanghai.js?id=mdy&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/魔都眼.png" group-title="上海",魔都眼
+http://k.061899.xyz/k.php?id=mdy
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/东方购物.png" group-title="上海",东方购物一台
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/东方购物.png" group-title="上海",东方购物一台
@@ -1435,27 +1439,27 @@ http://php.jdshipin.com/TVOD/iptv.php?id=xsjxsj
 http://php.jdshipin.com/bestv.php?id=xsjhd/4000000
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/新视觉.png" group-title="上海",新视觉
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
-#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/崇明电视台.png" group-title="上海",崇明电视台
+#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/崇明电视台.png" group-title="上海",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/崇明电视台.png" group-title="上海",崇明电视台
+#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/崇明电视台.png" group-title="上海",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/崇明电视台.png" group-title="上海",崇明电视台
+#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/崇明电视台.png" group-title="上海",崇明电视台
 http://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.flv
-#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/崇明电视台.png" group-title="上海",崇明电视台
+#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/崇明电视台.png" group-title="上海",崇明电视台
 rtmp://pili-publish.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee
-#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/嘉定电视台.png" group-title="上海",嘉定电视台
+#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/嘉定电视台.png" group-title="上海",嘉定电视台
 http://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
-#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/嘉定电视台.png" group-title="上海",嘉定电视台
+#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/嘉定电视台.png" group-title="上海",嘉定电视台
 http://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
-#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/嘉定电视台.png" group-title="上海",嘉定电视台
+#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/嘉定电视台.png" group-title="上海",嘉定电视台
 http://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.flv
-#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/嘉定电视台.png" group-title="上海",嘉定电视台
+#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/嘉定电视台.png" group-title="上海",嘉定电视台
 rtmp://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b
-#EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/金山电视台.png" group-title="上海",金山电视台
+#EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/金山电视台.png" group-title="上海",金山电视台
 https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
-#EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/金山电视台.png" group-title="上海",金山电视台
+#EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/金山电视台.png" group-title="上海",金山电视台
 http://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.flv
-#EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/金山电视台.png" group-title="上海",金山电视台
+#EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/金山电视台.png" group-title="上海",金山电视台
 rtmp://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3
 #EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyin.png" group-title="体育",FE电动方程式
 https://live.iill.top/douyin/FIAFormulaE
