@@ -808,6 +808,12 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000047
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/CETV3.png" group-title="央视",CETV-3
 http://iptv.huuc.edu.cn/hls/cetv3.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/CETV4.png" group-title="央视",CETV-4
+http://phb888.myds.me:35455/bst/zgjy4hd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/CETV4.png" group-title="央视",CETV-4
+http://ccwwf.cn:35455/bst/zgjy4hd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/CETV4.png" group-title="央视",CETV-4
+http://sjyt127.synology.me:35455/bst/zgjy4hd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/CETV4.png" group-title="央视",CETV-4
 http://phb888.myds.me:35455/mgtv/923287339.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/CETV4.png" group-title="央视",CETV-4
 http://ccwwf.cn:35455/mgtv/923287339.m3u8
@@ -1387,6 +1393,12 @@ http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-16278186
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 #EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/东方购物.png" group-title="上海",东方购物二台
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/东方购物.png" group-title="上海",东方购物三台
+http://phb888.myds.me:35455/bst/dfgwsxhd8m@8000000.m3u8
+#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/东方购物.png" group-title="上海",东方购物三台
+http://ccwwf.cn:35455/bst/dfgwsxhd8m@8000000.m3u8
+#EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/东方购物.png" group-title="上海",东方购物三台
+http://sjyt127.synology.me:35455/bst/dfgwsxhd8m@8000000.m3u8
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/上海教育.png" group-title="上海",上海教育
 http://phb888.myds.me:35455/bst/setvhd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/上海教育.png" group-title="上海",上海教育
@@ -4124,6 +4136,12 @@ http://php.jdshipin.com/xztv.php?id=zy
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://A/ku9/js/Tibet/Tibet.js?id=1
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+http://phb888.myds.me:35455/bst/xzwszy@2500000.m3u8
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+http://ccwwf.cn:35455/bst/xzwszy@2500000.m3u8
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+http://sjyt127.synology.me:35455/bst/xzwszy@2500000.m3u8
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://phb888.myds.me:35455/itv/5000000002000021549.m3u8?cdn=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://ccwwf.cn:35455/itv/5000000002000021549.m3u8?cdn=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
@@ -6668,6 +6686,12 @@ http://222.179.42.129:8181/hls1.m3u8
 #EXTINF:-1 tvg-name="巴南综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/巴南综合.png" group-title="重庆",巴南综合
 http://live.cqbntv.com/bnmc/tv0709.m3u8
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建综合.png" group-title="福建",福建综合
+http://phb888.myds.me:35455/bst/fjzhhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建综合.png" group-title="福建",福建综合
+http://ccwwf.cn:35455/bst/fjzhhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建综合.png" group-title="福建",福建综合
+http://sjyt127.synology.me:35455/bst/fjzhhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建综合.png" group-title="福建",福建综合
 http://A/ku9/js/Fujian/fjtv.js?id=fjzh
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建综合.png" group-title="福建",福建综合
 http://kudan.x3322.net:3456/fujian.php?id=4
@@ -6686,6 +6710,12 @@ http://cdn.1678520.xyz/fujian.php?id=0
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建综合.png" group-title="福建",福建综合
 http://cdn.1678520.xyz:8880/fujian.php?id=0
 #EXTINF:-1 tvg-name="福建公共" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建公共.png" group-title="福建",福建公共
+http://phb888.myds.me:35455/bst/fjgghd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建公共" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建公共.png" group-title="福建",福建公共
+http://ccwwf.cn:35455/bst/fjgghd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建公共" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建公共.png" group-title="福建",福建公共
+http://sjyt127.synology.me:35455/bst/fjgghd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建公共" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建公共.png" group-title="福建",福建公共
 http://A/ku9/js/Fujian/fjtv.js?id=fjgg
 #EXTINF:-1 tvg-name="福建公共" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建公共.png" group-title="福建",福建公共
 http://kudan.x3322.net:3456/fujian.php?id=6
@@ -6695,6 +6725,12 @@ http://php.jdshipin.com/fujian.php?id=2
 http://cdn.1678520.xyz/fujian.php?id=2
 #EXTINF:-1 tvg-name="福建公共" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建公共.png" group-title="福建",福建公共
 http://cdn.1678520.xyz:8880/fujian.php?id=2
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建新闻.png" group-title="福建",福建新闻
+http://phb888.myds.me:35455/bst/fjxwhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建新闻.png" group-title="福建",福建新闻
+http://ccwwf.cn:35455/bst/fjxwhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建新闻.png" group-title="福建",福建新闻
+http://sjyt127.synology.me:35455/bst/fjxwhd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建新闻.png" group-title="福建",福建新闻
 http://A/ku9/js/Fujian/fjtv.js?id=fjxw
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建新闻.png" group-title="福建",福建新闻
@@ -6706,6 +6742,12 @@ http://cdn.1678520.xyz/fujian.php?id=3
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建新闻.png" group-title="福建",福建新闻
 http://cdn.1678520.xyz:8880/fujian.php?id=3
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建电视剧.png" group-title="福建",福建电视剧
+http://phb888.myds.me:35455/bst/fjdsjhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建电视剧.png" group-title="福建",福建电视剧
+http://ccwwf.cn:35455/bst/fjdsjhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建电视剧.png" group-title="福建",福建电视剧
+http://sjyt127.synology.me:35455/bst/fjdsjhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建电视剧.png" group-title="福建",福建电视剧
 http://A/ku9/js/Fujian/fjtv.js?id=fjdsj
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建电视剧.png" group-title="福建",福建电视剧
 http://kudan.x3322.net:3456/fujian.php?id=7
@@ -6715,6 +6757,12 @@ http://php.jdshipin.com/fujian.php?id=4
 http://cdn.1678520.xyz/fujian.php?id=4
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建电视剧.png" group-title="福建",福建电视剧
 http://cdn.1678520.xyz:8880/fujian.php?id=4
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建旅游.png" group-title="福建",福建旅游
+http://phb888.myds.me:35455/bst/fjlyhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建旅游.png" group-title="福建",福建旅游
+http://ccwwf.cn:35455/bst/fjlyhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建旅游.png" group-title="福建",福建旅游
+http://sjyt127.synology.me:35455/bst/fjlyhd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建旅游.png" group-title="福建",福建旅游
 http://A/ku9/js/Fujian/fjtv.js?id=fjly
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建旅游.png" group-title="福建",福建旅游
@@ -6726,6 +6774,12 @@ http://cdn.1678520.xyz/fujian.php?id=5
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建旅游.png" group-title="福建",福建旅游
 http://cdn.1678520.xyz:8880/fujian.php?id=5
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建经济.png" group-title="福建",福建经济
+http://phb888.myds.me:35455/bst/fjjjshhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建经济" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建经济.png" group-title="福建",福建经济
+http://ccwwf.cn:35455/bst/fjjjshhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建经济" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建经济.png" group-title="福建",福建经济
+http://sjyt127.synology.me:35455/bst/fjjjshhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建经济" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建经济.png" group-title="福建",福建经济
 http://A/ku9/js/Fujian/fjtv.js?id=fjjs
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建经济.png" group-title="福建",福建经济
 http://kudan.x3322.net:3456/fujian.php?id=9
@@ -6735,6 +6789,12 @@ http://php.jdshipin.com/fujian.php?id=6
 http://cdn.1678520.xyz/fujian.php?id=6
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建经济.png" group-title="福建",福建经济
 http://cdn.1678520.xyz:8880/fujian.php?id=6
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建文体.png" group-title="福建",福建文体
+http://phb888.myds.me:35455/bst/fjtyhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建文体.png" group-title="福建",福建文体
+http://ccwwf.cn:35455/bst/fjtyhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建文体.png" group-title="福建",福建文体
+http://sjyt127.synology.me:35455/bst/fjtyhd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建文体.png" group-title="福建",福建文体
 http://A/ku9/js/Fujian/fjtv.js?id=fjwt
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建文体.png" group-title="福建",福建文体
@@ -6746,6 +6806,12 @@ http://cdn.1678520.xyz/fujian.php?id=7
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建文体.png" group-title="福建",福建文体
 http://cdn.1678520.xyz:8880/fujian.php?id=7
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建少儿.png" group-title="福建",福建少儿
+http://phb888.myds.me:35455/bst/fjsehd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建少儿.png" group-title="福建",福建少儿
+http://ccwwf.cn:35455/bst/fjsehd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建少儿.png" group-title="福建",福建少儿
+http://sjyt127.synology.me:35455/bst/fjsehd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建少儿.png" group-title="福建",福建少儿
 http://A/ku9/js/Fujian/fjtv.js?id=fjse
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建少儿.png" group-title="福建",福建少儿
 http://kudan.x3322.net:3456/fujian.php?id=2
@@ -6755,6 +6821,12 @@ http://php.jdshipin.com/fujian.php?id=8
 http://cdn.1678520.xyz/fujian.php?id=8
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建少儿.png" group-title="福建",福建少儿
 http://cdn.1678520.xyz:8880/fujian.php?id=8
+#EXTINF:-1 tvg-name="福建教育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建教育.png" group-title="福建",福建教育
+http://phb888.myds.me:35455/bst/fjjypdhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建教育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建教育.png" group-title="福建",福建教育
+http://ccwwf.cn:35455/bst/fjjypdhd4m@4000000.m3u8
+#EXTINF:-1 tvg-name="福建教育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福建教育.png" group-title="福建",福建教育
+http://sjyt127.synology.me:35455/bst/fjjypdhd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="福州综合" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福州综合.png" group-title="福建",福州综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-name="福州生活" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/福州生活.png" group-title="福建",福州生活
