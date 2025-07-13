@@ -2884,6 +2884,10 @@ http://ccwwf.cn:35455/bst/btws@1300000.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/兵团卫视.png" group-title="卫视",兵团卫视
 http://sjyt127.synology.me:35455/bst/btws@1300000.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/兵团卫视.png" group-title="卫视",兵团卫视
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439$黑龙江移动
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/兵团卫视.png" group-title="卫视",兵团卫视
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/兵团卫视.png" group-title="卫视",兵团卫视
 http://phb888.myds.me:35455/itv/5000000006000040020.m3u8?cdn=bestzb&Contentid=5000000006000040020&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/兵团卫视.png" group-title="卫视",兵团卫视
 http://ccwwf.cn:35455/itv/5000000006000040020.m3u8?cdn=bestzb&Contentid=5000000006000040020&livemode=1&stbId=3
@@ -5904,6 +5908,12 @@ http://[2409:8087:5e20:24::0c]:6610/000000001000/6000000003000023702/1.m3u8?chan
 #EXTINF:-1 tvg-name="名师公开课" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/名师公开课.png" group-title="娱乐",名师公开课
 http://[2409:8087:5e20:24::0a]:6610/000000001000/6000000003000023702/1.m3u8?channel-id=wasusyt&Contentid=6000000003000023702&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索动物.png" group-title="娱乐",求索动物
+http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索动物.png" group-title="娱乐",求索动物
+http://39.135.133.157/PLTV/88888888/224/3221225730/1.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索动物.png" group-title="娱乐",求索动物
+http://39.135.135.71/PLTV/88888888/224/3221225730/1.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索动物.png" group-title="娱乐",求索动物
 http://phb888.myds.me:35455/itv/2000000004000000009.m3u8?cdn=hnbblive&Contentid=2000000004000000009&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索动物.png" group-title="娱乐",求索动物
 http://ccwwf.cn:35455/itv/6000000002000010046.m3u8?cdn=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
@@ -5921,6 +5931,12 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000009
 http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000009
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索动物.png" group-title="娱乐",求索动物
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000002000010046
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索纪录.png" group-title="娱乐",求索纪录
+http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索纪录.png" group-title="娱乐",求索纪录
+http://39.135.133.157/PLTV/88888888/224/3221225713/1.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索纪录.png" group-title="娱乐",求索纪录
+http://39.135.135.71/PLTV/88888888/224/3221225713/1.m3u8$黑龙江移动
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索纪录.png" group-title="娱乐",求索纪录
 http://phb888.myds.me:35455/itv/2000000004000000010.m3u8?cdn=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索纪录.png" group-title="娱乐",求索纪录
@@ -5942,6 +5958,12 @@ http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000010
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索纪录.png" group-title="娱乐",求索纪录
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000002000032052
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索科学.png" group-title="娱乐",求索科学
+http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索科学.png" group-title="娱乐",求索科学
+http://39.135.133.157/PLTV/88888888/224/3221225728/1.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索科学.png" group-title="娱乐",求索科学
+http://39.135.135.71/PLTV/88888888/224/3221225728/1.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索科学.png" group-title="娱乐",求索科学
 http://phb888.myds.me:35455/itv/2000000004000000011.m3u8?cdn=hnbblive&Contentid=2000000004000000011&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索科学.png" group-title="娱乐",求索科学
 http://ccwwf.cn:35455/itv/6000000002000032344.m3u8?cdn=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
@@ -5959,6 +5981,12 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000011
 http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000011
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索科学.png" group-title="娱乐",求索科学
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000002000032344
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索生活.png" group-title="娱乐",求索生活
+http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索生活.png" group-title="娱乐",求索生活
+http://39.135.133.157/PLTV/88888888/224/3221225715/1.m3u8$黑龙江移动
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索生活.png" group-title="娱乐",求索生活
+http://39.135.135.71/PLTV/88888888/224/3221225715/1.m3u8$黑龙江移动
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索生活.png" group-title="娱乐",求索生活
 http://phb888.myds.me:35455/itv/2000000004000000008.m3u8?cdn=hnbblive&Contentid=2000000004000000008&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/求索生活.png" group-title="娱乐",求索生活
@@ -10905,6 +10933,10 @@ http://ccwwf.cn:35455/mgtv/626064703.m3u8
 http://sjyt127.synology.me:35455/mgtv/626064703.m3u8
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
 http://k.061899.xyz/k.php?id=ymkt
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225656$黑龙江移动
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$黑龙江移动
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
 http://phb888.myds.me:35455/itv/1000000002000010063.m3u8?cdn=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
