@@ -752,13 +752,31 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/电视指南.png" group-title="央视",电视指南
 http://www.lizhinas.top:1009/rtp/239.252.219.97:5140$江西电信
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云足球.png" group-title="央视",风云足球
-http://61.184.46.85:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云足球.png" group-title="央视",风云足球
 http://www.lizhinas.top:1009/rtp/239.252.219.96:5140$江西电信
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云足球.png" group-title="央视",风云足球
+http://phb888.myds.me:35455/yhyx/IP-FYZQ-HD.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云足球.png" group-title="央视",风云足球
+http://ccwwf.cn:35455/yhyx/IP-FYZQ-HD.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云足球.png" group-title="央视",风云足球
+http://origin.ryzanedu.com:35455/yhyx/IP-FYZQ-HD.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云足球.png" group-title="央视",风云足球
+http://61.184.46.85:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/女性时尚.png" group-title="央视",女性时尚
 http://www.lizhinas.top:1009/rtp/239.252.219.94:5140$江西电信
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/女性时尚.png" group-title="央视",女性时尚
+http://phb888.myds.me:35455/yhyx/IP-NXSS-HD.m3u8
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/女性时尚.png" group-title="央视",女性时尚
+http://ccwwf.cn:35455/yhyx/IP-NXSS-HD.m3u8
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/女性时尚.png" group-title="央视",女性时尚
+http://origin.ryzanedu.com:35455/yhyx/IP-NXSS-HD.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/第一剧场.png" group-title="央视",第一剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.86:5140$江西电信
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/第一剧场.png" group-title="央视",第一剧场
+http://phb888.myds.me:35455/yhyx/IP-DYJC-HD.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/第一剧场.png" group-title="央视",第一剧场
+http://ccwwf.cn:35455/yhyx/IP-DYJC-HD.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/第一剧场.png" group-title="央视",第一剧场
+http://origin.ryzanedu.com:35455/yhyx/IP-DYJC-HD.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/第一剧场.png" group-title="央视",第一剧场
 http://phb888.myds.me:35455/nptv/dyjc.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/第一剧场.png" group-title="央视",第一剧场
@@ -770,6 +788,12 @@ http://61.184.46.85:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$�
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云剧场.png" group-title="央视",风云剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.89:5140$江西电信
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云剧场.png" group-title="央视",风云剧场
+http://phb888.myds.me:35455/yhyx/IP-FYJC-HD.m3u8
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云剧场.png" group-title="央视",风云剧场
+http://ccwwf.cn:35455/yhyx/IP-FYJC-HD.m3u8
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云剧场.png" group-title="央视",风云剧场
+http://origin.ryzanedu.com:35455/yhyx/IP-FYJC-HD.m3u8
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云剧场.png" group-title="央视",风云剧场
 http://phb888.myds.me:35455/nptv/fyjc.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/风云剧场.png" group-title="央视",风云剧场
 http://ccwwf.cn:35455/nptv/fyjc.m3u8
@@ -780,6 +804,12 @@ http://www.lizhinas.top:1009/rtp/239.252.219.87:5140$江西电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/怀旧剧场.png" group-title="央视",怀旧剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.90:5140$江西电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/怀旧剧场.png" group-title="央视",怀旧剧场
+http://phb888.myds.me:35455/yhyx/IP-HJJC-HD.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/怀旧剧场.png" group-title="央视",怀旧剧场
+http://ccwwf.cn:35455/yhyx/IP-HJJC-HD.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/怀旧剧场.png" group-title="央视",怀旧剧场
+http://origin.ryzanedu.com:35455/yhyx/IP-HJJC-HD.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/怀旧剧场.png" group-title="央视",怀旧剧场
 http://phb888.myds.me:35455/nptv/hjjc.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/怀旧剧场.png" group-title="央视",怀旧剧场
 http://ccwwf.cn:35455/nptv/hjjc.m3u8
@@ -789,16 +819,46 @@ http://origin.ryzanedu.com:35455/nptv/hjjc.m3u8
 http://61.184.46.85:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/高尔夫网球.png" group-title="央视",高尔夫网球
 http://www.lizhinas.top:1009/rtp/239.252.219.95:5140$江西电信
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/高尔夫网球.png" group-title="央视",高尔夫网球
+http://phb888.myds.me:35455/yhyx/IP-GEFWQ-HD.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/高尔夫网球.png" group-title="央视",高尔夫网球
+http://ccwwf.cn:35455/yhyx/IP-GEFWQ-HD.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/高尔夫网球.png" group-title="央视",高尔夫网球
+http://origin.ryzanedu.com:35455/yhyx/IP-GEFWQ-HD.m3u8
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/央视文化精品.png" group-title="央视",央视文化精品
 http://www.lizhinas.top:1009/rtp/239.252.219.81:5140$江西电信
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/央视文化精品.png" group-title="央视",央视文化精品
+http://phb888.myds.me:35455/yhyx/IP-YSJP-HD.m3u8
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/央视文化精品.png" group-title="央视",央视文化精品
+http://ccwwf.cn:35455/yhyx/IP-YSJP-HD.m3u8
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/央视文化精品.png" group-title="央视",央视文化精品
+http://origin.ryzanedu.com:35455/yhyx/IP-YSJP-HD.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/世界地理.png" group-title="央视",世界地理
 http://www.lizhinas.top:1009/rtp/239.252.219.93:5140$江西电信
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/世界地理.png" group-title="央视",世界地理
+http://phb888.myds.me:35455/yhyx/IP-SJDL-HD.m3u8
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/世界地理.png" group-title="央视",世界地理
+http://ccwwf.cn:35455/yhyx/IP-SJDL-HD.m3u8
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/世界地理.png" group-title="央视",世界地理
+http://origin.ryzanedu.com:35455/yhyx/IP-SJDL-HD.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/世界地理.png" group-title="央视",世界地理
 http://61.184.46.85:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/央视台球.png" group-title="央视",央视台球
 http://www.lizhinas.top:1009/rtp/239.252.219.80:5140$江西电信
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/央视台球.png" group-title="央视",央视台球
+http://phb888.myds.me:35455/yhyx/IP-YSTQ-HD.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/央视台球.png" group-title="央视",央视台球
+http://ccwwf.cn:35455/yhyx/IP-YSTQ-HD.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/央视台球.png" group-title="央视",央视台球
+http://origin.ryzanedu.com:35455/yhyx/IP-YSTQ-HD.m3u8
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/兵器科技.png" group-title="央视",兵器科技
 http://www.lizhinas.top:1009/rtp/239.252.219.98:5140$江西电信
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/兵器科技.png" group-title="央视",兵器科技
+http://phb888.myds.me:35455/yhyx/IP-BQKJ-HD.m3u8
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/兵器科技.png" group-title="央视",兵器科技
+http://ccwwf.cn:35455/yhyx/IP-BQKJ-HD.m3u8
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/兵器科技.png" group-title="央视",兵器科技
+http://origin.ryzanedu.com:35455/yhyx/IP-BQKJ-HD.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/老故事.png" group-title="央视",老故事
 http://phb888.myds.me:35455/mgtv/884121956.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/老故事.png" group-title="央视",老故事
