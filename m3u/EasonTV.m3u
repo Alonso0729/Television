@@ -3074,21 +3074,17 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000032070
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/浙江卫视.png" group-title="卫视",浙江卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7889730693553663314
 #EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyu.png" group-title="娱乐",咻咻满
-https://live.iill.top/douyu/4238637(?stream=m3u8)
-#EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyu.png" group-title="娱乐",咻咻满
-https://live.iill.top/douyu/4238637(?stream=xs)
+https://live.iill.top/douyu/4238637
 #EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyu.png" group-title="娱乐",咻咻满
 http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=U4238637
 #EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyu.png" group-title="娱乐",咻咻满
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U4238637$酷9远程JS
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyin.png" group-title="娱乐",气人主播QQQ
-https://phb888.myds.me:35455/douyin/427652269946(?stream=hls)
+https://live.iill.top/douyin/427652269946
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyin.png" group-title="娱乐",气人主播QQQ
-https://phb888.myds.me:35455/douyin/38993952516(?stream=hls)
+https://live.iill.top/douyin/38993952516
 #EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyu.png" group-title="娱乐",米娜Minana
-https://phb888.myds.me:35455/douyu/5551871(?stream=m3u8)
-#EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyu.png" group-title="娱乐",米娜Minana
-https://phb888.myds.me:35455/douyu/5551871(?stream=xs)
+https://live.iill.top/douyu/5551871
 #EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyu.png" group-title="娱乐",米娜Minana
 http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=U5551871
 #EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/Alonso0729/Television/refs/heads/main/logo/douyu.png" group-title="娱乐",米娜Minana
