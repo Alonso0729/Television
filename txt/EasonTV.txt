@@ -942,9 +942,9 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 北京卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8258663409451267714
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://k.061899.xyz/k.php?id=btws
-兵团卫视,http://phb888.myds.me:35455/bst/btws@1300000.m3u8
-兵团卫视,http://ccwwf.cn:35455/bst/btws@1300000.m3u8
-兵团卫视,http://origin.ryzanedu.com:35455/bst/btws@1300000.m3u8
+兵团卫视,http://phb888.myds.me:35455/yhyx/IP-BTWS-SD.m3u8
+兵团卫视,http://ccwwf.cn:35455/yhyx/IP-BTWS-SD.m3u8
+兵团卫视,http://origin.ryzanedu.com:35455/yhyx/IP-BTWS-SD.m3u8
 兵团卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439$黑龙江移动
 兵团卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8$黑龙江移动
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
@@ -988,6 +988,9 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 东南卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000005829
 东南卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000010584
 东南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7721801662260370363
+甘肃卫视,http://phb888.myds.me:35455/yhyx/IP-GSWS-SD.m3u8
+甘肃卫视,http://ccwwf.cn:35455/yhyx/IP-GSWS-SD.m3u8
+甘肃卫视,http://origin.ryzanedu.com:35455/yhyx/IP-GSWS-SD.m3u8
 甘肃卫视,http://phb888.myds.me:35455/nptv/gansu.m3u8
 甘肃卫视,http://ccwwf.cn:35455/nptv/gansu.m3u8
 甘肃卫视,http://origin.ryzanedu.com:35455/nptv/gansu.m3u8
@@ -1253,6 +1256,9 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.flv
 内蒙古蒙语卫视,rtmp://play1-qk.nmtv.cn/live/1686560387346365
 内蒙古蒙语卫视,http://1.24.190.98:10089/hls/39/index.m3u8
+内蒙古卫视,http://phb888.myds.me:35455/yhyx/IP-NMGWS-SD.m3u8
+内蒙古卫视,http://ccwwf.cn:35455/yhyx/IP-NMGWS-SD.m3u8
+内蒙古卫视,http://origin.ryzanedu.com:35455/yhyx/IP-NMGWS-SD.m3u8
 内蒙古卫视,http://phb888.myds.me:35455/nptv/neimenggu.m3u8
 内蒙古卫视,http://ccwwf.cn:35455/nptv/neimenggu.m3u8
 内蒙古卫视,http://origin.ryzanedu.com:35455/nptv/neimenggu.m3u8
@@ -1266,6 +1272,9 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 内蒙古卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8$黑龙江移动
 内蒙古卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000014080
 内蒙古卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=7331079758781182663
+宁夏卫视,http://phb888.myds.me:35455/yhyx/IP-NXWS-SD.m3u8
+宁夏卫视,http://ccwwf.cn:35455/yhyx/IP-NXWS-SD.m3u8
+宁夏卫视,http://origin.ryzanedu.com:35455/yhyx/IP-NXWS-SD.m3u8
 宁夏卫视,http://phb888.myds.me:35455/nptv/ningxia.m3u8
 宁夏卫视,http://ccwwf.cn:35455/nptv/ningxia.m3u8
 宁夏卫视,http://origin.ryzanedu.com:35455/nptv/ningxia.m3u8
@@ -1289,6 +1298,9 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 青海卫视,http://phb888.myds.me:35455/nptv/qinghai.m3u8
 青海卫视,http://ccwwf.cn:35455/nptv/qinghai.m3u8
 青海卫视,http://origin.ryzanedu.com:35455/nptv/qinghai.m3u8
+青海卫视,http://phb888.myds.me:35455/yhyx/IP-QHWS-SD.m3u8
+青海卫视,http://ccwwf.cn:35455/yhyx/IP-QHWS-SD.m3u8
+青海卫视,http://origin.ryzanedu.com:35455/yhyx/IP-QHWS-SD.m3u8
 青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628$黑龙江移动
 青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226323$黑龙江移动
 青海卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$黑龙江移动
@@ -1300,13 +1312,13 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 青海卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000013359
 青海卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040015
 青海卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6399324389404552555
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
 三沙卫视,http://phb888.myds.me:35455/gptv/G_SANSHA-HQ.m3u8
 三沙卫视,http://ccwwf.cn:35455/gptv/G_SANSHA-HQ.m3u8
 三沙卫视,http://origin.ryzanedu.com:35455/gptv/G_SANSHA-HQ.m3u8
 三沙卫视,http://phb888.myds.me:35455/bst/ssws2d5m@2500000.m3u8
 三沙卫视,http://ccwwf.cn:35455/bst/ssws2d5m@2500000.m3u8
 三沙卫视,http://origin.ryzanedu.com:35455/bst/ssws2d5m@2500000.m3u8
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 三沙卫视,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000106
 厦门卫视,http://phb888.myds.me:35455/bst/xmws@1300000.m3u8
@@ -1427,6 +1439,9 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 西藏藏语卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7134589828528695864
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 西藏卫视,http://k.061899.xyz/k.php?id=xzws
+西藏卫视,http://phb888.myds.me:35455/yhyx/IP-XZWS-SD.m3u8
+西藏卫视,http://ccwwf.cn:35455/yhyx/IP-XZWS-SD.m3u8
+西藏卫视,http://origin.ryzanedu.com:35455/yhyx/IP-XZWS-SD.m3u8
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638$黑龙江移动
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226433$黑龙江移动
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226433$黑龙江移动
@@ -1446,6 +1461,9 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 新疆卫视,http://A/ku9/js/Xinjiang/xjtv.js?id=xjws
 新疆卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjws$酷9远程JS
 新疆卫视,http://k.061899.xyz/k.php?id=xjws
+新疆卫视,http://phb888.myds.me:35455/yhyx/IP-XJWS-SD.m3u8
+新疆卫视,http://ccwwf.cn:35455/yhyx/IP-XJWS-SD.m3u8
+新疆卫视,http://origin.ryzanedu.com:35455/yhyx/IP-XJWS-SD.m3u8
 新疆卫视,http://phb888.myds.me:35455/nptv/xinjiang.m3u8
 新疆卫视,http://ccwwf.cn:35455/nptv/xinjiang.m3u8
 新疆卫视,http://origin.ryzanedu.com:35455/nptv/xinjiang.m3u8
