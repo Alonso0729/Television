@@ -2538,12 +2538,6 @@ rtmp://play1-qk.nmtv.cn/live/1686560387346365
 #EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://1.24.190.98:10089/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://phb888.myds.me:35455/yhyx/IP-NMGWS-SD.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://ccwwf.cn:35455/yhyx/IP-NMGWS-SD.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://origin.ryzanedu.com:35455/yhyx/IP-NMGWS-SD.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://phb888.myds.me:35455/nptv/neimenggu.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://ccwwf.cn:35455/nptv/neimenggu.m3u8
@@ -2551,6 +2545,12 @@ http://ccwwf.cn:35455/nptv/neimenggu.m3u8
 http://origin.ryzanedu.com:35455/nptv/neimenggu.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://k.061899.xyz/k.php?id=nmgws
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://phb888.myds.me:35455/yhyx/IP-NMGWS-SD.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://ccwwf.cn:35455/yhyx/IP-NMGWS-SD.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://origin.ryzanedu.com:35455/yhyx/IP-NMGWS-SD.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634$黑龙江移动
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
@@ -10285,13 +10285,13 @@ http://play1-qk.nmtv.cn/live/1686562470947181.flv
 rtmp://play1-qk.nmtv.cn/live/1686562470947181
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
 http://1.24.190.98:10089/hls/34/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧
 http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
-#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧
 http://play1-qk.nmtv.cn/live/1686561299036179.flv
-#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧
 rtmp://play1-qk.nmtv.cn/live/1686561299036179
-#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧
 http://1.24.190.98:10089/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/taksssss/tv/refs/heads/main/icon/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
 http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
