@@ -1354,7 +1354,11 @@ rtmp://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3
 #EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
 https://live.iill.top/douyin/FIAFormulaE
 #EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
+http://ccwwf.cn:35455/douyin/FIAFormulaE
+#EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
 https://live.iill.top/douyin/21642043600
+#EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
+http://ccwwf.cn:35455/douyin/21642043600
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226124$黑龙江移动
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
@@ -3064,27 +3068,43 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7889730693553663314
 #EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",咻咻满
 https://live.iill.top/douyu/4238637
 #EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",咻咻满
+http://ccwwf.cn:35455/douyu/4238637
+#EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",咻咻满
 http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=U4238637
 #EXTINF:-1 tvg-name="咻咻满" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",咻咻满
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U4238637$酷9远程JS
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
 https://live.iill.top/douyin/427652269946
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
+http://ccwwf.cn:35455/douyin/427652269946
+#EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
 https://live.iill.top/douyin/38993952516
+#EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
+http://ccwwf.cn:35455/douyin/38993952516
 #EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",米娜Minana
 https://live.iill.top/douyu/5551871
+#EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",米娜Minana
+http://ccwwf.cn:35455/douyu/5551871
 #EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",米娜Minana
 http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=U5551871
 #EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",米娜Minana
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U5551871$酷9远程JS
 #EXTINF:-1 tvg-name="真栗" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",真栗
 https://live.iill.top/bilibili/883263
+#EXTINF:-1 tvg-name="真栗" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",真栗
+http://ccwwf.cn:35455/bilibili/883263
 #EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
 https://live.iill.top/douyin/fishwomen
 #EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
+http://ccwwf.cn:35455/douyin/fishwomen
+#EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
 https://live.iill.top/douyin/2793884530
+#EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
+http://ccwwf.cn:35455/douyin/2793884530
 #EXTINF:-1 tvg-name="Prince晋" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",Prince晋
 https://live.iill.top/douyu/746256
+#EXTINF:-1 tvg-name="Prince晋" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",Prince晋
+http://ccwwf.cn:35455/douyu/746256
 #EXTINF:-1 tvg-name="Prince晋" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",Prince晋
 http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=U746256
 #EXTINF:-1 tvg-name="Prince晋" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",Prince晋
@@ -3092,27 +3112,45 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="申小敏" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",申小敏
 https://live.iill.top/douyu/6805176
 #EXTINF:-1 tvg-name="申小敏" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",申小敏
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U746256$酷9远程JS
+#EXTINF:-1 tvg-name="申小敏" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",申小敏
+http://ccwwf.cn:35455/douyu/6805176
+#EXTINF:-1 tvg-name="申小敏" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",申小敏
 http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=U6805176
 #EXTINF:-1 tvg-name="申小敏" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",申小敏
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U6805176$酷9远程JS
 #EXTINF:-1 tvg-name="石小蓉" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",石小蓉
 https://live.iill.top/douyu/717613
 #EXTINF:-1 tvg-name="石小蓉" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",石小蓉
+http://ccwwf.cn:35455/douyu/717613
+#EXTINF:-1 tvg-name="石小蓉" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",石小蓉
 http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=U717613
 #EXTINF:-1 tvg-name="石小蓉" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",石小蓉
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U717613$酷9远程JS
 #EXTINF:-1 tvg-name="菠萝赛东" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",菠萝赛东
 https://live.iill.top/bilibili/5520
+#EXTINF:-1 tvg-name="菠萝赛东" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",菠萝赛东
+http://ccwwf.cn:35455/bilibili/5520
 #EXTINF:-1 tvg-name="大肉嘎" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",大肉嘎
 https://live.iill.top/bilibili/21737720
+#EXTINF:-1 tvg-name="大肉嘎" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",大肉嘎
+http://ccwwf.cn:35455/bilibili/21737720
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
 https://live.iill.top/douyin/fayelau
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
+http://ccwwf.cn:35455/douyin/fayelau
+#EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
 https://live.iill.top/douyin/769667829224
+#EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
+http://ccwwf.cn:35455/douyin/769667829224
 #EXTINF:-1 tvg-name="Mr.619" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",Mr.619
 https://live.iill.top/douyin/20855128
+#EXTINF:-1 tvg-name="Mr.619" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",Mr.619
+http://ccwwf.cn:35455/douyin/20855128
 #EXTINF:-1 tvg-name="56学姐" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",56学姐
 https://live.iill.top/douyin/10429123
+#EXTINF:-1 tvg-name="56学姐" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",56学姐
+http://ccwwf.cn:35455/douyin/10429123
 #EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://11.112114.xyz/logo/1905极限反转.png" group-title="娱乐",1905极限反转
 http://A/ku9/js/Entertainment/1905.js?id=1905a
 #EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://11.112114.xyz/logo/1905极限反转.png" group-title="娱乐",1905极限反转
@@ -13373,6 +13411,7 @@ https://yang-1989.eu.org/live/TVB-Jade
 http://cdn5.163189.xyz/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://11.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 https://live.iill.top/IPTV/fct
+http://ccwwf.cn:35455/IPTV/fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://11.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://11.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
@@ -13425,6 +13464,7 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 https://yang-1989.eu.org/live/TVB-News-Channel
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://11.112114.xyz/logo/无线新闻台.png" group-title="港澳台",无线新闻台
 https://live.iill.top/IPTV/wxsw
+http://ccwwf.cn:35455/IPTV/wxsw
 #EXTINF:-1 tvg-name="星光视界" tvg-logo="https://11.112114.xyz/logo/星光视界.png" group-title="港澳台",星光视界
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/zxcvbnm9852.flv
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://11.112114.xyz/logo/星河台.png" group-title="港澳台",星河台
@@ -13899,18 +13939,22 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 webview://https://www.huya.com/29837259
 #EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="轮播",武林外传-B
 https://live.iill.top/bilibili/1978981263
+http://ccwwf.cn:35455/bilibili/1978981263
 #EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="轮播",武林外传-B
 webview://https://live.bilibili.com/1978981263
 #EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="轮播",武林外传-B
 https://live.iill.top/bilibili/1908329437
+http://ccwwf.cn:35455/bilibili/1908329437
 #EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="轮播",武林外传-B
 webview://https://live.bilibili.com/1908329437
 #EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="轮播",武林外传-B
 https://live.iill.top/bilibili/22970821
+http://ccwwf.cn:35455/bilibili/22970821
 #EXTINF:-1 tvg-name="武林外传-B" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="轮播",武林外传-B
 webview://https://live.bilibili.com/22970821
 #EXTINF:-1 tvg-name="炊事班的故事-B" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="轮播",炊事班的故事-B
 https://live.iill.top/bilibili/31730622
+http://ccwwf.cn:35455/bilibili/31730622
 #EXTINF:-1 tvg-name="炊事班的故事-B" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="轮播",炊事班的故事-B
 webview://https://live.bilibili.com/31730622
 #EXTINF:-1 tvg-name="好久不见-武林外传" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",好久不见-武林外传
@@ -15905,6 +15949,12 @@ http://ccwwf.cn:35455/yy/37988782
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/yy.js?id=37988782$酷9远程JS
 #EXTINF:-1 tvg-name="【科幻】超炫特效" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",【科幻】超炫特效
 webview://https://www.yy.com/37988782
+#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",炊事班的故事III
+http://ccwwf.cn:35455/yy/1382736716
+#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",炊事班的故事III
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/yy.js?id=1382736716$酷9远程JS
+#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",炊事班的故事III
+webview://https://www.yy.com/1382736716
 #EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",炊事班的故事III
 http://ccwwf.cn:35455/yy/1382851579
 #EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",炊事班的故事III
@@ -15919,12 +15969,6 @@ http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=19524135
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=19524135$酷9远程JS
 #EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",炊事班的故事III
 webview://https://www.huya.com/19524135
-#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",炊事班的故事III
-http://ccwwf.cn:35455/yy/1382736716
-#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",炊事班的故事III
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/yy.js?id=1382736716$酷9远程JS
-#EXTINF:-1 tvg-name="炊事班的故事III" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",炊事班的故事III
-webview://https://www.yy.com/1382736716
 #EXTINF:-1 tvg-name="你所喜欢的颖宝" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",你所喜欢的颖宝
 http://ccwwf.cn:35455/yy/1456829119
 #EXTINF:-1 tvg-name="你所喜欢的颖宝" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",你所喜欢的颖宝
