@@ -13843,6 +13843,14 @@ http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=11352879
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=11352879$酷9远程JS
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",猫和老鼠
 webview://https://www.huya.com/11352879
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="轮播",爱情公寓
+http://sjyt127.synology.me:35455/douyu/6863367
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="轮播",爱情公寓
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=U6863367
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="轮播",爱情公寓
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U6863367$酷9远程JS
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="轮播",爱情公寓
+webview://https://www.douyu.com/6863367
 #EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",爱情公寓
 http://sjyt127.synology.me:35455/huya/11336726
 #EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",爱情公寓
@@ -13931,6 +13939,62 @@ http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=29837259
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=29837259$酷9远程JS
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",蜡笔小新
 webview://https://www.huya.com/29837259
+#EXTINF:-1,tvg-id="神奇宝贝" tvg-name="神奇宝贝" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",神奇宝贝
+http://sjyt127.synology.me:35455/huya/11602069
+#EXTINF:-1,tvg-id="神奇宝贝" tvg-name="神奇宝贝" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",神奇宝贝
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=11602069
+#EXTINF:-1,tvg-id="神奇宝贝" tvg-name="神奇宝贝" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",神奇宝贝
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=11602069$酷9远程JS
+#EXTINF:-1,tvg-id="神奇宝贝" tvg-name="神奇宝贝" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",神奇宝贝
+webview://https://www.huya.com/11602069
+#EXTINF:-1,tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="其他",成龙历险记
+http://sjyt127.synology.me:35455/douyu/2287949
+#EXTINF:-1,tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="其他",成龙历险记
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=U2287949
+#EXTINF:-1,tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="其他",成龙历险记
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U2287949$酷9远程JS
+#EXTINF:-1,tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="其他",成龙历险记
+webview://https://www.douyu.com/2287949
+#EXTINF:-1,tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="其他",成龙历险记
+http://sjyt127.synology.me:35455/huya/11352946
+#EXTINF:-1,tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="其他",成龙历险记
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=11352946
+#EXTINF:-1,tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="其他",成龙历险记
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=11352946$酷9远程JS
+#EXTINF:-1,tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="其他",成龙历险记
+webview://https://www.huya.com/11352946
+#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",名侦探柯南
+http://sjyt127.synology.me:35455/huya/30080236
+#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",名侦探柯南
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=30080236
+#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",名侦探柯南
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=30080236$酷9远程JS
+#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",名侦探柯南
+webview://https://www.huya.com/30080236
+#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",名侦探柯南
+http://sjyt127.synology.me:35455/huya/30080148
+#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",名侦探柯南
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=30080148
+#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",名侦探柯南
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=30080148$酷9远程JS
+#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",名侦探柯南
+webview://https://www.huya.com/30080148
+#EXTINF:-1,tvg-id="网球王子" tvg-name="网球王子" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",网球王子
+http://sjyt127.synology.me:35455/huya/11352882
+#EXTINF:-1,tvg-id="网球王子" tvg-name="网球王子" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",网球王子
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=11352882
+#EXTINF:-1,tvg-id="网球王子" tvg-name="网球王子" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",网球王子
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=11352882$酷9远程JS
+#EXTINF:-1,tvg-id="网球王子" tvg-name="网球王子" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",网球王子
+webview://https://www.huya.com/11352882
+#EXTINF:-1,tvg-id="樱桃小丸子" tvg-name="樱桃小丸子" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",樱桃小丸子
+http://sjyt127.synology.me:35455/huya/11342394
+#EXTINF:-1,tvg-id="樱桃小丸子" tvg-name="樱桃小丸子" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",樱桃小丸子
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=11342394
+#EXTINF:-1,tvg-id="樱桃小丸子" tvg-name="樱桃小丸子" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",樱桃小丸子
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=11342394$酷9远程JS
+#EXTINF:-1,tvg-id="樱桃小丸子" tvg-name="樱桃小丸子" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",樱桃小丸子
+webview://https://www.huya.com/11342394
 #EXTINF:-1 tvg-name="好久不见-武林外传" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",好久不见-武林外传
 http://sjyt127.synology.me:35455/yy/1355914397
 #EXTINF:-1 tvg-name="好久不见-武林外传" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",好久不见-武林外传
@@ -14039,6 +14103,46 @@ http://sjyt127.synology.me:35455/yy/1354752120
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/yy.js?id=1354752120$酷9远程JS
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",武林外传
 webview://https://www.yy.com/1354752120
+#EXTINF:-1,tvg-id="延禧攻略" tvg-name="延禧攻略" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",延禧攻略
+http://sjyt127.synology.me:35455/huya/26355864
+#EXTINF:-1,tvg-id="延禧攻略" tvg-name="延禧攻略" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",延禧攻略
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=26355864
+#EXTINF:-1,tvg-id="延禧攻略" tvg-name="延禧攻略" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",延禧攻略
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=26355864$酷9远程JS
+#EXTINF:-1,tvg-id="延禧攻略" tvg-name="延禧攻略" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",延禧攻略
+webview://https://www.huya.com/26355864
+#EXTINF:-1,tvg-id="李卫当官" tvg-name="李卫当官" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",李卫当官
+http://sjyt127.synology.me:35455/huya/26355788
+#EXTINF:-1,tvg-id="李卫当官" tvg-name="李卫当官" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",李卫当官
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=26355788
+#EXTINF:-1,tvg-id="李卫当官" tvg-name="李卫当官" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",李卫当官
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=26355788$酷9远程JS
+#EXTINF:-1,tvg-id="李卫当官" tvg-name="李卫当官" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",李卫当官
+webview://https://www.huya.com/26355788
+#EXTINF:-1,tvg-id="乌龙闯情关" tvg-name="乌龙闯情关" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",乌龙闯情关
+http://sjyt127.synology.me:35455/huya/26355767
+#EXTINF:-1,tvg-id="乌龙闯情关" tvg-name="乌龙闯情关" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",乌龙闯情关
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=26355767
+#EXTINF:-1,tvg-id="乌龙闯情关" tvg-name="乌龙闯情关" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",乌龙闯情关
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=26355767$酷9远程JS
+#EXTINF:-1,tvg-id="乌龙闯情关" tvg-name="乌龙闯情关" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",乌龙闯情关
+webview://https://www.huya.com/26355767
+#EXTINF:-1,tvg-id="马大帅" tvg-name="马大帅" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",马大帅
+http://sjyt127.synology.me:35455/huya/23650804
+#EXTINF:-1,tvg-id="马大帅" tvg-name="马大帅" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",马大帅
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=23650804
+#EXTINF:-1,tvg-id="马大帅" tvg-name="马大帅" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",马大帅
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=23650804$酷9远程JS
+#EXTINF:-1,tvg-id="马大帅" tvg-name="马大帅" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",马大帅
+webview://https://www.huya.com/23650804
+#EXTINF:-1,tvg-id="杨光的快乐生活" tvg-name="杨光的快乐生活" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",杨光的快乐生活
+http://sjyt127.synology.me:35455/huya/11602085
+#EXTINF:-1,tvg-id="杨光的快乐生活" tvg-name="杨光的快乐生活" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",杨光的快乐生活
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=11602085
+#EXTINF:-1,tvg-id="杨光的快乐生活" tvg-name="杨光的快乐生活" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",杨光的快乐生活
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=11602085$酷9远程JS
+#EXTINF:-1,tvg-id="杨光的快乐生活" tvg-name="杨光的快乐生活" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="其他",杨光的快乐生活
+webview://https://www.huya.com/11602085
 #EXTINF:-1 tvg-name="【战狼3吴京】首播" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",【战狼3吴京】首播
 http://sjyt127.synology.me:35455/yy/1456668939
 #EXTINF:-1 tvg-name="【战狼3吴京】首播" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",【战狼3吴京】首播
@@ -14357,6 +14461,14 @@ http://sjyt127.synology.me:35455/yy/1458722520
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/yy.js?id=1458722520$酷9远程JS
 #EXTINF:-1 tvg-name="丫头动漫 斗罗斗破" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",丫头动漫 斗罗斗破
 webview://https://www.yy.com/1458722520
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",东北一家人
+http://sjyt127.synology.me:35455/huya/21059634
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",东北一家人
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=21059634
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",东北一家人
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=21059634$酷9远程JS
+#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",东北一家人
+webview://https://www.huya.com/21059634
 #EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",东北一家人
 http://sjyt127.synology.me:35455/yy/1355273385
 #EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",东北一家人
@@ -16729,6 +16841,14 @@ http://sjyt127.synology.me:35455/yy/1354889048
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/yy.js?id=1354889048$酷9远程JS
 #EXTINF:-1 tvg-name="致敬星爷致敬经典" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",致敬星爷致敬经典
 webview://https://www.yy.com/1354889048
+#EXTINF:-1 tvg-name="炊事班的故事" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="轮播",炊事班的故事
+http://sjyt127.synology.me:35455/douyu/319576
+#EXTINF:-1 tvg-name="炊事班的故事" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="轮播",炊事班的故事
+http://A/ku9/js/Entertainment/HuyaAndDouyu.js?id=U319576
+#EXTINF:-1 tvg-name="炊事班的故事" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="轮播",炊事班的故事
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U319576$酷9远程JS
+#EXTINF:-1 tvg-name="炊事班的故事" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="轮播",炊事班的故事
+webview://https://www.huya.com/319576
 #EXTINF:-1 tvg-name="炊事班的故事" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",炊事班的故事
 http://sjyt127.synology.me:35455/yy/1382749901
 #EXTINF:-1 tvg-name="炊事班的故事" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",炊事班的故事
