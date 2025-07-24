@@ -514,12 +514,6 @@ http://sjyt127.synology.me:35455/gptv/G_CCTV-4K-HD.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
 http://origin.ryzanedu.com:35455/gptv/G_CCTV-4K-HD.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
-http://phb888.myds.me:35455/yhyx/IP-CCTV-4K.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
-http://sjyt127.synology.me:35455/yhyx/IP-CCTV-4K.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
-http://origin.ryzanedu.com:35455/yhyx/IP-CCTV-4K.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
 http://a21709.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
 http://php.jdshipin.com/bestv.php?id=cctv4k/15000000
@@ -766,12 +760,6 @@ http://www.lizhinas.top:1009/rtp/239.252.219.97:5140$江西电信
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
 http://www.lizhinas.top:1009/rtp/239.252.219.96:5140$江西电信
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
-http://phb888.myds.me:35455/yhyx/IP-FYZQ-HD.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
-http://sjyt127.synology.me:35455/yhyx/IP-FYZQ-HD.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
-http://origin.ryzanedu.com:35455/yhyx/IP-FYZQ-HD.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
 http://61.184.46.85:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="央视",女性时尚
 http://www.lizhinas.top:1009/rtp/239.252.219.94:5140$江西电信
@@ -781,20 +769,8 @@ http://phb888.myds.me:35455/gptv/G_NVXINGSS.m3u8
 http://sjyt127.synology.me:35455/gptv/G_NVXINGSS.m3u8
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="央视",女性时尚
 http://origin.ryzanedu.com:35455/gptv/G_NVXINGSS.m3u8
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="央视",女性时尚
-http://phb888.myds.me:35455/yhyx/IP-NXSS-HD.m3u8
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="央视",女性时尚
-http://sjyt127.synology.me:35455/yhyx/IP-NXSS-HD.m3u8
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="央视",女性时尚
-http://origin.ryzanedu.com:35455/yhyx/IP-NXSS-HD.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.86:5140$江西电信
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
-http://phb888.myds.me:35455/yhyx/IP-DYJC-HD.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
-http://sjyt127.synology.me:35455/yhyx/IP-DYJC-HD.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
-http://origin.ryzanedu.com:35455/yhyx/IP-DYJC-HD.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
 http://phb888.myds.me:35455/nptv/dyjc.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
@@ -806,12 +782,6 @@ http://61.184.46.85:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$�
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.89:5140$江西电信
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
-http://phb888.myds.me:35455/yhyx/IP-FYJC-HD.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
-http://sjyt127.synology.me:35455/yhyx/IP-FYJC-HD.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
-http://origin.ryzanedu.com:35455/yhyx/IP-FYJC-HD.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
 http://phb888.myds.me:35455/nptv/fyjc.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
 http://sjyt127.synology.me:35455/nptv/fyjc.m3u8
@@ -822,12 +792,6 @@ http://www.lizhinas.top:1009/rtp/239.252.219.87:5140$江西电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.90:5140$江西电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场
-http://phb888.myds.me:35455/yhyx/IP-HJJC-HD.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场
-http://sjyt127.synology.me:35455/yhyx/IP-HJJC-HD.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场
-http://origin.ryzanedu.com:35455/yhyx/IP-HJJC-HD.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://phb888.myds.me:35455/nptv/hjjc.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://sjyt127.synology.me:35455/nptv/hjjc.m3u8
@@ -837,46 +801,16 @@ http://origin.ryzanedu.com:35455/nptv/hjjc.m3u8
 http://61.184.46.85:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://www.lizhinas.top:1009/rtp/239.252.219.95:5140$江西电信
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://phb888.myds.me:35455/yhyx/IP-GEFWQ-HD.m3u8
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://sjyt127.synology.me:35455/yhyx/IP-GEFWQ-HD.m3u8
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://origin.ryzanedu.com:35455/yhyx/IP-GEFWQ-HD.m3u8
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://11.112114.xyz/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://www.lizhinas.top:1009/rtp/239.252.219.81:5140$江西电信
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://11.112114.xyz/logo/央视文化精品.png" group-title="央视",央视文化精品
-http://phb888.myds.me:35455/yhyx/IP-YSJP-HD.m3u8
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://11.112114.xyz/logo/央视文化精品.png" group-title="央视",央视文化精品
-http://sjyt127.synology.me:35455/yhyx/IP-YSJP-HD.m3u8
-#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://11.112114.xyz/logo/央视文化精品.png" group-title="央视",央视文化精品
-http://origin.ryzanedu.com:35455/yhyx/IP-YSJP-HD.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="央视",世界地理
 http://www.lizhinas.top:1009/rtp/239.252.219.93:5140$江西电信
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="央视",世界地理
-http://phb888.myds.me:35455/yhyx/IP-SJDL-HD.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="央视",世界地理
-http://sjyt127.synology.me:35455/yhyx/IP-SJDL-HD.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="央视",世界地理
-http://origin.ryzanedu.com:35455/yhyx/IP-SJDL-HD.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="央视",世界地理
 http://61.184.46.85:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="央视",央视台球
 http://www.lizhinas.top:1009/rtp/239.252.219.80:5140$江西电信
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="央视",央视台球
-http://phb888.myds.me:35455/yhyx/IP-YSTQ-HD.m3u8
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="央视",央视台球
-http://sjyt127.synology.me:35455/yhyx/IP-YSTQ-HD.m3u8
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="央视",央视台球
-http://origin.ryzanedu.com:35455/yhyx/IP-YSTQ-HD.m3u8
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
 http://www.lizhinas.top:1009/rtp/239.252.219.98:5140$江西电信
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
-http://phb888.myds.me:35455/yhyx/IP-BQKJ-HD.m3u8
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
-http://sjyt127.synology.me:35455/yhyx/IP-BQKJ-HD.m3u8
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
-http://origin.ryzanedu.com:35455/yhyx/IP-BQKJ-HD.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://11.112114.xyz/logo/老故事.png" group-title="央视",老故事
 http://phb888.myds.me:35455/mgtv/884121956.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://11.112114.xyz/logo/老故事.png" group-title="央视",老故事
@@ -1120,12 +1054,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
-http://phb888.myds.me:35455/yhyx/IP-CWJD-HD.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
-http://sjyt127.synology.me:35455/yhyx/IP-CWJD-HD.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
-http://origin.ryzanedu.com:35455/yhyx/IP-CWJD-HD.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
 http://cdn8.163189.xyz/live/cwjd/stream.m3u8
@@ -1139,12 +1067,6 @@ http://sjyt127.synology.me:35455/bst/qjshd@4000000.m3u8
 http://origin.ryzanedu.com:35455/bst/qjshd@4000000.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://k.061899.xyz/k.php?id=ly
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
-http://phb888.myds.me:35455/yhyx/IP-LY-HD.m3u8
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
-http://sjyt127.synology.me:35455/yhyx/IP-LY-HD.m3u8
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
-http://origin.ryzanedu.com:35455/yhyx/IP-LY-HD.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://8.138.7.223/tv/shtv.php?id=ly
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
@@ -1190,12 +1112,6 @@ http://sjyt127.synology.me:35455/bst/dfcjhd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
 http://origin.ryzanedu.com:35455/bst/dfcjhd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
-http://phb888.myds.me:35455/yhyx/IP-DFCJ-HD.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
-http://sjyt127.synology.me:35455/yhyx/IP-DFCJ-HD.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
-http://origin.ryzanedu.com:35455/yhyx/IP-DFCJ-HD.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000090
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010003
@@ -1236,12 +1152,6 @@ http://origin.ryzanedu.com:35455/bst/jbtyhd@4000000.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://k.061899.xyz/k.php?id=jbty
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://phb888.myds.me:35455/yhyx/IP-JBTY-HD.m3u8
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://sjyt127.synology.me:35455/yhyx/IP-JBTY-HD.m3u8
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://origin.ryzanedu.com:35455/yhyx/IP-JBTY-HD.m3u8
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000008
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000029972
@@ -1251,12 +1161,6 @@ http://phb888.myds.me:35455/bst/dsjchd@4000000.m3u8
 http://sjyt127.synology.me:35455/bst/dsjchd@4000000.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
 http://origin.ryzanedu.com:35455/bst/dsjchd@4000000.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
-http://phb888.myds.me:35455/yhyx/IP-DSJC-HD.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
-http://sjyt127.synology.me:35455/yhyx/IP-DSJC-HD.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
-http://origin.ryzanedu.com:35455/yhyx/IP-DSJC-HD.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000015
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
@@ -1270,12 +1174,6 @@ http://sjyt127.synology.me:35455/bst/dmxchd@4000000.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://origin.ryzanedu.com:35455/bst/dmxchd@4000000.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
-http://phb888.myds.me:35455/yhyx/IP-DMXC-HD.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
-http://sjyt127.synology.me:35455/yhyx/IP-DMXC-HD.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
-http://origin.ryzanedu.com:35455/yhyx/IP-DMXC-HD.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000009
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000023636
@@ -1288,12 +1186,6 @@ http://sjyt127.synology.me:35455/bst/shsshd@4000000.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
 http://origin.ryzanedu.com:35455/bst/shsshd@4000000.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
-http://phb888.myds.me:35455/yhyx/IP-SHSS-HD.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
-http://sjyt127.synology.me:35455/yhyx/IP-SHSS-HD.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
-http://origin.ryzanedu.com:35455/yhyx/IP-SHSS-HD.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000006
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000019634
@@ -1303,12 +1195,6 @@ http://phb888.myds.me:35455/bst/yxfyhd@4000000.m3u8
 http://sjyt127.synology.me:35455/bst/yxfyhd@4000000.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
 http://origin.ryzanedu.com:35455/bst/yxfyhd@4000000.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
-http://phb888.myds.me:35455/yhyx/IP-YXFY-HD.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
-http://sjyt127.synology.me:35455/yhyx/IP-YXFY-HD.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
-http://origin.ryzanedu.com:35455/yhyx/IP-YXFY-HD.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
 http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/youxifengyunhd/3000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
@@ -1916,12 +1802,6 @@ http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://k.061899.xyz/k.php?id=btws
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://phb888.myds.me:35455/yhyx/IP-BTWS-SD.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://sjyt127.synology.me:35455/yhyx/IP-BTWS-SD.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://origin.ryzanedu.com:35455/yhyx/IP-BTWS-SD.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439$黑龙江移动
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8$黑龙江移动
@@ -2007,12 +1887,6 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000005829
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000010584
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7721801662260370363
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://phb888.myds.me:35455/yhyx/IP-GSWS-SD.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://sjyt127.synology.me:35455/yhyx/IP-GSWS-SD.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://origin.ryzanedu.com:35455/yhyx/IP-GSWS-SD.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://phb888.myds.me:35455/nptv/gansu.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
@@ -2546,12 +2420,6 @@ http://origin.ryzanedu.com:35455/nptv/neimenggu.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://k.061899.xyz/k.php?id=nmgws
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://phb888.myds.me:35455/yhyx/IP-NMGWS-SD.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://sjyt127.synology.me:35455/yhyx/IP-NMGWS-SD.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://origin.ryzanedu.com:35455/yhyx/IP-NMGWS-SD.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634$黑龙江移动
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226389$黑龙江移动
@@ -2563,12 +2431,6 @@ http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/inde
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000014080
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=7331079758781182663
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://phb888.myds.me:35455/yhyx/IP-NXWS-SD.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://sjyt127.synology.me:35455/yhyx/IP-NXWS-SD.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://origin.ryzanedu.com:35455/yhyx/IP-NXWS-SD.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://phb888.myds.me:35455/nptv/ningxia.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
@@ -2615,12 +2477,6 @@ http://phb888.myds.me:35455/nptv/qinghai.m3u8
 http://sjyt127.synology.me:35455/nptv/qinghai.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 http://origin.ryzanedu.com:35455/nptv/qinghai.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
-http://phb888.myds.me:35455/yhyx/IP-QHWS-SD.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
-http://sjyt127.synology.me:35455/yhyx/IP-QHWS-SD.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
-http://origin.ryzanedu.com:35455/yhyx/IP-QHWS-SD.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628$黑龙江移动
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
@@ -2898,12 +2754,6 @@ http://php.jdshipin.com/xztv.php?id=ws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://k.061899.xyz/k.php?id=xzws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://phb888.myds.me:35455/yhyx/IP-XZWS-SD.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://sjyt127.synology.me:35455/yhyx/IP-XZWS-SD.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://origin.ryzanedu.com:35455/yhyx/IP-XZWS-SD.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638$黑龙江移动
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226433$黑龙江移动
@@ -2941,12 +2791,6 @@ http://A/ku9/js/Xinjiang/xjtv.js?id=xjws
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjws$酷9远程JS
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://k.061899.xyz/k.php?id=xjws
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://phb888.myds.me:35455/yhyx/IP-XJWS-SD.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://sjyt127.synology.me:35455/yhyx/IP-XJWS-SD.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://origin.ryzanedu.com:35455/yhyx/IP-XJWS-SD.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://phb888.myds.me:35455/nptv/xinjiang.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
@@ -3258,12 +3102,6 @@ http://origin.ryzanedu.com:35455/mgtv/952383261.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://k.061899.xyz/k.php?id=ymdy
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-http://phb888.myds.me:35455/yhyx/IP-HCGQ-HD.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-http://sjyt127.synology.me:35455/yhyx/IP-HCGQ-HD.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
-http://origin.ryzanedu.com:35455/yhyx/IP-HCGQ-HD.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$江西电信
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://eastscreen.tv/ooooo.php?id=chchd
@@ -3278,12 +3116,6 @@ http://origin.ryzanedu.com:35455/mgtv/644368373.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://k.061899.xyz/k.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-http://phb888.myds.me:35455/yhyx/IP-JTYY-HD.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-http://sjyt127.synology.me:35455/yhyx/IP-JTYY-HD.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
-http://origin.ryzanedu.com:35455/yhyx/IP-JTYY-HD.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$江西电信
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://eastscreen.tv/ooooo.php?id=chcjt
@@ -3297,12 +3129,6 @@ http://sjyt127.synology.me:35455/mgtv/644368714.m3u8
 http://origin.ryzanedu.com:35455/mgtv/644368714.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://k.061899.xyz/k.php?id=dzdy
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-http://phb888.myds.me:35455/yhyx/IP-DZDY-HD.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-http://sjyt127.synology.me:35455/yhyx/IP-DZDY-HD.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
-http://origin.ryzanedu.com:35455/yhyx/IP-DZDY-HD.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://www.lizhinas.top:1009/rtp/239.252.219.85:5140$江西电信
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
@@ -4275,12 +4101,6 @@ https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/mai
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225729$黑龙江移动
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8$黑龙江移动
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
-http://phb888.myds.me:35455/yhyx/IP-JSKJ-HD.m3u8
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
-http://sjyt127.synology.me:35455/yhyx/IP-JSKJ-HD.m3u8
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
-http://origin.ryzanedu.com:35455/yhyx/IP-JSKJ-HD.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://phb888.myds.me:35455/gptv/G_BEIJINGJS-HD.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
@@ -5985,18 +5805,6 @@ http://111.225.95.105:33333/hls/25/index.m3u8
 http://tv.pull.hebtv.com/jishi/sanjiagouwu.m3u8?t=2510710360&k=a5c9265ab5d7c3f456d9ef32cffef7dc
 #EXTINF:-1 tvg-name="河北三佳购物" tvg-logo="https://11.112114.xyz/logo/河北三佳购物.png" group-title="河北",河北三佳购物
 http://tv.pull.hebtv.com/jishi/sanjiagouwu.flv?t=2510710360&k=bcbc1f02387692e51440f87980955c03
-#EXTINF:-1 tvg-name="河北收视指南" tvg-logo="https://11.112114.xyz/logo/河北收视指南.png" group-title="河北",河北收视指南
-http://phb888.myds.me:35455/yhyx/IP-HEBSSZN-HD.m3u8
-#EXTINF:-1 tvg-name="河北收视指南" tvg-logo="https://11.112114.xyz/logo/河北收视指南.png" group-title="河北",河北收视指南
-http://sjyt127.synology.me:35455/yhyx/IP-HEBSSZN-HD.m3u8
-#EXTINF:-1 tvg-name="河北收视指南" tvg-logo="https://11.112114.xyz/logo/河北收视指南.png" group-title="河北",河北收视指南
-http://origin.ryzanedu.com:35455/yhyx/IP-HEBSSZN-HD.m3u8
-#EXTINF:-1 tvg-name="河北杂技" tvg-logo="https://11.112114.xyz/logo/河北杂技.png" group-title="河北",河北杂技
-http://phb888.myds.me:35455/yhyx/IP-HEBZJ-HD.m3u8
-#EXTINF:-1 tvg-name="河北杂技" tvg-logo="https://11.112114.xyz/logo/河北杂技.png" group-title="河北",河北杂技
-http://sjyt127.synology.me:35455/yhyx/IP-HEBZJ-HD.m3u8
-#EXTINF:-1 tvg-name="河北杂技" tvg-logo="https://11.112114.xyz/logo/河北杂技.png" group-title="河北",河北杂技
-http://origin.ryzanedu.com:35455/yhyx/IP-HEBZJ-HD.m3u8
 #EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://11.112114.xyz/logo/石家庄新闻综合.png" group-title="河北",石家庄新闻综合
 http://A/ku9/js/Hebei/shijiaz.js?id=4
 #EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://11.112114.xyz/logo/石家庄新闻综合.png" group-title="河北",石家庄新闻综合
@@ -6109,30 +5917,6 @@ http://A/ku9/js/Hebei/hebeidf.js?id=xt2&key=关注公共号❤：AI科技生活
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/hebeidf.js?id=xt2&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://11.112114.xyz/logo/邢台城市生活.png" group-title="河北",邢台城市生活
 http://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="唐山新闻" tvg-logo="https://11.112114.xyz/logo/唐山新闻.png" group-title="河北",唐山新闻
-http://phb888.myds.me:35455/yhyx/IP-TSXWZH-HD.m3u8
-#EXTINF:-1 tvg-name="唐山新闻" tvg-logo="https://11.112114.xyz/logo/唐山新闻.png" group-title="河北",唐山新闻
-http://sjyt127.synology.me:35455/yhyx/IP-TSXWZH-HD.m3u8
-#EXTINF:-1 tvg-name="唐山新闻" tvg-logo="https://11.112114.xyz/logo/唐山新闻.png" group-title="河北",唐山新闻
-http://origin.ryzanedu.com:35455/yhyx/IP-TSXWZH-HD.m3u8
-#EXTINF:-1 tvg-name="唐山生活" tvg-logo="https://11.112114.xyz/logo/唐山生活.png" group-title="河北",唐山生活
-http://phb888.myds.me:35455/yhyx/IP-TSSHFW-HD.m3u8
-#EXTINF:-1 tvg-name="唐山生活" tvg-logo="https://11.112114.xyz/logo/唐山生活.png" group-title="河北",唐山生活
-http://sjyt127.synology.me:35455/yhyx/IP-TSSHFW-HD.m3u8
-#EXTINF:-1 tvg-name="唐山生活" tvg-logo="https://11.112114.xyz/logo/唐山生活.png" group-title="河北",唐山生活
-http://origin.ryzanedu.com:35455/yhyx/IP-TSSHFW-HD.m3u8
-#EXTINF:-1 tvg-name="唐山影视" tvg-logo="https://11.112114.xyz/logo/唐山影视.png" group-title="河北",唐山影视
-http://phb888.myds.me:35455/yhyx/IP-TSYSHD.m3u8
-#EXTINF:-1 tvg-name="唐山影视" tvg-logo="https://11.112114.xyz/logo/唐山影视.png" group-title="河北",唐山影视
-http://sjyt127.synology.me:35455/yhyx/IP-TSYSHD.m3u8
-#EXTINF:-1 tvg-name="唐山影视" tvg-logo="https://11.112114.xyz/logo/唐山影视.png" group-title="河北",唐山影视
-http://origin.ryzanedu.com:35455/yhyx/IP-TSYSHD.m3u8
-#EXTINF:-1 tvg-name="唐山公共" tvg-logo="https://11.112114.xyz/logo/唐山公共.png" group-title="河北",唐山公共
-http://phb888.myds.me:35455/yhyx/IP-TSGG-HD.m3u8
-#EXTINF:-1 tvg-name="唐山公共" tvg-logo="https://11.112114.xyz/logo/唐山公共.png" group-title="河北",唐山公共
-http://sjyt127.synology.me:35455/yhyx/IP-TSGG-HD.m3u8
-#EXTINF:-1 tvg-name="唐山公共" tvg-logo="https://11.112114.xyz/logo/唐山公共.png" group-title="河北",唐山公共
-http://origin.ryzanedu.com:35455/yhyx/IP-TSGG-HD.m3u8
 #EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://11.112114.xyz/logo/张家口新闻综合.png" group-title="河北",张家口新闻综合
 http://nlive.zjkgdcs.com:8572/live/xwzhpd.m3u8
 #EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://11.112114.xyz/logo/张家口公共.png" group-title="河北",张家口公共
@@ -6493,12 +6277,6 @@ http://A/ku9/js/Henan/henan.js?id=wspd&key=关注公共号❤：AI科技生活
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=wspd&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
 http://php.jdshipin.com/hntv.php?id=wspd
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
-http://phb888.myds.me:35455/yhyx/IP-WSSJ-HD.m3u8
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
-http://sjyt127.synology.me:35455/yhyx/IP-WSSJ-HD.m3u8
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
-http://origin.ryzanedu.com:35455/yhyx/IP-WSSJ-HD.m3u8
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
 http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
@@ -8339,12 +8117,6 @@ https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/mai
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000011724
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://11.112114.xyz/logo/湖南金鹰纪实.png" group-title="湖南",湖南金鹰纪实
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031203
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://phb888.myds.me:35455/yhyx/IP-JYKT-HD.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://sjyt127.synology.me:35455/yhyx/IP-JYKT-HD.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
-http://origin.ryzanedu.com:35455/yhyx/IP-JYKT-HD.m3u8
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 http://A/ku9/js/Hunan/hunan.js?id=jykt&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
