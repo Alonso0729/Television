@@ -209,18 +209,12 @@
 联通线路20,http://pve.jiahai.cc:35455/bst/xsjhd@4000000.m3u8
 联通线路20,http://pve.jiahai.cc:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 联通线路20,http://pve.jiahai.cc:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
-联通线路21,http://jiahai.cc:35455/nptv/dongfang.m3u8
-联通线路21,http://jiahai.cc:35455/mgtv/641886683.m3u8
-联通线路21,http://jiahai.cc:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-联通线路21,http://jiahai.cc:35455/bst/xsjhd@4000000.m3u8
-联通线路21,http://jiahai.cc:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-联通线路21,http://jiahai.cc:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
-联通线路22,http://origin.ryzanedu.com:35455/nptv/dongfang.m3u8
-联通线路22,http://origin.ryzanedu.com:35455/mgtv/641886683.m3u8
-联通线路22,http://origin.ryzanedu.com:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-联通线路22,http://origin.ryzanedu.com:35455/bst/xsjhd@4000000.m3u8
-联通线路22,http://origin.ryzanedu.com:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-联通线路22,http://origin.ryzanedu.com:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
+联通线路21,http://origin.ryzanedu.com:35455/nptv/dongfang.m3u8
+联通线路21,http://origin.ryzanedu.com:35455/mgtv/641886683.m3u8
+联通线路21,http://origin.ryzanedu.com:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+联通线路21,http://origin.ryzanedu.com:35455/bst/xsjhd@4000000.m3u8
+联通线路21,http://origin.ryzanedu.com:35455/itv/2000000002000000007.m3u8?cdn=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+联通线路21,http://origin.ryzanedu.com:35455/itv/1000000002000004097.m3u8?cdn=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
 
 黑龙江移动CDN静态IP,#genre#
 IP1,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
