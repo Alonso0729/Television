@@ -526,19 +526,19 @@ http://qp.ln0411.com:35455/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://11.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV-8K
 http://h.zxcm.top:35455/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
-http://horsemail.x3322.net:35455/nptv/cetv1.m3u8
+http://k.061899.xyz/k.php?id=cetv1
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
-http://qp.ln0411.com:35455/nptv/cetv1.m3u8
+http://horsemail.x3322.net:35455/gptv/G_CETV-1.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
-http://h.zxcm.top:35455/nptv/cetv1.m3u8
+http://qp.ln0411.com:35455/gptv/G_CETV-1.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
+http://h.zxcm.top:35455/gptv/G_CETV-1.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://horsemail.x3322.net:35455/mgtv/923287154.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://qp.ln0411.com:35455/mgtv/923287154.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://h.zxcm.top:35455/mgtv/923287154.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
-http://k.061899.xyz/k.php?id=cetv1
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225652$黑龙江移动
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
@@ -554,13 +554,13 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000003000018981
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7106250793420582078
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
-http://horsemail.x3322.net:35455/mgtv/923287211.m3u8
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
-http://qp.ln0411.com:35455/mgtv/923287211.m3u8
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
-http://h.zxcm.top:35455/mgtv/923287211.m3u8
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
 http://k.061899.xyz/k.php?id=cetv2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
+http://horsemail.x3322.net:35455/gptv/G_CETV-2.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
+http://qp.ln0411.com:35455/gptv/G_CETV-2.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
+http://h.zxcm.top:35455/gptv/G_CETV-2.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226425$黑龙江移动
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
@@ -582,19 +582,19 @@ http://h.zxcm.top:35455/gptv/G_CETV-3.m3u8
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://11.112114.xyz/logo/CETV3.png" group-title="央视",CETV-3
 http://iptv.huuc.edu.cn/hls/cetv3.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
+http://k.061899.xyz/k.php?id=cetv4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://horsemail.x3322.net:35455/bst/zgjy4hd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://qp.ln0411.com:35455/bst/zgjy4hd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://h.zxcm.top:35455/bst/zgjy4hd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
-http://horsemail.x3322.net:35455/mgtv/923287339.m3u8
+http://horsemail.x3322.net:35455/gptv/G_CETV-4.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
-http://qp.ln0411.com:35455/mgtv/923287339.m3u8
+http://qp.ln0411.com:35455/gptv/G_CETV-4.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
-http://h.zxcm.top:35455/mgtv/923287339.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
-http://k.061899.xyz/k.php?id=cetv4
+http://h.zxcm.top:35455/gptv/G_CETV-4.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225783$黑龙江移动
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
