@@ -840,15 +840,21 @@ http://sttt.eu.org:35455/nptv/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://k.061899.xyz/k.php?id=cgtn
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
+http://39.134.87.62/000000001000/4810873738577663591/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
+http://39.134.90.60/000000001000/4810873738577663591/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
+http://39.134.87.83/000000001000/4810873738577663591/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
+http://39.134.62.141:6610/PLTV/88888888/224/3221225604/index.m3u8?IASHttpSessionId=$黑龙江移动
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225604$黑龙江移动
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://leo0911.mycloudnas.com:35455/mgtv/609017205.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://home.odbo.cc:35455/mgtv/609017205.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://sttt.eu.org:35455/mgtv/609017205.m3u8
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
-http://39.134.62.141:6610/PLTV/88888888/224/3221225604/index.m3u8?IASHttpSessionId=$黑龙江移动
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225604$黑龙江移动
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000009569
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
@@ -856,13 +862,17 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
+http://k.061899.xyz/k.php?id=cgtna
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://leo0911.mycloudnas.com:35455/nptv/cgtnar.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
+http://39.134.62.141:6610/PLTV/88888888/224/3221226517/index.m3u8?IASHttpSessionId=$黑龙江移动
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226517$黑龙江移动
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://home.odbo.cc:35455/nptv/cgtnar.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://sttt.eu.org:35455/nptv/cgtnar.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
-http://k.061899.xyz/k.php?id=cgtna
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://leo0911.mycloudnas.com:35455/mgtv/609154345.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
@@ -870,13 +880,15 @@ http://home.odbo.cc:35455/mgtv/609154345.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://sttt.eu.org:35455/mgtv/609154345.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
-http://39.134.62.141:6610/PLTV/88888888/224/3221226517/index.m3u8?IASHttpSessionId=$黑龙江移动
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226517$黑龙江移动
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280001
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
+http://k.061899.xyz/k.php?id=cgtnr
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
+http://39.134.62.141:6610/PLTV/88888888/224/3221226543/index.m3u8?IASHttpSessionId=$黑龙江移动
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226543$黑龙江移动
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://leo0911.mycloudnas.com:35455/nptv/cgtnru.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
@@ -884,29 +896,27 @@ http://home.odbo.cc:35455/nptv/cgtnru.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://sttt.eu.org:35455/nptv/cgtnru.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
-http://k.061899.xyz/k.php?id=cgtnr
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://leo0911.mycloudnas.com:35455/mgtv/609006446.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://home.odbo.cc:35455/mgtv/609006446.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://sttt.eu.org:35455/mgtv/609006446.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
-http://39.134.62.141:6610/PLTV/88888888/224/3221226543/index.m3u8?IASHttpSessionId=$黑龙江移动
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226543$黑龙江移动
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280004
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
+http://k.061899.xyz/k.php?id=cgtnf
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://leo0911.mycloudnas.com:35455/nptv/cgtnfr.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
+http://39.134.62.141:6610/PLTV/88888888/224/3221226520/index.m3u8?IASHttpSessionId=$黑龙江移动
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226520$黑龙江移动
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://home.odbo.cc:35455/nptv/cgtnfr.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://sttt.eu.org:35455/nptv/cgtnfr.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
-http://k.061899.xyz/k.php?id=cgtnf
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://leo0911.mycloudnas.com:35455/mgtv/609006476.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
@@ -914,13 +924,15 @@ http://home.odbo.cc:35455/mgtv/609006476.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://sttt.eu.org:35455/mgtv/609006476.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
-http://39.134.62.141:6610/PLTV/88888888/224/3221226520/index.m3u8?IASHttpSessionId=$黑龙江移动
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226520$黑龙江移动
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280003
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
+http://k.061899.xyz/k.php?id=cgtne
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
+http://39.134.62.141:6610/PLTV/88888888/224/3221226431/index.m3u8?IASHttpSessionId=$黑龙江移动
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226431$黑龙江移动
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://leo0911.mycloudnas.com:35455/nptv/cgtnsp.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
@@ -928,21 +940,21 @@ http://home.odbo.cc:35455/nptv/cgtnsp.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://sttt.eu.org:35455/nptv/cgtnsp.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
-http://k.061899.xyz/k.php?id=cgtne
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://leo0911.mycloudnas.com:35455/mgtv/609006450.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://home.odbo.cc:35455/mgtv/609006450.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://sttt.eu.org:35455/mgtv/609006450.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
-http://39.134.62.141:6610/PLTV/88888888/224/3221226431/index.m3u8?IASHttpSessionId=$黑龙江移动
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226431$黑龙江移动
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280002
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
+http://k.061899.xyz/k.php?id=cgtnjl
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
+http://39.134.62.141:6610/PLTV/88888888/224/3221225602/index.m3u8?IASHttpSessionId=$黑龙江移动
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225602$黑龙江移动
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://leo0911.mycloudnas.com:35455/nptv/cgtndoc.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
@@ -950,17 +962,11 @@ http://home.odbo.cc:35455/nptv/cgtndoc.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://sttt.eu.org:35455/nptv/cgtndoc.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-http://k.061899.xyz/k.php?id=cgtnjl
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://leo0911.mycloudnas.com:35455/mgtv/609006487.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://home.odbo.cc:35455/mgtv/609006487.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://sttt.eu.org:35455/mgtv/609006487.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-http://39.134.62.141:6610/PLTV/88888888/224/3221225602/index.m3u8?IASHttpSessionId=$黑龙江移动
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225602$黑龙江移动
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
@@ -3443,6 +3449,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7134589828528695864
 http://php.jdshipin.com/xztv.php?id=ws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://k.061899.xyz/k.php?id=xzws
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://39.134.87.62/000000001000/5381760837640571168/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://39.134.90.60/000000001000/5381760837640571168/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://39.134.87.83/000000001000/5381760837640571168/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225638/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
