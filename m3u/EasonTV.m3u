@@ -1,5 +1,23 @@
 #EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+http://39.134.87.62/000000001000/5000000004000002226/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+http://39.134.87.83/000000001000/5000000004000002226/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+http://39.134.90.60/000000001000/5000000004000002226/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+http://39.134.87.62/000000001000/5000000010000030810/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+http://39.134.87.83/000000001000/5000000010000030810/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+http://39.134.90.60/000000001000/5000000010000030810/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+http://39.134.87.62/000000001000/5000000011000265001/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+http://39.134.87.83/000000001000/5000000011000265001/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+http://39.134.90.60/000000001000/5000000011000265001/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 http://39.134.62.141:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 http://39.134.62.141:6610/PLTV/88888888/224/3221226514/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -34,6 +52,16 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265001
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000029752
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
+http://39.134.87.62/000000001000/5000000005000031113/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
+http://39.134.90.60/000000001000/5000000005000031113/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
+http://39.134.87.62/000000001000/5000000011000031101/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
+http://39.134.87.83/000000001000/5000000011000031101/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
+http://39.134.90.60/000000001000/5000000011000031101/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
 http://39.134.62.141:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$黑龙江移动
@@ -59,6 +87,24 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031101
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5353323539453949720
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000014161
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://39.134.87.62/000000001000/5000000002000020548/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://39.134.87.83/000000001000/5000000002000020548/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://39.134.90.60/000000001000/5000000002000020548/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://39.134.87.62/000000001000/5000000004000008883/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://39.134.87.83/000000001000/5000000004000008883/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://39.134.90.60/000000001000/5000000004000008883/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://39.134.87.62/000000001000/5000000011000265003/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://39.134.87.83/000000001000/5000000011000265003/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://39.134.90.60/000000001000/5000000011000265003/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
 http://39.134.62.141:6610/PLTV/88888888/224/3221226021/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
@@ -87,6 +133,22 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265003
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000022313
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8378175926191110263
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
+http://39.134.87.62/000000001000/5000000005000030093/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
+http://39.134.90.60/000000001000/5000000005000030093/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
+http://39.134.87.62/000000001000/5000000011000031102/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
+http://39.134.87.83/000000001000/5000000011000031102/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
+http://39.134.90.60/000000001000/5000000011000031102/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
+http://39.134.87.62/000000001000/5000000011000265004/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
+http://39.134.87.83/000000001000/5000000011000265004/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
+http://39.134.90.60/000000001000/5000000011000265004/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
 http://39.134.62.141:6610/PLTV/88888888/224/3221226007/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
@@ -131,6 +193,24 @@ http://leo0911.mycloudnas.com:35455/mgtv/608807419.m3u8
 http://home.odbo.cc:35455/mgtv/608807419.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://11.112114.xyz/logo/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲
 http://sttt.eu.org:35455/mgtv/608807419.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
+http://39.134.87.62/000000001000/5000000004000008885/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
+http://39.134.87.83/000000001000/5000000004000008885/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
+http://39.134.90.60/000000001000/5000000004000008885/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
+http://39.134.87.62/000000001000/5000000010000016619/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
+http://39.134.87.83/000000001000/5000000010000016619/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
+http://39.134.90.60/000000001000/5000000010000016619/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
+http://39.134.87.62/000000001000/5000000011000265005/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
+http://39.134.87.83/000000001000/5000000011000265005/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
+http://39.134.90.60/000000001000/5000000011000265005/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
 http://39.134.62.141:6610/PLTV/88888888/224/3221226019/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
@@ -186,6 +266,24 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000015875
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=reallive-cctv5plus
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
+http://39.134.87.62/000000001000/5000000004000008886/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
+http://39.134.87.83/000000001000/5000000004000008886/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
+http://39.134.90.60/000000001000/5000000004000008886/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
+http://39.134.87.62/000000001000/5000000010000018433/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
+http://39.134.87.83/000000001000/5000000010000018433/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
+http://39.134.90.60/000000001000/5000000010000018433/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
+http://39.134.87.62/000000001000/5000000011000265006/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
+http://39.134.87.83/000000001000/5000000011000265006/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
+http://39.134.90.60/000000001000/5000000011000265006/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
 http://39.134.62.141:6610/PLTV/88888888/224/3221226010/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010$黑龙江移动
@@ -218,6 +316,16 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000004574
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6117099895556651277
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
+http://39.134.87.62/000000001000/5000000005000026715/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
+http://39.134.90.60/000000001000/5000000005000026715/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
+http://39.134.87.62/000000001000/5000000011000031104/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
+http://39.134.87.83/000000001000/5000000011000031104/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
+http://39.134.90.60/000000001000/5000000011000031104/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
 http://39.134.62.141:6610/PLTV/88888888/224/3221225733/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733$黑龙江移动
@@ -243,6 +351,18 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031104
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000009055
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7050628689018054317
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
+http://39.134.87.62/000000001000/5000000004000008888/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
+http://39.134.87.83/000000001000/5000000004000008888/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
+http://39.134.90.60/000000001000/5000000004000008888/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
+http://39.134.87.62/000000001000/5000000010000018377/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
+http://39.134.87.83/000000001000/5000000010000018377/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
+http://39.134.90.60/000000001000/5000000010000018377/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
 http://39.134.62.141:6610/PLTV/88888888/224/3221226008/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
@@ -292,6 +412,18 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018384
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000032162
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
+http://39.134.87.62/000000001000/5000000004000012827/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
+http://39.134.87.83/000000001000/5000000004000012827/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
+http://39.134.90.60/000000001000/5000000004000012827/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
+http://39.134.87.62/000000001000/5000000010000016738/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
+http://39.134.87.83/000000001000/5000000010000016738/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
+http://39.134.90.60/000000001000/5000000010000016738/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
 http://39.134.62.141:6610/PLTV/88888888/224/3221225730/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
 http://39.134.62.141:6610/PLTV/88888888/224/3221226473/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -322,6 +454,18 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000031506
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7019587760656900133
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
+http://39.134.87.62/000000001000/5000000006000040011/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
+http://39.134.87.83/000000001000/5000000006000040011/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
+http://39.134.90.60/000000001000/5000000006000040011/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
+http://39.134.87.62/000000001000/5000000011000031106/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
+http://39.134.87.83/000000001000/5000000011000031106/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
+http://39.134.90.60/000000001000/5000000011000031106/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
 http://39.134.62.141:6610/PLTV/88888888/224/3221225597/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
 http://39.134.62.141:6610/PLTV/88888888/224/3221226565/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -347,6 +491,18 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040011
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031106
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6351457414282570521
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
+http://39.134.87.62/000000001000/5000000006000040012/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
+http://39.134.87.83/000000001000/5000000006000040012/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
+http://39.134.90.60/000000001000/5000000006000040012/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
+http://39.134.87.62/000000001000/5000000011000031107/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
+http://39.134.87.83/000000001000/5000000011000031107/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
+http://39.134.90.60/000000001000/5000000011000031107/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
 http://39.134.62.141:6610/PLTV/88888888/224/3221225731/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
@@ -378,6 +534,16 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5325631075193490169
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000022586
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
+http://39.134.87.62/000000001000/5000000005000001827/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
+http://39.134.90.60/000000001000/5000000005000001827/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
+http://39.134.87.62/000000001000/5000000011000031108/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
+http://39.134.87.83/000000001000/5000000011000031108/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
+http://39.134.90.60/000000001000/5000000011000031108/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
 http://39.134.62.141:6610/PLTV/88888888/224/3221226011/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
 http://39.134.62.141:6610/PLTV/88888888/224/3221226537/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -405,6 +571,18 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000001827
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031108
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6918130250570453526
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
+http://39.134.87.62/000000001000/5000000004000006673/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
+http://39.134.87.83/000000001000/5000000004000006673/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
+http://39.134.90.60/000000001000/5000000004000006673/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
+http://39.134.87.62/000000001000/5000000010000023358/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
+http://39.134.87.83/000000001000/5000000010000023358/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
+http://39.134.90.60/000000001000/5000000010000023358/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
 http://39.134.62.141:6610/PLTV/88888888/224/3221225732/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
@@ -436,6 +614,16 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000013647
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8203666801302077036
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
+http://39.134.87.62/000000001000/5000000005000018417/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
+http://39.134.90.60/000000001000/5000000005000018417/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
+http://39.134.87.62/000000001000/5000000011000031109/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
+http://39.134.87.83/000000001000/5000000011000031109/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
+http://39.134.90.60/000000001000/5000000011000031109/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
 http://39.134.62.141:6610/PLTV/88888888/224/3221225601/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
 http://39.134.62.141:6610/PLTV/88888888/224/3221226476/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -461,6 +649,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=4832596595465032187
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000018417
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031109
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16
+http://39.134.87.62/000000001000/5000000008000023253/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16
+http://39.134.87.83/000000001000/5000000008000023253/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16
+http://39.134.90.60/000000001000/5000000008000023253/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16
 http://39.134.62.141:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16
@@ -526,6 +720,12 @@ http://home.odbo.cc:35455/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://11.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV-8K
 http://sttt.eu.org:35455/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
+http://39.134.87.62/000000001000/5000000002000002652/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
+http://39.134.87.83/000000001000/5000000002000002652/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
+http://39.134.90.60/000000001000/5000000002000002652/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://k.061899.xyz/k.php?id=cetv1
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://leo0911.mycloudnas.com:35455/gptv/G_CETV-1.m3u8
@@ -581,6 +781,18 @@ http://home.odbo.cc:35455/gptv/G_CETV-3.m3u8
 http://sttt.eu.org:35455/gptv/G_CETV-3.m3u8
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://11.112114.xyz/logo/CETV3.png" group-title="央视",CETV-3
 http://iptv.huuc.edu.cn/hls/cetv3.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
+http://39.134.87.62/000000001000/5000000006000012123/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
+http://39.134.87.83/000000001000/5000000006000012123/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
+http://39.134.90.60/000000001000/5000000006000012123/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
+http://39.134.87.62/000000001000/5000000011000031126/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
+http://39.134.87.83/000000001000/5000000011000031126/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
+http://39.134.90.60/000000001000/5000000011000031126/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://k.061899.xyz/k.php?id=cetv4
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
@@ -850,6 +1062,30 @@ http://A/ku9/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技�
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.87.62/000000001000/5000000004000014098/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.87.83/000000001000/5000000004000014098/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.90.60/000000001000/5000000004000014098/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.87.62/000000001000/5000000010000032246/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.87.83/000000001000/5000000010000032246/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.90.60/000000001000/5000000010000032246/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.87.62/000000001000/5000000011000265007/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.87.83/000000001000/5000000011000265007/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.90.60/000000001000/5000000011000265007/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.87.62/000000001000/6131854485504331903/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.87.83/000000001000/6131854485504331903/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://39.134.90.60/000000001000/6131854485504331903/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225735/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226345/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -898,6 +1134,12 @@ http://A/ku9/js/Shanghai/KanKanNews.js?id=2
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/KanKanNews.js?id=2$酷9远程JS
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+http://39.134.87.62/000000001000/5000000011000031110/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+http://39.134.87.83/000000001000/5000000011000031110/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+http://39.134.90.60/000000001000/5000000011000031110/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://A/ku9/js/Shanghai/shanghai.js?id=shxwzh&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=shxwzh&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -928,6 +1170,12 @@ http://A/ku9/js/Shanghai/shanghai.js?id=shds&key=关注公共号❤：AI科技�
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=shds&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
+http://39.134.87.62/000000001000/5000000010000018926/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
+http://39.134.87.83/000000001000/5000000010000018926/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
+http://39.134.90.60/000000001000/5000000010000018926/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 http://k.061899.xyz/k.php?id=shds
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 http://leo0911.mycloudnas.com:35455/bst/ylpdhd@4000000.m3u8
@@ -939,6 +1187,12 @@ http://sttt.eu.org:35455/bst/ylpdhd@4000000.m3u8
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000012
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018926
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="上海",东方影视
+http://39.134.87.62/000000001000/5000000010000032212/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="上海",东方影视
+http://39.134.87.83/000000001000/5000000010000032212/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="上海",东方影视
+http://39.134.90.60/000000001000/5000000010000032212/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="上海",东方影视
 http://k.061899.xyz/k.php?id=shys
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="上海",东方影视
@@ -959,6 +1213,12 @@ https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/mai
 http://A/ku9/js/Shanghai/shanghai.js?id=dycj&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=dycj&key=关注公共号❤：AI科技生活$酷9远程JS
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
+http://39.134.87.62/000000001000/5000000010000027146/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
+http://39.134.87.83/000000001000/5000000010000027146/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
+http://39.134.90.60/000000001000/5000000010000027146/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
 http://k.061899.xyz/k.php?id=dycj
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
@@ -986,6 +1246,12 @@ http://A/ku9/js/Shanghai/shanghai.js?id=wxty&key=关注公共号❤：AI科技�
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=wxty&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
+http://39.134.87.62/000000001000/5000000010000017540/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
+http://39.134.87.83/000000001000/5000000010000017540/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
+http://39.134.90.60/000000001000/5000000010000017540/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 http://k.061899.xyz/k.php?id=wxty
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 http://leo0911.mycloudnas.com:35455/bst/ssty@4000000.m3u8
@@ -1005,6 +1271,18 @@ https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/mai
 http://A/ku9/js/Shanghai/shanghai.js?id=hhxd&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=hhxd&key=关注公共号❤：AI科技生活$酷9远程JS
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
+http://39.134.87.62/000000001000/5000000005000031641/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
+http://39.134.87.83/000000001000/5000000005000031641/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
+http://39.134.90.60/000000001000/5000000005000031641/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
+http://39.134.87.62/000000001000/5000000011000031123/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
+http://39.134.87.83/000000001000/5000000011000031123/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
+http://39.134.90.60/000000001000/5000000011000031123/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://leo0911.mycloudnas.com:35455/bst/hhxdhd@4000000.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
@@ -1043,6 +1321,24 @@ http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781866589685&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
+http://39.134.87.62/000000001000/5000000007000010004/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
+http://39.134.87.83/000000001000/5000000007000010004/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
+http://39.134.90.60/000000001000/5000000007000010004/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
+http://39.134.87.62/000000001000/5000000011000031124/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
+http://39.134.87.83/000000001000/5000000011000031124/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
+http://39.134.90.60/000000001000/5000000011000031124/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
+http://39.134.87.62/000000001000/5000000011000031125/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
+http://39.134.87.83/000000001000/5000000011000031125/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
+http://39.134.90.60/000000001000/5000000011000031125/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物二台
 http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 #EXTINF:-1 tvg-name="东方购物二台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物二台
@@ -1072,6 +1368,18 @@ http://cdn8.163189.xyz/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
 http://iptv.huuc.edu.cn/hls/cwjdhd.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
+http://39.134.87.62/000000001000/5000000006000040025/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
+http://39.134.87.83/000000001000/5000000006000040025/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
+http://39.134.90.60/000000001000/5000000006000040025/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
+http://39.134.87.62/000000001000/5000000011000031112/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
+http://39.134.87.83/000000001000/5000000011000031112/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
+http://39.134.90.60/000000001000/5000000011000031112/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://k.061899.xyz/k.php?id=ly
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://leo0911.mycloudnas.com:35455/bst/qjshd@4000000.m3u8
@@ -1092,6 +1400,12 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040025
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031112
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://11.112114.xyz/logo/金色学堂.png" group-title="上海",金色学堂
+http://39.134.87.62/000000001000/5000000010000026105/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://11.112114.xyz/logo/金色学堂.png" group-title="上海",金色学堂
+http://39.134.87.83/000000001000/5000000010000026105/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://11.112114.xyz/logo/金色学堂.png" group-title="上海",金色学堂
+http://39.134.90.60/000000001000/5000000010000026105/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://11.112114.xyz/logo/金色学堂.png" group-title="上海",金色学堂
 http://leo0911.mycloudnas.com:35455/bst/jsxthd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://11.112114.xyz/logo/金色学堂.png" group-title="上海",金色学堂
 http://home.odbo.cc:35455/bst/jsxthd4m@4000000.m3u8
@@ -1101,6 +1415,12 @@ http://sttt.eu.org:35455/bst/jsxthd4m@4000000.m3u8
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000061
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://11.112114.xyz/logo/金色学堂.png" group-title="上海",金色学堂
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000026105
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://11.112114.xyz/logo/法治天地.png" group-title="上海",法治天地
+http://39.134.87.62/000000001000/9001547084732463424/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://11.112114.xyz/logo/法治天地.png" group-title="上海",法治天地
+http://39.134.87.83/000000001000/9001547084732463424/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://11.112114.xyz/logo/法治天地.png" group-title="上海",法治天地
+http://39.134.90.60/000000001000/9001547084732463424/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://11.112114.xyz/logo/法治天地.png" group-title="上海",法治天地
 http://leo0911.mycloudnas.com:35455/bst/fztdhd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://11.112114.xyz/logo/法治天地.png" group-title="上海",法治天地
@@ -1118,6 +1438,12 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000014
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://11.112114.xyz/logo/法治天地.png" group-title="上海",法治天地
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
+http://39.134.87.62/000000001000/5000000007000010003/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
+http://39.134.87.83/000000001000/5000000007000010003/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
+http://39.134.90.60/000000001000/5000000007000010003/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
 http://leo0911.mycloudnas.com:35455/bst/dfcjhd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
 http://home.odbo.cc:35455/bst/dfcjhd4m@4000000.m3u8
@@ -1127,6 +1453,16 @@ http://sttt.eu.org:35455/bst/dfcjhd4m@4000000.m3u8
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000090
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://11.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010003
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场
+http://39.134.87.62/000000001000/5000000002000009455/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场
+http://39.134.87.83/000000001000/5000000002000009455/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场
+http://39.134.90.60/000000001000/5000000002000009455/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场
+http://39.134.87.62/000000001000/5000000007000010001/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场
+http://39.134.90.60/000000001000/5000000007000010001/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://leo0911.mycloudnas.com:35455/bst/hxjchd@4000000.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场
@@ -1154,6 +1490,12 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000068
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://11.112114.xyz/logo/魅力足球.png" group-title="上海",魅力足球
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031207
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://39.134.87.62/000000001000/5000000002000029972/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://39.134.87.83/000000001000/5000000002000029972/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://39.134.90.60/000000001000/5000000002000029972/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://k.061899.xyz/k.php?id=jbty
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://leo0911.mycloudnas.com:35455/bst/jbtyhd@4000000.m3u8
@@ -1165,6 +1507,18 @@ http://sttt.eu.org:35455/bst/jbtyhd@4000000.m3u8
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000008
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000029972
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
+http://39.134.87.62/000000001000/5000000002000004412/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
+http://39.134.87.83/000000001000/5000000002000004412/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
+http://39.134.90.60/000000001000/5000000002000004412/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
+http://39.134.87.62/000000001000/5000000011000031111/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
+http://39.134.87.83/000000001000/5000000011000031111/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
+http://39.134.90.60/000000001000/5000000011000031111/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
 http://leo0911.mycloudnas.com:35455/bst/dsjchd@4000000.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
@@ -1178,6 +1532,18 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000004412
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://11.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031111
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
+http://39.134.87.62/000000001000/5000000002000023636/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
+http://39.134.87.83/000000001000/5000000002000023636/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
+http://39.134.90.60/000000001000/5000000002000023636/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
+http://39.134.87.62/000000001000/5000000011000031113/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
+http://39.134.87.83/000000001000/5000000011000031113/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
+http://39.134.90.60/000000001000/5000000011000031113/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://leo0911.mycloudnas.com:35455/bst/dmxchd@4000000.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://home.odbo.cc:35455/bst/dmxchd@4000000.m3u8
@@ -1190,6 +1556,12 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000023636
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
+http://39.134.87.62/000000001000/5000000002000019634/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
+http://39.134.87.83/000000001000/5000000002000019634/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
+http://39.134.90.60/000000001000/5000000002000019634/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
 http://leo0911.mycloudnas.com:35455/bst/shsshd@4000000.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
 http://home.odbo.cc:35455/bst/shsshd@4000000.m3u8
@@ -1199,6 +1571,18 @@ http://sttt.eu.org:35455/bst/shsshd@4000000.m3u8
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000006
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://11.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000019634
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
+http://39.134.87.62/000000001000/5000000002000027005/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
+http://39.134.87.83/000000001000/5000000002000027005/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
+http://39.134.90.60/000000001000/5000000002000027005/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
+http://39.134.87.62/000000001000/5000000011000031114/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
+http://39.134.87.83/000000001000/5000000011000031114/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
+http://39.134.90.60/000000001000/5000000011000031114/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
 http://leo0911.mycloudnas.com:35455/bst/yxfyhd@4000000.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
@@ -1676,23 +2060,83 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000050
 #EXTINF:-1 tvg-name="百视通直播-10" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-10
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000051
 #EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-11
+http://39.134.87.62/000000001000/5000000001000001116/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-11
+http://39.134.87.83/000000001000/5000000001000001116/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-11
+http://39.134.90.60/000000001000/5000000001000001116/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-11
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000001116
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-12
+http://39.134.87.62/000000001000/5000000001000002898/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-12
+http://39.134.87.83/000000001000/5000000001000002898/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-12
+http://39.134.90.60/000000001000/5000000001000002898/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-12
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000002898
 #EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-13
+http://39.134.87.62/000000001000/5000000001000004876/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-13
+http://39.134.87.83/000000001000/5000000001000004876/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-13
+http://39.134.90.60/000000001000/5000000001000004876/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-13
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000004876
+#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-14
+http://39.134.87.62/000000001000/5000000001000006777/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-14
+http://39.134.87.83/000000001000/5000000001000006777/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-14
+http://39.134.90.60/000000001000/5000000001000006777/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-14
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000006777
 #EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-15
+http://39.134.87.62/000000001000/5000000001000017342/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-15
+http://39.134.87.83/000000001000/5000000001000017342/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-15
+http://39.134.90.60/000000001000/5000000001000017342/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-15
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000017342
+#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-16
+http://39.134.87.62/000000001000/5000000001000018009/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-16
+http://39.134.87.83/000000001000/5000000001000018009/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-16
+http://39.134.90.60/000000001000/5000000001000018009/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-16
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000018009
 #EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-17
+http://39.134.87.62/000000001000/5000000001000019233/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-17
+http://39.134.87.83/000000001000/5000000001000019233/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-17
+http://39.134.90.60/000000001000/5000000001000019233/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-17
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000019233
+#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-18
+http://39.134.87.62/000000001000/5000000001000022620/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-18
+http://39.134.87.83/000000001000/5000000001000022620/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-18
+http://39.134.90.60/000000001000/5000000001000022620/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-18
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000022620
 #EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-19
+http://39.134.87.62/000000001000/5000000001000023256/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-19
+http://39.134.87.83/000000001000/5000000001000023256/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-19
+http://39.134.90.60/000000001000/5000000001000023256/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-19
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000023256
+#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-20
+http://39.134.87.62/000000001000/5000000001000026930/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-20
+http://39.134.87.83/000000001000/5000000001000026930/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-20
+http://39.134.90.60/000000001000/5000000001000026930/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-20
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000026930
 #EXTINF:-1 tvg-name="体坛名栏汇" tvg-logo="https://11.112114.xyz/logo/体坛名栏汇.png" group-title="体育",体坛名栏汇
@@ -1720,6 +2164,10 @@ http://home.odbo.cc:35455/mgtv/646596895.m3u8
 #EXTINF:-1 tvg-name="赛事最经典" tvg-logo="https://11.112114.xyz/logo/赛事最经典.png" group-title="体育",赛事最经典
 http://sttt.eu.org:35455/mgtv/646596895.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
+http://39.134.87.62/000000001000/5000000006000022124/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
+http://39.134.90.60/000000001000/5000000006000022124/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659$黑龙江移动
@@ -1743,6 +2191,16 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7248678452522064966
 http://A/ku9/js/Anhui/anhui.js?id=ahws&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=ahws&key=关注公共号❤：AI科技生活$酷9远程JS
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://39.134.87.62/000000001000/5000000001000027288/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://39.134.87.83/000000001000/5000000001000027288/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://39.134.90.60/000000001000/5000000001000027288/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://39.134.87.62/000000001000/5000000004000023002/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://39.134.90.60/000000001000/5000000004000023002/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://k.061899.xyz/k.php?id=ahws
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -1771,6 +2229,22 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000009954
 http://A/ku9/js/Beijing/bjtime.js?id=bjws
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Beijing/bjtime.js?id=bjws$酷9远程JS
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://39.134.87.62/000000001000/5000000004000031556/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://39.134.90.60/000000001000/5000000004000031556/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://39.134.87.62/000000001000/5000000010000011502/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://39.134.87.83/000000001000/5000000010000011502/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://39.134.90.60/000000001000/5000000010000011502/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://39.134.87.62/000000001000/5000000011000265011/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://39.134.87.83/000000001000/5000000011000265011/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+http://39.134.90.60/000000001000/5000000011000265011/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225728/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
@@ -1812,6 +2286,12 @@ http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://k.061899.xyz/k.php?id=btws
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
+http://39.134.87.62/000000001000/5000000006000040020/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
+http://39.134.87.83/000000001000/5000000006000040020/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
+http://39.134.90.60/000000001000/5000000006000040020/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226439/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439$黑龙江移动
@@ -1827,6 +2307,12 @@ http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266005
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040020
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://39.134.87.62/000000001000/5000000004000025797/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://39.134.87.83/000000001000/5000000004000025797/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://39.134.90.60/000000001000/5000000004000025797/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225618/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
@@ -1868,6 +2354,16 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000011619
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000045
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+http://39.134.87.62/000000001000/5000000001000005829/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+http://39.134.87.83/000000001000/5000000001000005829/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+http://39.134.90.60/000000001000/5000000001000005829/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+http://39.134.87.62/000000001000/5000000004000010584/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+http://39.134.90.60/000000001000/5000000004000010584/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225620/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226341/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -1904,6 +2400,12 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000010584
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7721801662260370363
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://39.134.87.62/000000001000/5000000006000040021/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://39.134.87.83/000000001000/5000000006000040021/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://39.134.90.60/000000001000/5000000006000040021/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225633/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226522/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -1933,6 +2435,16 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000017827
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040021
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031121
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+http://39.134.87.62/000000001000/5000000004000014694/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+http://39.134.90.60/000000001000/5000000004000014694/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+http://39.134.87.62/000000001000/5000000010000030417/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+http://39.134.87.83/000000001000/5000000010000030417/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+http://39.134.90.60/000000001000/5000000010000030417/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226248/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
@@ -1964,6 +2476,18 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000031076
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6604532991586541024
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
+http://39.134.87.62/000000001000/5000000006000040014/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
+http://39.134.87.83/000000001000/5000000006000040014/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
+http://39.134.90.60/000000001000/5000000006000040014/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
+http://39.134.87.62/000000001000/5000000011000031118/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
+http://39.134.87.83/000000001000/5000000011000031118/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
+http://39.134.90.60/000000001000/5000000011000031118/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226549/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549$黑龙江移动
@@ -1981,6 +2505,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000019837
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040014
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031118
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://39.134.87.62/000000001000/5000000004000025843/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://39.134.87.83/000000001000/5000000004000025843/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://39.134.90.60/000000001000/5000000004000025843/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226474/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
@@ -2001,6 +2531,12 @@ https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/mai
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000003169
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000025843
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
+http://39.134.87.62/000000001000/5000000004000006211/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
+http://39.134.87.83/000000001000/5000000004000006211/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
+http://39.134.90.60/000000001000/5000000004000006211/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
@@ -2056,6 +2592,12 @@ http://cdn.1678520.xyz/fujian.php?id=9
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://11.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视
 http://cdn.1678520.xyz:8880/fujian.php?id=9
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
+http://39.134.87.62/000000001000/5000000006000040016/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
+http://39.134.87.83/000000001000/5000000006000040016/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
+http://39.134.90.60/000000001000/5000000006000040016/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226406/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406$黑龙江移动
@@ -2088,6 +2630,16 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000017118
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040016
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+http://39.134.87.62/000000001000/5000000005000017925/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+http://39.134.90.60/000000001000/5000000005000017925/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+http://39.134.87.62/000000001000/5000000011000031119/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+http://39.134.87.83/000000001000/5000000011000031119/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+http://39.134.90.60/000000001000/5000000011000031119/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226480/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$黑龙江移动
@@ -2113,6 +2665,16 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000017925
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031119
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7304224304099543804
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://39.134.87.62/000000001000/5000000004000025203/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://39.134.90.60/000000001000/5000000004000025203/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://39.134.87.62/000000001000/5000000010000031107/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://39.134.87.83/000000001000/5000000010000031107/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://39.134.90.60/000000001000/5000000010000031107/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226327/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
@@ -2176,6 +2738,16 @@ http://my.tmos.cn:15181/chs005.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://39.134.87.62/000000001000/5000000004000014954/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://39.134.90.60/000000001000/5000000004000014954/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://39.134.87.62/000000001000/5000000010000022140/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://39.134.87.83/000000001000/5000000010000022140/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://39.134.90.60/000000001000/5000000010000022140/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225627/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226477/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -2212,6 +2784,22 @@ http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000015436
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6956052407855047826
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://39.134.87.62/000000001000/5000000004000006692/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://39.134.90.60/000000001000/5000000004000006692/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://39.134.87.62/000000001000/5000000010000030452/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://39.134.87.83/000000001000/5000000010000030452/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://39.134.90.60/000000001000/5000000010000030452/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://39.134.87.62/000000001000/5000000011000265010/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://39.134.87.83/000000001000/5000000011000265010/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://39.134.90.60/000000001000/5000000011000265010/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225610/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226307/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -2246,6 +2834,18 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6954818217931477266
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8655038471675748531
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://39.134.87.62/000000001000/5000000006000040013/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://39.134.87.83/000000001000/5000000006000040013/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://39.134.90.60/000000001000/5000000006000040013/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://39.134.87.62/000000001000/5000000011000031117/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://39.134.87.83/000000001000/5000000011000031117/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://39.134.90.60/000000001000/5000000011000031117/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226397/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226397$黑龙江移动
@@ -2267,6 +2867,22 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040013
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031117
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6042486520432105075
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://39.134.87.62/000000001000/5000000004000019351/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://39.134.90.60/000000001000/5000000004000019351/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://39.134.87.62/000000001000/5000000010000018509/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://39.134.87.83/000000001000/5000000010000018509/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://39.134.90.60/000000001000/5000000010000018509/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://39.134.87.62/000000001000/5000000011000265009/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://39.134.87.83/000000001000/5000000011000265009/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://39.134.90.60/000000001000/5000000011000265009/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225613/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
@@ -2306,6 +2922,16 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265009
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000014861
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
+http://39.134.87.62/000000001000/5000000001000032154/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
+http://39.134.87.83/000000001000/5000000001000032154/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
+http://39.134.90.60/000000001000/5000000001000032154/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
+http://39.134.87.62/000000001000/5000000004000011210/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
+http://39.134.90.60/000000001000/5000000004000011210/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226344/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344$黑龙江移动
@@ -2340,6 +2966,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5616078396620462481
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://39.134.87.62/000000001000/5000000003000001598/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://39.134.87.83/000000001000/5000000003000001598/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://39.134.90.60/000000001000/5000000003000001598/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660$黑龙江移动
@@ -2359,6 +2991,16 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266002
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000003000001598
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=9131971102485823367
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://39.134.87.62/000000001000/5000000001000008940/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://39.134.87.83/000000001000/5000000001000008940/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://39.134.90.60/000000001000/5000000001000008940/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://39.134.87.62/000000001000/5000000004000011671/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://39.134.90.60/000000001000/5000000004000011671/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225619/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
@@ -2398,6 +3040,12 @@ rtmp://play1-qk.nmtv.cn/live/1686560387346365
 #EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://1.24.190.98:10089/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://39.134.87.62/000000001000/7331079758781182663/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://39.134.87.83/000000001000/7331079758781182663/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://39.134.90.60/000000001000/7331079758781182663/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://k.061899.xyz/k.php?id=nmgws
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225634/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -2417,6 +3065,12 @@ http://sttt.eu.org:35455/gptv/G_NEIMENGGU.m3u8
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000014080
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=7331079758781182663
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://39.134.87.62/000000001000/5000000006000040022/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://39.134.87.83/000000001000/5000000006000040022/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://39.134.90.60/000000001000/5000000006000040022/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225632/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
@@ -2458,6 +3112,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266003
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://11.112114.xyz/logo/农林卫视.png" group-title="卫视",农林卫视
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000046
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
+http://39.134.87.62/000000001000/5000000006000040015/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
+http://39.134.87.83/000000001000/5000000006000040015/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
+http://39.134.90.60/000000001000/5000000006000040015/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225628/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226323/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -2492,6 +3152,12 @@ https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000106
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://39.134.87.62/000000001000/5084893189220221988/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://39.134.87.83/000000001000/5084893189220221988/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://39.134.90.60/000000001000/5084893189220221988/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://leo0911.mycloudnas.com:35455/bst/xmws@1300000.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://home.odbo.cc:35455/bst/xmws@1300000.m3u8
@@ -2521,6 +3187,16 @@ https://epg.pw/stream/e8d0ee833e202f47d4da442c98774d932f50c109ea7682b029baa1387c
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000004097
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://11.112114.xyz/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000013
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://39.134.87.62/000000001000/5000000004000020424/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://39.134.90.60/000000001000/5000000004000020424/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://39.134.87.62/000000001000/5000000010000027763/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://39.134.87.83/000000001000/5000000010000027763/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://39.134.90.60/000000001000/5000000010000027763/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226456/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
@@ -2554,6 +3230,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7347081113971056899
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7744799445271696577
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
+http://39.134.87.62/000000001000/5000000006000040023/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
+http://39.134.87.83/000000001000/5000000006000040023/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
+http://39.134.90.60/000000001000/5000000006000040023/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225624/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226392/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -2586,6 +3268,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000021220
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040023
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://39.134.87.62/000000001000/5000000006000040017/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://39.134.87.83/000000001000/5000000006000040017/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://39.134.90.60/000000001000/5000000006000040017/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://k.061899.xyz/k.php?id=sxws
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225625/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -2615,6 +3303,16 @@ http://stream.snrtv.com/sxbc-star-fhvyP3.m3u8
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000007495
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040017
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://39.134.87.62/000000001000/5000000004000007410/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://39.134.90.60/000000001000/5000000004000007410/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://39.134.87.62/000000001000/5000000010000024026/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://39.134.87.83/000000001000/5000000010000024026/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://39.134.90.60/000000001000/5000000010000024026/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225739/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
@@ -2651,6 +3349,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5352218613763113657
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000002116
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7696950400632248401
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://39.134.87.62/000000001000/5000000004000006119/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://39.134.87.83/000000001000/5000000004000006119/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://39.134.90.60/000000001000/5000000004000006119/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226338/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
@@ -2671,6 +3375,16 @@ http://sttt.eu.org:35455/nptv/sichuan.m3u8
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000016825
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000006119
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+http://39.134.87.62/000000001000/5000000001000030788/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+http://39.134.87.83/000000001000/5000000001000030788/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+http://39.134.90.60/000000001000/5000000001000030788/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+http://39.134.87.62/000000001000/5000000004000006827/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+http://39.134.90.60/000000001000/5000000004000006827/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225740/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
@@ -2709,6 +3423,12 @@ http://php.jdshipin.com/xztv.php?id=zy
 http://A/ku9/js/Tibet/Tibet.js?id=1
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Tibet/Tibet.js?id=1$酷9远程JS
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+http://39.134.87.62/000000001000/5000000002000021549/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+http://39.134.87.83/000000001000/5000000002000021549/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+http://39.134.90.60/000000001000/5000000002000021549/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://leo0911.mycloudnas.com:35455/bst/xzwszy@2500000.m3u8
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
@@ -2760,6 +3480,12 @@ http://A/ku9/js/Xinjiang/xjtv.js?id=xjws
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjws$酷9远程JS
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://39.134.87.62/000000001000/5000000006000040018/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://39.134.87.83/000000001000/5000000006000040018/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://39.134.90.60/000000001000/5000000006000040018/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://k.061899.xyz/k.php?id=xjws
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225635/index.m3u8?IASHttpSessionId=$黑龙江移动
@@ -2802,6 +3528,18 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000049
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
 rtmp://hwzbout.yntv.net/62hdvf/41hse3
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+http://39.134.87.62/000000001000/5000000006000040019/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+http://39.134.87.83/000000001000/5000000006000040019/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+http://39.134.90.60/000000001000/5000000006000040019/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+http://39.134.87.62/000000001000/5000000011000031120/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+http://39.134.87.83/000000001000/5000000011000031120/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+http://39.134.90.60/000000001000/5000000011000031120/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226444/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$黑龙江移动
@@ -2829,6 +3567,16 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000024694
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040019
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031120
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://39.134.87.62/000000001000/5000000004000007275/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://39.134.90.60/000000001000/5000000004000007275/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://39.134.87.62/000000001000/5000000010000017320/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://39.134.87.83/000000001000/5000000010000017320/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://39.134.90.60/000000001000/5000000010000017320/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225612/index.m3u8?IASHttpSessionId=$黑龙江移动
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
@@ -2936,6 +3684,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011651
 #EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://11.112114.xyz/logo/4K超高清电影.png" group-title="娱乐",4K超高清电影
 http://php.jdshipin.com/TVOD/iptv.php?id=emdy4k
 #EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
+http://39.134.87.83/000000001000/5000000011000288005/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
 http://leo0911.mycloudnas.com:35455/bst/hyyyvcc4m@4000000.m3u8
 #EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
 http://home.odbo.cc:35455/bst/hyyyvcc4m@4000000.m3u8
@@ -2946,6 +3696,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288005
 #EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
 http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
 #EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
+http://39.134.87.83/000000001000/5000000011000288013/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
 http://leo0911.mycloudnas.com:35455/bst/xgyyvcc4m@4000000.m3u8
 #EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
 http://home.odbo.cc:35455/bst/xgyyvcc4m@4000000.m3u8
@@ -2955,6 +3707,8 @@ http://sttt.eu.org:35455/bst/xgyyvcc4m@4000000.m3u8
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288013
 #EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
 http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
+http://39.134.87.83/000000001000/5000000011000288009/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
 http://leo0911.mycloudnas.com:35455/bst/qqdpvcc4m@4000000.m3u8
 #EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
@@ -3626,6 +4380,10 @@ http://111.225.94.177:33333/hls/26/index.m3u8
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://11.112114.xyz/logo/中国交通.png" group-title="娱乐",中国交通
 http://111.225.95.105:33333/hls/26/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
+http://39.134.87.62/000000001000/5000000005000031974/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
+http://39.134.90.60/000000001000/5000000005000031974/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
 http://leo0911.mycloudnas.com:35455/bst/zgqxhd4mc@4000000.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
 http://home.odbo.cc:35455/bst/zgqxhd4mc@4000000.m3u8
@@ -4141,6 +4899,18 @@ http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 http://A/ku9/js/Beijing/bjtime.js?id=bjkk
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Beijing/bjtime.js?id=bjkk$酷9远程JS
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://39.134.87.62/000000001000/5000000011000265008/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://39.134.87.83/000000001000/5000000011000265008/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://39.134.90.60/000000001000/5000000011000265008/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://39.134.87.62/000000001000/7851974109718180595/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://39.134.87.83/000000001000/7851974109718180595/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+http://39.134.90.60/000000001000/7851974109718180595/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 http://k.061899.xyz/k.php?id=bjkk
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
@@ -4903,6 +5673,12 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://11.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
 http://119.123.79.35:9600/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
+http://39.134.87.62/000000001000/4739906347743456369/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
+http://39.134.87.83/000000001000/4739906347743456369/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
+http://39.134.90.60/000000001000/4739906347743456369/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
 http://leo0911.mycloudnas.com:35455/bst/jjkt@1300000.m3u8
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
@@ -8099,6 +8875,12 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031203
 http://A/ku9/js/Hunan/hunan.js?id=jykt&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hunan/hunan.js?id=jykt&key=关注公共号❤：AI科技生活$酷9远程JS
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
+http://39.134.87.62/000000001000/5000000006000040024/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
+http://39.134.87.83/000000001000/5000000006000040024/index.m3u8$上海移动
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
+http://39.134.90.60/000000001000/5000000006000040024/index.m3u8$上海移动
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
 http://leo0911.mycloudnas.com:35455/bst/jykt@1300000.m3u8
 #EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://11.112114.xyz/logo/湖南金鹰卡通.png" group-title="湖南",湖南金鹰卡通
