@@ -293,7 +293,57 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265005
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000016431
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6V6
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::24]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::25]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::28]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::29]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::30]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$黑龙江移动V4
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
@@ -442,8 +492,6 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000018377
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000001070
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8871488051501921127
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8$上海移动V6
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8$上海移动V6
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
@@ -1747,7 +1795,33 @@ http://live.iill.top/douyin/FIAFormulaE
 #EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
 http://live.iill.top/douyin/21642043600
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::22]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::23]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::26]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::27]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226124$黑龙江移动V4
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
@@ -1773,11 +1847,71 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000270001
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000060
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226147$黑龙江移动V4
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::22]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::23]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::24]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::25]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::26]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::27]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::28]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::28]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::29]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::29]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226147$黑龙江移动V4
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226469$黑龙江移动V4
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
@@ -1807,7 +1941,17 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000061
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000065
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
 http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226508$黑龙江移动V4
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
@@ -1834,6 +1978,36 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000270007
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000068
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
 http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::24]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::25]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::28]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::29]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::30]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226472$黑龙江移动V4
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
@@ -2296,6 +2470,14 @@ http://sttt.eu.org:35455/mgtv/646596895.m3u8
 http://39.134.87.62/000000001000/5000000006000022124/index.m3u8$上海移动V4
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://39.134.90.60/000000001000/5000000006000022124/index.m3u8$上海移动V4
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
+http://[2409:8087:1a15:10d1::26]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
+http://[2409:8087:1a15:10d1::27]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
@@ -3223,7 +3405,17 @@ http://39.134.87.83/000000001000/5000000003000001598/index.m3u8$上海移动V4
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://39.134.90.60/000000001000/5000000003000001598/index.m3u8$上海移动V4
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
-http://39.134.62.141:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=$黑龙江移动V4
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660$黑龙江移动V4
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
@@ -3735,11 +3927,7 @@ http://39.134.62.141:6610/PLTV/88888888/224/3221225638/index.m3u8?IASHttpSession
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221226433/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://39.134.62.141:6610/PLTV/88888888/224/3221226433/index.m3u8?IASHttpSessionId=$黑龙江移动V4
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638$黑龙江移动V4
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226433$黑龙江移动V4
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226433$黑龙江移动V4
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
@@ -3945,8 +4133,6 @@ http://live.iill.top/douyin/2793884530
 #EXTINF:-1 tvg-name="Prince晋" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",Prince晋
 http://live.iill.top/douyu/746256
 #EXTINF:-1 tvg-name="Prince晋" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",Prince晋
-https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U746256$酷9远程JS
-#EXTINF:-1 tvg-name="申小敏" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",申小敏
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=U746256$酷9远程JS
 #EXTINF:-1 tvg-name="申小敏" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",申小敏
 http://live.iill.top/douyu/6805176
@@ -4263,13 +4449,13 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000034
 #EXTINF:-1 tvg-name="IHOT爱院线" tvg-logo="https://11.112114.xyz/logo/IHOT爱院线.png" group-title="娱乐",IHOT爱院线
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000030630
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://11.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="娱乐",NEWTV爱情喜剧
-http://[2409:8087:1a15:10d1::26]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::26]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://11.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="娱乐",NEWTV爱情喜剧
-http://[2409:8087:1a15:10d1::27]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::27]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://11.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="娱乐",NEWTV爱情喜剧
-http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://11.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="娱乐",NEWTV爱情喜剧
-http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://11.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="娱乐",NEWTV爱情喜剧
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225669$黑龙江移动V4
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://11.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="娱乐",NEWTV爱情喜剧
@@ -4277,17 +4463,17 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000010
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://11.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="娱乐",NEWTV爱情喜剧
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8393829412396288037
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电视剧.png" group-title="娱乐",NEWTV超级电视剧
-http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电视剧.png" group-title="娱乐",NEWTV超级电视剧
-http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电视剧.png" group-title="娱乐",NEWTV超级电视剧
-http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电视剧.png" group-title="娱乐",NEWTV超级电视剧
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电视剧.png" group-title="娱乐",NEWTV超级电视剧
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电视剧.png" group-title="娱乐",NEWTV超级电视剧
-http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电视剧.png" group-title="娱乐",NEWTV超级电视剧
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225716$黑龙江移动V4
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电视剧.png" group-title="娱乐",NEWTV超级电视剧
@@ -4299,29 +4485,29 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000024993
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电视剧.png" group-title="娱乐",NEWTV超级电视剧
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000268003
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
-http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225717$黑龙江移动V4
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
@@ -4333,17 +4519,17 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000003000012426
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://11.112114.xyz/logo/NEWTV超级电影.png" group-title="娱乐",NEWTV超级电影
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000002120
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://11.112114.xyz/logo/NEWTV超级体育.png" group-title="娱乐",NEWTV超级体育
-http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://11.112114.xyz/logo/NEWTV超级体育.png" group-title="娱乐",NEWTV超级体育
-http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://11.112114.xyz/logo/NEWTV超级体育.png" group-title="娱乐",NEWTV超级体育
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://11.112114.xyz/logo/NEWTV超级体育.png" group-title="娱乐",NEWTV超级体育
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://11.112114.xyz/logo/NEWTV超级体育.png" group-title="娱乐",NEWTV超级体育
-http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://11.112114.xyz/logo/NEWTV超级体育.png" group-title="娱乐",NEWTV超级体育
-http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://11.112114.xyz/logo/NEWTV超级体育.png" group-title="娱乐",NEWTV超级体育
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225715$黑龙江移动V4
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://11.112114.xyz/logo/NEWTV超级体育.png" group-title="娱乐",NEWTV超级体育
@@ -4355,9 +4541,9 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000009601
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://11.112114.xyz/logo/NEWTV超级体育.png" group-title="娱乐",NEWTV超级体育
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000007755
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://11.112114.xyz/logo/NEWTV超级综艺.png" group-title="娱乐",NEWTV超级综艺
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://11.112114.xyz/logo/NEWTV超级综艺.png" group-title="娱乐",NEWTV超级综艺
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://11.112114.xyz/logo/NEWTV超级综艺.png" group-title="娱乐",NEWTV超级综艺
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225714$黑龙江移动V4
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://11.112114.xyz/logo/NEWTV超级综艺.png" group-title="娱乐",NEWTV超级综艺
@@ -4369,9 +4555,9 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000023658
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://11.112114.xyz/logo/NEWTV超级综艺.png" group-title="娱乐",NEWTV超级综艺
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000268002
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://11.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="娱乐",NEWTV潮妈辣婆
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://11.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="娱乐",NEWTV潮妈辣婆
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://11.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="娱乐",NEWTV潮妈辣婆
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225685$黑龙江移动V4
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://11.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="娱乐",NEWTV潮妈辣婆
@@ -4383,9 +4569,9 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000066
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://11.112114.xyz/logo/NEWTV哒啵电竞.png" group-title="娱乐",NEWTV哒啵电竞
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000032327
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://11.112114.xyz/logo/NEWTV哒啵赛事.png" group-title="娱乐",NEWTV哒啵赛事
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://11.112114.xyz/logo/NEWTV哒啵赛事.png" group-title="娱乐",NEWTV哒啵赛事
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://11.112114.xyz/logo/NEWTV哒啵赛事.png" group-title="娱乐",NEWTV哒啵赛事
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225675$黑龙江移动V4
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://11.112114.xyz/logo/NEWTV哒啵赛事.png" group-title="娱乐",NEWTV哒啵赛事
@@ -4401,29 +4587,29 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000006906
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://11.112114.xyz/logo/NEWTV哒啵赛事.png" group-title="娱乐",NEWTV哒啵赛事
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5320946857686967621
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
-http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225741$黑龙江移动V4
 #EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://11.112114.xyz/logo/NEWTV东北热剧.png" group-title="娱乐",NEWTV东北热剧
@@ -4437,29 +4623,29 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000018653
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://11.112114.xyz/logo/NEWTV动作电影.png" group-title="娱乐",NEWTV动作电影
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8103864434730665389
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
-http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225663$黑龙江移动V4
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
@@ -4467,27 +4653,27 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000024
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV古装剧场.png" group-title="娱乐",NEWTV古装剧场
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6859053933687922163
 #EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV海外剧场.png" group-title="娱乐",NEWTV海外剧场
-http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV海外剧场.png" group-title="娱乐",NEWTV海外剧场
-http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV海外剧场.png" group-title="娱乐",NEWTV海外剧场
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV海外剧场.png" group-title="娱乐",NEWTV海外剧场
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV海外剧场.png" group-title="娱乐",NEWTV海外剧场
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225671$黑龙江移动V4
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓电影.png" group-title="娱乐",NEWTV黑莓电影
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓电影.png" group-title="娱乐",NEWTV黑莓电影
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓电影.png" group-title="娱乐",NEWTV黑莓电影
-http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓电影.png" group-title="娱乐",NEWTV黑莓电影
-http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓电影.png" group-title="娱乐",NEWTV黑莓电影
-http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓电影.png" group-title="娱乐",NEWTV黑莓电影
-http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓电影.png" group-title="娱乐",NEWTV黑莓电影
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225743$黑龙江移动V4
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓电影.png" group-title="娱乐",NEWTV黑莓电影
@@ -4497,13 +4683,13 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000019624
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓电影.png" group-title="娱乐",NEWTV黑莓电影
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8785669936177902664
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓动画.png" group-title="娱乐",NEWTV黑莓动画
-http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓动画.png" group-title="娱乐",NEWTV黑莓动画
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓动画.png" group-title="娱乐",NEWTV黑莓动画
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓动画.png" group-title="娱乐",NEWTV黑莓动画
-http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓动画.png" group-title="娱乐",NEWTV黑莓动画
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225662$黑龙江移动V4
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓动画.png" group-title="娱乐",NEWTV黑莓动画
@@ -4513,9 +4699,9 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000021734
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://11.112114.xyz/logo/NEWTV黑莓动画.png" group-title="娱乐",NEWTV黑莓动画
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6497762188035533951
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV欢乐剧场.png" group-title="娱乐",NEWTV欢乐剧场
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV欢乐剧场.png" group-title="娱乐",NEWTV欢乐剧场
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV欢乐剧场.png" group-title="娱乐",NEWTV欢乐剧场
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225742$黑龙江移动V4
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV欢乐剧场.png" group-title="娱乐",NEWTV欢乐剧场
@@ -4523,21 +4709,21 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000050
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV欢乐剧场.png" group-title="娱乐",NEWTV欢乐剧场
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266012
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
-http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
-http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
-http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
-http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
-http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
-http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
-http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
-http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225677$黑龙江移动V4
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
@@ -4547,9 +4733,9 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000008284
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV家庭剧场.png" group-title="娱乐",NEWTV家庭剧场
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6316377948248689070
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://11.112114.xyz/logo/NEWTV金牌综艺.png" group-title="娱乐",NEWTV金牌综艺
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://11.112114.xyz/logo/NEWTV金牌综艺.png" group-title="娱乐",NEWTV金牌综艺
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://11.112114.xyz/logo/NEWTV金牌综艺.png" group-title="娱乐",NEWTV金牌综艺
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225666$黑龙江移动V4
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://11.112114.xyz/logo/NEWTV金牌综艺.png" group-title="娱乐",NEWTV金牌综艺
@@ -4559,21 +4745,21 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000026167
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://11.112114.xyz/logo/NEWTV金牌综艺.png" group-title="娱乐",NEWTV金牌综艺
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6399725674632152632
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
-http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
-http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
-http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
-http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
-http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
-http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225665$黑龙江移动V4
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
@@ -4583,37 +4769,37 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000024282
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://11.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="娱乐",NEWTV惊悚悬疑
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7151256057701199617
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::30]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::30]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
-http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225670$黑龙江移动V4
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
@@ -4623,9 +4809,9 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000013968
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://11.112114.xyz/logo/NEWTV精品大剧.png" group-title="娱乐",NEWTV精品大剧
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7882297361445410858
 #EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://11.112114.xyz/logo/NEWTV精品纪录.png" group-title="娱乐",NEWTV精品纪录
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://11.112114.xyz/logo/NEWTV精品纪录.png" group-title="娱乐",NEWTV精品纪录
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://11.112114.xyz/logo/NEWTV精品纪录.png" group-title="娱乐",NEWTV精品纪录
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225672$黑龙江移动V4
 #EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://11.112114.xyz/logo/NEWTV精品纪录.png" group-title="娱乐",NEWTV精品纪录
@@ -4633,21 +4819,21 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000013730
 #EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://11.112114.xyz/logo/NEWTV精品纪录.png" group-title="娱乐",NEWTV精品纪录
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6298506997017621594
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
-http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
-http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
-http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
-http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
-http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
-http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
-http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
-http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226505$黑龙江移动V4
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
@@ -4655,41 +4841,41 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000067
 #EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://11.112114.xyz/logo/NEWTV精品萌宠.png" group-title="娱乐",NEWTV精品萌宠
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000032328
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::26]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::26]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::27]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::27]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
-http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225674$黑龙江移动V4
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://11.112114.xyz/logo/NEWTV精品体育.png" group-title="娱乐",NEWTV精品体育
@@ -4705,13 +4891,13 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000019008
 #EXTINF:-1 tvg-name="精品综合" tvg-logo="https://11.112114.xyz/logo/NEWTV精品综合.png" group-title="娱乐",NEWTV精品综合
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5595720619887440144
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV军旅剧场.png" group-title="娱乐",NEWTV军旅剧场
-http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV军旅剧场.png" group-title="娱乐",NEWTV军旅剧场
-http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV军旅剧场.png" group-title="娱乐",NEWTV军旅剧场
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV军旅剧场.png" group-title="娱乐",NEWTV军旅剧场
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV军旅剧场.png" group-title="娱乐",NEWTV军旅剧场
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225676$黑龙江移动V4
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV军旅剧场.png" group-title="娱乐",NEWTV军旅剧场
@@ -4719,37 +4905,37 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000014
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://11.112114.xyz/logo/NEWTV军旅剧场.png" group-title="娱乐",NEWTV军旅剧场
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7485075951068666323
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::12]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::13]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
-http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225668$黑龙江移动V4
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://11.112114.xyz/logo/NEWTV军事评论.png" group-title="娱乐",NEWTV军事评论
@@ -4763,13 +4949,13 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000006197
 #EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://11.112114.xyz/logo/NEWTV魅力潇湘.png" group-title="娱乐",NEWTV魅力潇湘
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266014
 #EXTINF:-1 tvg-name="明星大片" tvg-logo="https://11.112114.xyz/logo/NEWTV明星大片.png" group-title="娱乐",NEWTV明星大片
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="明星大片" tvg-logo="https://11.112114.xyz/logo/NEWTV明星大片.png" group-title="娱乐",NEWTV明星大片
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="明星大片" tvg-logo="https://11.112114.xyz/logo/NEWTV明星大片.png" group-title="娱乐",NEWTV明星大片
-http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="明星大片" tvg-logo="https://11.112114.xyz/logo/NEWTV明星大片.png" group-title="娱乐",NEWTV明星大片
-http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="明星大片" tvg-logo="https://11.112114.xyz/logo/NEWTV明星大片.png" group-title="娱乐",NEWTV明星大片
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225664$黑龙江移动V4
 #EXTINF:-1 tvg-name="明星大片" tvg-logo="https://11.112114.xyz/logo/NEWTV明星大片.png" group-title="娱乐",NEWTV明星大片
@@ -4777,21 +4963,21 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000016
 #EXTINF:-1 tvg-name="明星大片" tvg-logo="https://11.112114.xyz/logo/NEWTV明星大片.png" group-title="娱乐",NEWTV明星大片
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7681593242002292003
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
-http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
-http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
-http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
-http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
-http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
-http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
-http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
-http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225683$黑龙江移动V4
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
@@ -4799,13 +4985,13 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000003
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6193684637634073625
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
-http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::16]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
-http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::17]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225680$黑龙江移动V4
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
@@ -4819,13 +5005,13 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000007
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=bokesen
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://11.112114.xyz/logo/NEWTV炫舞未来.png" group-title="娱乐",NEWTV炫舞未来
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://11.112114.xyz/logo/NEWTV炫舞未来.png" group-title="娱乐",NEWTV炫舞未来
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://11.112114.xyz/logo/NEWTV炫舞未来.png" group-title="娱乐",NEWTV炫舞未来
-http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://11.112114.xyz/logo/NEWTV炫舞未来.png" group-title="娱乐",NEWTV炫舞未来
-http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://11.112114.xyz/logo/NEWTV炫舞未来.png" group-title="娱乐",NEWTV炫舞未来
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225719$黑龙江移动V4
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://11.112114.xyz/logo/NEWTV炫舞未来.png" group-title="娱乐",NEWTV炫舞未来
@@ -4833,21 +5019,21 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000044
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://11.112114.xyz/logo/NEWTV炫舞未来.png" group-title="娱乐",NEWTV炫舞未来
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000000515
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://11.112114.xyz/logo/NEWTV怡伴健康.png" group-title="娱乐",NEWTV怡伴健康
-http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::14]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://11.112114.xyz/logo/NEWTV怡伴健康.png" group-title="娱乐",NEWTV怡伴健康
-http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://11.112114.xyz/logo/NEWTV怡伴健康.png" group-title="娱乐",NEWTV怡伴健康
-http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://11.112114.xyz/logo/NEWTV怡伴健康.png" group-title="娱乐",NEWTV怡伴健康
-http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://11.112114.xyz/logo/NEWTV怡伴健康.png" group-title="娱乐",NEWTV怡伴健康
-http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://11.112114.xyz/logo/NEWTV怡伴健康.png" group-title="娱乐",NEWTV怡伴健康
-http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://11.112114.xyz/logo/NEWTV怡伴健康.png" group-title="娱乐",NEWTV怡伴健康
-http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://11.112114.xyz/logo/NEWTV怡伴健康.png" group-title="娱乐",NEWTV怡伴健康
-http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V4
+http://[2409:8087:1a15:10d1::3]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://11.112114.xyz/logo/NEWTV怡伴健康.png" group-title="娱乐",NEWTV怡伴健康
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225673$黑龙江移动V4
 #EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://11.112114.xyz/logo/NEWTV怡伴健康.png" group-title="娱乐",NEWTV怡伴健康
@@ -5554,8 +5740,6 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7589856436881630561
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=7851974109718180595
 #EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="https://11.112114.xyz/logo/北京IPTV淘电影.png" group-title="北京",北京IPTV淘电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="延庆电视台" tvg-logo="https://11.112114.xyz/logo/延庆电视台.png" group-title="北京",延庆电视台
-https://videoplay.yanqingrmzx.com/yanqappvideo/yqingappvideo.m3u8?auth_key=1725670927-0-0-692111986e725c19ea6478b894e23911
 #EXTINF:-1 tvg-name="石景山有线" tvg-logo="https://11.112114.xyz/logo/石景山有线.png" group-title="北京",石景山有线
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-name="顺义综合" tvg-logo="https://11.112114.xyz/logo/顺义综合.png" group-title="北京",顺义综合
@@ -7004,14 +7188,10 @@ http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
 https://tvfile.lpsrtv.com/nmip-media/channellive/channel110181/playlist.m3u8
 #EXTINF:-1 tvg-name="六盘水新闻综合" tvg-logo="https://11.112114.xyz/logo/六盘水新闻综合.png" group-title="贵州",六盘水新闻综合
 rtmp://tv.lpsrtv.com/channellive/ch1
-#EXTINF:-1 tvg-name="六盘水新闻综合" tvg-logo="https://11.112114.xyz/logo/六盘水新闻综合.png" group-title="贵州",六盘水新闻综合
-https://tvfile.lpsrtv.com/nmip-media/channellive/channel110181/playlist.m3u8
 #EXTINF:-1 tvg-name="六盘水公共" tvg-logo="https://11.112114.xyz/logo/六盘水公共.png" group-title="贵州",六盘水公共
 https://tvfile.lpsrtv.com/nmip-media/channellive/channel110983/playlist.m3u8
 #EXTINF:-1 tvg-name="六盘水公共" tvg-logo="https://11.112114.xyz/logo/六盘水公共.png" group-title="贵州",六盘水公共
 rtmp://tv.lpsrtv.com/channellive/ch2
-#EXTINF:-1 tvg-name="六盘水公共" tvg-logo="https://11.112114.xyz/logo/六盘水公共.png" group-title="贵州",六盘水公共
-https://tvfile.lpsrtv.com/nmip-media/channellive/channel110983/playlist.m3u8
 #EXTINF:-1 tvg-name="松桃新闻" tvg-logo="https://11.112114.xyz/logo/松桃新闻.png" group-title="贵州",松桃新闻
 http://live.strmtzx.cn/stxw/sd/live.m3u8
 #EXTINF:-1 tvg-name="松桃综艺" tvg-logo="https://11.112114.xyz/logo/松桃综艺.png" group-title="贵州",松桃综艺
@@ -7492,8 +7672,6 @@ http://hls.hsrtv.cn/live/hshstv1.m3u8
 rtmp://hls.hsrtv.cn/live/hshstv2
 #EXTINF:-1 tvg-name="衡水公共" tvg-logo="https://11.112114.xyz/logo/衡水公共.png" group-title="河北",衡水公共
 http://hls.hsrtv.cn/live/hshstv2.m3u8
-#EXTINF:-1 tvg-name="衡山" tvg-logo="https://11.112114.xyz/logo/衡山.png" group-title="河北",衡山
-http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="行唐综合频道" tvg-logo="https://11.112114.xyz/logo/行唐综合频道.png" group-title="河北",行唐综合频道
 http://27.128.190.231:18080/sdi
 #EXTINF:-1 tvg-name="高邑融媒" tvg-logo="https://11.112114.xyz/logo/高邑融媒.png" group-title="河北",高邑融媒
@@ -7651,8 +7829,6 @@ http://php.jdshipin.com/hntv.php?id=wspd
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
 http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
-http://live.dxhmt.cn:9080/live/yshnpre.m3u8
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
 http://111.61.236.247:9081/hls/60/index.m3u8
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
 http://A/ku9/js/Henan/henan.js?id=wwbk&key=关注公共号❤：AI科技生活
@@ -7660,8 +7836,6 @@ http://A/ku9/js/Henan/henan.js?id=wwbk&key=关注公共号❤：AI科技生活
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=wwbk&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
 http://php.jdshipin.com/hntv.php?id=wwbk
-#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
-http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
 http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
@@ -8188,8 +8362,6 @@ http://tvpull.dxhmt.cn:9081/tv/10902-1.m3u8
 http://live.dxhmt.cn:9081/tv/10902-1.m3u8
 #EXTINF:-1 tvg-name="鹤壁新闻综合" tvg-logo="https://11.112114.xyz/logo/鹤壁新闻综合.png" group-title="河南",鹤壁新闻综合
 http://php.jdshipin.com/hntv.php?id=hb1
-#EXTINF:-1 tvg-name="鹤岗新闻综合" tvg-logo="https://11.112114.xyz/logo/鹤岗新闻综合.png" group-title="河南",鹤岗新闻综合
-http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="鹤岗新闻综合" tvg-logo="https://11.112114.xyz/logo/鹤岗新闻综合.png" group-title="河南",鹤岗新闻综合
 http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
 #EXTINF:-1 tvg-name="鹤壁新闻综合" tvg-logo="https://11.112114.xyz/logo/鹤壁新闻综合.png" group-title="河南",鹤壁新闻综合
@@ -10102,10 +10274,6 @@ https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/mai
 http://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
 #EXTINF:-1 tvg-name="永兴新闻综合" tvg-logo="https://11.112114.xyz/logo/永兴新闻综合.png" group-title="湖南",永兴新闻综合
 https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
-#EXTINF:-1 tvg-name="永兴电视台" tvg-logo="https://11.112114.xyz/logo/永兴电视台.png" group-title="湖南",永兴电视台
-http://A/ku9/js/Hunan/hny.js?id=yxtv&key=关注公共号❤：AI科技生活
-#EXTINF:-1 tvg-name="永兴电视台" tvg-logo="https://11.112114.xyz/logo/永兴电视台.png" group-title="湖南",永兴电视台
-https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hunan/hny.js?id=yxtv&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="益阳新闻综合" tvg-logo="https://11.112114.xyz/logo/益阳新闻综合.png" group-title="湖南",益阳新闻综合
 http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxwhd231205.m3u8
 #EXTINF:-1 tvg-name="益阳教育" tvg-logo="https://11.112114.xyz/logo/益阳教育.png" group-title="湖南",益阳教育
@@ -11250,8 +11418,6 @@ http://jrlive.jrntv.com/live/shenghuos/playlist.m3u8
 http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="句容影视" tvg-logo="https://11.112114.xyz/logo/句容影视.png" group-title="江苏",句容影视
 http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
-#EXTINF:-1 tvg-name="句容生活" tvg-logo="https://11.112114.xyz/logo/句容生活.png" group-title="江苏",句容生活
-http://jrlive.jrntv.com/live/shenghuos/playlist.m3u8
 #EXTINF:-1 tvg-name="句容生活" tvg-logo="https://11.112114.xyz/logo/句容生活.png" group-title="江苏",句容生活
 http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
 #EXTINF:-1 tvg-name="句容生活" tvg-logo="https://11.112114.xyz/logo/句容生活.png" group-title="江苏",句容生活
@@ -13844,8 +14010,6 @@ http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 http://liveout.btzx.com.cn/62ds9e/4nxdih.flv
 #EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://11.112114.xyz/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
 rtmp://liveout.btzx.com.cn/62ds9e/4nxdih
-#EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://11.112114.xyz/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
-http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 #EXTINF:-1 tvg-name="五师双河影视" tvg-logo="https://11.112114.xyz/logo/五师双河影视.png" group-title="新疆",五师双河影视
 http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
 #EXTINF:-1 tvg-name="五师双河影视" tvg-logo="https://11.112114.xyz/logo/五师双河影视.png" group-title="新疆",五师双河影视
@@ -13868,8 +14032,6 @@ rtmp://liveout.btzx.com.cn:443/ybtkau/078syl
 http://www.shznews.com/ds/xwzh/playlist.m3u8
 #EXTINF:-1 tvg-name="八师石河子新闻综合" tvg-logo="https://11.112114.xyz/logo/八师石河子新闻综合.png" group-title="新疆",八师石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-name="八师石河子新闻综合" tvg-logo="https://11.112114.xyz/logo/八师石河子新闻综合.png" group-title="新疆",八师石河子新闻综合
-http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 #EXTINF:-1 tvg-name="九师综合" tvg-logo="https://11.112114.xyz/logo/九师综合.png" group-title="新疆",九师综合
 https://liveout.btzx.com.cn/3pyc0h/dbfvwu.m3u8
 #EXTINF:-1 tvg-name="十二师综合" tvg-logo="https://11.112114.xyz/logo/十二师综合.png" group-title="新疆",十二师综合
@@ -13886,38 +14048,20 @@ http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
 rtmp://218.84.35.38/live/tctv-2
 #EXTINF:-1 tvg-name="塔城二套" tvg-logo="https://11.112114.xyz/logo/塔城二套.png" group-title="新疆",塔城二套
 http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
-#EXTINF:-1 tvg-name="塔城二套" tvg-logo="https://11.112114.xyz/logo/塔城二套.png" group-title="新疆",塔城二套
-http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 #EXTINF:-1 tvg-name="塔城三套" tvg-logo="https://11.112114.xyz/logo/塔城三套.png" group-title="新疆",塔城三套
 http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
-#EXTINF:-1 tvg-name="伊宁维吾尔" tvg-logo="https://11.112114.xyz/logo/伊宁维吾尔.png" group-title="新疆",伊宁维吾尔
-http://222.81.52.40:9898/out_2/index.m3u8
-#EXTINF:-1 tvg-name="伊宁汉语综合" tvg-logo="https://11.112114.xyz/logo/伊宁汉语综合.png" group-title="新疆",伊宁汉语综合
-http://222.81.52.40:9898/out_1/index.m3u8
 #EXTINF:-1 tvg-name="伊犁维语综合" tvg-logo="https://11.112114.xyz/logo/伊犁维语综合.png" group-title="新疆",伊犁维语综合
 http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 tvg-name="伊犁维吾尔" tvg-logo="https://11.112114.xyz/logo/伊犁维吾尔.png" group-title="新疆",伊犁维吾尔
-http://110.153.180.106:55555/out_2/index.m3u8
 #EXTINF:-1 tvg-name="伊犁经济法制" tvg-logo="https://11.112114.xyz/logo/伊犁经济法制.png" group-title="新疆",伊犁经济法制
 http://110.153.180.106:55555/out_4/index.m3u8
-#EXTINF:-1 tvg-name="伊犁经济法制" tvg-logo="https://11.112114.xyz/logo/伊犁经济法制.png" group-title="新疆",伊犁经济法制
-http://110.153.180.106:55555/out_4/index.m3u8
-#EXTINF:-1 tvg-name="伊犁汉语综合" tvg-logo="https://11.112114.xyz/logo/伊犁汉语综合.png" group-title="新疆",伊犁汉语综合
-http://110.153.180.106:55555/out_1/index.m3u8
 #EXTINF:-1 tvg-name="伊犁汉语综合" tvg-logo="https://11.112114.xyz/logo/伊犁汉语综合.png" group-title="新疆",伊犁汉语综合
 http://110.153.180.106:55555/out_1/index.m3u8
 #EXTINF:-1 tvg-name="伊犁哈语综合" tvg-logo="https://11.112114.xyz/logo/伊犁哈语综合.png" group-title="新疆",伊犁哈语综合
 http://110.153.180.106:55555/out_3/index.m3u8
-#EXTINF:-1 tvg-name="伊犁哈萨克" tvg-logo="https://11.112114.xyz/logo/伊犁哈萨克.png" group-title="新疆",伊犁哈萨克
-http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 tvg-name="新星综合" tvg-logo="https://11.112114.xyz/logo/新星综合.png" group-title="新疆",新星综合
 http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="五家渠综合频道" tvg-logo="https://11.112114.xyz/logo/五家渠综合频道.png" group-title="新疆",五家渠综合频道
-https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 #EXTINF:-1 tvg-name="塔城汉语综合" tvg-logo="https://11.112114.xyz/logo/塔城汉语综合.png" group-title="新疆",塔城汉语综合
 rtmp://218.84.35.38/live/tctv-1
-#EXTINF:-1 tvg-name="塔城汉语综合" tvg-logo="https://11.112114.xyz/logo/塔城汉语综合.png" group-title="新疆",塔城汉语综合
-http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
 #EXTINF:-1 tvg-name="奇台综合" tvg-logo="https://11.112114.xyz/logo/奇台综合.png" group-title="新疆",奇台综合
 http://117.146.76.46:9090/stream1/m2e2000.m3u8
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="https://11.112114.xyz/logo/云南都市.png" group-title="云南",云南都市
@@ -14060,8 +14204,6 @@ http://60.160.23.32:8100/media/livepkgr/sjtv/playlist.m3u8
 http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-szrm-tv.szrmxw.cn&player=1&streamid=szrm-tv:szrm-tv/ynsz&v3=1
 #EXTINF:-1 tvg-name="瑞丽综合" tvg-logo="https://11.112114.xyz/logo/瑞丽综合.png" group-title="云南",瑞丽综合
 http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
-#EXTINF:-1 tvg-name="瑞丽新闻综合" tvg-logo="https://11.112114.xyz/logo/瑞丽新闻综合.png" group-title="云南",瑞丽新闻综合
-http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
 #EXTINF:-1 tvg-name="曲靖一套" tvg-logo="https://11.112114.xyz/logo/曲靖一套.png" group-title="云南",曲靖一套
 https://hwapi.yntv.net/ew265l/9gp7eg.m3u8
 #EXTINF:-1 tvg-name="曲靖一套" tvg-logo="https://11.112114.xyz/logo/曲靖一套.png" group-title="云南",曲靖一套
@@ -14088,8 +14230,6 @@ rtmp://hwzbout.yntv.net/s5xpv2/9r4ei4
 http://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634c213.m3u8
 #EXTINF:-1 tvg-name="芒市综合" tvg-logo="https://11.112114.xyz/logo/芒市综合.png" group-title="云南",芒市综合
 http://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634c213.flv
-#EXTINF:-1 tvg-name="麻栗坡县广播电视台" tvg-logo="https://11.112114.xyz/logo/麻栗坡县广播电视台.png" group-title="云南",麻栗坡县广播电视台
-http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 #EXTINF:-1 tvg-name="麻栗坡县广播电视台" tvg-logo="https://11.112114.xyz/logo/麻栗坡县广播电视台.png" group-title="云南",麻栗坡县广播电视台
 http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 #EXTINF:-1 tvg-name="麻栗坡县广播电视台" tvg-logo="https://11.112114.xyz/logo/麻栗坡县广播电视台.png" group-title="云南",麻栗坡县广播电视台
@@ -15596,12 +15736,6 @@ http://origin.ryzanedu.com:35455/huya/30436669
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=30436669$酷9远程JS
 #EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",纪晓岚
 https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Others/web.js?id=https://www.huya.com/30436669$远程Webview
-#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",纪晓岚
-http://origin.ryzanedu.com:35455/huya/11342396
-#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",纪晓岚
-https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/HuyaAndDouyu.js?id=11342396$酷9远程JS
-#EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://11.112114.xyz/logo/huya.png" group-title="轮播",纪晓岚
-https://gh.llkk.cc/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Others/web.js?id=https://www.huya.com/11342396$远程Webview
 #EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",纪晓岚
 http://origin.ryzanedu.com:35455/yy/1354143978
 #EXTINF:-1 tvg-name="纪晓岚" tvg-logo="https://11.112114.xyz/logo/YY.png" group-title="轮播",纪晓岚
