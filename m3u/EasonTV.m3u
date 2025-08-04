@@ -202,7 +202,17 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5353323539453949720
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000014161
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8$上海移动V6
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001186/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001186/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001186/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001186/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
+http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001186/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
 http://39.134.87.62/000000001000/5000000002000020548/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
@@ -215,7 +225,6 @@ http://39.134.87.62/000000001000/5000000004000008883/index.m3u8?IASHttpSessionId
 http://39.134.87.83/000000001000/5000000004000008883/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
 http://39.134.90.60/000000001000/5000000004000008883/index.m3u8?IASHttpSessionId=$上海移动V4
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
 http://39.134.62.141:6610/PLTV/88888888/224/3221226021/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
