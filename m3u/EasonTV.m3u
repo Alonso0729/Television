@@ -2268,14 +2268,6 @@ http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226124$黑龙江移动V4
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011530
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000001000010948
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011528
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://110.42.54.199:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://home.odbo.cc:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
@@ -2287,6 +2279,14 @@ http://110.42.54.199:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive&Contenti
 http://home.odbo.cc:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://sttt.eu.org:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226124$黑龙江移动V4
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011530
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000001000010948
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011528
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000270001
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
@@ -2370,16 +2370,6 @@ http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226147$黑龙江移动V4
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226469$黑龙江移动V4
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011529
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011531
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000001000007218
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://110.42.54.199:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://home.odbo.cc:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
@@ -2391,6 +2381,16 @@ http://110.42.54.199:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive&Contenti
 http://home.odbo.cc:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://sttt.eu.org:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226147$黑龙江移动V4
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226469$黑龙江移动V4
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011529
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011531
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000001000007218
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000270002
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
@@ -2416,14 +2416,6 @@ http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
 http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226508$黑龙江移动V4
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011525
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000031315
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000001000005308
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
 http://110.42.54.199:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
 http://home.odbo.cc:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=3
@@ -2435,6 +2427,14 @@ http://110.42.54.199:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive&Contenti
 http://home.odbo.cc:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
 http://sttt.eu.org:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226508$黑龙江移动V4
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011525
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000031315
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000001000005308
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000270007
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://11.112114.xyz/logo/睛彩青少.png" group-title="体育",睛彩青少
@@ -2488,14 +2488,6 @@ http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
 http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226472$黑龙江移动V4
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011523
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011524
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000001000005969
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
 http://110.42.54.199:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
 http://home.odbo.cc:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
@@ -2507,6 +2499,14 @@ http://110.42.54.199:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive&Contenti
 http://home.odbo.cc:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
 http://sttt.eu.org:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226472$黑龙江移动V4
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011523
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000020000011524
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://php.jdshipin.com/itv6s.php?cid=FifastbLive&id=3000000001000005969
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000270003
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
