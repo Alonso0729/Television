@@ -1434,29 +1434,29 @@ http://www.lizhinas.top:1009/rtp/239.252.219.80:5140$江西电信
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
 http://www.lizhinas.top:1009/rtp/239.252.219.98:5140$江西电信
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://11.112114.xyz/logo/老故事.png" group-title="央视",老故事
+http://k.061899.xyz/k.php?id=lgs
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://11.112114.xyz/logo/老故事.png" group-title="央视",老故事
 http://110.42.54.199:35455/mgtv/884121956.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://11.112114.xyz/logo/老故事.png" group-title="央视",老故事
 http://home.odbo.cc:35455/mgtv/884121956.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://11.112114.xyz/logo/老故事.png" group-title="央视",老故事
 http://sttt.eu.org:35455/mgtv/884121956.m3u8
-#EXTINF:-1 tvg-name="老故事" tvg-logo="https://11.112114.xyz/logo/老故事.png" group-title="央视",老故事
-http://k.061899.xyz/k.php?id=lgs
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://11.112114.xyz/logo/发现之旅.png" group-title="央视",发现之旅
+http://k.061899.xyz/k.php?id=fxzl
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://11.112114.xyz/logo/发现之旅.png" group-title="央视",发现之旅
 http://110.42.54.199:35455/mgtv/624878970.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://11.112114.xyz/logo/发现之旅.png" group-title="央视",发现之旅
 http://home.odbo.cc:35455/mgtv/624878970.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://11.112114.xyz/logo/发现之旅.png" group-title="央视",发现之旅
 http://sttt.eu.org:35455/mgtv/624878970.m3u8
-#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://11.112114.xyz/logo/发现之旅.png" group-title="央视",发现之旅
-http://k.061899.xyz/k.php?id=fxzl
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://11.112114.xyz/logo/中学生.png" group-title="央视",中学生
+http://k.061899.xyz/k.php?id=zxs
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://11.112114.xyz/logo/中学生.png" group-title="央视",中学生
 http://110.42.54.199:35455/mgtv/708869532.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://11.112114.xyz/logo/中学生.png" group-title="央视",中学生
 http://home.odbo.cc:35455/mgtv/708869532.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://11.112114.xyz/logo/中学生.png" group-title="央视",中学生
 http://sttt.eu.org:35455/mgtv/708869532.m3u8
-#EXTINF:-1 tvg-name="中学生" tvg-logo="https://11.112114.xyz/logo/中学生.png" group-title="央视",中学生
-http://k.061899.xyz/k.php?id=zxs
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://11.112114.xyz/logo/书画.png" group-title="央视",书画
 http://www.lizhinas.top:1009/rtp/239.252.219.99:5140$江西电信
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://11.112114.xyz/logo/书画.png" group-title="央视",书画
@@ -2018,19 +2018,25 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000009455
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010001
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://39.134.87.62/000000001000/5000000002000029972/index.m3u8?IASHttpSessionId=$上海移动V4
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://39.134.87.83/000000001000/5000000002000029972/index.m3u8?IASHttpSessionId=$上海移动V4
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://39.134.90.60/000000001000/5000000002000029972/index.m3u8?IASHttpSessionId=$上海移动V4
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://k.061899.xyz/k.php?id=jbty
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://110.42.54.199:35455/bst/jbtyhd@4000000.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://home.odbo.cc:35455/bst/jbtyhd@4000000.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://sttt.eu.org:35455/bst/jbtyhd@4000000.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://110.42.54.199:35455/bst/jbtyhd@2300000.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://home.odbo.cc:35455/bst/jbtyhd@2300000.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://sttt.eu.org:35455/bst/jbtyhd@2300000.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://k.061899.xyz/k.php?id=jbty
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://39.134.87.62/000000001000/5000000002000029972/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://39.134.87.83/000000001000/5000000002000029972/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://39.134.90.60/000000001000/5000000002000029972/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000008
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
