@@ -12169,12 +12169,12 @@ http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001278/index.m3u8?IAS
 http://39.134.87.62/000000001000/5000000005000031974/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
 http://39.134.90.60/000000001000/5000000005000031974/index.m3u8?IASHttpSessionId=$上海移动V4
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
-http://gslbserv.itv.cmvideo.cn/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3$上海移动V6
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://gslbserv.itv.cmvideo.cn/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3$上海移动V6
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://gslbserv.itv.cmvideo.cn/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://gslbserv.itv.cmvideo.cn/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3$上海移动V6
 #EXTINF:-1 tvg-name="咪视通-1" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-1
 http://gslbserv.itv.cmvideo.cn/3000000010000000097/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3$上海移动V6
 #EXTINF:-1 tvg-name="咪视通-2" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-2
