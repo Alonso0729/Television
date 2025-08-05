@@ -12169,6 +12169,84 @@ http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001278/index.m3u8?IAS
 http://39.134.87.62/000000001000/5000000005000031974/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
 http://39.134.90.60/000000001000/5000000005000031974/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://gslbserv.itv.cmvideo.cn/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://gslbserv.itv.cmvideo.cn/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://gslbserv.itv.cmvideo.cn/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-1" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-1
+http://gslbserv.itv.cmvideo.cn/3000000010000000097/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-2" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-2
+http://gslbserv.itv.cmvideo.cn/3000000010000002019/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-3" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-3
+http://gslbserv.itv.cmvideo.cn/3000000010000002809/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-4" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-4
+http://gslbserv.itv.cmvideo.cn/3000000010000003915/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-5" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-5
+http://gslbserv.itv.cmvideo.cn/3000000010000004193/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-6" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-6
+http://gslbserv.itv.cmvideo.cn/3000000010000005837/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-7" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-7
+http://gslbserv.itv.cmvideo.cn/3000000010000006077/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-8" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-8
+http://gslbserv.itv.cmvideo.cn/3000000010000006658/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-9" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-9
+http://gslbserv.itv.cmvideo.cn/3000000010000009788/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-10" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-10
+http://gslbserv.itv.cmvideo.cn/3000000010000010833/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-11" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-11
+http://gslbserv.itv.cmvideo.cn/3000000010000011297/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-12" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-12
+http://gslbserv.itv.cmvideo.cn/3000000010000011518/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-13" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-13
+http://gslbserv.itv.cmvideo.cn/3000000010000012558/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-14" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-14
+http://gslbserv.itv.cmvideo.cn/3000000010000012616/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-15" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-15
+http://gslbserv.itv.cmvideo.cn/3000000010000015470/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-16" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-16
+http://gslbserv.itv.cmvideo.cn/3000000010000015560/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-17" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-17
+http://gslbserv.itv.cmvideo.cn/3000000010000019839/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-18" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-18
+http://gslbserv.itv.cmvideo.cn/3000000010000021904/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-19" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-19
+http://gslbserv.itv.cmvideo.cn/3000000010000023434/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-20" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-20
+http://gslbserv.itv.cmvideo.cn/3000000010000025380/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-21" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-21
+http://gslbserv.itv.cmvideo.cn/3000000010000027691/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-22" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-22
+http://gslbserv.itv.cmvideo.cn/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-23" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-23
+http://gslbserv.itv.cmvideo.cn/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-24" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-24
+http://gslbserv.itv.cmvideo.cn/3000000001000008379/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-25" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-25
+http://gslbserv.itv.cmvideo.cn/3000000001000010129/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-26" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-26
+http://gslbserv.itv.cmvideo.cn/3000000001000028638/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-27" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-27
+http://gslbserv.itv.cmvideo.cn/3000000001000031494/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-28" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-28
+http://gslbserv.itv.cmvideo.cn/3000000010000031669/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-33" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-33
+http://gslbserv.itv.cmvideo.cn/3000000020000011522/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-34" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-34
+http://gslbserv.itv.cmvideo.cn/3000000001000010948/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-35" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-35
+http://gslbserv.itv.cmvideo.cn/3000000001000007218/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-36" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-36
+http://gslbserv.itv.cmvideo.cn/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-37" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-37
+http://gslbserv.itv.cmvideo.cn/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-3D" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-3D
+http://gslbserv.itv.cmvideo.cn/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-3D" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-3D
+http://gslbserv.itv.cmvideo.cn/3000000010000017678/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3$上海移动V6
+#EXTINF:-1 tvg-name="咪视通-4K" tvg-logo="https://11.112114.xyz/logo/咪咕视频.png" group-title="体育",咪视通-4K
+http://gslbserv.itv.cmvideo.cn/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$上海移动V6
 #EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-11
 http://39.134.87.62/000000001000/5000000001000001116/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-11
