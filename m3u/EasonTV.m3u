@@ -1464,6 +1464,8 @@ http://www.cdnstv.com:6398/hls/1176/index.m3u8
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://11.112114.xyz/logo/书画.png" group-title="央视",书画
 http://php.jdshipin.com/cqyx.php?id=shuhua
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+https://tv.alonso0729.dpdns.org/api/Shanghai_shtv.php?id=dfws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://A/ku9/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -1534,6 +1536,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6081477947334326291
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=6131854485504331903
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+https://tv.alonso0729.dpdns.org/api/Shanghai_shtv.php?id=xwzh
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://A/ku9/js/Shanghai/shanghai.js?id=shxwzh&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=shxwzh&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -1571,6 +1575,8 @@ http://sttt.eu.org:35455/bst/xwzhhd@4000000.m3u8
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000005
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031110
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
+https://tv.alonso0729.dpdns.org/api/Shanghai_shtv.php?id=ds
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 http://A/ku9/js/Shanghai/shanghai.js?id=shds&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
@@ -1640,6 +1646,8 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000013
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="上海",东方影视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000032212
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
+https://tv.alonso0729.dpdns.org/api/Shanghai_shtv.php?id=dycj
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
 http://A/ku9/js/Shanghai/shanghai.js?id=dycj&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=dycj&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -1677,6 +1685,8 @@ http://sttt.eu.org:35455/bst/dycjhd@4000000.m3u8
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000004
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000027146
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
+https://tv.alonso0729.dpdns.org/api/Shanghai_shtv.php?id=wxty
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 http://A/ku9/js/Shanghai/shanghai.js?id=wxty&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
@@ -1760,6 +1770,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000031641
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031123
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="上海",魔都眼
+https://tv.alonso0729.dpdns.org/api/Shanghai_shtv.php?id=mdy
+#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="上海",魔都眼
 http://A/ku9/js/Shanghai/shanghai.js?id=mdy&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="上海",魔都眼
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=mdy&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -1769,6 +1781,8 @@ http://A/ku9/js/Shanghai/KanKanNews.js?id=11
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/KanKanNews.js?id=11$酷9远程JS
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="上海",魔都眼
 http://k.061899.xyz/k.php?id=mdy
+#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://11.112114.xyz/logo/新纪实.png" group-title="上海",新纪实
+https://tv.alonso0729.dpdns.org/api/Shanghai_shtv.php?id=xjs
 #EXTINF:-1 tvg-name="新纪实" tvg-logo="https://11.112114.xyz/logo/新纪实.png" group-title="上海",新纪实
 http://A/ku9/js/Shanghai/shanghai.js?id=xjs&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="新纪实" tvg-logo="https://11.112114.xyz/logo/新纪实.png" group-title="上海",新纪实
@@ -1814,6 +1828,8 @@ http://home.odbo.cc:35455/bst/dfgwsxhd8m@8000000.m3u8
 #EXTINF:-1 tvg-name="东方购物三台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物三台
 http://sttt.eu.org:35455/bst/dfgwsxhd8m@8000000.m3u8
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
+https://tv.alonso0729.dpdns.org/api/Shanghai_setv.php
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001268/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -1843,6 +1859,8 @@ https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 http://cdn8.163189.xyz/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
 http://iptv.huuc.edu.cn/hls/cwjdhd.m3u8
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
+https://tv.alonso0729.dpdns.org/api/Shanghai_shtv.php?id=ly
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
@@ -3682,6 +3700,8 @@ http://cdn.1678520.xyz/fujian.php?id=9
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://11.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视
 http://cdn.1678520.xyz:8880/fujian.php?id=9
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
+https://tv.alonso0729.dpdns.org/api/hebei.php?id=hbws
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001229/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -3731,6 +3751,8 @@ http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafe
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000017118
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040016
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
@@ -4975,6 +4997,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://11.112114.xyz/logo/香港卫视.png" group-title="卫视",香港卫视
 rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjws
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjws
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
@@ -8502,6 +8526,8 @@ http://183.255.46.4:16080/live/tv2503.flv
 #EXTINF:-1 tvg-name="儋州台" tvg-logo="https://11.112114.xyz/logo/儋州台.png" group-title="海南",儋州台
 http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://11.112114.xyz/logo/河北经济生活.png" group-title="河北",河北经济生活
+https://tv.alonso0729.dpdns.org/api/hebei.php?id=jjsh
+#EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://11.112114.xyz/logo/河北经济生活.png" group-title="河北",河北经济生活
 http://A/ku9/js/Hebei/hebeidf.js?id=jjsh&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://11.112114.xyz/logo/河北经济生活.png" group-title="河北",河北经济生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/hebeidf.js?id=jjsh&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -8517,6 +8543,8 @@ http://111.225.94.177:33333/hls/20/index.m3u8
 http://111.225.93.174:33333/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://11.112114.xyz/logo/河北经济生活.png" group-title="河北",河北经济生活
 http://111.225.95.105:33333/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://11.112114.xyz/logo/河北都市.png" group-title="河北",河北都市
+https://tv.alonso0729.dpdns.org/api/hebei.php?id=hbds
 #EXTINF:-1 tvg-name="河北都市" tvg-logo="https://11.112114.xyz/logo/河北都市.png" group-title="河北",河北都市
 http://A/ku9/js/Hebei/hebeidf.js?id=hbds&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河北都市" tvg-logo="https://11.112114.xyz/logo/河北都市.png" group-title="河北",河北都市
@@ -8534,6 +8562,8 @@ http://111.225.93.174:33333/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="河北都市" tvg-logo="https://11.112114.xyz/logo/河北都市.png" group-title="河北",河北都市
 http://111.225.95.105:33333/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://11.112114.xyz/logo/河北影视剧.png" group-title="河北",河北影视剧
+https://tv.alonso0729.dpdns.org/api/hebei.php?id=hbys
+#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://11.112114.xyz/logo/河北影视剧.png" group-title="河北",河北影视剧
 http://A/ku9/js/Hebei/hebeidf.js?id=hbys&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://11.112114.xyz/logo/河北影视剧.png" group-title="河北",河北影视剧
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/hebeidf.js?id=hbys&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -8549,6 +8579,8 @@ http://111.225.94.177:33333/hls/22/index.m3u8
 http://111.225.93.174:33333/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://11.112114.xyz/logo/河北影视剧.png" group-title="河北",河北影视剧
 http://111.225.95.105:33333/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://11.112114.xyz/logo/河北少儿科教.png" group-title="河北",河北少儿科教
+https://tv.alonso0729.dpdns.org/api/hebei.php?id=sekj
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://11.112114.xyz/logo/河北少儿科教.png" group-title="河北",河北少儿科教
 http://A/ku9/js/Hebei/hebeidf.js?id=sekj&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://11.112114.xyz/logo/河北少儿科教.png" group-title="河北",河北少儿科教
@@ -8566,6 +8598,8 @@ http://111.225.93.174:33333/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://11.112114.xyz/logo/河北少儿科教.png" group-title="河北",河北少儿科教
 http://111.225.95.105:33333/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="河北文旅公共" tvg-logo="https://11.112114.xyz/logo/河北文旅公共.png" group-title="河北",河北文旅公共
+https://tv.alonso0729.dpdns.org/api/hebei.php?id=hbgg
+#EXTINF:-1 tvg-name="河北文旅公共" tvg-logo="https://11.112114.xyz/logo/河北文旅公共.png" group-title="河北",河北文旅公共
 http://A/ku9/js/Hebei/hebeidf.js?id=hbgg&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河北文旅公共" tvg-logo="https://11.112114.xyz/logo/河北文旅公共.png" group-title="河北",河北文旅公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/hebeidf.js?id=hbgg&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -8582,6 +8616,8 @@ http://111.225.93.174:33333/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="河北文旅公共" tvg-logo="https://11.112114.xyz/logo/河北文旅公共.png" group-title="河北",河北文旅公共
 http://111.225.95.105:33333/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="河北三农" tvg-logo="https://11.112114.xyz/logo/河北三农.png" group-title="河北",河北三农
+https://tv.alonso0729.dpdns.org/api/hebei.php?id=nmpd
+#EXTINF:-1 tvg-name="河北三农" tvg-logo="https://11.112114.xyz/logo/河北三农.png" group-title="河北",河北三农
 http://A/ku9/js/Hebei/hebeidf.js?id=nmpd&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河北三农" tvg-logo="https://11.112114.xyz/logo/河北三农.png" group-title="河北",河北三农
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/hebeidf.js?id=nmpd&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -8597,6 +8633,8 @@ http://111.225.94.177:33333/hls/25/index.m3u8
 http://111.225.93.174:33333/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="河北三农" tvg-logo="https://11.112114.xyz/logo/河北三农.png" group-title="河北",河北三农
 http://111.225.95.105:33333/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="河北三佳购物" tvg-logo="https://11.112114.xyz/logo/河北三佳购物.png" group-title="河北",河北三佳购物
+https://tv.alonso0729.dpdns.org/api/hebei.php?id=sjgw
 #EXTINF:-1 tvg-name="河北三佳购物" tvg-logo="https://11.112114.xyz/logo/河北三佳购物.png" group-title="河北",河北三佳购物
 http://tv.pull.hebtv.com/jishi/sanjiagouwu.m3u8?t=2510710360&k=a5c9265ab5d7c3f456d9ef32cffef7dc
 #EXTINF:-1 tvg-name="河北三佳购物" tvg-logo="https://11.112114.xyz/logo/河北三佳购物.png" group-title="河北",河北三佳购物
@@ -8982,6 +9020,8 @@ http://zhap.city1000.cn/xinwen/ap_xw.m3u8
 #EXTINF:-1 tvg-name="安平综合" tvg-logo="https://11.112114.xyz/logo/安平综合.png" group-title="河北",安平综合
 http://zhap.city1000.cn/xinwen/ap_xw.flv
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://11.112114.xyz/logo/河南都市.png" group-title="河南",河南都市
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnds
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://11.112114.xyz/logo/河南都市.png" group-title="河南",河南都市
 http://A/ku9/js/Henan/henan.js?id=hnds&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://11.112114.xyz/logo/河南都市.png" group-title="河南",河南都市
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=hnds&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -8991,6 +9031,8 @@ http://php.jdshipin.com/hntv.php?id=hnds
 http://www.cdnstv.com:6398/hls/1110/index.m3u8
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://11.112114.xyz/logo/河南都市.png" group-title="河南",河南都市
 http://1.197.253.9:885/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://11.112114.xyz/logo/河南民生.png" group-title="河南",河南民生
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnms
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://11.112114.xyz/logo/河南民生.png" group-title="河南",河南民生
 http://A/ku9/js/Henan/henan.js?id=hnms&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://11.112114.xyz/logo/河南民生.png" group-title="河南",河南民生
@@ -9002,6 +9044,8 @@ http://www.cdnstv.com:6398/hls/1111/index.m3u8
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://11.112114.xyz/logo/河南民生.png" group-title="河南",河南民生
 http://1.197.253.9:885/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://11.112114.xyz/logo/河南法治.png" group-title="河南",河南法治
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hmfz
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://11.112114.xyz/logo/河南法治.png" group-title="河南",河南法治
 http://A/ku9/js/Henan/henan.js?id=hnfz&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://11.112114.xyz/logo/河南法治.png" group-title="河南",河南法治
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=hnfz&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -9011,6 +9055,8 @@ http://php.jdshipin.com/hntv.php?id=hmfz
 http://www.cdnstv.com:6398/hls/1112/index.m3u8
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://11.112114.xyz/logo/河南法治.png" group-title="河南",河南法治
 http://1.197.253.9:885/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://11.112114.xyz/logo/河南电视剧.png" group-title="河南",河南电视剧
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hndsj
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://11.112114.xyz/logo/河南电视剧.png" group-title="河南",河南电视剧
 http://A/ku9/js/Henan/henan.js?id=hndsj&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://11.112114.xyz/logo/河南电视剧.png" group-title="河南",河南电视剧
@@ -9022,6 +9068,8 @@ http://www.cdnstv.com:6398/hls/1113/index.m3u8
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://11.112114.xyz/logo/河南电视剧.png" group-title="河南",河南电视剧
 http://1.197.253.9:885/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://11.112114.xyz/logo/河南新闻.png" group-title="河南",河南新闻
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnxw
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://11.112114.xyz/logo/河南新闻.png" group-title="河南",河南新闻
 http://A/ku9/js/Henan/henan.js?id=hnxw&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://11.112114.xyz/logo/河南新闻.png" group-title="河南",河南新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=hnxw&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -9032,6 +9080,8 @@ http://www.cdnstv.com:6398/hls/1114/index.m3u8
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://11.112114.xyz/logo/河南新闻.png" group-title="河南",河南新闻
 http://1.197.253.9:885/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://11.112114.xyz/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=htgw
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://11.112114.xyz/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
 http://A/ku9/js/Henan/henan.js?id=htgw&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://11.112114.xyz/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=htgw&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -9040,6 +9090,8 @@ http://php.jdshipin.com/hntv.php?id=htgw
 #EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://11.112114.xyz/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
 http://www.cdnstv.com:6398/hls/1122/index.m3u8
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://11.112114.xyz/logo/河南公共.png" group-title="河南",河南公共
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hngg
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://11.112114.xyz/logo/河南公共.png" group-title="河南",河南公共
 http://A/ku9/js/Henan/henan.js?id=hngg&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://11.112114.xyz/logo/河南公共.png" group-title="河南",河南公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=hngg&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -9047,6 +9099,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://php.jdshipin.com/hntv.php?id=hngg
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://11.112114.xyz/logo/河南公共.png" group-title="河南",河南公共
 http://www.cdnstv.com:6398/hls/1115/index.m3u8
+#EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://11.112114.xyz/logo/河南乡村.png" group-title="河南",河南乡村
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnxc
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://11.112114.xyz/logo/河南乡村.png" group-title="河南",河南乡村
 http://A/ku9/js/Henan/henan.js?id=hnxc&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://11.112114.xyz/logo/河南乡村.png" group-title="河南",河南乡村
@@ -9058,6 +9112,8 @@ http://www.cdnstv.com:6398/hls/1116/index.m3u8
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://11.112114.xyz/logo/河南乡村.png" group-title="河南",河南乡村
 http://1.197.253.9:885/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://11.112114.xyz/logo/河南梨园.png" group-title="河南",河南梨园
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnly
+#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://11.112114.xyz/logo/河南梨园.png" group-title="河南",河南梨园
 http://A/ku9/js/Henan/henan.js?id=hnly&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://11.112114.xyz/logo/河南梨园.png" group-title="河南",河南梨园
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=hnly&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -9065,6 +9121,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://php.jdshipin.com/hntv.php?id=hnly
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://11.112114.xyz/logo/河南梨园.png" group-title="河南",河南梨园
 http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=wspd
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
 http://A/ku9/js/Henan/henan.js?id=wspd&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
@@ -9075,6 +9133,8 @@ http://php.jdshipin.com/hntv.php?id=wspd
 http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
 http://111.61.236.247:9081/hls/60/index.m3u8
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=wwbk
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
 http://A/ku9/js/Henan/henan.js?id=wwbk&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
@@ -9100,6 +9160,8 @@ http://www.cdnstv.com:6398/hls/1120/index.m3u8
 #EXTINF:-1 tvg-name="河南中华功夫" tvg-logo="https://11.112114.xyz/logo/河南中华功夫.png" group-title="河南",河南中华功夫
 http://1.197.253.9:885/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://11.112114.xyz/logo/河南曲艺.png" group-title="河南",河南曲艺
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=jczy
+#EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://11.112114.xyz/logo/河南曲艺.png" group-title="河南",河南曲艺
 http://A/ku9/js/Henan/henan.js?id=jczy&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://11.112114.xyz/logo/河南曲艺.png" group-title="河南",河南曲艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=jczy&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -9108,23 +9170,31 @@ http://php.jdshipin.com/hntv.php?id=jczy
 #EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://11.112114.xyz/logo/河南曲艺.png" group-title="河南",河南曲艺
 http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 #EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://11.112114.xyz/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=ydxj
+#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://11.112114.xyz/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
 http://A/ku9/js/Henan/henan.js?id=ydxj&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://11.112114.xyz/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=ydxj&key=关注公共号❤：AI科技生活$酷9远程JS
+#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://11.112114.xyz/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
+http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
+#EXTINF:-1 tvg-name="河南象视界" tvg-logo="https://11.112114.xyz/logo/河南象视界.png" group-title="河南",河南象视界
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=xsj
 #EXTINF:-1 tvg-name="河南象视界" tvg-logo="https://11.112114.xyz/logo/河南象视界.png" group-title="河南",河南象视界
 http://A/ku9/js/Henan/henan.js?id=xsj&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南象视界" tvg-logo="https://11.112114.xyz/logo/河南象视界.png" group-title="河南",河南象视界
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=xsj&key=关注公共号❤：AI科技生活$酷9远程JS
+#EXTINF:-1 tvg-name="河南国际" tvg-logo="https://11.112114.xyz/logo/河南国际.png" group-title="河南",河南国际
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hngj
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://11.112114.xyz/logo/国学.png" group-title="河南",国学
 http://A/ku9/js/Henan/henan.js?id=gxpd&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://11.112114.xyz/logo/国学.png" group-title="河南",国学
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=gxpd&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://11.112114.xyz/logo/国学.png" group-title="河南",国学
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=gxpd
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://11.112114.xyz/logo/国学.png" group-title="河南",国学
 http://www.cdnstv.com:6398/hls/1121/index.m3u8
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://11.112114.xyz/logo/国学.png" group-title="河南",国学
 http://php.jdshipin.com/cqyx.php?id=guoxue
-#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://11.112114.xyz/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
-http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 #EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://11.112114.xyz/logo/郑州新闻综合.png" group-title="河南",郑州新闻综合
 http://A/ku9/js/Henan/zhengzhou.js?id=595660085175275520&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://11.112114.xyz/logo/郑州新闻综合.png" group-title="河南",郑州新闻综合
@@ -12388,6 +12458,8 @@ http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
 #EXTINF:-1 tvg-name="无锡移动电视" tvg-logo="https://11.112114.xyz/logo/无锡移动电视.png" group-title="江苏",无锡移动电视
 http://m.flv.wifiwx.com/live/wifiwx-494.flv
 #EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://11.112114.xyz/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+https://tv.alonso0729.dpdns.org/api/cztv.php?id=czzh
+#EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://11.112114.xyz/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
 http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=cz1
 #EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://11.112114.xyz/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=cz1$酷9远程JS
@@ -14624,21 +14696,31 @@ https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 #EXTINF:-1 tvg-name="四川AI要闻直播" tvg-logo="https://11.112114.xyz/logo/四川AI要闻直播.png" group-title="四川",四川AI要闻直播
 https://mmslivef.scgchc.com/live/7064.m3u8?auth_key=1767344707-0-0-b9b74dffb7b58ae86837233d783727a5
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://11.112114.xyz/logo/成都新闻综合.png" group-title="四川",成都新闻综合
+https://tv.alonso0729.dpdns.org/api/cdtv.php?id=xwpd
+#EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://11.112114.xyz/logo/成都新闻综合.png" group-title="四川",成都新闻综合
 http://A/ku9/js/Sichuan/cdtv.js?id=cdxwzh
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://11.112114.xyz/logo/成都新闻综合.png" group-title="四川",成都新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/cdtv.js?id=cdxwzh$酷9远程JS
+#EXTINF:-1 tvg-name="成都经济" tvg-logo="https://11.112114.xyz/logo/成都经济.png" group-title="四川",成都经济
+https://tv.alonso0729.dpdns.org/api/cdtv.php?id=jjpd 
 #EXTINF:-1 tvg-name="成都经济" tvg-logo="https://11.112114.xyz/logo/成都经济.png" group-title="四川",成都经济
 http://A/ku9/js/Sichuan/cdtv.js?id=cdjjzx
 #EXTINF:-1 tvg-name="成都经济" tvg-logo="https://11.112114.xyz/logo/成都经济.png" group-title="四川",成都经济
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/cdtv.js?id=cdjjzx$酷9远程JS
 #EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://11.112114.xyz/logo/成都都市生活.png" group-title="四川",成都都市生活
+https://tv.alonso0729.dpdns.org/api/cdtv.php?id=shpd
+#EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://11.112114.xyz/logo/成都都市生活.png" group-title="四川",成都都市生活
 http://A/ku9/js/Sichuan/cdtv.js?id=cddssh
 #EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://11.112114.xyz/logo/成都都市生活.png" group-title="四川",成都都市生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/cdtv.js?id=cddssh$酷9远程JS
 #EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://11.112114.xyz/logo/成都影视文艺.png" group-title="四川",成都影视文艺
+https://tv.alonso0729.dpdns.org/api/cdtv.php?id=yspd
+#EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://11.112114.xyz/logo/成都影视文艺.png" group-title="四川",成都影视文艺
 http://A/ku9/js/Sichuan/cdtv.js?id=cdyswy
 #EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://11.112114.xyz/logo/成都影视文艺.png" group-title="四川",成都影视文艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/cdtv.js?id=cdyswy$酷9远程JS
+#EXTINF:-1 tvg-name="成都公共" tvg-logo="https://11.112114.xyz/logo/成都公共.png" group-title="四川",成都公共
+https://tv.alonso0729.dpdns.org/api/cdtv.php?id=ggpd
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://11.112114.xyz/logo/成都公共.png" group-title="四川",成都公共
 http://A/ku9/js/Sichuan/cdtv.js?id=cdgg
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://11.112114.xyz/logo/成都公共.png" group-title="四川",成都公共
@@ -14646,9 +14728,13 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://11.112114.xyz/logo/成都公共.png" group-title="四川",成都公共
 http://180.163.117.158:80/cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?wsSecret=ea9dc973127454e36210131050117989&wsTime=66de943b&wsSession=16b3132893f5fd2ed14ca024-172586297202430&wsIPSercert=39e31581026268b64cc384bf76a497fc&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://11.112114.xyz/logo/成都少儿.png" group-title="四川",成都少儿
+https://tv.alonso0729.dpdns.org/api/cdtv.php?id=sepd 
+#EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://11.112114.xyz/logo/成都少儿.png" group-title="四川",成都少儿
 http://A/ku9/js/Sichuan/cdtv.js?id=cdse
 #EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://11.112114.xyz/logo/成都少儿.png" group-title="四川",成都少儿
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/cdtv.js?id=cdse$酷9远程JS
+#EXTINF:-1 tvg-name="成都蓉城先锋" tvg-logo="https://11.112114.xyz/logo/成都蓉城先锋.png" group-title="四川",成都蓉城先锋
+https://tv.alonso0729.dpdns.org/api/cdtv.php?id=rcxf
 #EXTINF:-1 tvg-name="成都蓉城先锋" tvg-logo="https://11.112114.xyz/logo/成都蓉城先锋.png" group-title="四川",成都蓉城先锋
 http://A/ku9/js/Sichuan/cdtv.js?id=cdrcxf
 #EXTINF:-1 tvg-name="成都蓉城先锋" tvg-logo="https://11.112114.xyz/logo/成都蓉城先锋.png" group-title="四川",成都蓉城先锋
@@ -15338,19 +15424,27 @@ https://consolestream.rkzrm.cn:20323/8.m3u8
 #EXTINF:-1 tvg-name="察隅电视台" tvg-logo="https://11.112114.xyz/logo/察隅电视台.png" group-title="西藏",察隅电视台
 http://file.chayutv.com/nmip-media/channellive/channel105276/playlist.m3u8
 #EXTINF:-1 tvg-name="新疆维语新闻综合" tvg-logo="https://11.112114.xyz/logo/新疆维语新闻综合.png" group-title="新疆",新疆维语新闻综合
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjwyzh
+#EXTINF:-1 tvg-name="新疆维语新闻综合" tvg-logo="https://11.112114.xyz/logo/新疆维语新闻综合.png" group-title="新疆",新疆维语新闻综合
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjwyzh
 #EXTINF:-1 tvg-name="新疆维语新闻综合" tvg-logo="https://11.112114.xyz/logo/新疆维语新闻综合.png" group-title="新疆",新疆维语新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjwyzh$酷9远程JS
 #EXTINF:-1 tvg-name="新疆哈语综合" tvg-logo="https://11.112114.xyz/logo/新疆哈语综合.png" group-title="新疆",新疆哈语综合
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjhyzh
+#EXTINF:-1 tvg-name="新疆哈语综合" tvg-logo="https://11.112114.xyz/logo/新疆哈语综合.png" group-title="新疆",新疆哈语综合
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjhyzh
 #EXTINF:-1 tvg-name="新疆哈语综合" tvg-logo="https://11.112114.xyz/logo/新疆哈语综合.png" group-title="新疆",新疆哈语综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjhyzh$酷9远程JS
+#EXTINF:-1 tvg-name="新疆综艺" tvg-logo="https://11.112114.xyz/logo/新疆综艺.png" group-title="新疆",新疆综艺
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjzy
 #EXTINF:-1 tvg-name="新疆综艺" tvg-logo="https://11.112114.xyz/logo/新疆综艺.png" group-title="新疆",新疆综艺
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjzy
 #EXTINF:-1 tvg-name="新疆综艺" tvg-logo="https://11.112114.xyz/logo/新疆综艺.png" group-title="新疆",新疆综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjzy$酷9远程JS
 #EXTINF:-1 tvg-name="新疆综艺" tvg-logo="https://11.112114.xyz/logo/新疆综艺.png" group-title="新疆",新疆综艺
 http://cdn.jdshipin.com:8880/xjtv.php?id=xjzy
+#EXTINF:-1 tvg-name="新疆维语影视" tvg-logo="https://11.112114.xyz/logo/新疆维语影视.png" group-title="新疆",新疆维语影视
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjwyys
 #EXTINF:-1 tvg-name="新疆维语影视" tvg-logo="https://11.112114.xyz/logo/新疆维语影视.png" group-title="新疆",新疆维语影视
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjwyys
 #EXTINF:-1 tvg-name="新疆维语影视" tvg-logo="https://11.112114.xyz/logo/新疆维语影视.png" group-title="新疆",新疆维语影视
@@ -15360,19 +15454,27 @@ http://A/ku9/js/Xinjiang/xjtv.js?id=xjys
 #EXTINF:-1 tvg-name="新疆影视" tvg-logo="https://11.112114.xyz/logo/新疆影视.png" group-title="新疆",新疆影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjys$酷9远程JS
 #EXTINF:-1 tvg-name="新疆经济生活" tvg-logo="https://11.112114.xyz/logo/新疆经济生活.png" group-title="新疆",新疆经济生活
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjjjsh
+#EXTINF:-1 tvg-name="新疆经济生活" tvg-logo="https://11.112114.xyz/logo/新疆经济生活.png" group-title="新疆",新疆经济生活
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjjjsh
 #EXTINF:-1 tvg-name="新疆经济生活" tvg-logo="https://11.112114.xyz/logo/新疆经济生活.png" group-title="新疆",新疆经济生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjjjsh$酷9远程JS
 #EXTINF:-1 tvg-name="新疆经济生活" tvg-logo="https://11.112114.xyz/logo/新疆经济生活.png" group-title="新疆",新疆经济生活
 http://cdn.jdshipin.com:8880/xjtv.php?id=xjjj
 #EXTINF:-1 tvg-name="新疆哈语综艺" tvg-logo="https://11.112114.xyz/logo/新疆哈语综艺.png" group-title="新疆",新疆哈语综艺
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjhyzy
+#EXTINF:-1 tvg-name="新疆哈语综艺" tvg-logo="https://11.112114.xyz/logo/新疆哈语综艺.png" group-title="新疆",新疆哈语综艺
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjhyzy
 #EXTINF:-1 tvg-name="新疆哈语综艺" tvg-logo="https://11.112114.xyz/logo/新疆哈语综艺.png" group-title="新疆",新疆哈语综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjhyzy$酷9远程JS
 #EXTINF:-1 tvg-name="新疆维语经济生活" tvg-logo="https://11.112114.xyz/logo/新疆维语经济生活.png" group-title="新疆",新疆维语经济生活
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjwyjjsh
+#EXTINF:-1 tvg-name="新疆维语经济生活" tvg-logo="https://11.112114.xyz/logo/新疆维语经济生活.png" group-title="新疆",新疆维语经济生活
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjwyjjsh
 #EXTINF:-1 tvg-name="新疆维语经济生活" tvg-logo="https://11.112114.xyz/logo/新疆维语经济生活.png" group-title="新疆",新疆维语经济生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjwyjjsh$酷9远程JS
+#EXTINF:-1 tvg-name="新疆体育健康" tvg-logo="https://11.112114.xyz/logo/新疆体育健康.png" group-title="新疆",新疆体育健康
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjtyjk
 #EXTINF:-1 tvg-name="新疆体育健康" tvg-logo="https://11.112114.xyz/logo/新疆体育健康.png" group-title="新疆",新疆体育健康
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjtyjk
 #EXTINF:-1 tvg-name="新疆体育健康" tvg-logo="https://11.112114.xyz/logo/新疆体育健康.png" group-title="新疆",新疆体育健康
@@ -15380,9 +15482,13 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="新疆体育健康" tvg-logo="https://11.112114.xyz/logo/新疆体育健康.png" group-title="新疆",新疆体育健康
 http://cdn.jdshipin.com:8880/xjtv.php?id=xjty
 #EXTINF:-1 tvg-name="新疆信息服务" tvg-logo="https://11.112114.xyz/logo/新疆信息服务.png" group-title="新疆",新疆信息服务
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjxxfw
+#EXTINF:-1 tvg-name="新疆信息服务" tvg-logo="https://11.112114.xyz/logo/新疆信息服务.png" group-title="新疆",新疆信息服务
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjxxfw
 #EXTINF:-1 tvg-name="新疆信息服务" tvg-logo="https://11.112114.xyz/logo/新疆信息服务.png" group-title="新疆",新疆信息服务
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/xjtv.js?id=xjxxfw$酷9远程JS
+#EXTINF:-1 tvg-name="新疆少儿" tvg-logo="https://11.112114.xyz/logo/新疆少儿.png" group-title="新疆",新疆少儿
+https://tv.alonso0729.dpdns.org/api/xjtv.php?id=xjse
 #EXTINF:-1 tvg-name="新疆少儿" tvg-logo="https://11.112114.xyz/logo/新疆少儿.png" group-title="新疆",新疆少儿
 http://A/ku9/js/Xinjiang/xjtv.js?id=xjse
 #EXTINF:-1 tvg-name="新疆少儿" tvg-logo="https://11.112114.xyz/logo/新疆少儿.png" group-title="新疆",新疆少儿
