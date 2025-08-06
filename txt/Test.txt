@@ -400,7 +400,7 @@ IP8,http://39.135.135.38/PLTV/88888888/224/3221225715/1.m3u8
 IP9,http://39.135.135.71/PLTV/88888888/224/3221225730/1.m3u8
 
 PHP远程播放测试,#genre#
-上海教育,https://tv.alonso0729.dpdns.org/api/setv.php
+上海教育,https://tv.alonso0729.dpdns.org/api/Shanghai_setv.php
 CCTV1综合,https://tv.alonso0729.dpdns.org/api/migu.php?id=cctv1 
 CCTV2财经,https://tv.alonso0729.dpdns.org/api/migu.php?id=cctv2 
 CCTV3综艺,https://tv.alonso0729.dpdns.org/api/migu.php?id=cctv3 
