@@ -4680,6 +4680,10 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225624$黑龙江移动V4
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226392$黑龙江移动V4
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
+http://A/ku9/js/Guangdong/shenzhen.js?id=sxiws
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=sxiws$酷9远程JS
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 http://A/ku9/js/Shanxi/shanxi_new.js?id=sxws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxws$酷9远程JS
@@ -4687,10 +4691,6 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Shanxi/shanxi.js?id=sxws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxws$酷9远程JS
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
-http://A/ku9/js/Guangdong/shenzhen.js?id=sxiws
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=sxiws$酷9远程JS
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 http://k.061899.xyz/k.php?id=sxiws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
@@ -14301,78 +14301,80 @@ http://stream.hhek.cn/ggpd/sd/live.m3u8
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=bzdst&channelid=100022
 #EXTINF:-1 tvg-name="滨州新闻综合" tvg-logo="https://11.112114.xyz/logo/滨州新闻综合.png" group-title="山东",滨州新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=bzdst&channelid=100022$酷9远程JS
-#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
-http://A/ku9/js/Shanxi/shanxi_new.js?id=sxhh
-#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxhh$酷9远程JS
-#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
-http://A/ku9/js/Shanxi/shanxi.js?id=sxhh
-#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxhh$酷9远程JS
-#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxhh
-#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=sxhh$酷9远程JS
-#EXTINF:-1 tvg-name="山西黄河" tvg-logo="https://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxhh
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxhh$酷9远程JS
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
+http://A/ku9/js/Shanxi/shanxi.js?id=sxhh
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxhh$酷9远程JS
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
-http://A/ku9/js/Shanxi/shanxi_new.js?id=sxjj
-#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxjj$酷9远程JS
-#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
-http://A/ku9/js/Shanxi/shanxi.js?id=sxjj
-#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxjj$酷9远程JS
-#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxjj
-#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=sxjj$酷9远程JS
-#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="https://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxjj
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxjj$酷9远程JS
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+http://A/ku9/js/Shanxi/shanxi.js?id=sxjj
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxjj$酷9远程JS
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
-http://A/ku9/js/Shanxi/shanxi_new.js?id=sxys
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxys$酷9远程JS
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
-http://A/ku9/js/Shanxi/shanxi.js?id=sxys
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxys$酷9远程JS
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxys
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=sxys$酷9远程JS
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxys
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxys$酷9远程JS
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
+http://A/ku9/js/Shanxi/shanxi.js?id=sxys
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxys$酷9远程JS
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
-http://A/ku9/js/Shanxi/shanxi_new.js?id=sxfz
-#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxfz$酷9远程JS
-#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
-http://A/ku9/js/Shanxi/shanxi.js?id=sxfz
-#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxfz$酷9远程JS
-#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxshfz
-#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=sxshfz$酷9远程JS
-#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxfz
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxfz$酷9远程JS
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+http://A/ku9/js/Shanxi/shanxi.js?id=sxfz
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxfz$酷9远程JS
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
-http://A/ku9/js/Shanxi/shanxi_new.js?id=sxwt
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxwt$酷9远程JS
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
-http://A/ku9/js/Shanxi/shanxi.js?id=sxwt
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxwt$酷9远程JS
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxwtsh
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=sxwtsh$酷9远程JS
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
+http://A/ku9/js/Shanxi/shanxi_new.js?id=sxwt
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi_new.js?id=sxwt$酷9远程JS
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
+http://A/ku9/js/Shanxi/shanxi.js?id=sxwt
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxwt$酷9远程JS
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
 https://epg.pw/stream/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.ctv
+#EXTINF:-1 tvg-name="太原新闻综合" tvg-logo="https://11.112114.xyz/logo/太原新闻综合.png" group-title="山西",太原新闻综合
+https://tv.alonso0729.dpdns.org/api/Shanxi_tyxl.php?id=tyxwzh
 #EXTINF:-1 tvg-name="太原新闻综合" tvg-logo="https://11.112114.xyz/logo/太原新闻综合.png" group-title="山西",太原新闻综合
 http://A/ku9/js/Shanxi/shanxidf.js?id=11
 #EXTINF:-1 tvg-name="太原新闻综合" tvg-logo="https://11.112114.xyz/logo/太原新闻综合.png" group-title="山西",太原新闻综合
@@ -14382,29 +14384,43 @@ http://A/ku9/js/Guangdong/shenzhen.js?id=tyxwzh
 #EXTINF:-1 tvg-name="太原新闻综合" tvg-logo="https://11.112114.xyz/logo/太原新闻综合.png" group-title="山西",太原新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=tyxwzh$酷9远程JS
 #EXTINF:-1 tvg-name="太原经济生活" tvg-logo="https://11.112114.xyz/logo/太原经济生活.png" group-title="山西",太原经济生活
+https://tv.alonso0729.dpdns.org/api/Shanxi_tyxl.php?id=tyjjsh
+#EXTINF:-1 tvg-name="太原经济生活" tvg-logo="https://11.112114.xyz/logo/太原经济生活.png" group-title="山西",太原经济生活
 http://A/ku9/js/Guangdong/shenzhen.js?id=tyjjsh
 #EXTINF:-1 tvg-name="太原经济生活" tvg-logo="https://11.112114.xyz/logo/太原经济生活.png" group-title="山西",太原经济生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=tyjjsh$酷9远程JS
+#EXTINF:-1 tvg-name="太原社教法制" tvg-logo="https://11.112114.xyz/logo/太原社教法制.png" group-title="山西",太原社教法制
+https://tv.alonso0729.dpdns.org/api/Shanxi_tyxl.php?id=tysjfz
 #EXTINF:-1 tvg-name="太原社教法制" tvg-logo="https://11.112114.xyz/logo/太原社教法制.png" group-title="山西",太原社教法制
 http://A/ku9/js/Guangdong/shenzhen.js?id=tysjfz
 #EXTINF:-1 tvg-name="太原社教法制" tvg-logo="https://11.112114.xyz/logo/太原社教法制.png" group-title="山西",太原社教法制
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=tysjfz$酷9远程JS
 #EXTINF:-1 tvg-name="太原影视" tvg-logo="https://11.112114.xyz/logo/太原影视.png" group-title="山西",太原影视
+https://tv.alonso0729.dpdns.org/api/Shanxi_tyxl.php?id=tyys
+#EXTINF:-1 tvg-name="太原影视" tvg-logo="https://11.112114.xyz/logo/太原影视.png" group-title="山西",太原影视
 http://A/ku9/js/Guangdong/shenzhen.js?id=tyys
 #EXTINF:-1 tvg-name="太原影视" tvg-logo="https://11.112114.xyz/logo/太原影视.png" group-title="山西",太原影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=tyys$酷9远程JS
+#EXTINF:-1 tvg-name="太原文体" tvg-logo="https://11.112114.xyz/logo/太原文体.png" group-title="山西",太原文体
+https://tv.alonso0729.dpdns.org/api/Shanxi_tyxl.php?id=tywt
 #EXTINF:-1 tvg-name="太原文体" tvg-logo="https://11.112114.xyz/logo/太原文体.png" group-title="山西",太原文体
 http://A/ku9/js/Guangdong/shenzhen.js?id=tywt
 #EXTINF:-1 tvg-name="太原文体" tvg-logo="https://11.112114.xyz/logo/太原文体.png" group-title="山西",太原文体
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=tywt$酷9远程JS
 #EXTINF:-1 tvg-name="太原佰乐购" tvg-logo="https://11.112114.xyz/logo/太原佰乐购.png" group-title="山西",太原佰乐购
+https://tv.alonso0729.dpdns.org/api/Shanxi_tyxl.php?id=tyblg
+#EXTINF:-1 tvg-name="太原佰乐购" tvg-logo="https://11.112114.xyz/logo/太原佰乐购.png" group-title="山西",太原佰乐购
 http://A/ku9/js/Guangdong/shenzhen.js?id=tyblg
 #EXTINF:-1 tvg-name="太原佰乐购" tvg-logo="https://11.112114.xyz/logo/太原佰乐购.png" group-title="山西",太原佰乐购
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=tyblg$酷9远程JS
 #EXTINF:-1 tvg-name="太原城市生活" tvg-logo="https://11.112114.xyz/logo/太原城市生活.png" group-title="山西",太原城市生活
+https://tv.alonso0729.dpdns.org/api/Shanxi_tyxl.php?id=tycssh
+#EXTINF:-1 tvg-name="太原城市生活" tvg-logo="https://11.112114.xyz/logo/太原城市生活.png" group-title="山西",太原城市生活
 http://A/ku9/js/Guangdong/shenzhen.js?id=tycssh
 #EXTINF:-1 tvg-name="太原城市生活" tvg-logo="https://11.112114.xyz/logo/太原城市生活.png" group-title="山西",太原城市生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=tycssh$酷9远程JS
+#EXTINF:-1 tvg-name="太原教育" tvg-logo="https://11.112114.xyz/logo/太原教育.png" group-title="山西",太原教育
+https://tv.alonso0729.dpdns.org/api/Shanxi_tyxl.php?id=tyjy
 #EXTINF:-1 tvg-name="太原教育" tvg-logo="https://11.112114.xyz/logo/太原教育.png" group-title="山西",太原教育
 http://A/ku9/js/Guangdong/shenzhen.js?id=tyjy
 #EXTINF:-1 tvg-name="太原教育" tvg-logo="https://11.112114.xyz/logo/太原教育.png" group-title="山西",太原教育
@@ -14454,6 +14470,8 @@ http://stream.icelook.cn/7e0d542d2fa63dc5/6805067973364024324_1623030764.m3u8?au
 #EXTINF:-1 tvg-name="翼城综合" tvg-logo="https://11.112114.xyz/logo/翼城综合.png" group-title="山西",翼城综合
 http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-name="阳泉新闻综合" tvg-logo="https://11.112114.xyz/logo/阳泉新闻综合.png" group-title="山西",阳泉新闻综合
+https://tv.alonso0729.dpdns.org/api/Shanxi_yqxl.php?id=yqxwzh
+#EXTINF:-1 tvg-name="阳泉新闻综合" tvg-logo="https://11.112114.xyz/logo/阳泉新闻综合.png" group-title="山西",阳泉新闻综合
 http://A/ku9/js/Shanxi/shanxi.js?id=yqzh
 #EXTINF:-1 tvg-name="阳泉新闻综合" tvg-logo="https://11.112114.xyz/logo/阳泉新闻综合.png" group-title="山西",阳泉新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=yqzh$酷9远程JS
@@ -14461,6 +14479,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Shanxi/shanxidf.js?id=9
 #EXTINF:-1 tvg-name="阳泉新闻综合" tvg-logo="https://11.112114.xyz/logo/阳泉新闻综合.png" group-title="山西",阳泉新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxidf.js?id=9$酷9远程JS
+#EXTINF:-1 tvg-name="阳泉科教" tvg-logo="https://11.112114.xyz/logo/阳泉科教.png" group-title="山西",阳泉科教
+https://tv.alonso0729.dpdns.org/api/Shanxi_yqxl.php?id=yqkj
 #EXTINF:-1 tvg-name="阳泉科教" tvg-logo="https://11.112114.xyz/logo/阳泉科教.png" group-title="山西",阳泉科教
 http://A/ku9/js/Shanxi/shanxi.js?id=yqkj
 #EXTINF:-1 tvg-name="阳泉科教" tvg-logo="https://11.112114.xyz/logo/阳泉科教.png" group-title="山西",阳泉科教
@@ -14606,6 +14626,8 @@ https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf
 #EXTINF:-1 tvg-name="定襄综合" tvg-logo="https://11.112114.xyz/logo/定襄综合.png" group-title="山西",定襄综合
 http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 #EXTINF:-1 tvg-name="大同新闻综合" tvg-logo="https://11.112114.xyz/logo/大同新闻综合.png" group-title="山西",大同新闻综合
+https://tv.alonso0729.dpdns.org/api/Shanxi_dtxl.php?id=xwzh
+#EXTINF:-1 tvg-name="大同新闻综合" tvg-logo="https://11.112114.xyz/logo/大同新闻综合.png" group-title="山西",大同新闻综合
 http://A/ku9/js/Shanxi/shanxi.js?id=dtzh
 #EXTINF:-1 tvg-name="大同新闻综合" tvg-logo="https://11.112114.xyz/logo/大同新闻综合.png" group-title="山西",大同新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=dtzh$酷9远程JS
@@ -14614,9 +14636,13 @@ http://A/ku9/js/Shanxi/shanxidf.js?id=10
 #EXTINF:-1 tvg-name="大同新闻综合" tvg-logo="https://11.112114.xyz/logo/大同新闻综合.png" group-title="山西",大同新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxidf.js?id=10$酷9远程JS
 #EXTINF:-1 tvg-name="大同生活" tvg-logo="https://11.112114.xyz/logo/大同生活.png" group-title="山西",大同生活
+https://tv.alonso0729.dpdns.org/api/Shanxi_dtxl.php?id=mdsh
+#EXTINF:-1 tvg-name="大同生活" tvg-logo="https://11.112114.xyz/logo/大同生活.png" group-title="山西",大同生活
 http://A/ku9/js/Shanxi/shanxi.js?id=dtsh
 #EXTINF:-1 tvg-name="大同生活" tvg-logo="https://11.112114.xyz/logo/大同生活.png" group-title="山西",大同生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=dtsh$酷9远程JS
+#EXTINF:-1 tvg-name="大同公共" tvg-logo="https://11.112114.xyz/logo/大同公共.png" group-title="山西",大同公共
+https://tv.alonso0729.dpdns.org/api/Shanxi_dtxl.php?id=ggpd
 #EXTINF:-1 tvg-name="大同公共" tvg-logo="https://11.112114.xyz/logo/大同公共.png" group-title="山西",大同公共
 http://A/ku9/js/Shanxi/shanxi.js?id=dtgg
 #EXTINF:-1 tvg-name="大同公共" tvg-logo="https://11.112114.xyz/logo/大同公共.png" group-title="山西",大同公共
