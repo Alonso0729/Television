@@ -399,17 +399,17 @@ IP7,http://39.135.133.182/PLTV/88888888/224/3221225728/1.m3u8
 IP8,http://39.135.135.38/PLTV/88888888/224/3221225715/1.m3u8
 IP9,http://39.135.135.71/PLTV/88888888/224/3221225730/1.m3u8
 
-黑皮狗全家暴毙死光的PHP测试#genre#
+黑皮狗全家暴毙死光的PHP测试,#genre#
 北京卫视,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjws 
 北京卫视4K,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjws4k 
-BRTV文艺,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjwy 
-BRTV纪实科教,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjjs 
-BRTV影视,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjys 
-BRTV财经,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjcj 
-BRTV体育休闲,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjty 
-BRTV生活,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjsh 
-BRTV新闻,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjxw 
-卡酷少儿,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjkk 
+北京文艺,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjwy 
+北京纪实科教,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjjs 
+北京影视,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjys 
+北京财经,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjcj 
+北京体育休闲,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjty 
+北京生活,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjsh 
+北京新闻,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjxw 
+北京卡酷少儿,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjkk 
 西藏卫视,https://tv.alonso0729.dpdns.org/api/xztv.php?id=0
 西藏藏语卫视,https://tv.alonso0729.dpdns.org/api/xztv.php?id=1
 西藏影视文化,https://tv.alonso0729.dpdns.org/api/xztv.php?id=1
@@ -420,7 +420,7 @@ CCTV-4,https://tv.alonso0729.dpdns.org/api/bst.php?id=cctv4
 CCTV-5HD,https://tv.alonso0729.dpdns.org/api/bst.php?id=cctv5 
 CCTV-5+HD,https://tv.alonso0729.dpdns.org/api/bst.php?id=cctv5p 
 CCTV-5+HD2,https://tv.alonso0729.dpdns.org/api/bst.php?id=cctv5p2 
-五星体育 ,https://tv.alonso0729.dpdns.org/api/bst.php?id=wxty 
+五星体育,https://tv.alonso0729.dpdns.org/api/bst.php?id=wxty 
 法治天地,https://tv.alonso0729.dpdns.org/api/bst.php?id=fztd 
 欢笑剧场,https://tv.alonso0729.dpdns.org/api/bst.php?id=hxjc 
 欢笑剧场4K,https://tv.alonso0729.dpdns.org/api/bst.php?id=hxjc4k 
@@ -443,7 +443,7 @@ CCTV-4,https://tv.alonso0729.dpdns.org/api/bst.php?id=cctv4hd8m
 CCTV-5HD,https://tv.alonso0729.dpdns.org/api/bst.php?id=cctv58m
 CCTV-5+HD,https://tv.alonso0729.dpdns.org/api/bst.php?id=cctv5hd8m
 CCTV-5+HD2,https://tv.alonso0729.dpdns.org/api/bst.php?id=cctv5phd8m
-五星体育 ,https://tv.alonso0729.dpdns.org/api/bst.php?id=wxtyhd8m
+五星体育,https://tv.alonso0729.dpdns.org/api/bst.php?id=wxtyhd8m
 法治天地,https://tv.alonso0729.dpdns.org/api/bst.php?id=fztd8m
 欢笑剧场,https://tv.alonso0729.dpdns.org/api/bst.php?id=hxjc8m
 欢笑剧场4K,https://tv.alonso0729.dpdns.org/api/bst.php?id=hxjc4k
