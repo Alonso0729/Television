@@ -3622,6 +3622,8 @@ http://home.odbo.cc:35455/bst/gzwshd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://sttt.eu.org:35455/bst/gzwshd4m@4000000.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
+https://tv.alonso0729.dpdns.org/api/gzstv.php?id=gzws
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://A/ku9/js/Guizhou/gzstv.js?id=ch01
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guizhou/gzstv.js?id=ch01$酷9远程JS
@@ -8380,6 +8382,8 @@ http://lives.myun.tv/live/028exb80.m3u8
 #EXTINF:-1 tvg-name="巴马频道" tvg-logo="https://11.112114.xyz/logo/巴马频道.png" group-title="广西",巴马频道
 http://live.gxrb.com.cn/gx/bama/index.m3u8
 #EXTINF:-1 tvg-name="贵州公共" tvg-logo="https://11.112114.xyz/logo/贵州公共.png" group-title="贵州",贵州公共
+https://tv.alonso0729.dpdns.org/api/gzstv.php?id=gzgg
+#EXTINF:-1 tvg-name="贵州公共" tvg-logo="https://11.112114.xyz/logo/贵州公共.png" group-title="贵州",贵州公共
 http://A/ku9/js/Guizhou/gzstv.js?id=ch02
 #EXTINF:-1 tvg-name="贵州公共" tvg-logo="https://11.112114.xyz/logo/贵州公共.png" group-title="贵州",贵州公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guizhou/gzstv.js?id=ch02$酷9远程JS
@@ -8394,11 +8398,15 @@ http://pili-publish.live.v2gogo.com/v2gogo-live/95c81a103d724c4fb01d25a7e148a15d
 #EXTINF:-1 tvg-name="贵州公共" tvg-logo="https://11.112114.xyz/logo/贵州公共.png" group-title="贵州",贵州公共
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH02_lo.m3u8
 #EXTINF:-1 tvg-name="贵州影视文艺" tvg-logo="https://11.112114.xyz/logo/贵州影视文艺.png" group-title="贵州",贵州影视文艺
+https://tv.alonso0729.dpdns.org/api/gzstv.php?id=gzwy
+#EXTINF:-1 tvg-name="贵州影视文艺" tvg-logo="https://11.112114.xyz/logo/贵州影视文艺.png" group-title="贵州",贵州影视文艺
 http://A/ku9/js/Guizhou/gzstv.js?id=ch03
 #EXTINF:-1 tvg-name="贵州影视文艺" tvg-logo="https://11.112114.xyz/logo/贵州影视文艺.png" group-title="贵州",贵州影视文艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guizhou/gzstv.js?id=ch03$酷9远程JS
 #EXTINF:-1 tvg-name="贵州影视文艺" tvg-logo="https://11.112114.xyz/logo/贵州影视文艺.png" group-title="贵州",贵州影视文艺
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH03_lo.m3u8
+#EXTINF:-1 tvg-name="贵州大众生活" tvg-logo="https://11.112114.xyz/logo/贵州大众生活.png" group-title="贵州",贵州大众生活
+https://tv.alonso0729.dpdns.org/api/gzstv.php?id=gzsh
 #EXTINF:-1 tvg-name="贵州大众生活" tvg-logo="https://11.112114.xyz/logo/贵州大众生活.png" group-title="贵州",贵州大众生活
 http://A/ku9/js/Guizhou/gzstv.js?id=ch04
 #EXTINF:-1 tvg-name="贵州大众生活" tvg-logo="https://11.112114.xyz/logo/贵州大众生活.png" group-title="贵州",贵州大众生活
@@ -8406,11 +8414,15 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="贵州大众生活" tvg-logo="https://11.112114.xyz/logo/贵州大众生活.png" group-title="贵州",贵州大众生活
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH04_lo.m3u8
 #EXTINF:-1 tvg-name="贵州生态乡村" tvg-logo="https://11.112114.xyz/logo/贵州生态乡村.png" group-title="贵州",贵州生态乡村
+https://tv.alonso0729.dpdns.org/api/gzstv.php?id=gzfz
+#EXTINF:-1 tvg-name="贵州生态乡村" tvg-logo="https://11.112114.xyz/logo/贵州生态乡村.png" group-title="贵州",贵州生态乡村
 http://A/ku9/js/Guizhou/gzstv.js?id=ch05
 #EXTINF:-1 tvg-name="贵州生态乡村" tvg-logo="https://11.112114.xyz/logo/贵州生态乡村.png" group-title="贵州",贵州生态乡村
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guizhou/gzstv.js?id=ch05$酷9远程JS
 #EXTINF:-1 tvg-name="贵州生态乡村" tvg-logo="https://11.112114.xyz/logo/贵州生态乡村.png" group-title="贵州",贵州生态乡村
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH05_lo.m3u8
+#EXTINF:-1 tvg-name="贵州科教健康" tvg-logo="https://11.112114.xyz/logo/贵州科教健康.png" group-title="贵州",贵州科教健康
+https://tv.alonso0729.dpdns.org/api/gzstv.php?id=gzkj
 #EXTINF:-1 tvg-name="贵州科教健康" tvg-logo="https://11.112114.xyz/logo/贵州科教健康.png" group-title="贵州",贵州科教健康
 http://A/ku9/js/Guizhou/gzstv.js?id=ch06
 #EXTINF:-1 tvg-name="贵州科教健康" tvg-logo="https://11.112114.xyz/logo/贵州科教健康.png" group-title="贵州",贵州科教健康
@@ -8418,11 +8430,15 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="贵州科教健康" tvg-logo="https://11.112114.xyz/logo/贵州科教健康.png" group-title="贵州",贵州科教健康
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH06_lo.m3u8
 #EXTINF:-1 tvg-name="贵州经济" tvg-logo="https://11.112114.xyz/logo/贵州经济.png" group-title="贵州",贵州经济
+https://tv.alonso0729.dpdns.org/api/gzstv.php?id=gzjj
+#EXTINF:-1 tvg-name="贵州经济" tvg-logo="https://11.112114.xyz/logo/贵州经济.png" group-title="贵州",贵州经济
 http://A/ku9/js/Guizhou/gzstv.js?id=ch09
 #EXTINF:-1 tvg-name="贵州经济" tvg-logo="https://11.112114.xyz/logo/贵州经济.png" group-title="贵州",贵州经济
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guizhou/gzstv.js?id=ch09$酷9远程JS
 #EXTINF:-1 tvg-name="贵州经济" tvg-logo="https://11.112114.xyz/logo/贵州经济.png" group-title="贵州",贵州经济
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH09_lo.m3u8
+#EXTINF:-1 tvg-name="贵州家有购物" tvg-logo="https://11.112114.xyz/logo/贵州家有购物.png" group-title="贵州",贵州家有购物
+https://tv.alonso0729.dpdns.org/api/gzstv.php?id=gzjygw
 #EXTINF:-1 tvg-name="贵州家有购物" tvg-logo="https://11.112114.xyz/logo/贵州家有购物.png" group-title="贵州",贵州家有购物
 http://A/ku9/js/Guizhou/gzstv.js?id=ch10
 #EXTINF:-1 tvg-name="贵州家有购物" tvg-logo="https://11.112114.xyz/logo/贵州家有购物.png" group-title="贵州",贵州家有购物
@@ -8431,6 +8447,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH10_lo.m3u8
 #EXTINF:-1 tvg-name="贵州家有购物" tvg-logo="https://11.112114.xyz/logo/贵州家有购物.png" group-title="贵州",贵州家有购物
 http://58.144.154.93/9bwaz8y2.gzstv.com/live/CHJY_lo.m3u8
+#EXTINF:-1 tvg-name="贵州移动电视" tvg-logo="https://11.112114.xyz/logo/贵州移动电视.png" group-title="贵州",贵州移动电视
+https://tv.alonso0729.dpdns.org/api/gzstv.php?id=gzyd
 #EXTINF:-1 tvg-name="贵州移动电视" tvg-logo="https://11.112114.xyz/logo/贵州移动电视.png" group-title="贵州",贵州移动电视
 http://A/ku9/js/Guizhou/gzstv.js?id=ch13
 #EXTINF:-1 tvg-name="贵州移动电视" tvg-logo="https://11.112114.xyz/logo/贵州移动电视.png" group-title="贵州",贵州移动电视
