@@ -4490,6 +4490,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031451
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040022
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://11.112114.xyz/logo/农林卫视.png" group-title="卫视",农林卫视
+https://tv.alonso0729.dpdns.org/api/shaanxi.php?id=1126
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://11.112114.xyz/logo/农林卫视.png" group-title="卫视",农林卫视
 http://A/ku9/js/Shaanxi/shaanxi2.js?id=1126
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://11.112114.xyz/logo/农林卫视.png" group-title="卫视",农林卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shaanxi/shaanxi2.js?id=1126$酷9远程JS
@@ -4737,6 +4739,8 @@ http://39.134.87.83/000000001000/5000000006000040017/index.m3u8?IASHttpSessionId
 http://39.134.90.60/000000001000/5000000006000040017/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://k.061899.xyz/k.php?id=sxws
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
+https://tv.alonso0729.dpdns.org/api/shaanxi.php?id=1131
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225625/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
@@ -13988,6 +13992,8 @@ https://play-video.hnzgbdst.com/live/123_1.flv
 #EXTINF:-1 tvg-name="海南州电视台" tvg-logo="https://11.112114.xyz/logo/海南州电视台.png" group-title="青海",海南州电视台
 http://111.12.201.10:8091/0.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://11.112114.xyz/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+https://tv.alonso0729.dpdns.org/api/shaanxi.php?id=1127
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://11.112114.xyz/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://A/ku9/js/Shaanxi/shaanxi.js?id=sxtvs1
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://11.112114.xyz/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shaanxi/shaanxi.js?id=sxtvs1$酷9远程JS
@@ -14003,6 +14009,8 @@ http://113.140.86.162:8009/hls/18/index.m3u8
 http://120.192.226.35:8009/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://11.112114.xyz/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://112.46.85.60:8009/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://11.112114.xyz/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
+https://tv.alonso0729.dpdns.org/api/shaanxi.php?id=1128
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://11.112114.xyz/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://A/ku9/js/Shaanxi/shaanxi.js?id=sxtvs2
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://11.112114.xyz/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
@@ -14020,6 +14028,8 @@ http://120.192.226.35:8009/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://11.112114.xyz/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
 http://112.46.85.60:8009/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://11.112114.xyz/logo/陕西银龄.png" group-title="陕西",陕西银龄
+https://tv.alonso0729.dpdns.org/api/shaanxi.php?id=1129
+#EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://11.112114.xyz/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://A/ku9/js/Shaanxi/shaanxi.js?id=sxtvs3
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://11.112114.xyz/logo/陕西银龄.png" group-title="陕西",陕西银龄
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shaanxi/shaanxi.js?id=sxtvs3$酷9远程JS
@@ -14035,6 +14045,8 @@ http://113.140.86.162:8009/hls/20/index.m3u8
 http://120.192.226.35:8009/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" tvg-logo="https://11.112114.xyz/logo/陕西银龄.png" group-title="陕西",陕西银龄
 http://112.46.85.60:8009/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://11.112114.xyz/logo/陕西秦腔.png" group-title="陕西",陕西秦腔
+https://tv.alonso0729.dpdns.org/api/shaanxi.php?id=1130
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://11.112114.xyz/logo/陕西秦腔.png" group-title="陕西",陕西秦腔
 http://A/ku9/js/Shaanxi/shaanxi.js?id=sxtvs5
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://11.112114.xyz/logo/陕西秦腔.png" group-title="陕西",陕西秦腔
@@ -14052,6 +14064,8 @@ http://120.192.226.35:8009/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="陕西秦腔" tvg-logo="https://11.112114.xyz/logo/陕西秦腔.png" group-title="陕西",陕西秦腔
 http://112.46.85.60:8009/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://11.112114.xyz/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
+https://tv.alonso0729.dpdns.org/api/shaanxi.php?id=1241
+#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://11.112114.xyz/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
 http://A/ku9/js/Shaanxi/shaanxi2.js?id=1241
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://11.112114.xyz/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shaanxi/shaanxi2.js?id=1241$酷9远程JS
@@ -14061,6 +14075,8 @@ http://113.140.86.162:8009/hls/23/index.m3u8
 http://120.192.226.35:8009/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://11.112114.xyz/logo/陕西乐家购物.png" group-title="陕西",陕西乐家购物
 http://112.46.85.60:8009/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://11.112114.xyz/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
+https://tv.alonso0729.dpdns.org/api/shaanxi.php?id=1179
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://11.112114.xyz/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://A/ku9/js/Shaanxi/shaanxi.js?id=sxtvs7
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://11.112114.xyz/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
@@ -14077,6 +14093,8 @@ http://113.140.86.162:8009/hls/24/index.m3u8
 http://120.192.226.35:8009/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://11.112114.xyz/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://112.46.85.60:8009/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="陕西移动电视" tvg-logo="https://11.112114.xyz/logo/陕西移动电视.png" group-title="陕西",陕西移动电视
+https://tv.alonso0729.dpdns.org/api/shaanxi.php?id=1242
 #EXTINF:-1 tvg-name="陕西移动电视" tvg-logo="https://11.112114.xyz/logo/陕西移动电视.png" group-title="陕西",陕西移动电视
 http://stream.snrtv.com/sxbc-yd-krwEM3.m3u8
 #EXTINF:-1 tvg-name="陕西移动电视" tvg-logo="https://11.112114.xyz/logo/陕西移动电视.png" group-title="陕西",陕西移动电视
