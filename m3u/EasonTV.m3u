@@ -5200,6 +5200,8 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225612$黑龙江移动V4
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339$黑龙江移动V4
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+https://tv.alonso0729.dpdns.org/api/zhejiang_zsj.php?id=zjws
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/zhejiang.js?id=zjws$酷9远程JS
@@ -16070,6 +16072,8 @@ https://livetxynbsdst.chinamcache.com/live/zb03.m3u8?txSecret=d93358689f07ff61f6
 #EXTINF:-1 tvg-name="保山三套" tvg-logo="https://11.112114.xyz/logo/保山三套.png" group-title="云南",保山三套
 https://livetxynbsdst.chinamcache.com/live/zb02.m3u8?txSecret=cea94501be7015643d1c8ad49d50fe81&txTime=67847DB6
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://11.112114.xyz/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
+https://tv.alonso0729.dpdns.org/api/zhejiang_zsj.php?id=zjqj
+#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://11.112114.xyz/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjqj
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://11.112114.xyz/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/zhejiang.js?id=zjqj$酷9远程JS
@@ -16084,6 +16088,8 @@ https://zwebl02.cztv.com/live/channel02720Pnew.m3u8?auth_key=2524708799-ca798ce9
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://11.112114.xyz/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
 https://zwebl02.cztv.com/live/channel02480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-27ef9ee76ac166cd05a90eb3a5ae28f0
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://11.112114.xyz/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
+https://tv.alonso0729.dpdns.org/api/zhejiang_zsj.php?id=zjjjsh
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://11.112114.xyz/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjjjsh
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://11.112114.xyz/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/zhejiang.js?id=zjjjsh$酷9远程JS
@@ -16097,6 +16103,8 @@ https://zwebl02.cztv.com/live/channel031080Pnew.m3u8?auth_key=2524708799-ca798ce
 https://zwebl02.cztv.com/live/channel03720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-021c441b5cbce1a2c1a8286c3c8fadef
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://11.112114.xyz/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 https://zwebl02.cztv.com/live/channel03480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-8ed1fd0c1e972eb4c5097f4f0270c8ff
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://11.112114.xyz/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
+https://tv.alonso0729.dpdns.org/api/zhejiang_zsj.php?id=zjjkys
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://11.112114.xyz/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjjkys
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://11.112114.xyz/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
@@ -16114,6 +16122,8 @@ https://zwebl02.cztv.com/live/channel04480Pnew.m3u8?auth_key=2524708799-ca798ce9
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://11.112114.xyz/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000001
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://11.112114.xyz/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
+https://tv.alonso0729.dpdns.org/api/zhejiang_zsj.php?id=zjmsxx
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://11.112114.xyz/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjmsxx
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://11.112114.xyz/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/zhejiang.js?id=zjmsxx$酷9远程JS
@@ -16127,6 +16137,8 @@ https://zwebl02.cztv.com/live/channel061080Pnew.m3u8?auth_key=2524708799-ca798ce
 https://zwebl02.cztv.com/live/channel06720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-10569ac2ab1d158a98588ce92da5bcff
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://11.112114.xyz/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
 https://zwebl02.cztv.com/live/channel06480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-1302d51718da4992f137930e4a5759dc
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://11.112114.xyz/logo/浙江新闻.png" group-title="浙江",浙江新闻
+https://tv.alonso0729.dpdns.org/api/zhejiang_zsj.php?id=zjxw
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://11.112114.xyz/logo/浙江新闻.png" group-title="浙江",浙江新闻
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjxw
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://11.112114.xyz/logo/浙江新闻.png" group-title="浙江",浙江新闻
@@ -16142,6 +16154,8 @@ https://zwebl02.cztv.com/live/channel07720Pnew.m3u8?auth_key=2524708799-ca798ce9
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://11.112114.xyz/logo/浙江新闻.png" group-title="浙江",浙江新闻
 https://zwebl02.cztv.com/live/channel07480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-6fc014c83af87cafeeb92da41dfe2777
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://11.112114.xyz/logo/浙江少儿.png" group-title="浙江",浙江少儿
+https://tv.alonso0729.dpdns.org/api/zhejiang_zsj.php?id=zjse
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://11.112114.xyz/logo/浙江少儿.png" group-title="浙江",浙江少儿
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjse
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://11.112114.xyz/logo/浙江少儿.png" group-title="浙江",浙江少儿
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/zhejiang.js?id=zjse$酷9远程JS
@@ -16155,6 +16169,8 @@ https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=2524708799-ca798ce
 https://zwebl02.cztv.com/live/channel08720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-636f6d76a410a8bad3e323dc1770cfca
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://11.112114.xyz/logo/浙江少儿.png" group-title="浙江",浙江少儿
 https://zwebl02.cztv.com/live/channel08480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-88234ee00e6131264b88856a7d47073c
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://11.112114.xyz/logo/浙江国际.png" group-title="浙江",浙江国际
+https://tv.alonso0729.dpdns.org/api/zhejiang_zsj.php?id=zjgj
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://11.112114.xyz/logo/浙江国际.png" group-title="浙江",浙江国际
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjgj
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://11.112114.xyz/logo/浙江国际.png" group-title="浙江",浙江国际
@@ -16170,6 +16186,8 @@ https://zwebl02.cztv.com/live/channel10720Pnew.m3u8?auth_key=2524708799-ca798ce9
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://11.112114.xyz/logo/浙江国际.png" group-title="浙江",浙江国际
 https://zwebl02.cztv.com/live/channel10480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-62b6391e987cb8ce509766d1fd51b5e1
 #EXTINF:-1 tvg-name="浙江好易购" tvg-logo="https://11.112114.xyz/logo/浙江好易购.png" group-title="浙江",浙江好易购
+https://tv.alonso0729.dpdns.org/api/zhejiang_zsj.php?id=zjhyg
+#EXTINF:-1 tvg-name="浙江好易购" tvg-logo="https://11.112114.xyz/logo/浙江好易购.png" group-title="浙江",浙江好易购
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjhyg
 #EXTINF:-1 tvg-name="浙江好易购" tvg-logo="https://11.112114.xyz/logo/浙江好易购.png" group-title="浙江",浙江好易购
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/zhejiang.js?id=zjhyg$酷9远程JS
@@ -16181,6 +16199,8 @@ https://zwebl02.cztv.com/live/channel111080Pnew.m3u8?auth_key=2524708799-ca798ce
 https://zwebl02.cztv.com/live/channel11720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-9bdaca298988a365681f385923677ebb
 #EXTINF:-1 tvg-name="浙江好易购" tvg-logo="https://11.112114.xyz/logo/浙江好易购.png" group-title="浙江",浙江好易购
 https://zwebl02.cztv.com/live/channel11480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-f55d8ab5c794731b3f90ddeeccdbedc7
+#EXTINF:-1 tvg-name="浙江之江纪录" tvg-logo="https://11.112114.xyz/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
+https://tv.alonso0729.dpdns.org/api/zhejiang_zsj.php?id=zjzjjl
 #EXTINF:-1 tvg-name="浙江之江纪录" tvg-logo="https://11.112114.xyz/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
 http://A/ku9/js/Zhejiang/zhejiang.js?id=zjzjjl
 #EXTINF:-1 tvg-name="浙江之江纪录" tvg-logo="https://11.112114.xyz/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
