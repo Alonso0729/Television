@@ -14932,11 +14932,15 @@ https://mmslivef.scgchc.com/live/7064.m3u8?auth_key=1767344707-0-0-b9b74dffb7b58
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://11.112114.xyz/logo/成都新闻综合.png" group-title="四川",成都新闻综合
 https://tv.alonso0729.dpdns.org/api/cdtv.php?id=xwpd
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://11.112114.xyz/logo/成都新闻综合.png" group-title="四川",成都新闻综合
+https://tv.alonso0729.dpdns.org/api/cdtv2.php?id=sccdtv1
+#EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://11.112114.xyz/logo/成都新闻综合.png" group-title="四川",成都新闻综合
 http://A/ku9/js/Sichuan/cdtv.js?id=cdxwzh
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://11.112114.xyz/logo/成都新闻综合.png" group-title="四川",成都新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/cdtv.js?id=cdxwzh$酷9远程JS
 #EXTINF:-1 tvg-name="成都经济" tvg-logo="https://11.112114.xyz/logo/成都经济.png" group-title="四川",成都经济
-https://tv.alonso0729.dpdns.org/api/cdtv.php?id=jjpd 
+https://tv.alonso0729.dpdns.org/api/cdtv.php?id=jjpd
+#EXTINF:-1 tvg-name="成都经济" tvg-logo="https://11.112114.xyz/logo/成都经济.png" group-title="四川",成都经济
+https://tv.alonso0729.dpdns.org/api/cdtv2.php?id=sccdtv2
 #EXTINF:-1 tvg-name="成都经济" tvg-logo="https://11.112114.xyz/logo/成都经济.png" group-title="四川",成都经济
 http://A/ku9/js/Sichuan/cdtv.js?id=cdjjzx
 #EXTINF:-1 tvg-name="成都经济" tvg-logo="https://11.112114.xyz/logo/成都经济.png" group-title="四川",成都经济
@@ -14944,11 +14948,15 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://11.112114.xyz/logo/成都都市生活.png" group-title="四川",成都都市生活
 https://tv.alonso0729.dpdns.org/api/cdtv.php?id=shpd
 #EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://11.112114.xyz/logo/成都都市生活.png" group-title="四川",成都都市生活
+https://tv.alonso0729.dpdns.org/api/cdtv2.php?id=sccdtv3
+#EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://11.112114.xyz/logo/成都都市生活.png" group-title="四川",成都都市生活
 http://A/ku9/js/Sichuan/cdtv.js?id=cddssh
 #EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://11.112114.xyz/logo/成都都市生活.png" group-title="四川",成都都市生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/cdtv.js?id=cddssh$酷9远程JS
 #EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://11.112114.xyz/logo/成都影视文艺.png" group-title="四川",成都影视文艺
 https://tv.alonso0729.dpdns.org/api/cdtv.php?id=yspd
+#EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://11.112114.xyz/logo/成都影视文艺.png" group-title="四川",成都影视文艺
+https://tv.alonso0729.dpdns.org/api/cdtv2.php?id=sccdtv4
 #EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://11.112114.xyz/logo/成都影视文艺.png" group-title="四川",成都影视文艺
 http://A/ku9/js/Sichuan/cdtv.js?id=cdyswy
 #EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://11.112114.xyz/logo/成都影视文艺.png" group-title="四川",成都影视文艺
@@ -14956,13 +14964,17 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://11.112114.xyz/logo/成都公共.png" group-title="四川",成都公共
 https://tv.alonso0729.dpdns.org/api/cdtv.php?id=ggpd
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://11.112114.xyz/logo/成都公共.png" group-title="四川",成都公共
+https://tv.alonso0729.dpdns.org/api/cdtv2.php?id=sccdtv5
+#EXTINF:-1 tvg-name="成都公共" tvg-logo="https://11.112114.xyz/logo/成都公共.png" group-title="四川",成都公共
 http://A/ku9/js/Sichuan/cdtv.js?id=cdgg
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://11.112114.xyz/logo/成都公共.png" group-title="四川",成都公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/cdtv.js?id=cdgg$酷9远程JS
 #EXTINF:-1 tvg-name="成都公共" tvg-logo="https://11.112114.xyz/logo/成都公共.png" group-title="四川",成都公共
 http://180.163.117.158:80/cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?wsSecret=ea9dc973127454e36210131050117989&wsTime=66de943b&wsSession=16b3132893f5fd2ed14ca024-172586297202430&wsIPSercert=39e31581026268b64cc384bf76a497fc&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://11.112114.xyz/logo/成都少儿.png" group-title="四川",成都少儿
-https://tv.alonso0729.dpdns.org/api/cdtv.php?id=sepd 
+https://tv.alonso0729.dpdns.org/api/cdtv.php?id=sepd
+#EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://11.112114.xyz/logo/成都少儿.png" group-title="四川",成都少儿
+https://tv.alonso0729.dpdns.org/api/cdtv2.php?id=sccdtv6
 #EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://11.112114.xyz/logo/成都少儿.png" group-title="四川",成都少儿
 http://A/ku9/js/Sichuan/cdtv.js?id=cdse
 #EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://11.112114.xyz/logo/成都少儿.png" group-title="四川",成都少儿
@@ -14970,9 +14982,13 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="成都蓉城先锋" tvg-logo="https://11.112114.xyz/logo/成都蓉城先锋.png" group-title="四川",成都蓉城先锋
 https://tv.alonso0729.dpdns.org/api/cdtv.php?id=rcxf
 #EXTINF:-1 tvg-name="成都蓉城先锋" tvg-logo="https://11.112114.xyz/logo/成都蓉城先锋.png" group-title="四川",成都蓉城先锋
+https://tv.alonso0729.dpdns.org/api/cdtv2.php?id=sccddj
+#EXTINF:-1 tvg-name="成都蓉城先锋" tvg-logo="https://11.112114.xyz/logo/成都蓉城先锋.png" group-title="四川",成都蓉城先锋
 http://A/ku9/js/Sichuan/cdtv.js?id=cdrcxf
 #EXTINF:-1 tvg-name="成都蓉城先锋" tvg-logo="https://11.112114.xyz/logo/成都蓉城先锋.png" group-title="四川",成都蓉城先锋
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/cdtv.js?id=cdrcxf$酷9远程JS
+#EXTINF:-1 tvg-name="成都每日购物" tvg-logo="https://11.112114.xyz/logo/成都每日购物.png" group-title="四川",成都每日购物
+https://tv.alonso0729.dpdns.org/api/cdtv2.php?id=sccdtv8
 #EXTINF:-1 tvg-name="广元综合" tvg-logo="https://11.112114.xyz/logo/广元综合.png" group-title="四川",广元综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1 tvg-name="广元文化生活" tvg-logo="https://11.112114.xyz/logo/广元文化生活.png" group-title="四川",广元文化生活
