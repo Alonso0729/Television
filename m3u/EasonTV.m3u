@@ -3658,6 +3658,8 @@ http://39.134.62.141:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSession
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465$黑龙江移动V4
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
+https://tv.alonso0729.dpdns.org/api/hainan.php?id=hnws
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://k.061899.xyz/k.php?id=hinws
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
@@ -4384,6 +4386,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000011671
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7638375013635582245
 #EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=nmmyws
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://play1-qk.nmtv.cn:80/live/1686560387346365.m3u8
 #EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古蒙语卫视.png" group-title="卫视",内蒙古蒙语卫视
 http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
@@ -4553,6 +4557,8 @@ http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001185/index.m3u8?IAS
 http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001185/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001185/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
+https://tv.alonso0729.dpdns.org/api/hainan.php?id=ssws
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
@@ -8550,11 +8556,15 @@ http://live.strmtzx.cn/stzy/sd/live.m3u8
 #EXTINF:-1 tvg-name="凤冈综合" tvg-logo="https://11.112114.xyz/logo/凤冈综合.png" group-title="贵州",凤冈综合
 http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://11.112114.xyz/logo/海南自贸.png" group-title="海南",海南自贸
+https://tv.alonso0729.dpdns.org/api/hainan.php?id=jjpd
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://11.112114.xyz/logo/海南自贸.png" group-title="海南",海南自贸
 http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://11.112114.xyz/logo/海南自贸.png" group-title="海南",海南自贸
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000116
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://11.112114.xyz/logo/海南自贸.png" group-title="海南",海南自贸
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="https://11.112114.xyz/logo/海南公共.png" group-title="海南",海南公共
+https://tv.alonso0729.dpdns.org/api/hainan.php?id=ggpd
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://11.112114.xyz/logo/海南公共.png" group-title="海南",海南公共
 http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://11.112114.xyz/logo/海南公共.png" group-title="海南",海南公共
@@ -8562,11 +8572,15 @@ http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/460000100000000057
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://11.112114.xyz/logo/海南公共.png" group-title="海南",海南公共
 http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://11.112114.xyz/logo/海南文旅.png" group-title="海南",海南文旅
+https://tv.alonso0729.dpdns.org/api/hainan.php?id=wlpd
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://11.112114.xyz/logo/海南文旅.png" group-title="海南",海南文旅
 http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://11.112114.xyz/logo/海南文旅.png" group-title="海南",海南文旅
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000113
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://11.112114.xyz/logo/海南文旅.png" group-title="海南",海南文旅
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://11.112114.xyz/logo/海南少儿.png" group-title="海南",海南少儿
+https://tv.alonso0729.dpdns.org/api/hainan.php?id=sepd
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://11.112114.xyz/logo/海南少儿.png" group-title="海南",海南少儿
 http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://11.112114.xyz/logo/海南少儿.png" group-title="海南",海南少儿
@@ -8575,6 +8589,8 @@ http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000112
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000110
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://11.112114.xyz/logo/海南少儿.png" group-title="海南",海南少儿
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000110/
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://11.112114.xyz/logo/海南新闻.png" group-title="海南",海南新闻
+https://tv.alonso0729.dpdns.org/api/hainan.php?id=xwpd
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://11.112114.xyz/logo/海南新闻.png" group-title="海南",海南新闻
 http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://11.112114.xyz/logo/海南新闻.png" group-title="海南",海南新闻
@@ -13630,6 +13646,8 @@ https://cp.dawawg.com/live/dawatv/hls.m3u8
 #EXTINF:-1 tvg-name="铁岭新闻综合" tvg-logo="https://11.112114.xyz/logo/铁岭新闻综合.png" group-title="辽宁",铁岭新闻综合
 rtmp://50461.lssplay.aodianyun.com/tv_radio_50461/tv_channel_2584?auth_key=3305857673-0-0-6af7f46f71adf90ce559f87a17af73cf
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://11.112114.xyz/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=nmxwzh
+#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://11.112114.xyz/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
 http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://11.112114.xyz/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
 http://play1-qk.nmtv.cn/live/1686560423879174.flv
@@ -13637,6 +13655,8 @@ http://play1-qk.nmtv.cn/live/1686560423879174.flv
 rtmp://play1-qk.nmtv.cn/live/1686560423879174
 #EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://11.112114.xyz/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
 http://1.24.190.98:10089/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://11.112114.xyz/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=nmwtyl
 #EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://11.112114.xyz/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
 http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 #EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://11.112114.xyz/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
@@ -13646,6 +13666,8 @@ rtmp://play1-qk.nmtv.cn/live/1686561195713372
 #EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://11.112114.xyz/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
 http://1.24.190.98:10089/hls/33/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://11.112114.xyz/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=nmjjsh
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://11.112114.xyz/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
 http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://11.112114.xyz/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
 http://play1-qk.nmtv.cn/live/1686562470947181.flv
@@ -13653,6 +13675,8 @@ http://play1-qk.nmtv.cn/live/1686562470947181.flv
 rtmp://play1-qk.nmtv.cn/live/1686562470947181
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://11.112114.xyz/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
 http://1.24.190.98:10089/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://11.112114.xyz/logo/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=nmnm
 #EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://11.112114.xyz/logo/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧
 http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 #EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://11.112114.xyz/logo/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧
@@ -13662,6 +13686,8 @@ rtmp://play1-qk.nmtv.cn/live/1686561299036179
 #EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://11.112114.xyz/logo/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧
 http://1.24.190.98:10089/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://11.112114.xyz/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=nmse
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://11.112114.xyz/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
 http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://11.112114.xyz/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
 http://play1-qk.nmtv.cn/live/1686560464515368.flv
@@ -13669,6 +13695,8 @@ http://play1-qk.nmtv.cn/live/1686560464515368.flv
 rtmp://play1-qk.nmtv.cn/live/1686560464515368
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://11.112114.xyz/logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
 http://1.24.190.98:10089/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://11.112114.xyz/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=nmwh
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://11.112114.xyz/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
 http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://11.112114.xyz/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
@@ -13678,11 +13706,15 @@ rtmp://play1-qk.nmtv.cn/live/1686561065304370
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://11.112114.xyz/logo/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化
 http://1.24.190.98:10089/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://11.112114.xyz/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=hhht1
+#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://11.112114.xyz/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
 http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
 #EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://11.112114.xyz/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
 http://play1-qk.nmtv.cn/live/1735545967595013.flv
 #EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://11.112114.xyz/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
 rtmp://play1-qk.nmtv.cn/live/1735545967595013
+#EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://11.112114.xyz/logo/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=wh1
 #EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://11.112114.xyz/logo/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合
 http://live.wuhainews.org.cn/xwzh/playlist.m3u8
 #EXTINF:-1 tvg-name="乌海新闻综合" tvg-logo="https://11.112114.xyz/logo/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合
@@ -13693,6 +13725,8 @@ http://play1-qk.nmtv.cn/live/1735546358166026.flv
 rtmp://play1-qk.nmtv.cn/live/1735546358166026
 #EXTINF:-1 tvg-name="乌海都市生活" tvg-logo="https://11.112114.xyz/logo/乌海都市生活.png" group-title="内蒙古",乌海都市生活
 http://live.wuhainews.org.cn/dssh/sd/live.m3u8
+#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://11.112114.xyz/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=bt1
 #EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://11.112114.xyz/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
 http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
 #EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://11.112114.xyz/logo/包头新闻综合.png" group-title="内蒙古",包头新闻综合
@@ -13714,6 +13748,8 @@ http://pili-live-hls-nmgapp12019.sobeylive.com/nmgapp12019/live170312713456494.m
 #EXTINF:-1 tvg-name="元宝山综合" tvg-logo="https://11.112114.xyz/logo/元宝山综合.png" group-title="内蒙古",元宝山综合
 http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
 #EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://11.112114.xyz/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=xa1
+#EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://11.112114.xyz/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
 http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
 #EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://11.112114.xyz/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
 http://play1-qk.nmtv.cn/live/1735546886977046.flv
@@ -13721,6 +13757,8 @@ http://play1-qk.nmtv.cn/live/1735546886977046.flv
 rtmp://play1-qk.nmtv.cn/live/1735546886977046
 #EXTINF:-1 tvg-name="兴安盟新闻综合" tvg-logo="https://11.112114.xyz/logo/兴安盟新闻综合.png" group-title="内蒙古",兴安盟新闻综合
 http://play1-qk.nmtv.cn:80/live/1735546886977046.m3u8
+#EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://11.112114.xyz/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=xlgl1
 #EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://11.112114.xyz/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
 http://livecdnpull.xlglrbw.org.cn/live/tvzhpd.m3u8
 #EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://11.112114.xyz/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
@@ -13733,6 +13771,8 @@ http://play1-qk.nmtv.cn/live/1735546994821050.flv
 rtmp://play1-qk.nmtv.cn/live/1735546994821050
 #EXTINF:-1 tvg-name="锡林郭勒综合" tvg-logo="https://11.112114.xyz/logo/锡林郭勒综合.png" group-title="内蒙古",锡林郭勒综合
 http://play1-qk.nmtv.cn:80/live/1735546994821050.m3u8
+#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://11.112114.xyz/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=wlcb1
 #EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://11.112114.xyz/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
 http://pluslive.wrbtv.cn/xwzhpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://11.112114.xyz/logo/乌兰察布新闻综合.png" group-title="内蒙古",乌兰察布新闻综合
@@ -13752,6 +13792,8 @@ http://pluslive.wrbtv.cn/jjshpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="乌兰察布经济生活" tvg-logo="https://11.112114.xyz/logo/乌兰察布经济生活.png" group-title="内蒙古",乌兰察布经济生活
 https://pluslive.wrbtv.cn/jjshpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://11.112114.xyz/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=tl1
+#EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://11.112114.xyz/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
 http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
 #EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://11.112114.xyz/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
 http://play1-qk.nmtv.cn/live/1735546745882037.flv
@@ -13759,6 +13801,8 @@ http://play1-qk.nmtv.cn/live/1735546745882037.flv
 rtmp://play1-qk.nmtv.cn/live/1735546745882037
 #EXTINF:-1 tvg-name="通辽新闻综合" tvg-logo="https://11.112114.xyz/logo/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合
 http://play1-qk.nmtv.cn:80/live/1735546745882037.m3u8
+#EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://11.112114.xyz/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=hlbe1
 #EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://11.112114.xyz/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
 http://play1-qk.nmtv.cn/live/1735546791130040.m3u8
 #EXTINF:-1 tvg-name="呼伦贝尔新闻综合" tvg-logo="https://11.112114.xyz/logo/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合
@@ -13775,6 +13819,8 @@ http://livestream.nmtv.dev.qingzhou.mobi/nmtv/2352general.flv?txSecret=ad96b9116
 rtmp://livestream.nmtv.dev.qingzhou.mobi/nmtv/2352general?txSecret=ad96b9116526fcc1d710713b645a8648&txTime=771E8800
 #EXTINF:-1 tvg-name="鄂温克电视台" tvg-logo="https://11.112114.xyz/logo/鄂温克电视台.png" group-title="内蒙古",鄂温克电视台
 http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live169742765819039.m3u8
+#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://11.112114.xyz/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=erds1
 #EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://11.112114.xyz/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
 http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 #EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://11.112114.xyz/logo/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合
@@ -13806,6 +13852,8 @@ rtmp://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550
 #EXTINF:-1 tvg-name="达茂综合" tvg-logo="https://11.112114.xyz/logo/达茂综合.png" group-title="内蒙古",达茂综合
 http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live170528902231903.m3u8
 #EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://11.112114.xyz/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=cf1
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://11.112114.xyz/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://11.112114.xyz/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
 http://play1-qk.nmtv.cn/live/1735546697341033.flv
@@ -13814,6 +13862,8 @@ rtmp://play1-qk.nmtv.cn/live/1735546697341033
 #EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://11.112114.xyz/logo/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合
 http://play1-qk.nmtv.cn:80/live/1735546697341033.m3u8
 #EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://11.112114.xyz/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=byle1
+#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://11.112114.xyz/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
 http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
 #EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://11.112114.xyz/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
 http://play1-qk.nmtv.cn/live/1735546423467029.flv
@@ -13821,6 +13871,8 @@ http://play1-qk.nmtv.cn/live/1735546423467029.flv
 rtmp://play1-qk.nmtv.cn/live/1735546423467029
 #EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://11.112114.xyz/logo/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合
 http://play1-qk.nmtv.cn:80/live/1735546423467029.m3u8
+#EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://11.112114.xyz/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
+https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=als1
 #EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://11.112114.xyz/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
 http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
 #EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://11.112114.xyz/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
