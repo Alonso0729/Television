@@ -4426,8 +4426,6 @@ http://39.134.87.83/000000001000/7331079758781182663/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://39.134.90.60/000000001000/7331079758781182663/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://tv.alonso0729.dpdns.org/api/neimenggu.php?id=nmws
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://k.061899.xyz/k.php?id=nmgws
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://39.134.62.141:6610/PLTV/88888888/224/3221225634/index.m3u8?IASHttpSessionId=$黑龙江移动V4
