@@ -1222,6 +1222,8 @@ http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 #EXTINF:-1 tvg-name="CECTV-国际健康" tvg-logo="https://11.112114.xyz/logo/CECTV-国际健康.png" group-title="央视",CECTV-国际健康
 http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
+https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtn
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://mursor.ottiptv.cc/bst/ottcctvnews@1300000.m3u8
@@ -1264,6 +1266,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000009569
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
+https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtna
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://k.061899.xyz/k.php?id=cgtna
@@ -1285,6 +1289,8 @@ http://home.odbo.cc:35455/mgtv/609154345.m3u8
 http://sttt.eu.org:35455/mgtv/609154345.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://11.112114.xyz/logo/CGTN阿语.png" group-title="央视",CGTN阿语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280001
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
+https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtnr
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
@@ -1308,6 +1314,8 @@ http://sttt.eu.org:35455/mgtv/609006446.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://11.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280004
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
+https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtnf
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://k.061899.xyz/k.php?id=cgtnf
@@ -1330,6 +1338,8 @@ http://sttt.eu.org:35455/mgtv/609006476.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://11.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280003
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
+https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtne
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://k.061899.xyz/k.php?id=cgtne
@@ -1351,6 +1361,8 @@ http://home.odbo.cc:35455/mgtv/609006450.m3u8
 http://sttt.eu.org:35455/mgtv/609006450.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://11.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280002
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
+https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtnd
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
