@@ -66,6 +66,7 @@ CCTV-1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016$黑龙江移动V4
 CCTV-1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226514$黑龙江移动V4
 CCTV-1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559$黑龙江移动V4
 CCTV-1,http://k.061899.xyz/k.php?id=cctv1
+CCTV-1,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv1
 CCTV-1,http://mursor.ottiptv.cc/bst/cctv1hd@4000000.m3u8
 CCTV-1,http://home.odbo.cc:35455/bst/cctv1hd@4000000.m3u8
 CCTV-1,http://sttt.eu.org:35455/bst/cctv1hd@4000000.m3u8
@@ -90,6 +91,7 @@ CCTV-2,http://39.134.90.60/000000001000/5000000011000031101/index.m3u8?IASHttpSe
 CCTV-2,http://39.134.62.141:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$黑龙江移动V4
 CCTV-2,http://k.061899.xyz/k.php?id=cctv2
+CCTV-2,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv2
 CCTV-2,http://mursor.ottiptv.cc/bst/cctv2hd8m@8000000.m3u8
 CCTV-2,http://home.odbo.cc:35455/bst/cctv2hd8m@8000000.m3u8
 CCTV-2,http://sttt.eu.org:35455/bst/cctv2hd8m@8000000.m3u8
@@ -115,6 +117,7 @@ CCTV-3,http://39.134.90.60/000000001000/5000000004000008883/index.m3u8?IASHttpSe
 CCTV-3,http://39.134.62.141:6610/PLTV/88888888/224/3221226021/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$黑龙江移动V4
 CCTV-3,http://k.061899.xyz/k.php?id=cctv3
+CCTV-3,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv3
 CCTV-3,http://mursor.ottiptv.cc/bst/cctv3hd@4000000.m3u8
 CCTV-3,http://home.odbo.cc:35455/bst/cctv3hd@4000000.m3u8
 CCTV-3,http://sttt.eu.org:35455/bst/cctv3hd@4000000.m3u8
@@ -142,6 +145,7 @@ CCTV-4,http://39.134.62.141:6610/PLTV/88888888/224/3221226428/index.m3u8?IASHttp
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226007$黑龙江移动V4
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$黑龙江移动V4
 CCTV-4,http://k.061899.xyz/k.php?id=cctv4
+CCTV-4,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv4
 CCTV-4,http://mursor.ottiptv.cc/bst/cctv4hd4m@4000000.m3u8
 CCTV-4,http://home.odbo.cc:35455/bst/cctv4hd4m@4000000.m3u8
 CCTV-4,http://sttt.eu.org:35455/bst/cctv4hd4m@4000000.m3u8
@@ -152,10 +156,12 @@ CCTV-4,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031102
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265004
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8183388942203045169
 CCTV-4美洲,http://k.061899.xyz/k.php?id=cctv4m
+CCTV-4美洲,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv4a
 CCTV-4美洲,http://mursor.ottiptv.cc/mgtv/608807416.m3u8
 CCTV-4美洲,http://home.odbo.cc:35455/mgtv/608807416.m3u8
 CCTV-4美洲,http://sttt.eu.org:35455/mgtv/608807416.m3u8
 CCTV-4欧洲,http://k.061899.xyz/k.php?id=cctv4o
+CCTV-4欧洲,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv4o
 CCTV-4欧洲,http://mursor.ottiptv.cc/mgtv/608807419.m3u8
 CCTV-4欧洲,http://home.odbo.cc:35455/mgtv/608807419.m3u8
 CCTV-4欧洲,http://sttt.eu.org:35455/mgtv/608807419.m3u8
@@ -174,6 +180,7 @@ CCTV-5,http://39.134.90.60/000000001000/5000000010000016619/index.m3u8?IASHttpSe
 CCTV-5,http://39.134.62.141:6610/PLTV/88888888/224/3221226019/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$黑龙江移动V4
 CCTV-5,http://k.061899.xyz/k.php?id=cctv5
+CCTV-5,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv5
 CCTV-5,http://mursor.ottiptv.cc/bst/cctv5hd@4000000.m3u8
 CCTV-5,http://home.odbo.cc:35455/bst/cctv5hd@4000000.m3u8
 CCTV-5,http://sttt.eu.org:35455/bst/cctv5hd@4000000.m3u8
@@ -217,6 +224,7 @@ CCTV-5+,http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-5+,http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
 CCTV-5+,http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
 CCTV-5+,http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+CCTV-5+,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv5p
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$黑龙江移动V4
 CCTV-5+,http://k.061899.xyz/k.php?id=cctv5p
 CCTV-5+,http://mursor.ottiptv.cc/bst/cctv5phd@4000000.m3u8
@@ -244,6 +252,7 @@ CCTV-6,http://39.134.90.60/000000001000/5000000010000018433/index.m3u8?IASHttpSe
 CCTV-6,http://39.134.62.141:6610/PLTV/88888888/224/3221226010/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010$黑龙江移动V4
 CCTV-6,http://k.061899.xyz/k.php?id=cctv6
+CCTV-6,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv6
 CCTV-6,http://mursor.ottiptv.cc/bst/cctv6hd@4000000.m3u8
 CCTV-6,http://home.odbo.cc:35455/bst/cctv6hd@4000000.m3u8
 CCTV-6,http://sttt.eu.org:35455/bst/cctv6hd@4000000.m3u8
@@ -271,6 +280,7 @@ CCTV-7,http://39.134.90.60/000000001000/5000000011000031104/index.m3u8?IASHttpSe
 CCTV-7,http://39.134.62.141:6610/PLTV/88888888/224/3221225733/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733$黑龙江移动V4
 CCTV-7,http://k.061899.xyz/k.php?id=cctv7
+CCTV-7,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv7
 CCTV-7,http://mursor.ottiptv.cc/bst/cctv7hd4m@4000000
 CCTV-7,http://home.odbo.cc:35455/bst/cctv7hd4m@4000000
 CCTV-7,http://sttt.eu.org:35455/bst/cctv7hd4m@4000000
@@ -296,6 +306,7 @@ CCTV-8,http://39.134.90.60/000000001000/5000000010000018377/index.m3u8?IASHttpSe
 CCTV-8,http://39.134.62.141:6610/PLTV/88888888/224/3221226008/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008$黑龙江移动V4
 CCTV-8,http://k.061899.xyz/k.php?id=cctv8
+CCTV-8,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv8
 CCTV-8,http://mursor.ottiptv.cc/bst/cctv8hd@4000000.m3u8
 CCTV-8,http://home.odbo.cc:35455/bst/cctv8hd@4000000.m3u8
 CCTV-8,http://sttt.eu.org:35455/bst/cctv8hd@4000000.m3u8
@@ -315,6 +326,7 @@ CCTV-9,http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001237/index.m
 CCTV-9,http://39.134.62.141:6610/PLTV/88888888/224/3221225734/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$黑龙江移动V4
 CCTV-9,http://k.061899.xyz/k.php?id=cctv9
+CCTV-9,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv9
 CCTV-9,http://mursor.ottiptv.cc/bst/cctv9hd4mc@4000000.m3u8
 CCTV-9,http://home.odbo.cc:35455/bst/cctv9hd4mc@4000000.m3u8
 CCTV-9,http://sttt.eu.org:35455/bst/cctv9hd4mc@4000000.m3u8
@@ -340,6 +352,7 @@ CCTV-10,http://39.134.62.141:6610/PLTV/88888888/224/3221226473/index.m3u8?IASHtt
 CCTV-10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730$黑龙江移动V4
 CCTV-10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226473$黑龙江移动V4
 CCTV-10,http://k.061899.xyz/k.php?id=cctv10
+CCTV-10,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv10
 CCTV-10,http://mursor.ottiptv.cc/bst/cctv10hd@4000000.m3u8
 CCTV-10,http://home.odbo.cc:35455/bst/cctv10hd@4000000.m3u8
 CCTV-10,http://sttt.eu.org:35455/bst/cctv10hd@4000000.m3u8
@@ -367,6 +380,7 @@ CCTV-11,http://39.134.62.141:6610/PLTV/88888888/224/3221226565/index.m3u8?IASHtt
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225597$黑龙江移动V4
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565$黑龙江移动V4
 CCTV-11,http://k.061899.xyz/k.php?id=cctv11
+CCTV-11,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv11
 CCTV-11,http://mursor.ottiptv.cc/bst/cctv11hd4m@4000000.m3u8
 CCTV-11,http://home.odbo.cc:35455/bst/cctv11hd4m@4000000.m3u8
 CCTV-11,http://sttt.eu.org:35455/bst/cctv11hd4m@4000000.m3u8
@@ -392,6 +406,7 @@ CCTV-12,http://39.134.62.141:6610/PLTV/88888888/224/3221226568/index.m3u8?IASHtt
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731$黑龙江移动V4
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226568$黑龙江移动V4
 CCTV-12,http://k.061899.xyz/k.php?id=cctv12
+CCTV-12,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv12
 CCTV-12,http://mursor.ottiptv.cc/bst/cctv12hd4m@4000000.m3u8
 CCTV-12,http://home.odbo.cc:35455/bst/cctv12hd4m@4000000.m3u8
 CCTV-12,http://sttt.eu.org:35455/bst/cctv12hd4m@4000000.m3u8
@@ -420,6 +435,7 @@ CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011$黑龙江移动V4
 CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226537$黑龙江移动V4
 CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226571$黑龙江移动V4
 CCTV-13,http://k.061899.xyz/k.php?id=cctv13
+CCTV-13,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv13
 CCTV-13,http://mursor.ottiptv.cc/bst/cctv13hd4m@4000000.m3u8
 CCTV-13,http://home.odbo.cc:35455/bst/cctv13hd4m@4000000.m3u8
 CCTV-13,http://sttt.eu.org:35455/bst/cctv13hd4m@4000000.m3u8
@@ -444,6 +460,7 @@ CCTV-14,http://39.134.62.141:6610/PLTV/88888888/224/3221226591/index.m3u8?IASHtt
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$黑龙江移动V4
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226591$黑龙江移动V4
 CCTV-14,http://k.061899.xyz/k.php?id=cctv14
+CCTV-14,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv14
 CCTV-14,http://mursor.ottiptv.cc/bst/cctvsehd@4000000.m3u8
 CCTV-14,http://home.odbo.cc:35455/bst/cctvsehd@4000000.m3u8
 CCTV-14,http://sttt.eu.org:35455/bst/cctvsehd@4000000.m3u8
@@ -470,6 +487,7 @@ CCTV-15,http://39.134.62.141:6610/PLTV/88888888/224/3221226476/index.m3u8?IASHtt
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225601$黑龙江移动V4
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476$黑龙江移动V4
 CCTV-15,http://k.061899.xyz/k.php?id=cctv15
+CCTV-15,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv15
 CCTV-15,http://mursor.ottiptv.cc/bst/cctvyyhd4m@4000000.m3u8
 CCTV-15,http://home.odbo.cc:35455/bst/cctvyyhd4m@4000000.m3u8
 CCTV-15,http://sttt.eu.org:35455/bst/cctvyyhd4m@4000000.m3u8
@@ -478,18 +496,18 @@ CCTV-15,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265014
 CCTV-15,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=4832596595465032187
 CCTV-15,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000018417
 CCTV-15,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031109
-CCTV-16,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
-CCTV-16,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
-CCTV-16,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
-CCTV-16,http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
-CCTV-16,http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
-CCTV-16,http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-16,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 CCTV-16,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001258/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 CCTV-16,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001258/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 CCTV-16,http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001258/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 CCTV-16,http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001258/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 CCTV-16,http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001258/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+CCTV-16,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
+CCTV-16,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
+CCTV-16,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
+CCTV-16,http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
+CCTV-16,http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
+CCTV-16,http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-16,http://39.134.87.62/000000001000/5000000008000023253/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-16,http://39.134.87.83/000000001000/5000000008000023253/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-16,http://39.134.90.60/000000001000/5000000008000023253/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -513,6 +531,7 @@ CCTV-17,http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001241/index.
 CCTV-17,http://39.134.62.141:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$黑龙江移动V4
 CCTV-17,http://k.061899.xyz/k.php?id=cctv17
+CCTV-17,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv17
 CCTV-17,http://mursor.ottiptv.cc/bst/cctv17hd4m@4000000.m3u8
 CCTV-17,http://home.odbo.cc:35455/bst/cctv17hd4m@4000000.m3u8
 CCTV-17,http://sttt.eu.org:35455/bst/cctv17hd4m@4000000.m3u8
@@ -761,6 +780,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225735$黑龙江移动V4
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345$黑龙江移动V4
 东方卫视,http://k.061899.xyz/k.php?id=dfws
+东方卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=dfws
 东方卫视,http://mursor.ottiptv.cc/bst/hddfws@4000000.m3u8
 东方卫视,http://home.odbo.cc:35455/bst/hddfws@4000000.m3u8
 东方卫视,http://sttt.eu.org:35455/bst/hddfws@4000000.m3u8
@@ -1636,6 +1656,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225728$黑龙江移动V4
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450$黑龙江移动V4
 北京卫视,http://k.061899.xyz/k.php?id=bjws
+北京卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=bjws
 北京卫视,http://my.tmos.cn:15181/chs002.m3u8
 北京卫视,http://mursor.ottiptv.cc/bst/bjwshd@4000000.m3u8
 北京卫视,http://home.odbo.cc:35455/bst/bjwshd@4000000.m3u8
@@ -1682,6 +1703,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225618$黑龙江移动V4
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409$黑龙江移动V4
 重庆卫视,http://k.061899.xyz/k.php?id=cqws
+重庆卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cqws
 重庆卫视,http://mursor.ottiptv.cc/bst/cqwshd4m@4000000.m3u8
 重庆卫视,http://home.odbo.cc:35455/bst/cqwshd4m@4000000.m3u8
 重庆卫视,http://sttt.eu.org:35455/bst/cqwshd4m@4000000.m3u8
@@ -1713,6 +1735,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225620$黑龙江移动V4
 东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341$黑龙江移动V4
 东南卫视,http://k.061899.xyz/k.php?id=dnws
+东南卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=dnws
 东南卫视,http://mursor.ottiptv.cc/bst/dnwshd@4000000.m3u8
 东南卫视,http://home.odbo.cc:35455/bst/dnwshd@4000000.m3u8
 东南卫视,http://sttt.eu.org:35455/bst/dnwshd@4000000.m3u8
@@ -1776,6 +1799,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 广东卫视,http://39.134.62.141:6610/PLTV/88888888/224/3221226248/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248$黑龙江移动V4
 广东卫视,http://k.061899.xyz/k.php?id=gdws
+广东卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=gdws
 广东卫视,http://mursor.ottiptv.cc/bst/gdwshd@4000000.m3u8
 广东卫视,http://home.odbo.cc:35455/bst/gdwshd@4000000.m3u8
 广东卫视,http://sttt.eu.org:35455/bst/gdwshd@4000000.m3u8
@@ -2010,6 +2034,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 黑龙江卫视,http://39.134.65.106/PLTV/88888888/224/3221226056/1.m3u8$黑龙江移动V4
 黑龙江卫视,http://39.134.65.106/PLTV/88888888/224/3221226060/1.m3u8?$鸡西移动
 黑龙江卫视,http://k.061899.xyz/k.php?id=hljws
+黑龙江卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=hljws
 黑龙江卫视,http://mursor.ottiptv.cc/bst/hljwshd@4000000.m3u8
 黑龙江卫视,http://home.odbo.cc:35455/bst/hljwshd@4000000.m3u8
 黑龙江卫视,http://sttt.eu.org:35455/bst/hljwshd@4000000.m3u8
@@ -2067,6 +2092,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225610$黑龙江移动V4
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307$黑龙江移动V4
 湖南卫视,http://k.061899.xyz/k.php?id=hunws
+湖南卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=hunws
 湖南卫视,http://mursor.ottiptv.cc/bst/hnwshd@4000000.m3u8
 湖南卫视,http://home.odbo.cc:35455/bst/hnwshd@4000000.m3u8
 湖南卫视,http://sttt.eu.org:35455/bst/hnwshd@4000000.m3u8
@@ -2120,6 +2146,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 江苏卫视,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsws
 江苏卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsws$酷9远程JS
 江苏卫视,http://k.061899.xyz/k.php?id=jsws
+江苏卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=jsws
 江苏卫视,http://mursor.ottiptv.cc/bst/jswshd@4000000.m3u8
 江苏卫视,http://home.odbo.cc:35455/bst/jswshd@4000000.m3u8
 江苏卫视,http://sttt.eu.org:35455/bst/jswshd@4000000.m3u8
@@ -2146,6 +2173,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 江西卫视,http://39.134.62.141:6610/PLTV/88888888/224/3221226344/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344$黑龙江移动V4
 江西卫视,http://k.061899.xyz/k.php?id=jxws
+江西卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=jxws
 江西卫视,http://mursor.ottiptv.cc/bst/jxwshd@4000000.m3u8
 江西卫视,http://home.odbo.cc:35455/bst/jxwshd@4000000.m3u8
 江西卫视,http://sttt.eu.org:35455/bst/jxwshd@4000000.m3u8
@@ -2379,6 +2407,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 陕西卫视,http://39.134.87.83/000000001000/5000000006000040017/index.m3u8?IASHttpSessionId=$上海移动V4
 陕西卫视,http://39.134.90.60/000000001000/5000000006000040017/index.m3u8?IASHttpSessionId=$上海移动V4
 陕西卫视,http://k.061899.xyz/k.php?id=sxws
+陕西卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=sxws
 陕西卫视,https://tv.alonso0729.dpdns.org/api/shaanxi.php?id=1131
 陕西卫视,http://39.134.62.141:6610/PLTV/88888888/224/3221225625/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 陕西卫视,http://39.134.62.141:6610/PLTV/88888888/224/3221226457/index.m3u8?IASHttpSessionId=$黑龙江移动V4
@@ -2424,6 +2453,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 深圳卫视,http://A/ku9/js/Guangdong/shenzhen.js?id=szws
 深圳卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=szws$酷9远程JS
 深圳卫视,http://k.061899.xyz/k.php?id=szws
+深圳卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=szws
 深圳卫视,http://mursor.ottiptv.cc/bst/szwshd@4000000.m3u8
 深圳卫视,http://home.odbo.cc:35455/bst/szwshd@4000000.m3u8
 深圳卫视,http://sttt.eu.org:35455/bst/szwshd@4000000.m3u8
@@ -2613,6 +2643,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 浙江卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/zhejiang.js?id=zjws$酷9远程JS
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://k.061899.xyz/k.php?id=zjws
+浙江卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=zjws
 浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb
 浙江卫视,https://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-5db0c78ba3a42d4005ada143d24b1318
 浙江卫视,https://zwebl02.cztv.com/live/channel01480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-038a74e875522aced87d044b36c735cb
