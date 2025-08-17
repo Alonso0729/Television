@@ -2870,6 +2870,14 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000023002
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000009954
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjws
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjws
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjws4k
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjws4k
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjws
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://A/ku9/js/Beijing/bjtime.js?id=bjws
@@ -4758,6 +4766,8 @@ http://mursor.ottiptv.cc/douyin/10429123
 #EXTINF:-1 tvg-name="56学姐" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",56学姐
 http://live.iill.top/douyin/10429123
 #EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://11.112114.xyz/logo/1905极限反转.png" group-title="娱乐",1905极限反转
+https://tv.alonso0729.dpdns.org/api/1905.php
+#EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://11.112114.xyz/logo/1905极限反转.png" group-title="娱乐",1905极限反转
 http://A/ku9/js/Entertainment/1905.js?id=1905a
 #EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://11.112114.xyz/logo/1905极限反转.png" group-title="娱乐",1905极限反转
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/1905.js?id=1905a$酷9远程JS
@@ -6278,6 +6288,10 @@ https://aq-live.media.xinhuamm.net/r/ed093a3514bd4174b1dbd5af8a8e0a9c.m3u8?auth_
 #EXTINF:-1 tvg-name="安庆经济生活" tvg-logo="https://11.112114.xyz/logo/安庆经济生活.png" group-title="安徽",安庆经济生活
 http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3215.m3u8?auth_key=4840160247-0-0-09f173f08ee665e4b1b65aa69a5ee46d&extra_key=9Gv-6hfRrMAaAuD7AYFdmB969naxPovqhZHAkcCYJSb1EAOCXARnqb8CUtO3J79-DQBGs-_55m2odXUh9cAecLDbz52sbpGw9b0f7umLy91QXS1P_Ueiz0_24GvOOdDugwSYLDZBUq-Ia5AZgi3CDUtTcex5hgsjrgkpwyXJnQH37tIiCpZY3zrNbW0tiDDU
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://11.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺
+https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjwy
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://11.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺
+https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjwy
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://11.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺
 https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjwy
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://11.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺
 http://A/ku9/js/Beijing/bjtime.js?id=bjwy
@@ -6287,6 +6301,10 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://k.061899.xyz/k.php?id=bjwy
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://11.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺
 http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
+https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjjs
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
+https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjjs
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjjs
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
@@ -6316,6 +6334,10 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000026
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://11.112114.xyz/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031204
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://11.112114.xyz/logo/北京影视.png" group-title="北京",北京影视
+https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjys
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://11.112114.xyz/logo/北京影视.png" group-title="北京",北京影视
+https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjys
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://11.112114.xyz/logo/北京影视.png" group-title="北京",北京影视
 https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjys
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://11.112114.xyz/logo/北京影视.png" group-title="北京",北京影视
 http://A/ku9/js/Beijing/bjtime.js?id=bjys
@@ -6325,6 +6347,10 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://k.061899.xyz/k.php?id=bjys
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://11.112114.xyz/logo/北京影视.png" group-title="北京",北京影视
 http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://11.112114.xyz/logo/北京财经.png" group-title="北京",北京财经
+https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjcj
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://11.112114.xyz/logo/北京财经.png" group-title="北京",北京财经
+https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjcj
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://11.112114.xyz/logo/北京财经.png" group-title="北京",北京财经
 https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjcj
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://11.112114.xyz/logo/北京财经.png" group-title="北京",北京财经
@@ -6336,6 +6362,10 @@ http://k.061899.xyz/k.php?id=bjcj
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://11.112114.xyz/logo/北京财经.png" group-title="北京",北京财经
 http://iptv.huuc.edu.cn/hls/btv5hd.m3u8
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://11.112114.xyz/logo/北京体育休闲.png" group-title="北京",北京体育休闲
+https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjty
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://11.112114.xyz/logo/北京体育休闲.png" group-title="北京",北京体育休闲
+https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjty
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://11.112114.xyz/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjty
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://11.112114.xyz/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://A/ku9/js/Beijing/bjtime.js?id=bjty
@@ -6345,6 +6375,10 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://k.061899.xyz/k.php?id=bjty
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://11.112114.xyz/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://11.112114.xyz/logo/北京生活.png" group-title="北京",北京生活
+https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjsh
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://11.112114.xyz/logo/北京生活.png" group-title="北京",北京生活
+https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjsh
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://11.112114.xyz/logo/北京生活.png" group-title="北京",北京生活
 https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjsh
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://11.112114.xyz/logo/北京生活.png" group-title="北京",北京生活
@@ -6356,6 +6390,10 @@ http://k.061899.xyz/k.php?id=bjsh
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://11.112114.xyz/logo/北京生活.png" group-title="北京",北京生活
 http://iptv.huuc.edu.cn/hls/btv7hd.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://11.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻
+https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjxw
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://11.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻
+https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjxw
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://11.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻
 https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjxw
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://11.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻
 http://A/ku9/js/Beijing/bjtime.js?id=bjxw
@@ -6365,6 +6403,10 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://k.061899.xyz/k.php?id=bjxw
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://11.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻
 http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjkk
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
+https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjkk
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
 https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjkk
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://11.112114.xyz/logo/北京卡酷少儿.png" group-title="北京",北京卡酷少儿
