@@ -4158,6 +4158,10 @@ http://39.134.62.141:6610/PLTV/88888888/224/3221226456/index.m3u8?IASHttpSession
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456$黑龙江移动V4
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+https://tv.alonso0729.dpdns.org/api/shandong_qilu.php?id=sdws 
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=sdws
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1$酷9远程JS
@@ -13428,11 +13432,19 @@ http://player4.juyun.tv/camera/167348174.flv
 #EXTINF:-1 tvg-name="商洛公共" tvg-logo="https://11.112114.xyz/logo/商洛公共.png" group-title="陕西",商洛公共
 rtmp://player4.juyun.tv/camera/167348174
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://11.112114.xyz/logo/山东齐鲁.png" group-title="山东",山东齐鲁
+https://tv.alonso0729.dpdns.org/api/shandong_qilu.php?id=sdql 
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://11.112114.xyz/logo/山东齐鲁.png" group-title="山东",山东齐鲁
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=qlpd
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://11.112114.xyz/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=qlpd&channelid=5
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://11.112114.xyz/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=qlpd&channelid=5$酷9远程JS
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://11.112114.xyz/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 http://m.176178.xyz/sdtv/sdtv.php?id=sdql
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://11.112114.xyz/logo/山东文旅.png" group-title="山东",山东文旅
+https://tv.alonso0729.dpdns.org/api/shandong_qilu.php?id=sdwl
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://11.112114.xyz/logo/山东文旅.png" group-title="山东",山东文旅
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=wlpd
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://11.112114.xyz/logo/山东文旅.png" group-title="山东",山东文旅
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=wlpd&channelid=13
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://11.112114.xyz/logo/山东文旅.png" group-title="山东",山东文旅
@@ -13440,27 +13452,43 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://11.112114.xyz/logo/山东文旅.png" group-title="山东",山东文旅
 http://m.176178.xyz/sdtv/sdtv.php?id=sdwl
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://11.112114.xyz/logo/山东综艺.png" group-title="山东",山东综艺
+https://tv.alonso0729.dpdns.org/api/shandong_qilu.php?id=sdzy
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://11.112114.xyz/logo/山东综艺.png" group-title="山东",山东综艺
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=zypd
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://11.112114.xyz/logo/山东综艺.png" group-title="山东",山东综艺
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zypd&channelid=11
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://11.112114.xyz/logo/山东综艺.png" group-title="山东",山东综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zypd&channelid=11$酷9远程JS
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://11.112114.xyz/logo/山东综艺.png" group-title="山东",山东综艺
 http://m.176178.xyz/sdtv/sdtv.php?id=sdzy
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://11.112114.xyz/logo/山东生活.png" group-title="山东",山东生活
+https://tv.alonso0729.dpdns.org/api/shandong_qilu.php?id=sdsh
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://11.112114.xyz/logo/山东生活.png" group-title="山东",山东生活
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=shpd
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://11.112114.xyz/logo/山东生活.png" group-title="山东",山东生活
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=shpd&channelid=9
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://11.112114.xyz/logo/山东生活.png" group-title="山东",山东生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=shpd&channelid=9$酷9远程JS
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://11.112114.xyz/logo/山东生活.png" group-title="山东",山东生活
 http://m.176178.xyz/sdtv/sdtv.php?id=sdsh
-#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://11.112114.xyz/logo/山东体育休闲.png" group-title="山东",山东体育休闲
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://11.112114.xyz/logo/山东体育.png" group-title="山东",山东体育
+https://tv.alonso0729.dpdns.org/api/shandong_qilu.php?id=sdty
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://11.112114.xyz/logo/山东体育.png" group-title="山东",山东体育
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=txyx
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://11.112114.xyz/logo/山东体育.png" group-title="山东",山东体育
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=txyx&channelid=7
-#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://11.112114.xyz/logo/山东体育休闲.png" group-title="山东",山东体育休闲
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://11.112114.xyz/logo/山东体育.png" group-title="山东",山东体育
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=txyx&channelid=7$酷9远程JS
-#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://11.112114.xyz/logo/山东体育休闲.png" group-title="山东",山东体育休闲
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://11.112114.xyz/logo/山东体育.png" group-title="山东",山东体育
 http://m.176178.xyz/sdtv/sdtv.php?id=sdty
-#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://11.112114.xyz/logo/山东体育休闲.png" group-title="山东",山东体育休闲
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://11.112114.xyz/logo/山东体育.png" group-title="山东",山东体育
 http://182.32.159.39:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$山东酒店
-#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://11.112114.xyz/logo/山东体育休闲.png" group-title="山东",山东体育休闲
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://11.112114.xyz/logo/山东体育.png" group-title="山东",山东体育
 http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$山东酒店
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://11.112114.xyz/logo/山东农科.png" group-title="山东",山东农科
+https://tv.alonso0729.dpdns.org/api/shandong_qilu.php?id=sdnk
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://11.112114.xyz/logo/山东农科.png" group-title="山东",山东农科
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=nkpd
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://11.112114.xyz/logo/山东农科.png" group-title="山东",山东农科
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=nkpd&channelid=15
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://11.112114.xyz/logo/山东农科.png" group-title="山东",山东农科
@@ -13468,11 +13496,19 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://11.112114.xyz/logo/山东农科.png" group-title="山东",山东农科
 http://m.176178.xyz/sdtv/sdtv.php?id=sdnk
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://11.112114.xyz/logo/山东新闻.png" group-title="山东",山东新闻
+https://tv.alonso0729.dpdns.org/api/shandong_qilu.php?id=sdxw 
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://11.112114.xyz/logo/山东新闻.png" group-title="山东",山东新闻
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=xwpd
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://11.112114.xyz/logo/山东新闻.png" group-title="山东",山东新闻
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=xwpd&channelid=3
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://11.112114.xyz/logo/山东新闻.png" group-title="山东",山东新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=xwpd&channelid=3$酷9远程JS
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://11.112114.xyz/logo/山东新闻.png" group-title="山东",山东新闻
 http://m.176178.xyz/sdtv/sdtv.php?id=sdxw
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://11.112114.xyz/logo/山东少儿.png" group-title="山东",山东少儿
+https://tv.alonso0729.dpdns.org/api/shandong_qilu.php?id=sdse
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://11.112114.xyz/logo/山东少儿.png" group-title="山东",山东少儿
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=sepd
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://11.112114.xyz/logo/山东少儿.png" group-title="山东",山东少儿
 http://m.176178.xyz/sdtv/sdtv.php?id=sdse
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://11.112114.xyz/logo/山东少儿.png" group-title="山东",山东少儿
@@ -13483,6 +13519,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266015
 #EXTINF:-1 tvg-name="中华美食" tvg-logo="https://11.112114.xyz/logo/中华美食.png" group-title="山东",中华美食
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000052
+#EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://11.112114.xyz/logo/济南新闻综合.png" group-title="山东",济南新闻综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=jndst
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://11.112114.xyz/logo/济南新闻综合.png" group-title="山东",济南新闻综合
 https://tv.alonso0729.dpdns.org/api/jinan.php?id=1676
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://11.112114.xyz/logo/济南新闻综合.png" group-title="山东",济南新闻综合
@@ -13548,9 +13586,13 @@ https://livejnedu.chinamcache.com/live/jneduzb04.m3u8
 #EXTINF:-1 tvg-name="青岛蓝睛" tvg-logo="https://11.112114.xyz/logo/青岛蓝睛.png" group-title="山东",青岛蓝睛
 http://hlspull.qtv.com.cn/v31faxcg/channel/1126ac08401969c70b0aa7814ad40975/index.m3u8
 #EXTINF:-1 tvg-name="淄博新闻综合" tvg-logo="https://11.112114.xyz/logo/淄博新闻综合.png" group-title="山东",淄博新闻综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=zbdst
+#EXTINF:-1 tvg-name="淄博新闻综合" tvg-logo="https://11.112114.xyz/logo/淄博新闻综合.png" group-title="山东",淄博新闻综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zbdst&channelid=100010
 #EXTINF:-1 tvg-name="淄博新闻综合" tvg-logo="https://11.112114.xyz/logo/淄博新闻综合.png" group-title="山东",淄博新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zbdst&channelid=100010$酷9远程JS
+#EXTINF:-1 tvg-name="枣庄新闻综合" tvg-logo="https://11.112114.xyz/logo/枣庄新闻综合.png" group-title="山东",枣庄新闻综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=zzdst
 #EXTINF:-1 tvg-name="枣庄新闻综合" tvg-logo="https://11.112114.xyz/logo/枣庄新闻综合.png" group-title="山东",枣庄新闻综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zzdst&channelid=100023
 #EXTINF:-1 tvg-name="枣庄新闻综合" tvg-logo="https://11.112114.xyz/logo/枣庄新闻综合.png" group-title="山东",枣庄新闻综合
@@ -13580,6 +13622,8 @@ http://pili-live-rtmp-zdzz-tv.zzxwcm.cn/zdzz-tv/dianshi3.m3u8
 #EXTINF:-1 tvg-name="枣庄公共" tvg-logo="https://11.112114.xyz/logo/枣庄公共.png" group-title="山东",枣庄公共
 http://pili-live-rtmp-zdzz-tv.zzxwcm.cn/zdzz-tv/dianshi3.flv
 #EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="https://11.112114.xyz/logo/烟台新闻综合.png" group-title="山东",烟台新闻综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=ytdst
+#EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="https://11.112114.xyz/logo/烟台新闻综合.png" group-title="山东",烟台新闻综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=ytdst&channelid=100012
 #EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="https://11.112114.xyz/logo/烟台新闻综合.png" group-title="山东",烟台新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=ytdst&channelid=100012$酷9远程JS
@@ -13602,6 +13646,8 @@ http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b3
 #EXTINF:-1 tvg-name="烟台公共" tvg-logo="https://11.112114.xyz/logo/烟台公共.png" group-title="山东",烟台公共
 http://live.yantaitv.cn/live/412a6764092149faa58f80a0fd8004e9/22bbe85c960145dc95fc25e699d0fb3a.m3u8
 #EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://11.112114.xyz/logo/威海新闻综合.png" group-title="山东",威海新闻综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=whdst
+#EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://11.112114.xyz/logo/威海新闻综合.png" group-title="山东",威海新闻综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=whdst&channelid=100016
 #EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://11.112114.xyz/logo/威海新闻综合.png" group-title="山东",威海新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=whdst&channelid=100016$酷9远程JS
@@ -13612,9 +13658,13 @@ http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
 #EXTINF:-1 tvg-name="威海都市生活" tvg-logo="https://11.112114.xyz/logo/威海都市生活.png" group-title="山东",威海都市生活
 http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
 #EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://11.112114.xyz/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=wfdst
+#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://11.112114.xyz/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=wfdst&channelid=100013
 #EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://11.112114.xyz/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=wfdst&channelid=100013$酷9远程JS
+#EXTINF:-1 tvg-name="泰安综合" tvg-logo="https://11.112114.xyz/logo/泰安综合.png" group-title="山东",泰安综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=tadst
 #EXTINF:-1 tvg-name="泰安综合" tvg-logo="https://11.112114.xyz/logo/泰安综合.png" group-title="山东",泰安综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=tadst&channelid=100015
 #EXTINF:-1 tvg-name="泰安综合" tvg-logo="https://11.112114.xyz/logo/泰安综合.png" group-title="山东",泰安综合
@@ -13627,6 +13677,8 @@ http://zzbb.1545ts.com:8068/live/tatv0111.flv
 http://zzbb.1545ts.com:8068/live/tatv222.m3u8
 #EXTINF:-1 tvg-name="泰安经济生活" tvg-logo="https://11.112114.xyz/logo/泰安经济生活.png" group-title="山东",泰安经济生活
 http://zzbb.1545ts.com:8068/live/tatv222.flv
+#EXTINF:-1 tvg-name="日照新闻综合" tvg-logo="https://11.112114.xyz/logo/日照新闻综合.png" group-title="山东",日照新闻综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=rzdst
 #EXTINF:-1 tvg-name="日照新闻综合" tvg-logo="https://11.112114.xyz/logo/日照新闻综合.png" group-title="山东",日照新闻综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=rzdst&channelid=100017
 #EXTINF:-1 tvg-name="日照新闻综合" tvg-logo="https://11.112114.xyz/logo/日照新闻综合.png" group-title="山东",日照新闻综合
@@ -13648,6 +13700,8 @@ http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="青州文化旅游" tvg-logo="https://11.112114.xyz/logo/青州文化旅游.png" group-title="山东",青州文化旅游
 http://sdqz.chinashadt.com:2036/live/3..stream/playlist.m3u8
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://11.112114.xyz/logo/临沂综合.png" group-title="山东",临沂综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=lydst
+#EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://11.112114.xyz/logo/临沂综合.png" group-title="山东",临沂综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lydst&channelid=100019
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://11.112114.xyz/logo/临沂综合.png" group-title="山东",临沂综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lydst&channelid=100019$酷9远程JS
@@ -13663,6 +13717,8 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 rtmp://tv.lytv.tv/channellive/ch2
 #EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://11.112114.xyz/logo/临沂公共.png" group-title="山东",临沂公共
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+#EXTINF:-1 tvg-name="聊城综合" tvg-logo="https://11.112114.xyz/logo/聊城综合.png" group-title="山东",聊城综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=lcdst
 #EXTINF:-1 tvg-name="聊城综合" tvg-logo="https://11.112114.xyz/logo/聊城综合.png" group-title="山东",聊城综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lcdst&channelid=100021
 #EXTINF:-1 tvg-name="聊城综合" tvg-logo="https://11.112114.xyz/logo/聊城综合.png" group-title="山东",聊城综合
@@ -13680,6 +13736,8 @@ http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 #EXTINF:-1 tvg-name="济宁公共" tvg-logo="https://11.112114.xyz/logo/济宁公共.png" group-title="山东",济宁公共
 http://221.2.36.14/video/s10001-JNTV3/index.m3u8
 #EXTINF:-1 tvg-name="菏泽新闻" tvg-logo="https://11.112114.xyz/logo/菏泽新闻.png" group-title="山东",菏泽新闻
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=hzdst
+#EXTINF:-1 tvg-name="菏泽新闻" tvg-logo="https://11.112114.xyz/logo/菏泽新闻.png" group-title="山东",菏泽新闻
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=hzdst&channelid=100024
 #EXTINF:-1 tvg-name="菏泽新闻" tvg-logo="https://11.112114.xyz/logo/菏泽新闻.png" group-title="山东",菏泽新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=hzdst&channelid=100024$酷9远程JS
@@ -13694,9 +13752,13 @@ http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="菏泽影视" tvg-logo="https://11.112114.xyz/logo/菏泽影视.png" group-title="山东",菏泽影视
 http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://11.112114.xyz/logo/德州新闻综合.png" group-title="山东",德州新闻综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=dzdst
+#EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://11.112114.xyz/logo/德州新闻综合.png" group-title="山东",德州新闻综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dzdst&channelid=100020
 #EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://11.112114.xyz/logo/德州新闻综合.png" group-title="山东",德州新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dzdst&channelid=100020$酷9远程JS
+#EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://11.112114.xyz/logo/东营新闻综合.png" group-title="山东",东营新闻综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=dydst
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://11.112114.xyz/logo/东营新闻综合.png" group-title="山东",东营新闻综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dydst&channelid=100011
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://11.112114.xyz/logo/东营新闻综合.png" group-title="山东",东营新闻综合
@@ -13719,6 +13781,8 @@ rtmp://stream.hhek.cn:9936/live/ggpd_sd
 http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd
 #EXTINF:-1 tvg-name="东营公共" tvg-logo="https://11.112114.xyz/logo/东营公共.png" group-title="山东",东营公共
 http://stream.hhek.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="滨州新闻综合" tvg-logo="https://11.112114.xyz/logo/滨州新闻综合.png" group-title="山东",滨州新闻综合
+https://tv.alonso0729.dpdns.org/api/shandong_shandian.php?id=bzdst
 #EXTINF:-1 tvg-name="滨州新闻综合" tvg-logo="https://11.112114.xyz/logo/滨州新闻综合.png" group-title="山东",滨州新闻综合
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=bzdst&channelid=100022
 #EXTINF:-1 tvg-name="滨州新闻综合" tvg-logo="https://11.112114.xyz/logo/滨州新闻综合.png" group-title="山东",滨州新闻综合
@@ -14874,16 +14938,22 @@ http://A/ku9/js/Tibet/Tibet.js?id=2
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Tibet/Tibet.js?id=2$酷9远程JS
 #EXTINF:-1 tvg-name="拉萨汉语综合" tvg-logo="https://11.112114.xyz/logo/拉萨汉语综合.png" group-title="西藏",拉萨汉语综合
+https://tv.alonso0729.dpdns.org/api/lhasa.php?id=1021641
+#EXTINF:-1 tvg-name="拉萨汉语综合" tvg-logo="https://11.112114.xyz/logo/拉萨汉语综合.png" group-title="西藏",拉萨汉语综合
 http://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
 #EXTINF:-1 tvg-name="拉萨汉语综合" tvg-logo="https://11.112114.xyz/logo/拉萨汉语综合.png" group-title="西藏",拉萨汉语综合
 rtmp://tv.lasatv.cn/channellive/lszhpd
 #EXTINF:-1 tvg-name="拉萨藏语综合" tvg-logo="https://11.112114.xyz/logo/拉萨藏语综合.png" group-title="西藏",拉萨藏语综合
+https://tv.alonso0729.dpdns.org/api/lhasa.php?id=1989993
+#EXTINF:-1 tvg-name="拉萨藏语综合" tvg-logo="https://11.112114.xyz/logo/拉萨藏语综合.png" group-title="西藏",拉萨藏语综合
 http://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
 #EXTINF:-1 tvg-name="拉萨藏语综合" tvg-logo="https://11.112114.xyz/logo/拉萨藏语综合.png" group-title="西藏",拉萨藏语综合
 rtmp://tv.lasatv.cn/channellive/lszypd
-#EXTINF:-1 tvg-name="拉萨文旅" tvg-logo="https://11.112114.xyz/logo/拉萨文旅.png" group-title="西藏",拉萨文旅
+#EXTINF:-1 tvg-name="拉萨文化旅游" tvg-logo="https://11.112114.xyz/logo/拉萨文化旅游.png" group-title="西藏",拉萨文化旅游
+https://tv.alonso0729.dpdns.org/api/lhasa.php?id=1021657
+#EXTINF:-1 tvg-name="拉萨文化旅游" tvg-logo="https://11.112114.xyz/logo/拉萨文化旅游.png" group-title="西藏",拉萨文化旅游
 rtmp://tv.lasatv.cn/channellive/lswlpd
-#EXTINF:-1 tvg-name="拉萨文旅" tvg-logo="https://11.112114.xyz/logo/拉萨文旅.png" group-title="西藏",拉萨文旅
+#EXTINF:-1 tvg-name="拉萨文化旅游" tvg-logo="https://11.112114.xyz/logo/拉萨文化旅游.png" group-title="西藏",拉萨文化旅游
 http://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
 #EXTINF:-1 tvg-name="日喀则汉语综合" tvg-logo="https://11.112114.xyz/logo/日喀则汉语综合.png" group-title="西藏",日喀则汉语综合
 https://consolestream.rkzrm.cn:20323/4.m3u8
