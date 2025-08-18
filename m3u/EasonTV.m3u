@@ -4330,6 +4330,10 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225739$黑龙江移动V4
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313$黑龙江移动V4
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+https://tv.alonso0729.dpdns.org/api/shenzhen.php?channel=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+https://tv.alonso0729.dpdns.org/api/shenzhen.php?channel=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://A/ku9/js/Guangdong/shenzhen.js?id=szws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=szws$酷9远程JS
@@ -7296,6 +7300,8 @@ http://tencentplaygzrb.gztv.com:80/live/nanguodushi.m3u8
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://11.112114.xyz/logo/广州南国都市.png" group-title="广东",广州南国都市
 http://58.144.154.93/tencentplay.gztv.com/live/nanguodushi.m3u8
 #EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://11.112114.xyz/logo/深圳都市.png" group-title="广东",深圳都市
+https://tv.alonso0729.dpdns.org/api/shenzhen.php?channel=%E6%B7%B1%E5%9C%B3%E9%83%BD%E5%B8%82
+#EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://11.112114.xyz/logo/深圳都市.png" group-title="广东",深圳都市
 http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
 #EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://11.112114.xyz/logo/深圳都市.png" group-title="广东",深圳都市
 http://livepull-tcyzb.sztv.com.cn/live/dslive.m3u8
@@ -7304,9 +7310,13 @@ http://A/ku9/js/Guangdong/shenzhen.js?id=szds
 #EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://11.112114.xyz/logo/深圳都市.png" group-title="广东",深圳都市
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=szds$酷9远程JS
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://11.112114.xyz/logo/深圳电视剧.png" group-title="广东",深圳电视剧
+https://tv.alonso0729.dpdns.org/api/shenzhen.php?channel=%E6%B7%B1%E5%9C%B3%E7%94%B5%E8%A7%86%E5%89%A7
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://11.112114.xyz/logo/深圳电视剧.png" group-title="广东",深圳电视剧
 http://A/ku9/js/Guangdong/shenzhen.js?id=szdsj
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://11.112114.xyz/logo/深圳电视剧.png" group-title="广东",深圳电视剧
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=szdsj$酷9远程JS
+#EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://11.112114.xyz/logo/深圳财经生活.png" group-title="广东",深圳财经生活
+https://tv.alonso0729.dpdns.org/api/shenzhen.php?channel=%E6%B7%B1%E5%9C%B3%E8%B4%A2%E7%BB%8F
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://11.112114.xyz/logo/深圳财经生活.png" group-title="广东",深圳财经生活
 http://A/ku9/js/Guangdong/shenzhen.js?id=szcjsh
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://11.112114.xyz/logo/深圳财经生活.png" group-title="广东",深圳财经生活
@@ -7316,17 +7326,25 @@ http://A/ku9/js/Guangdong/shenzhen.js?id=sztyjk
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://11.112114.xyz/logo/深圳体育健康.png" group-title="广东",深圳体育健康
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=sztyjk$酷9远程JS
 #EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://11.112114.xyz/logo/深圳少儿.png" group-title="广东",深圳少儿
+https://tv.alonso0729.dpdns.org/api/shenzhen.php?channel=%E6%B7%B1%E5%9C%B3%E5%B0%91%E5%84%BF
+#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://11.112114.xyz/logo/深圳少儿.png" group-title="广东",深圳少儿
 http://A/ku9/js/Guangdong/shenzhen.js?id=szse
 #EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://11.112114.xyz/logo/深圳少儿.png" group-title="广东",深圳少儿
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=szse$酷9远程JS
+#EXTINF:-1 tvg-name="深圳国际" tvg-logo="https://11.112114.xyz/logo/深圳国际.png" group-title="广东",深圳国际
+https://tv.alonso0729.dpdns.org/api/shenzhen.php?channel=%E6%B7%B1%E5%9C%B3%E5%9B%BD%E9%99%85
 #EXTINF:-1 tvg-name="深圳国际" tvg-logo="https://11.112114.xyz/logo/深圳国际.png" group-title="广东",深圳国际
 http://A/ku9/js/Guangdong/shenzhen.js?id=szgj
 #EXTINF:-1 tvg-name="深圳国际" tvg-logo="https://11.112114.xyz/logo/深圳国际.png" group-title="广东",深圳国际
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=szgj$酷9远程JS
 #EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://11.112114.xyz/logo/深圳宜和购物.png" group-title="广东",深圳宜和购物
+https://tv.alonso0729.dpdns.org/api/shenzhen.php?channel=%E5%AE%9C%E5%92%8C%E8%B4%AD%E7%89%A9
+#EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://11.112114.xyz/logo/深圳宜和购物.png" group-title="广东",深圳宜和购物
 http://A/ku9/js/Guangdong/shenzhen.js?id=yhgw
 #EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://11.112114.xyz/logo/深圳宜和购物.png" group-title="广东",深圳宜和购物
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=yhgw$酷9远程JS
+#EXTINF:-1 tvg-name="深圳移动电视" tvg-logo="https://11.112114.xyz/logo/深圳移动电视.png" group-title="广东",深圳移动电视
+https://tv.alonso0729.dpdns.org/api/shenzhen.php?channel=%E6%B7%B1%E5%9C%B3%E7%A7%BB%E5%8A%A8
 #EXTINF:-1 tvg-name="深圳移动电视" tvg-logo="https://11.112114.xyz/logo/深圳移动电视.png" group-title="广东",深圳移动电视
 http://A/ku9/js/Guangdong/shenzhen.js?id=szyd
 #EXTINF:-1 tvg-name="深圳移动电视" tvg-logo="https://11.112114.xyz/logo/深圳移动电视.png" group-title="广东",深圳移动电视
