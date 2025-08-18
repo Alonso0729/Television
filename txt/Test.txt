@@ -400,23 +400,3 @@ IP8,http://39.135.135.38/PLTV/88888888/224/3221225715/1.m3u8
 IP9,http://39.135.135.71/PLTV/88888888/224/3221225730/1.m3u8
 
 PHP持续测试,#genre#
-香港卫视,https://tv.alonso0729.dpdns.org/api/HKS.php
-杭州综合,https://tv.alonso0729.dpdns.org/api/hangzhou.php?id=hzzh
-杭州西湖明珠,https://tv.alonso0729.dpdns.org/api/hangzhou.php?id=hzmz
-杭州生活,https://tv.alonso0729.dpdns.org/api/hangzhou.php?id=hzsh
-杭州影视,https://tv.alonso0729.dpdns.org/api/hangzhou.php?id=hzys
-杭州青少体育,https://tv.alonso0729.dpdns.org/api/hangzhou.php?id=hzqsty
-杭州导视,https://tv.alonso0729.dpdns.org/api/hangzhou.php?id=hzds
-富阳新闻综合,https://tv.alonso0729.dpdns.org/api/hangzhou.php?id=fyxwzh
-宁波新闻综合,https://tv.alonso0729.dpdns.org/api/ningbo.php?id=nbtv1
-宁波社会生活,https://tv.alonso0729.dpdns.org/api/ningbo.php?id=nbtv2
-宁波文化娱乐,https://tv.alonso0729.dpdns.org/api/ningbo.php?id=nbtv3
-宁波影视剧,https://tv.alonso0729.dpdns.org/api/ningbo.php?id=nbtv4
-重庆新闻,https://tv.alonso0729.dpdns.org/api/chongqing_news.php
-武汉新闻综合频道,https://tv.alonso0729.dpdns.org/api/wuhan.php?id=20
-武汉电视剧频道,https://tv.alonso0729.dpdns.org/api/wuhan.php?id=5
-武汉科技生活频道,https://tv.alonso0729.dpdns.org/api/wuhan.php?id=6
-武汉文体频道,https://tv.alonso0729.dpdns.org/api/wuhan.php?id=8
-石家庄新闻综合,https://tv.alonso0729.dpdns.org/api/shijiazhuang.php?id=4
-石家庄城市服务,https://tv.alonso0729.dpdns.org/api/shijiazhuang.php?id=5
-石家庄文化娱乐,https://tv.alonso0729.dpdns.org/api/shijiazhuang.php?id=6

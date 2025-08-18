@@ -8084,13 +8084,19 @@ http://tv.pull.hebtv.com/jishi/sanjiagouwu.m3u8?t=2510710360&k=a5c9265ab5d7c3f45
 #EXTINF:-1 tvg-name="河北三佳购物" tvg-logo="https://11.112114.xyz/logo/河北三佳购物.png" group-title="河北",河北三佳购物
 http://tv.pull.hebtv.com/jishi/sanjiagouwu.flv?t=2510710360&k=bcbc1f02387692e51440f87980955c03
 #EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://11.112114.xyz/logo/石家庄新闻综合.png" group-title="河北",石家庄新闻综合
+https://tv.alonso0729.dpdns.org/api/shijiazhuang.php?id=4
+#EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://11.112114.xyz/logo/石家庄新闻综合.png" group-title="河北",石家庄新闻综合
 http://A/ku9/js/Hebei/shijiaz.js?id=4
 #EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://11.112114.xyz/logo/石家庄新闻综合.png" group-title="河北",石家庄新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/shijiaz.js?id=4$酷9远程JS
 #EXTINF:-1 tvg-name="石家庄城市服务" tvg-logo="https://11.112114.xyz/logo/石家庄城市服务.png" group-title="河北",石家庄城市服务
+https://tv.alonso0729.dpdns.org/api/shijiazhuang.php?id=5
+#EXTINF:-1 tvg-name="石家庄城市服务" tvg-logo="https://11.112114.xyz/logo/石家庄城市服务.png" group-title="河北",石家庄城市服务
 http://A/ku9/js/Hebei/shijiaz.js?id=5
 #EXTINF:-1 tvg-name="石家庄城市服务" tvg-logo="https://11.112114.xyz/logo/石家庄城市服务.png" group-title="河北",石家庄城市服务
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/shijiaz.js?id=5$酷9远程JS
+#EXTINF:-1 tvg-name="石家庄文化娱乐" tvg-logo="https://11.112114.xyz/logo/石家庄文化娱乐.png" group-title="河北",石家庄文化娱乐
+https://tv.alonso0729.dpdns.org/api/shijiazhuang.php?id=6
 #EXTINF:-1 tvg-name="石家庄文化娱乐" tvg-logo="https://11.112114.xyz/logo/石家庄文化娱乐.png" group-title="河北",石家庄文化娱乐
 http://A/ku9/js/Hebei/shijiaz.js?id=6
 #EXTINF:-1 tvg-name="石家庄文化娱乐" tvg-logo="https://11.112114.xyz/logo/石家庄文化娱乐.png" group-title="河北",石家庄文化娱乐
@@ -15664,19 +15670,27 @@ http://A/ku9/js/Zhejiang/hztv.js?id=hzds
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://11.112114.xyz/logo/杭州导视.png" group-title="浙江",杭州导视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/hztv.js?id=hzds$酷9远程JS
 #EXTINF:-1 tvg-name="宁波新闻综合" tvg-logo="https://11.112114.xyz/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
+https://tv.alonso0729.dpdns.org/api/ningbo.php?id=nbtv1
+#EXTINF:-1 tvg-name="宁波新闻综合" tvg-logo="https://11.112114.xyz/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
 http://A/ku9/js/Zhejiang/ningbo.js?id=ningbo1
 #EXTINF:-1 tvg-name="宁波新闻综合" tvg-logo="https://11.112114.xyz/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/ningbo.js?id=ningbo1$酷9远程JS
 #EXTINF:-1 tvg-name="宁波新闻综合" tvg-logo="https://11.112114.xyz/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
 http://l.cztvcloud.com/channels/lantian/sxchannel02/1080p.m3u8
 #EXTINF:-1 tvg-name="宁波经济生活" tvg-logo="https://11.112114.xyz/logo/宁波经济生活.png" group-title="浙江",宁波经济生活
+https://tv.alonso0729.dpdns.org/api/ningbo.php?id=nbtv2
+#EXTINF:-1 tvg-name="宁波经济生活" tvg-logo="https://11.112114.xyz/logo/宁波经济生活.png" group-title="浙江",宁波经济生活
 http://A/ku9/js/Zhejiang/ningbo.js?id=ningbo2
 #EXTINF:-1 tvg-name="宁波经济生活" tvg-logo="https://11.112114.xyz/logo/宁波经济生活.png" group-title="浙江",宁波经济生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/ningbo.js?id=ningbo2$酷9远程JS
 #EXTINF:-1 tvg-name="宁波都市文体" tvg-logo="https://11.112114.xyz/logo/宁波都市文体.png" group-title="浙江",宁波都市文体
+https://tv.alonso0729.dpdns.org/api/ningbo.php?id=nbtv3
+#EXTINF:-1 tvg-name="宁波都市文体" tvg-logo="https://11.112114.xyz/logo/宁波都市文体.png" group-title="浙江",宁波都市文体
 http://A/ku9/js/Zhejiang/ningbo.js?id=ningbo3
 #EXTINF:-1 tvg-name="宁波都市文体" tvg-logo="https://11.112114.xyz/logo/宁波都市文体.png" group-title="浙江",宁波都市文体
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/ningbo.js?id=ningbo3$酷9远程JS
+#EXTINF:-1 tvg-name="宁波影视剧" tvg-logo="https://11.112114.xyz/logo/宁波影视剧.png" group-title="浙江",宁波影视剧
+https://tv.alonso0729.dpdns.org/api/ningbo.php?id=nbtv4
 #EXTINF:-1 tvg-name="宁波影视剧" tvg-logo="https://11.112114.xyz/logo/宁波影视剧.png" group-title="浙江",宁波影视剧
 http://A/ku9/js/Zhejiang/ningbo.js?id=ningbo4
 #EXTINF:-1 tvg-name="宁波影视剧" tvg-logo="https://11.112114.xyz/logo/宁波影视剧.png" group-title="浙江",宁波影视剧
