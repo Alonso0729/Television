@@ -3370,8 +3370,6 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000017118
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040016
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
-https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnws
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001222/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -3397,6 +3395,10 @@ http://39.134.90.60/000000001000/5000000011000031119/index.m3u8?IASHttpSessionId
 http://39.134.62.141:6610/PLTV/88888888/224/3221226480/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$黑龙江移动V4
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=hnws
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://A/ku9/js/Henan/henan.js?id=hnws&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
@@ -6012,7 +6014,11 @@ http://A/ku9/js/Anhui/hefei.js?id=4
 #EXTINF:-1 tvg-name="合肥教育法制" tvg-logo="https://11.112114.xyz/logo/合肥教育法制.png" group-title="安徽",合肥教育法制
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/hefei.js?id=4$酷9远程JS
 #EXTINF:-1 tvg-name="肥东新闻综合" tvg-logo="https://11.112114.xyz/logo/肥东新闻综合.png" group-title="安徽",肥东新闻综合
+https://tv.alonso0729.dpdns.org/api/anhui_feidong.php?id=752
+#EXTINF:-1 tvg-name="肥东新闻综合" tvg-logo="https://11.112114.xyz/logo/肥东新闻综合.png" group-title="安徽",肥东新闻综合
 https://31699.hlsplay.aodianyun.com/tv_radio_31699/tv_channel_3780.m3u8?auth_key=3318562388-0-0-8ebbb954451edcaa4ab7f7e8f6b9f8c
+#EXTINF:-1 tvg-name="肥东经济生活" tvg-logo="https://11.112114.xyz/logo/肥东经济生活.png" group-title="安徽",肥东经济生活
+https://tv.alonso0729.dpdns.org/api/anhui_feidong.php?id=753
 #EXTINF:-1 tvg-name="肥东经济生活" tvg-logo="https://11.112114.xyz/logo/肥东经济生活.png" group-title="安徽",肥东经济生活
 https://gnhls.qingmei.tv/live/jjsh.m3u8?volcTime=1774408589&volcSecret=4938d82045551d670c9d796c4ec39bc4
 #EXTINF:-1 tvg-name="岳西综合" tvg-logo="https://11.112114.xyz/logo/岳西综合.png" group-title="安徽",岳西综合
@@ -8458,6 +8464,8 @@ http://zhap.city1000.cn/xinwen/ap_xw.m3u8
 #EXTINF:-1 tvg-name="安平综合" tvg-logo="https://11.112114.xyz/logo/安平综合.png" group-title="河北",安平综合
 http://zhap.city1000.cn/xinwen/ap_xw.flv
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://11.112114.xyz/logo/河南都市.png" group-title="河南",河南都市
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=hnds
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://11.112114.xyz/logo/河南都市.png" group-title="河南",河南都市
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnds
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://11.112114.xyz/logo/河南都市.png" group-title="河南",河南都市
 http://A/ku9/js/Henan/henan.js?id=hnds&key=关注公共号❤：AI科技生活
@@ -8469,6 +8477,8 @@ http://php.jdshipin.com/hntv.php?id=hnds
 http://www.cdnstv.com:6398/hls/1110/index.m3u8
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://11.112114.xyz/logo/河南都市.png" group-title="河南",河南都市
 http://1.197.253.9:885/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://11.112114.xyz/logo/河南民生.png" group-title="河南",河南民生
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=hnms
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://11.112114.xyz/logo/河南民生.png" group-title="河南",河南民生
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnms
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://11.112114.xyz/logo/河南民生.png" group-title="河南",河南民生
@@ -8482,6 +8492,8 @@ http://www.cdnstv.com:6398/hls/1111/index.m3u8
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://11.112114.xyz/logo/河南民生.png" group-title="河南",河南民生
 http://1.197.253.9:885/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://11.112114.xyz/logo/河南法治.png" group-title="河南",河南法治
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=hnfz
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://11.112114.xyz/logo/河南法治.png" group-title="河南",河南法治
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=hmfz
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://11.112114.xyz/logo/河南法治.png" group-title="河南",河南法治
 http://A/ku9/js/Henan/henan.js?id=hnfz&key=关注公共号❤：AI科技生活
@@ -8493,6 +8505,8 @@ http://php.jdshipin.com/hntv.php?id=hmfz
 http://www.cdnstv.com:6398/hls/1112/index.m3u8
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://11.112114.xyz/logo/河南法治.png" group-title="河南",河南法治
 http://1.197.253.9:885/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://11.112114.xyz/logo/河南电视剧.png" group-title="河南",河南电视剧
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=hndsj
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://11.112114.xyz/logo/河南电视剧.png" group-title="河南",河南电视剧
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=hndsj
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://11.112114.xyz/logo/河南电视剧.png" group-title="河南",河南电视剧
@@ -8506,6 +8520,8 @@ http://www.cdnstv.com:6398/hls/1113/index.m3u8
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://11.112114.xyz/logo/河南电视剧.png" group-title="河南",河南电视剧
 http://1.197.253.9:885/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://11.112114.xyz/logo/河南新闻.png" group-title="河南",河南新闻
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=hnxw
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://11.112114.xyz/logo/河南新闻.png" group-title="河南",河南新闻
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnxw
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://11.112114.xyz/logo/河南新闻.png" group-title="河南",河南新闻
 http://A/ku9/js/Henan/henan.js?id=hnxw&key=关注公共号❤：AI科技生活
@@ -8518,6 +8534,8 @@ http://www.cdnstv.com:6398/hls/1114/index.m3u8
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://11.112114.xyz/logo/河南新闻.png" group-title="河南",河南新闻
 http://1.197.253.9:885/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://11.112114.xyz/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=htgw
+#EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://11.112114.xyz/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=htgw
 #EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://11.112114.xyz/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
 http://A/ku9/js/Henan/henan.js?id=htgw&key=关注公共号❤：AI科技生活
@@ -8528,6 +8546,8 @@ http://php.jdshipin.com/hntv.php?id=htgw
 #EXTINF:-1 tvg-name="河南欢腾购物" tvg-logo="https://11.112114.xyz/logo/河南欢腾购物.png" group-title="河南",河南欢腾购物
 http://www.cdnstv.com:6398/hls/1122/index.m3u8
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://11.112114.xyz/logo/河南公共.png" group-title="河南",河南公共
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=hngg
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://11.112114.xyz/logo/河南公共.png" group-title="河南",河南公共
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=hngg
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://11.112114.xyz/logo/河南公共.png" group-title="河南",河南公共
 http://A/ku9/js/Henan/henan.js?id=hngg&key=关注公共号❤：AI科技生活
@@ -8537,6 +8557,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://php.jdshipin.com/hntv.php?id=hngg
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://11.112114.xyz/logo/河南公共.png" group-title="河南",河南公共
 http://www.cdnstv.com:6398/hls/1115/index.m3u8
+#EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://11.112114.xyz/logo/河南乡村.png" group-title="河南",河南乡村
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=hnxc
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://11.112114.xyz/logo/河南乡村.png" group-title="河南",河南乡村
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnxc
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://11.112114.xyz/logo/河南乡村.png" group-title="河南",河南乡村
@@ -8550,6 +8572,8 @@ http://www.cdnstv.com:6398/hls/1116/index.m3u8
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://11.112114.xyz/logo/河南乡村.png" group-title="河南",河南乡村
 http://1.197.253.9:885/hls/24/index.m3u8
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://11.112114.xyz/logo/河南梨园.png" group-title="河南",河南梨园
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=hnly
+#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://11.112114.xyz/logo/河南梨园.png" group-title="河南",河南梨园
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=hnly
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://11.112114.xyz/logo/河南梨园.png" group-title="河南",河南梨园
 http://A/ku9/js/Henan/henan.js?id=hnly&key=关注公共号❤：AI科技生活
@@ -8559,6 +8583,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://php.jdshipin.com/hntv.php?id=hnly
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://11.112114.xyz/logo/河南梨园.png" group-title="河南",河南梨园
 http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=wspd
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=wspd
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
@@ -8571,6 +8597,8 @@ http://php.jdshipin.com/hntv.php?id=wspd
 http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 #EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://11.112114.xyz/logo/河南武术世界.png" group-title="河南",河南武术世界
 http://111.61.236.247:9081/hls/60/index.m3u8
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=wwbk
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=wwbk
 #EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://11.112114.xyz/logo/河南文物宝库.png" group-title="河南",河南文物宝库
@@ -8598,6 +8626,8 @@ http://www.cdnstv.com:6398/hls/1120/index.m3u8
 #EXTINF:-1 tvg-name="河南中华功夫" tvg-logo="https://11.112114.xyz/logo/河南中华功夫.png" group-title="河南",河南中华功夫
 http://1.197.253.9:885/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://11.112114.xyz/logo/河南曲艺.png" group-title="河南",河南曲艺
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=jczy
+#EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://11.112114.xyz/logo/河南曲艺.png" group-title="河南",河南曲艺
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=jczy
 #EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://11.112114.xyz/logo/河南曲艺.png" group-title="河南",河南曲艺
 http://A/ku9/js/Henan/henan.js?id=jczy&key=关注公共号❤：AI科技生活
@@ -8607,6 +8637,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://php.jdshipin.com/hntv.php?id=jczy
 #EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://11.112114.xyz/logo/河南曲艺.png" group-title="河南",河南曲艺
 http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
+#EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://11.112114.xyz/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=ydxj
 #EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://11.112114.xyz/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=ydxj
 #EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://11.112114.xyz/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
@@ -8624,6 +8656,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="河南国际" tvg-logo="https://11.112114.xyz/logo/河南国际.png" group-title="河南",河南国际
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=hngj
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://11.112114.xyz/logo/国学.png" group-title="河南",国学
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=gxpd
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://11.112114.xyz/logo/国学.png" group-title="河南",国学
 http://A/ku9/js/Henan/henan.js?id=gxpd&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://11.112114.xyz/logo/国学.png" group-title="河南",国学
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/henan.js?id=gxpd&key=关注公共号❤：AI科技生活$酷9远程JS
@@ -8633,6 +8667,8 @@ https://tv.alonso0729.dpdns.org/api/henantv.php?id=gxpd
 http://www.cdnstv.com:6398/hls/1121/index.m3u8
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://11.112114.xyz/logo/国学.png" group-title="河南",国学
 http://php.jdshipin.com/cqyx.php?id=guoxue
+#EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://11.112114.xyz/logo/郑州新闻综合.png" group-title="河南",郑州新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=zzxw
 #EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://11.112114.xyz/logo/郑州新闻综合.png" group-title="河南",郑州新闻综合
 https://tv.alonso0729.dpdns.org/api/zhengzhou.php?id=zzxwzh
 #EXTINF:-1 tvg-name="郑州新闻综合" tvg-logo="https://11.112114.xyz/logo/郑州新闻综合.png" group-title="河南",郑州新闻综合
@@ -8736,6 +8772,8 @@ https://livezzutv.chinamcache.com/zb02/zb02.m3u8
 #EXTINF:-1 tvg-name="郑州教育" tvg-logo="https://11.112114.xyz/logo/郑州教育.png" group-title="河南",郑州教育
 https://livezzutv.chinamcache.com/zb02/zb02.m3u8?auth_key=1694413413-0-0-fdccf5824fa42b4a2e285f73e7d2d12b
 #EXTINF:-1 tvg-name="洛阳新闻综合" tvg-logo="https://11.112114.xyz/logo/洛阳新闻综合.png" group-title="河南",洛阳新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=lyxw
+#EXTINF:-1 tvg-name="洛阳新闻综合" tvg-logo="https://11.112114.xyz/logo/洛阳新闻综合.png" group-title="河南",洛阳新闻综合
 http://A/ku9/js/Henan/luoyang.js?id=1
 #EXTINF:-1 tvg-name="洛阳新闻综合" tvg-logo="https://11.112114.xyz/logo/洛阳新闻综合.png" group-title="河南",洛阳新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/luoyang.js?id=1$酷9远程JS
@@ -8774,6 +8812,8 @@ tmp://wshlslive.migucloud.com/live/CVN934JS_C0_C0
 #EXTINF:-1 tvg-name="洛阳文旅" tvg-logo="https://11.112114.xyz/logo/洛阳文旅.png" group-title="河南",洛阳文旅
 http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
 #EXTINF:-1 tvg-name="驻马店新闻综合" tvg-logo="https://11.112114.xyz/logo/驻马店新闻综合.png" group-title="河南",驻马店新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=zmdxw
+#EXTINF:-1 tvg-name="驻马店新闻综合" tvg-logo="https://11.112114.xyz/logo/驻马店新闻综合.png" group-title="河南",驻马店新闻综合
 http://php.jdshipin.com/hntv.php?id=zmd1
 #EXTINF:-1 tvg-name="驻马店新闻综合" tvg-logo="https://11.112114.xyz/logo/驻马店新闻综合.png" group-title="河南",驻马店新闻综合
 http://p2hs.vzan.com/slowlive/856224149274600376/live.m3u8
@@ -8805,6 +8845,8 @@ http://pull-hsbj.vzan.com/v/slowlive_321018633543177422.flv
 rtmp://pull-hsbj.vzan.com/v/slowlive_321018633543177422
 #EXTINF:-1 tvg-name="驻马店科教" tvg-logo="https://11.112114.xyz/logo/驻马店科教.png" group-title="河南",驻马店科教
 http://tvlive.zmdtvw.cn/live/8395198981051753732/index.m3u8
+#EXTINF:-1 tvg-name="周口新闻综合" tvg-logo="https://11.112114.xyz/logo/周口新闻综合.png" group-title="河南",周口新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=zkxw
 #EXTINF:-1 tvg-name="周口新闻综合" tvg-logo="https://11.112114.xyz/logo/周口新闻综合.png" group-title="河南",周口新闻综合
 http://php.jdshipin.com/hntv.php?id=zk1
 #EXTINF:-1 tvg-name="周口新闻综合" tvg-logo="https://11.112114.xyz/logo/周口新闻综合.png" group-title="河南",周口新闻综合
@@ -8858,6 +8900,8 @@ http://tvpull.dxhmt.cn:9081/tv/10726-1.m3u8
 #EXTINF:-1 tvg-name="鄢陵综合" tvg-logo="https://11.112114.xyz/logo/鄢陵综合.png" group-title="河南",鄢陵综合
 http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 #EXTINF:-1 tvg-name="许昌综合" tvg-logo="https://11.112114.xyz/logo/许昌综合.png" group-title="河南",许昌综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=xczh
+#EXTINF:-1 tvg-name="许昌综合" tvg-logo="https://11.112114.xyz/logo/许昌综合.png" group-title="河南",许昌综合
 http://php.jdshipin.com/hntv.php?id=xc1
 #EXTINF:-1 tvg-name="许昌综合" tvg-logo="https://11.112114.xyz/logo/许昌综合.png" group-title="河南",许昌综合
 http://live.s23.net:2017/live/xctv1hd.stream_1080p/playlist.m3u8
@@ -8865,6 +8909,8 @@ http://live.s23.net:2017/live/xctv1hd.stream_1080p/playlist.m3u8
 http://live.s23.net:2017/live/xctv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="许昌公共" tvg-logo="https://11.112114.xyz/logo/许昌公共.png" group-title="河南",许昌公共
 http://live.s23.net:2017/live/xctv3.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="信阳新闻综合" tvg-logo="https://11.112114.xyz/logo/信阳新闻综合.png" group-title="河南",信阳新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=xyxw
 #EXTINF:-1 tvg-name="信阳新闻综合" tvg-logo="https://11.112114.xyz/logo/信阳新闻综合.png" group-title="河南",信阳新闻综合
 http://A/ku9/js/Henan/xinyang.js?id=xyxw
 #EXTINF:-1 tvg-name="信阳新闻综合" tvg-logo="https://11.112114.xyz/logo/信阳新闻综合.png" group-title="河南",信阳新闻综合
@@ -8903,11 +8949,13 @@ http://rtmp.xytv.cn/live/b998c92c650c.flv
 http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
 #EXTINF:-1 tvg-name="新野综合" tvg-logo="https://11.112114.xyz/logo/新野综合.png" group-title="河南",新野综合
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
-#EXTINF:-1 tvg-name="新乡县综合" tvg-logo="https://11.112114.xyz/logo/新乡县综合.png" group-title="河南",新乡县综合
+#EXTINF:-1 tvg-name="新乡新闻综合" tvg-logo="https://11.112114.xyz/logo/新乡新闻综合.png" group-title="河南",新乡新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=xxxw
+#EXTINF:-1 tvg-name="新乡新闻综合" tvg-logo="https://11.112114.xyz/logo/新乡新闻综合.png" group-title="河南",新乡新闻综合
 http://php.jdshipin.com/hntv.php?id=xx1
-#EXTINF:-1 tvg-name="新乡县综合" tvg-logo="https://11.112114.xyz/logo/新乡县综合.png" group-title="河南",新乡县综合
+#EXTINF:-1 tvg-name="新乡新闻综合" tvg-logo="https://11.112114.xyz/logo/新乡新闻综合.png" group-title="河南",新乡新闻综合
 http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-#EXTINF:-1 tvg-name="新乡县综合" tvg-logo="https://11.112114.xyz/logo/新乡县综合.png" group-title="河南",新乡县综合
+#EXTINF:-1 tvg-name="新乡新闻综合" tvg-logo="https://11.112114.xyz/logo/新乡新闻综合.png" group-title="河南",新乡新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
 #EXTINF:-1 tvg-name="新县综合" tvg-logo="https://11.112114.xyz/logo/新县综合.png" group-title="河南",新县综合
 http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
@@ -8980,11 +9028,15 @@ http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
 #EXTINF:-1 tvg-name="上蔡一套" tvg-logo="https://11.112114.xyz/logo/上蔡一套.png" group-title="河南",上蔡一套
 http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
 #EXTINF:-1 tvg-name="商丘新闻综合" tvg-logo="https://11.112114.xyz/logo/商丘新闻综合.png" group-title="河南",商丘新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=sqxw
+#EXTINF:-1 tvg-name="商丘新闻综合" tvg-logo="https://11.112114.xyz/logo/商丘新闻综合.png" group-title="河南",商丘新闻综合
 http://php.jdshipin.com/hntv.php?id=sq1
 #EXTINF:-1 tvg-name="商城综合" tvg-logo="https://11.112114.xyz/logo/商城综合.png" group-title="河南",商城综合
 http://tvpull.dxhmt.cn:9081/tv/11524-1.m3u8
 #EXTINF:-1 tvg-name="陕州综合" tvg-logo="https://11.112114.xyz/logo/陕州综合.png" group-title="河南",陕州综合
 http://tvpull.dxhmt.cn:9081/tv/11203-1.m3u8
+#EXTINF:-1 tvg-name="三门峡新闻综合" tvg-logo="https://11.112114.xyz/logo/三门峡新闻综合.png" group-title="河南",三门峡新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=smxxw
 #EXTINF:-1 tvg-name="三门峡新闻综合" tvg-logo="https://11.112114.xyz/logo/三门峡新闻综合.png" group-title="河南",三门峡新闻综合
 http://php.jdshipin.com/hntv.php?id=smx1
 #EXTINF:-1 tvg-name="汝阳综合" tvg-logo="https://11.112114.xyz/logo/汝阳综合.png" group-title="河南",汝阳综合
@@ -9000,11 +9052,15 @@ http://1.197.253.9:885/hls/32/index.m3u8
 #EXTINF:-1 tvg-name="淇县电视台" tvg-logo="https://11.112114.xyz/logo/淇县电视台.png" group-title="河南",淇县电视台
 http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 #EXTINF:-1 tvg-name="濮阳综合" tvg-logo="https://11.112114.xyz/logo/濮阳综合.png" group-title="河南",濮阳综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=pyxw
+#EXTINF:-1 tvg-name="濮阳综合" tvg-logo="https://11.112114.xyz/logo/濮阳综合.png" group-title="河南",濮阳综合
 http://php.jdshipin.com/hntv.php?id=py1
 #EXTINF:-1 tvg-name="濮阳综合" tvg-logo="https://11.112114.xyz/logo/濮阳综合.png" group-title="河南",濮阳综合
 http://zhpull.dxhmt.cn/puyangxian/0779dbf4086a455fa1f36e3d56740a41/playlist.m3u8
 #EXTINF:-1 tvg-name="平舆综合" tvg-logo="https://11.112114.xyz/logo/平舆综合.png" group-title="河南",平舆综合
 http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
+#EXTINF:-1 tvg-name="平顶山新闻综合" tvg-logo="https://11.112114.xyz/logo/平顶山新闻综合.png" group-title="河南",平顶山新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=pdsxw
 #EXTINF:-1 tvg-name="平顶山新闻综合" tvg-logo="https://11.112114.xyz/logo/平顶山新闻综合.png" group-title="河南",平顶山新闻综合
 http://php.jdshipin.com/hntv.php?id=pds1
 #EXTINF:-1 tvg-name="平顶山新闻综合" tvg-logo="https://11.112114.xyz/logo/平顶山新闻综合.png" group-title="河南",平顶山新闻综合
@@ -9023,6 +9079,8 @@ http://219.150.204.175:81/hls/live1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
 #EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://11.112114.xyz/logo/内黄综合.png" group-title="河南",内黄综合
 http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 tvg-name="南阳新闻综合" tvg-logo="https://11.112114.xyz/logo/南阳新闻综合.png" group-title="河南",南阳新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=nyxw
 #EXTINF:-1 tvg-name="南阳新闻综合" tvg-logo="https://11.112114.xyz/logo/南阳新闻综合.png" group-title="河南",南阳新闻综合
 http://A/ku9/js/Henan/nanyang.js?id=ny1
 #EXTINF:-1 tvg-name="南阳新闻综合" tvg-logo="https://11.112114.xyz/logo/南阳新闻综合.png" group-title="河南",南阳新闻综合
@@ -9054,6 +9112,8 @@ http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
 #EXTINF:-1 tvg-name="美食汇" tvg-logo="https://11.112114.xyz/logo/美食汇.png" group-title="河南",美食汇
 http://1.197.253.9:885/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="漯河新闻综合" tvg-logo="https://11.112114.xyz/logo/漯河新闻综合.png" group-title="河南",漯河新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=lhxw
+#EXTINF:-1 tvg-name="漯河新闻综合" tvg-logo="https://11.112114.xyz/logo/漯河新闻综合.png" group-title="河南",漯河新闻综合
 http://php.jdshipin.com/hntv.php?id=lh1
 #EXTINF:-1 tvg-name="栾川新闻" tvg-logo="https://11.112114.xyz/logo/栾川新闻.png" group-title="河南",栾川新闻
 http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
@@ -9078,6 +9138,8 @@ http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 #EXTINF:-1 tvg-name="兰考新闻" tvg-logo="https://11.112114.xyz/logo/兰考新闻.png" group-title="河南",兰考新闻
 http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 #EXTINF:-1 tvg-name="开封新闻综合" tvg-logo="https://11.112114.xyz/logo/开封新闻综合.png" group-title="河南",开封新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=kfxw
+#EXTINF:-1 tvg-name="开封新闻综合" tvg-logo="https://11.112114.xyz/logo/开封新闻综合.png" group-title="河南",开封新闻综合
 http://php.jdshipin.com/hntv.php?id=kf1
 #EXTINF:-1 tvg-name="开封新闻综合" tvg-logo="https://11.112114.xyz/logo/开封新闻综合.png" group-title="河南",开封新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10200-1.m3u8
@@ -9087,11 +9149,13 @@ http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
 http://live.dxhmt.cn:9081/tv/10200-3.m3u8
 #EXTINF:-1 tvg-name="浚县一套" tvg-logo="https://11.112114.xyz/logo/浚县一套.png" group-title="河南",浚县一套
 http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
-#EXTINF:-1 tvg-name="焦作新闻综合" tvg-logo="https://11.112114.xyz/logo/焦作新闻综合.png" group-title="河南",焦作新闻综合
+#EXTINF:-1 tvg-name="焦作综合" tvg-logo="https://11.112114.xyz/logo/焦作综合.png" group-title="河南",焦作综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=jzzh
+#EXTINF:-1 tvg-name="焦作综合" tvg-logo="https://11.112114.xyz/logo/焦作综合.png" group-title="河南",焦作综合
 http://php.jdshipin.com/hntv.php?id=jz1
-#EXTINF:-1 tvg-name="焦作新闻综合" tvg-logo="https://11.112114.xyz/logo/焦作新闻综合.png" group-title="河南",焦作新闻综合
+#EXTINF:-1 tvg-name="焦作综合" tvg-logo="https://11.112114.xyz/logo/焦作综合.png" group-title="河南",焦作综合
 http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
-#EXTINF:-1 tvg-name="焦作新闻综合" tvg-logo="https://11.112114.xyz/logo/焦作新闻综合.png" group-title="河南",焦作新闻综合
+#EXTINF:-1 tvg-name="焦作综合" tvg-logo="https://11.112114.xyz/logo/焦作综合.png" group-title="河南",焦作综合
 http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 #EXTINF:-1 tvg-name="焦作公共" tvg-logo="https://11.112114.xyz/logo/焦作公共.png" group-title="河南",焦作公共
 http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
@@ -9105,11 +9169,13 @@ http://www.cdnstv.com:6398/hls/1170/index.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 #EXTINF:-1 tvg-name="郏县公共" tvg-logo="https://11.112114.xyz/logo/郏县公共.png" group-title="河南",郏县公共
 http://www.cdnstv.com:6398/hls/1169/index.m3u8
-#EXTINF:-1 tvg-name="济源电视一套" tvg-logo="https://11.112114.xyz/logo/济源电视一套.png" group-title="河南",济源电视一套
+#EXTINF:-1 tvg-name="济源一套" tvg-logo="https://11.112114.xyz/logo/济源一套.png" group-title="河南",济源一套
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=jy1
+#EXTINF:-1 tvg-name="济源一套" tvg-logo="https://11.112114.xyz/logo/济源一套.png" group-title="河南",济源一套
 http://php.jdshipin.com/hntv.php?id=jy1
-#EXTINF:-1 tvg-name="济源电视一套" tvg-logo="https://11.112114.xyz/logo/济源电视一套.png" group-title="河南",济源电视一套
+#EXTINF:-1 tvg-name="济源一套" tvg-logo="https://11.112114.xyz/logo/济源一套.png" group-title="河南",济源一套
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-#EXTINF:-1 tvg-name="济源电视一套" tvg-logo="https://11.112114.xyz/logo/济源电视一套.png" group-title="河南",济源电视一套
+#EXTINF:-1 tvg-name="济源一套" tvg-logo="https://11.112114.xyz/logo/济源一套.png" group-title="河南",济源一套
 http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 tvg-name="获嘉综合" tvg-logo="https://11.112114.xyz/logo/获嘉综合.png" group-title="河南",获嘉综合
 http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
@@ -9126,9 +9192,9 @@ http://tvpull.dxhmt.cn:9081/tv/10902-1.m3u8
 #EXTINF:-1 tvg-name="华龙有线" tvg-logo="https://11.112114.xyz/logo/华龙有线.png" group-title="河南",华龙有线
 http://live.dxhmt.cn:9081/tv/10902-1.m3u8
 #EXTINF:-1 tvg-name="鹤壁新闻综合" tvg-logo="https://11.112114.xyz/logo/鹤壁新闻综合.png" group-title="河南",鹤壁新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=hbxw
+#EXTINF:-1 tvg-name="鹤壁新闻综合" tvg-logo="https://11.112114.xyz/logo/鹤壁新闻综合.png" group-title="河南",鹤壁新闻综合
 http://php.jdshipin.com/hntv.php?id=hb1
-#EXTINF:-1 tvg-name="鹤岗新闻综合" tvg-logo="https://11.112114.xyz/logo/鹤岗新闻综合.png" group-title="河南",鹤岗新闻综合
-http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
 #EXTINF:-1 tvg-name="鹤壁新闻综合" tvg-logo="https://11.112114.xyz/logo/鹤壁新闻综合.png" group-title="河南",鹤壁新闻综合
 http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 #EXTINF:-1 tvg-name="光山综合" tvg-logo="https://11.112114.xyz/logo/光山综合.png" group-title="河南",光山综合
@@ -9161,6 +9227,8 @@ http://www.cdnstv.com:6398/hls/1117/index.m3u8
 http://1.197.253.9:885/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="宝丰综合" tvg-logo="https://11.112114.xyz/logo/宝丰综合.png" group-title="河南",宝丰综合
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+#EXTINF:-1 tvg-name="安阳新闻综合" tvg-logo="https://11.112114.xyz/logo/安阳新闻综合.png" group-title="河南",安阳新闻综合
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=ayxw
 #EXTINF:-1 tvg-name="安阳新闻综合" tvg-logo="https://11.112114.xyz/logo/安阳新闻综合.png" group-title="河南",安阳新闻综合
 http://php.jdshipin.com/hntv.php?id=ay1
 #EXTINF:-1 tvg-name="安阳新闻综合" tvg-logo="https://11.112114.xyz/logo/安阳新闻综合.png" group-title="河南",安阳新闻综合
