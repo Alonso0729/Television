@@ -412,8 +412,6 @@ http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$黑龙江移动V4
@@ -1604,8 +1602,6 @@ http://39.134.90.60/000000001000/5000000011000031125/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
 https://tv.alonso0729.dpdns.org/api/Shanghai_setv.php
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/setvhd/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001268/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -1766,8 +1762,6 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000009455
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010001
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://k.061899.xyz/k.php?id=jbty
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://11.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
 http://39.134.87.62/000000001000/5000000002000029972/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -1893,8 +1887,6 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000011
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000027005
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://11.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031114
-#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://11.112114.xyz/logo/新视觉.png" group-title="上海",新视觉
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://11.112114.xyz/logo/新视觉.png" group-title="上海",新视觉
 http://php.jdshipin.com/TVOD/iptv.php?id=xsjxsj
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://11.112114.xyz/logo/新视觉.png" group-title="上海",新视觉
@@ -3304,8 +3296,6 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000006211
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7899627377857656087
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://11.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/hxwshd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://11.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视
 http://A/ku9/js/Fujian/fjtv.js?id=hxws
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://11.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Fujian/fjtv.js?id=hxws$酷9远程JS
@@ -4086,8 +4076,6 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040015
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6399324389404552555
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/sswshd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 https://tv.alonso0729.dpdns.org/api/hainan.php?id=ssws
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -4810,15 +4798,11 @@ http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001162/index.m3u8?IAS
 #EXTINF:-1 tvg-name="BesTV" tvg-logo="https://11.112114.xyz/logo/BesTV.png" group-title="娱乐",BesTV
 http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001162/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
 http://39.134.87.83/000000001000/5000000011000288005/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288005
 #EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
 http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
 http://39.134.87.83/000000001000/5000000011000288013/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
@@ -4826,69 +4810,47 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288013
 #EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
 http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
 #EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
 http://39.134.87.83/000000001000/5000000011000288009/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288009
 #EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
 http://php.jdshipin.com/bestv.php?id=qqdp8m/8000000
 #EXTINF:-1 tvg-name="BesTV热门剧场" tvg-logo="https://11.112114.xyz/logo/热门剧场.png" group-title="娱乐",BesTV热门剧场
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/rmjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="BesTV热门剧场" tvg-logo="https://11.112114.xyz/logo/热门剧场.png" group-title="娱乐",BesTV热门剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288010
 #EXTINF:-1 tvg-name="BesTV热门剧场" tvg-logo="https://11.112114.xyz/logo/热门剧场.png" group-title="娱乐",BesTV热门剧场
 http://php.jdshipin.com/bestv.php?id=rmjc8m/8000000
-#EXTINF:-1 tvg-name="BesTV谍战剧场" tvg-logo="https://11.112114.xyz/logo/谍战剧场.png" group-title="娱乐",BesTV谍战剧场
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/dzjc8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="BesTV谍战剧场" tvg-logo="https://11.112114.xyz/logo/谍战剧场.png" group-title="娱乐",BesTV谍战剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288004
 #EXTINF:-1 tvg-name="BesTV谍战剧场" tvg-logo="https://11.112114.xyz/logo/谍战剧场.png" group-title="娱乐",BesTV谍战剧场
 http://php.jdshipin.com/bestv.php?id=dzjc8m/8000000
 #EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://11.112114.xyz/logo/青春动漫.png" group-title="娱乐",BesTV青春动漫
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/qcdm8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://11.112114.xyz/logo/青春动漫.png" group-title="娱乐",BesTV青春动漫
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288008
 #EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://11.112114.xyz/logo/青春动漫.png" group-title="娱乐",BesTV青春动漫
 http://php.jdshipin.com/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-logo="https://11.112114.xyz/logo/宝宝动画.png" group-title="娱乐",BesTV宝宝动画
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-logo="https://11.112114.xyz/logo/宝宝动画.png" group-title="娱乐",BesTV宝宝动画
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288002
 #EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-logo="https://11.112114.xyz/logo/宝宝动画.png" group-title="娱乐",BesTV宝宝动画
 http://php.jdshipin.com/bestv.php?id=bbdh8m/8000000
 #EXTINF:-1 tvg-name="BesTV戏曲精选" tvg-logo="https://11.112114.xyz/logo/戏曲精选.png" group-title="娱乐",BesTV戏曲精选
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/xqjx8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="BesTV戏曲精选" tvg-logo="https://11.112114.xyz/logo/戏曲精选.png" group-title="娱乐",BesTV戏曲精选
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288012
 #EXTINF:-1 tvg-name="BesTV戏曲精选" tvg-logo="https://11.112114.xyz/logo/戏曲精选.png" group-title="娱乐",BesTV戏曲精选
 http://php.jdshipin.com/bestv.php?id=xqjx8m/8000000
-#EXTINF:-1 tvg-name="BesTV热门综艺" tvg-logo="https://11.112114.xyz/logo/热门综艺.png" group-title="娱乐",BesTV热门综艺
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/rmzy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="BesTV热门综艺" tvg-logo="https://11.112114.xyz/logo/热门综艺.png" group-title="娱乐",BesTV热门综艺
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288011
 #EXTINF:-1 tvg-name="BesTV热门综艺" tvg-logo="https://11.112114.xyz/logo/热门综艺.png" group-title="娱乐",BesTV热门综艺
 http://php.jdshipin.com/bestv.php?id=rmzy8m/8000000
 #EXTINF:-1 tvg-name="BesTV健康养生" tvg-logo="https://11.112114.xyz/logo/健康养生.png" group-title="娱乐",BesTV健康养生
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/jkys8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="BesTV健康养生" tvg-logo="https://11.112114.xyz/logo/健康养生.png" group-title="娱乐",BesTV健康养生
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288006
 #EXTINF:-1 tvg-name="BesTV健康养生" tvg-logo="https://11.112114.xyz/logo/健康养生.png" group-title="娱乐",BesTV健康养生
 http://php.jdshipin.com/bestv.php?id=jkys8m/8000000
-#EXTINF:-1 tvg-name="BesTV百变课堂" tvg-logo="https://11.112114.xyz/logo/百变课堂.png" group-title="娱乐",BesTV百变课堂
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/bbkt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="BesTV百变课堂" tvg-logo="https://11.112114.xyz/logo/百变课堂.png" group-title="娱乐",BesTV百变课堂
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288001
 #EXTINF:-1 tvg-name="BesTV百变课堂" tvg-logo="https://11.112114.xyz/logo/百变课堂.png" group-title="娱乐",BesTV百变课堂
 http://php.jdshipin.com/bestv.php?id=bbkt8m/8000000
 #EXTINF:-1 tvg-name="BesTV看天下精选" tvg-logo="https://11.112114.xyz/logo/BesTV看天下精选.png" group-title="娱乐",BesTV看天下精选
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="BesTV看天下精选" tvg-logo="https://11.112114.xyz/logo/BesTV看天下精选.png" group-title="娱乐",BesTV看天下精选
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288007
 #EXTINF:-1 tvg-name="BesTV看天下精选" tvg-logo="https://11.112114.xyz/logo/BesTV看天下精选.png" group-title="娱乐",BesTV看天下精选
 http://php.jdshipin.com/bestv.php?id=ktxjx8m/8000000
-#EXTINF:-1 tvg-name="BesTV电竞天堂" tvg-logo="https://11.112114.xyz/logo/电竞天堂.png" group-title="娱乐",BesTV电竞天堂
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/djtt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="BesTV电竞天堂" tvg-logo="https://11.112114.xyz/logo/电竞天堂.png" group-title="娱乐",BesTV电竞天堂
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288003
 #EXTINF:-1 tvg-name="BesTV电竞天堂" tvg-logo="https://11.112114.xyz/logo/电竞天堂.png" group-title="娱乐",BesTV电竞天堂
@@ -5900,8 +5862,6 @@ http://39.134.87.62/000000001000/5000000005000031974/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
 http://39.134.90.60/000000001000/5000000005000031974/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/zgqxhd4mc/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000031974
@@ -6576,8 +6536,6 @@ http://222.179.42.129:8181/hls1.m3u8
 #EXTINF:-1 tvg-name="巴南综合" tvg-logo="https://11.112114.xyz/logo/巴南综合.png" group-title="重庆",巴南综合
 http://live.cqbntv.com/bnmc/tv0709.m3u8
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://11.112114.xyz/logo/福建综合.png" group-title="福建",福建综合
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/fjzhhd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="福建综合" tvg-logo="https://11.112114.xyz/logo/福建综合.png" group-title="福建",福建综合
 http://A/ku9/js/Fujian/fjtv.js?id=fjzh
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://11.112114.xyz/logo/福建综合.png" group-title="福建",福建综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Fujian/fjtv.js?id=fjzh$酷9远程JS
@@ -6598,8 +6556,6 @@ http://cdn.1678520.xyz/fujian.php?id=0
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://11.112114.xyz/logo/福建综合.png" group-title="福建",福建综合
 http://cdn.1678520.xyz:8880/fujian.php?id=0
 #EXTINF:-1 tvg-name="福建公共" tvg-logo="https://11.112114.xyz/logo/福建公共.png" group-title="福建",福建公共
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/fjgghd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="福建公共" tvg-logo="https://11.112114.xyz/logo/福建公共.png" group-title="福建",福建公共
 http://A/ku9/js/Fujian/fjtv.js?id=fjgg
 #EXTINF:-1 tvg-name="福建公共" tvg-logo="https://11.112114.xyz/logo/福建公共.png" group-title="福建",福建公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Fujian/fjtv.js?id=fjgg$酷9远程JS
@@ -6611,8 +6567,6 @@ http://php.jdshipin.com/fujian.php?id=2
 http://cdn.1678520.xyz/fujian.php?id=2
 #EXTINF:-1 tvg-name="福建公共" tvg-logo="https://11.112114.xyz/logo/福建公共.png" group-title="福建",福建公共
 http://cdn.1678520.xyz:8880/fujian.php?id=2
-#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://11.112114.xyz/logo/福建新闻.png" group-title="福建",福建新闻
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/fjxwhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://11.112114.xyz/logo/福建新闻.png" group-title="福建",福建新闻
 http://A/ku9/js/Fujian/fjtv.js?id=fjxw
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://11.112114.xyz/logo/福建新闻.png" group-title="福建",福建新闻
@@ -6626,8 +6580,6 @@ http://cdn.1678520.xyz/fujian.php?id=3
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://11.112114.xyz/logo/福建新闻.png" group-title="福建",福建新闻
 http://cdn.1678520.xyz:8880/fujian.php?id=3
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://11.112114.xyz/logo/福建电视剧.png" group-title="福建",福建电视剧
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/fjdsjhd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://11.112114.xyz/logo/福建电视剧.png" group-title="福建",福建电视剧
 http://A/ku9/js/Fujian/fjtv.js?id=fjdsj
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://11.112114.xyz/logo/福建电视剧.png" group-title="福建",福建电视剧
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Fujian/fjtv.js?id=fjdsj$酷9远程JS
@@ -6639,8 +6591,6 @@ http://php.jdshipin.com/fujian.php?id=4
 http://cdn.1678520.xyz/fujian.php?id=4
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://11.112114.xyz/logo/福建电视剧.png" group-title="福建",福建电视剧
 http://cdn.1678520.xyz:8880/fujian.php?id=4
-#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://11.112114.xyz/logo/福建旅游.png" group-title="福建",福建旅游
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/fjlyhd4m/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://11.112114.xyz/logo/福建旅游.png" group-title="福建",福建旅游
 http://A/ku9/js/Fujian/fjtv.js?id=fjly
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://11.112114.xyz/logo/福建旅游.png" group-title="福建",福建旅游
@@ -6654,8 +6604,6 @@ http://cdn.1678520.xyz/fujian.php?id=5
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://11.112114.xyz/logo/福建旅游.png" group-title="福建",福建旅游
 http://cdn.1678520.xyz:8880/fujian.php?id=5
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://11.112114.xyz/logo/福建经济.png" group-title="福建",福建经济
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/fjjjshhd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="福建经济" tvg-logo="https://11.112114.xyz/logo/福建经济.png" group-title="福建",福建经济
 http://A/ku9/js/Fujian/fjtv.js?id=fjjs
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://11.112114.xyz/logo/福建经济.png" group-title="福建",福建经济
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Fujian/fjtv.js?id=fjjs$酷9远程JS
@@ -6667,8 +6615,6 @@ http://php.jdshipin.com/fujian.php?id=6
 http://cdn.1678520.xyz/fujian.php?id=6
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://11.112114.xyz/logo/福建经济.png" group-title="福建",福建经济
 http://cdn.1678520.xyz:8880/fujian.php?id=6
-#EXTINF:-1 tvg-name="福建文体" tvg-logo="https://11.112114.xyz/logo/福建文体.png" group-title="福建",福建文体
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/fjtyhd4m/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://11.112114.xyz/logo/福建文体.png" group-title="福建",福建文体
 http://A/ku9/js/Fujian/fjtv.js?id=fjwt
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://11.112114.xyz/logo/福建文体.png" group-title="福建",福建文体
@@ -6682,8 +6628,6 @@ http://cdn.1678520.xyz/fujian.php?id=7
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://11.112114.xyz/logo/福建文体.png" group-title="福建",福建文体
 http://cdn.1678520.xyz:8880/fujian.php?id=7
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://11.112114.xyz/logo/福建少儿.png" group-title="福建",福建少儿
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/fjsehd4m/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://11.112114.xyz/logo/福建少儿.png" group-title="福建",福建少儿
 http://A/ku9/js/Fujian/fjtv.js?id=fjse
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://11.112114.xyz/logo/福建少儿.png" group-title="福建",福建少儿
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Fujian/fjtv.js?id=fjse$酷9远程JS
@@ -6695,8 +6639,6 @@ http://php.jdshipin.com/fujian.php?id=8
 http://cdn.1678520.xyz/fujian.php?id=8
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://11.112114.xyz/logo/福建少儿.png" group-title="福建",福建少儿
 http://cdn.1678520.xyz:8880/fujian.php?id=8
-#EXTINF:-1 tvg-name="福建教育" tvg-logo="https://11.112114.xyz/logo/福建教育.png" group-title="福建",福建教育
-http://ts-gitv-hb-yh.189smarthome.com/live/program/live/fjjypdhd4m/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="福州综合" tvg-logo="https://11.112114.xyz/logo/福州综合.png" group-title="福建",福州综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-name="福州生活" tvg-logo="https://11.112114.xyz/logo/福州生活.png" group-title="福建",福州生活
@@ -11711,25 +11653,25 @@ http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
 http://cdn.jdshipin.com:8880/jstv.php?id=jsgg
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://11.112114.xyz/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://cdn.jdshipin.com/jstv.php?id=jsgg
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育休闲
 https://tv.alonso0729.dpdns.org/api/jiangsulitchi_app.php?id=jsxxpro
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育休闲
 http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsty
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育休闲
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsty$酷9远程JS
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育休闲
 http://k.061899.xyz/k.php?id=jstyxx
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育休闲
 http://mursor.ottiptv.cc/mgtv/626064707.m3u8
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育休闲
 http://58.221.214.82:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&authid=0$江苏酒店
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育休闲
 http://live.nctv.top/6688/jstv.php?id=jsty
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育休闲
 http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSTY/G_JSTY.m3u8
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育休闲
 http://cdn.jdshipin.com:8880/jstv.php?id=jsty
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://11.112114.xyz/logo/江苏体育.png" group-title="江苏",江苏体育休闲
 http://cdn.jdshipin.com/jstv.php?id=jsty
 #EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://11.112114.xyz/logo/江苏优漫卡通.png" group-title="江苏",江苏优漫卡通
 https://tv.alonso0729.dpdns.org/api/jiangsulitchi_app.php?id=ymktpro
