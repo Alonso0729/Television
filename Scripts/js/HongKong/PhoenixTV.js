@@ -5,7 +5,7 @@ function main(item) {
         'fhzx': 'info', // 凤凰资讯
         'fhhk': 'hk'   // 凤凰香港
     };
-    const token = "id=cn&prefix=86&phone=帐号&pwd=密码";
+    const token = "id=cn&prefix=86&phone=13256889895&pwd=Fan2345678";//备用号码:phone=13389247903&pwd=Llxxcc198
     const targetUrl = `http://tv.groupshare.com.cn/fhtv?id=${n[id]}&token=${token}`;
     return JSON.stringify({
         url: targetUrl

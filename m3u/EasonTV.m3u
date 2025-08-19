@@ -15352,6 +15352,10 @@ http://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1526.m3u8
 #EXTINF:-1 tvg-name="安吉生活影视" tvg-logo="https://11.112114.xyz/logo/安吉生活影视.png" group-title="浙江",安吉生活影视
 http://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1526.flv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://A/ku9/js/HongKong/PhoenixTV.js?id=fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/HongKong/PhoenixTV.js?id=fhzw$酷9远程JS
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://A/ku9/js/HongKong/Phoenix.js?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/HongKong/Phoenix.js?id=fhzw$酷9远程JS
@@ -15374,6 +15378,10 @@ http://cdn5.132.us.kg/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://eastscreen.tv/ooooo.php?id=fhws
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://A/ku9/js/HongKong/PhoenixTV.js?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/HongKong/PhoenixTV.js?id=fhzx$酷9远程JS
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://A/ku9/js/HongKong/Phoenix.js?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/HongKong/Phoenix.js?id=fhzx$酷9远程JS
@@ -15395,6 +15403,10 @@ http://cdn8.163189.xyz/live/fhzx/stream.m3u8
 http://cdn8.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://eastscreen.tv/ooooo.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://A/ku9/js/HongKong/PhoenixTV.js?id=fhhk
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/HongKong/PhoenixTV.js?id=fhhk$酷9远程JS
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://A/ku9/js/HongKong/Phoenix.js?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
