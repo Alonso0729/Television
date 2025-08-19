@@ -145,10 +145,8 @@ CCTV-4,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265004
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8183388942203045169
 CCTV-4美洲,http://k.061899.xyz/k.php?id=cctv4m
 CCTV-4美洲,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv4a
-CCTV-4美洲,http://mursor.ottiptv.cc/mgtv/608807416.m3u8
 CCTV-4欧洲,http://k.061899.xyz/k.php?id=cctv4o
 CCTV-4欧洲,https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv4o
-CCTV-4欧洲,http://mursor.ottiptv.cc/mgtv/608807419.m3u8
 CCTV-5,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-5,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-5,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -495,7 +493,6 @@ CCTV-4K,http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001510/index.
 CCTV-4K,http://a21709.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
 CCTV-4K,http://php.jdshipin.com/bestv.php?id=cctv4k/15000000
 CCTV-4K,http://php.jdshipin.com/TVOD/iptv.php?id=cctv4k
-CCTV-8K,http://mursor.ottiptv.cc/nptv/cctv8k.m3u8
 CETV-1,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8?IASHttpSessionId=$上海移动V6
 CETV-1,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001020/index.m3u8?IASHttpSessionId=$上海移动V6
 CETV-1,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001020/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -506,8 +503,6 @@ CETV-1,http://39.134.87.62/000000001000/5000000002000002652/index.m3u8?IASHttpSe
 CETV-1,http://39.134.87.83/000000001000/5000000002000002652/index.m3u8?IASHttpSessionId=$上海移动V4
 CETV-1,http://39.134.90.60/000000001000/5000000002000002652/index.m3u8?IASHttpSessionId=$上海移动V4
 CETV-1,http://k.061899.xyz/k.php?id=cetv1
-CETV-1,http://mursor.ottiptv.cc/gptv/G_CETV-1.m3u8
-CETV-1,http://mursor.ottiptv.cc/mgtv/923287154.m3u8
 CETV-1,http://39.134.62.141:6610/PLTV/88888888/224/3221225652/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CETV-1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225652$黑龙江移动V4
 CETV-1,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140$江西电信
@@ -528,7 +523,6 @@ CETV-2,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140$江西电信
 CETV-2,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031201
 CETV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266004
 CETV-2,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000047
-CETV-3,http://mursor.ottiptv.cc/gptv/G_CETV-3.m3u8
 CETV-3,http://iptv.huuc.edu.cn/hls/cetv3.m3u8
 CETV-4,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8?IASHttpSessionId=$上海移动V6
 CETV-4,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001348/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -540,7 +534,6 @@ CETV-4,http://39.134.87.62/000000001000/5000000011000031126/index.m3u8?IASHttpSe
 CETV-4,http://39.134.87.83/000000001000/5000000011000031126/index.m3u8?IASHttpSessionId=$上海移动V4
 CETV-4,http://39.134.90.60/000000001000/5000000011000031126/index.m3u8?IASHttpSessionId=$上海移动V4
 CETV-4,http://k.061899.xyz/k.php?id=cetv4
-CETV-4,http://mursor.ottiptv.cc/gptv/G_CETV-4.m3u8
 CETV-4,http://39.134.62.141:6610/PLTV/88888888/224/3221225783/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CETV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225783$黑龙江移动V4
 CETV-4,http://www.lizhinas.top:1009/rtp/239.252.219.169:5140$江西电信
@@ -566,48 +559,37 @@ CGTN英语,http://39.134.90.60/000000001000/4810873738577663591/index.m3u8?IASHt
 CGTN英语,http://39.134.87.83/000000001000/4810873738577663591/index.m3u8?IASHttpSessionId=$上海移动V4
 CGTN英语,http://39.134.62.141:6610/PLTV/88888888/224/3221225604/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CGTN英语,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225604$黑龙江移动V4
-CGTN英语,http://mursor.ottiptv.cc/mgtv/609017205.m3u8
 CGTN英语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000009569
 CGTN英语,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7745129417417101820
 CGTN阿语,https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtna
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN阿语,http://k.061899.xyz/k.php?id=cgtna
-CGTN阿语,http://mursor.ottiptv.cc/nptv/cgtnar.m3u8
 CGTN阿语,http://39.134.62.141:6610/PLTV/88888888/224/3221226517/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CGTN阿语,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226517$黑龙江移动V4
-CGTN阿语,http://mursor.ottiptv.cc/mgtv/609154345.m3u8
 CGTN阿语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280001
 CGTN俄语,https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtnr
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN俄语,http://k.061899.xyz/k.php?id=cgtnr
 CGTN俄语,http://39.134.62.141:6610/PLTV/88888888/224/3221226543/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CGTN俄语,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226543$黑龙江移动V4
-CGTN俄语,http://mursor.ottiptv.cc/nptv/cgtnru.m3u8
-CGTN俄语,http://mursor.ottiptv.cc/mgtv/609006446.m3u8
 CGTN俄语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280004
 CGTN法语,https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtnf
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN法语,http://k.061899.xyz/k.php?id=cgtnf
-CGTN法语,http://mursor.ottiptv.cc/nptv/cgtnfr.m3u8
 CGTN法语,http://39.134.62.141:6610/PLTV/88888888/224/3221226520/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CGTN法语,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226520$黑龙江移动V4
-CGTN法语,http://mursor.ottiptv.cc/mgtv/609006476.m3u8
 CGTN法语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280003
 CGTN西语,https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtne
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN西语,http://k.061899.xyz/k.php?id=cgtne
 CGTN西语,http://39.134.62.141:6610/PLTV/88888888/224/3221226431/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CGTN西语,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226431$黑龙江移动V4
-CGTN西语,http://mursor.ottiptv.cc/nptv/cgtnsp.m3u8
-CGTN西语,http://mursor.ottiptv.cc/mgtv/609006450.m3u8
 CGTN西语,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000280002
 CGTN纪录,https://tv.alonso0729.dpdns.org/api/cgtn.php?id=cgtnd
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN纪录,http://k.061899.xyz/k.php?id=cgtnjl
 CGTN纪录,http://39.134.62.141:6610/PLTV/88888888/224/3221225602/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 CGTN纪录,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225602$黑龙江移动V4
-CGTN纪录,http://mursor.ottiptv.cc/nptv/cgtndoc.m3u8
-CGTN纪录,http://mursor.ottiptv.cc/mgtv/609006487.m3u8
 CGTN纪录,http://php.jdshipin.com/TVOD/iptv.php?id=cgtnjl
 CGTN纪录,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7114647837765104058
 CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
@@ -615,15 +597,11 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140$江西电信
 风云足球,http://61.184.46.85:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
 女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140$江西电信
-女性时尚,http://mursor.ottiptv.cc/gptv/G_NVXINGSS.m3u8
 第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140$江西电信
-第一剧场,http://mursor.ottiptv.cc/nptv/dyjc.m3u8
 第一剧场,http://61.184.46.85:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
 风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140$江西电信
-风云剧场,http://mursor.ottiptv.cc/nptv/fyjc.m3u8
 风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140$江西电信
 怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140$江西电信
-怀旧剧场,http://mursor.ottiptv.cc/nptv/hjjc.m3u8
 怀旧剧场,http://61.184.46.85:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$湖北电信酒店
 高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140$江西电信
 央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140$江西电信
@@ -632,11 +610,8 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140$江西电信
 兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140$江西电信
 老故事,http://k.061899.xyz/k.php?id=lgs
-老故事,http://mursor.ottiptv.cc/mgtv/884121956.m3u8
 发现之旅,http://k.061899.xyz/k.php?id=fxzl
-发现之旅,http://mursor.ottiptv.cc/mgtv/624878970.m3u8
 中学生,http://k.061899.xyz/k.php?id=zxs
-中学生,http://mursor.ottiptv.cc/mgtv/708869532.m3u8
 书画,http://www.lizhinas.top:1009/rtp/239.252.219.99:5140$江西电信
 书画,http://www.cdnstv.com:6398/hls/1176/index.m3u8
 书画,http://php.jdshipin.com/cqyx.php?id=shuhua
@@ -1396,10 +1371,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 百视通直播-29,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001378/index.m3u8?IASHttpSessionId=$上海移动V6
 百视通直播-29,http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001378/index.m3u8?IASHttpSessionId=$上海移动V6
 百视通直播-29,http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001378/index.m3u8?IASHttpSessionId=$上海移动V6
-体坛名栏汇,http://mursor.ottiptv.cc/mgtv/629943305.m3u8
-咪咕24小时体育台,http://mursor.ottiptv.cc/mgtv/654102378.m3u8
-掼蛋精英赛,http://mursor.ottiptv.cc/mgtv/631354620.m3u8
-赛事最经典,http://mursor.ottiptv.cc/mgtv/646596895.m3u8
 
 卫视,#genre#
 安多卫视,http://39.134.87.62/000000001000/5000000006000022124/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -1415,8 +1386,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 安多卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266001
 安多卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000022124
 安多卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7248678452522064966
-安徽卫视,http://A/ku9/js/Anhui/anhui.js?id=ahws&key=关注公共号❤：AI科技生活
-安徽卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=ahws&key=关注公共号❤：AI科技生活$酷9远程JS
 安徽卫视,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8?IASHttpSessionId=$上海移动V6
 安徽卫视,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001037/index.m3u8?IASHttpSessionId=$上海移动V6
 安徽卫视,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001037/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -1428,6 +1397,8 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 安徽卫视,http://39.134.87.62/000000001000/5000000004000023002/index.m3u8?IASHttpSessionId=$上海移动V4
 安徽卫视,http://39.134.90.60/000000001000/5000000004000023002/index.m3u8?IASHttpSessionId=$上海移动V4
 安徽卫视,http://k.061899.xyz/k.php?id=ahws
+安徽卫视,http://A/ku9/js/Anhui/anhui.js?id=ahws&key=关注公共号❤：AI科技生活
+安徽卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=ahws&key=关注公共号❤：AI科技生活$酷9远程JS
 安徽卫视,http://39.134.62.141:6610/PLTV/88888888/224/3221226391/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391$黑龙江移动V4
 安徽卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000020780
@@ -1436,13 +1407,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 安徽卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000027288
 安徽卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000023002
 安徽卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000009954
-北京卫视,https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjws
-北京卫视,https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjws
-北京卫视,https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjws4k
-北京卫视,https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjws4k
-北京卫视,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjws
-北京卫视,http://A/ku9/js/Beijing/bjtime.js?id=bjws
-北京卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Beijing/bjtime.js?id=bjws$酷9远程JS
 北京卫视,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8?IASHttpSessionId=$上海移动V6
 北京卫视,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001029/index.m3u8?IASHttpSessionId=$上海移动V6
 北京卫视,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001029/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -1465,6 +1429,13 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225728$黑龙江移动V4
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450$黑龙江移动V4
 北京卫视,http://k.061899.xyz/k.php?id=bjws
+北京卫视,https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjws
+北京卫视,https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjws
+北京卫视,https://tv.alonso0729.dpdns.org/api/beijing_app.php?id=bjws4k
+北京卫视,https://tv.alonso0729.dpdns.org/api/beijing_web.php?id=bjws4k
+北京卫视,https://tv.alonso0729.dpdns.org/api/beijing.php?id=bjws
+北京卫视,http://A/ku9/js/Beijing/bjtime.js?id=bjws
+北京卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Beijing/bjtime.js?id=bjws$酷9远程JS
 北京卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=bjws
 北京卫视,http://my.tmos.cn:15181/chs002.m3u8
 北京卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000017156
@@ -1513,7 +1484,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 重庆卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=4995134319251569870
 重庆卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000025797
 大湾区卫视,http://k.061899.xyz/k.php?id=dwqws
-大湾区卫视,http://mursor.ottiptv.cc/mgtv/608917627.m3u8
 大湾区卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_dwq.flv
 大湾区卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000011619
 大湾区卫视,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000045
@@ -1536,7 +1506,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 东南卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=dnws
 东南卫视,http://A/ku9/js/Fujian/fjtv.js?id=dnws
 东南卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Fujian/fjtv.js?id=dnws$酷9远程JS
-东南卫视,http://mursor.ottiptv.cc/mgtv/849116810.m3u8
 东南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000009263
 东南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265033
 东南卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000005829
@@ -1656,7 +1625,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 海峡卫视,http://A/ku9/js/Fujian/fjtv.js?id=hxws
 海峡卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Fujian/fjtv.js?id=hxws$酷9远程JS
 海峡卫视,https://tv.alonso0729.dpdns.org/api/fjtv.php?id=3
-海峡卫视,http://mursor.ottiptv.cc/mgtv/849119120.m3u8
 海峡卫视,http://php.jdshipin.com/bestv.php?id=hxwshd4m/4000000
 海峡卫视,http://php.jdshipin.com/fujian.php?id=9
 海峡卫视,http://php.jdshipin.com/TVOD/iptv.php?id=hxws
@@ -1828,7 +1796,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225627$黑龙江移动V4
 湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477$黑龙江移动V4
 湖北卫视,http://k.061899.xyz/k.php?id=hubws
-湖北卫视,http://mursor.ottiptv.cc/mgtv/947472496.m3u8
 湖北卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000010355
 湖北卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000024621
 湖北卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265023
@@ -1927,7 +1894,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 江西卫视,http://k.061899.xyz/k.php?id=jxws
 江西卫视,https://tv.alonso0729.dpdns.org/api/jzb.php?id=jxws
 江西卫视,http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-江西卫视,http://mursor.ottiptv.cc/mgtv/783847495.m3u8
 江西卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000013731
 江西卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265032
 江西卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000268001
@@ -1947,7 +1913,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660$黑龙江移动V4
 康巴卫视,http://A/ku9/js/Sichuan/sichuan1.js?id=kbws
 康巴卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/sichuan1.js?id=kbws$酷9远程JS
-康巴卫视,http://mursor.ottiptv.cc/gptv/G_KANGBA.m3u8
 康巴卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266002
 康巴卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000003000001598
 康巴卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=9131971102485823367
@@ -2023,7 +1988,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 农林卫视,http://A/ku9/js/Shaanxi/shaanxi2.js?id=1126
 农林卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shaanxi/shaanxi2.js?id=1126$酷9远程JS
 农林卫视,http://stream.snrtv.com/sxbc-nl-knoJ06.m3u8
-农林卫视,http://mursor.ottiptv.cc/gptv/G_NONGLIN.m3u8
 农林卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266003
 农林卫视,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000046
 青海卫视,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -2290,11 +2254,9 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 延边卫视,http://[2409:8087:1a15:10d1::23]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$黑龙江移动V6
 延边卫视,http://[2409:8087:1a15:10d1::24]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$黑龙江移动V6
 延边卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226516$黑龙江移动V4
-延边卫视,http://mursor.ottiptv.cc/gptv/G_YANBIAN.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
 延边卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266008
 延边卫视,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000049
-云南卫视,rtmp://hwzbout.yntv.net/62hdvf/41hse3
 云南卫视,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8?IASHttpSessionId=$上海移动V6
 云南卫视,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001223/index.m3u8?IASHttpSessionId=$上海移动V6
 云南卫视,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001223/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -2309,6 +2271,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 云南卫视,http://39.134.90.60/000000001000/5000000011000031120/index.m3u8?IASHttpSessionId=$上海移动V4
 云南卫视,http://39.134.62.141:6610/PLTV/88888888/224/3221226444/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$黑龙江移动V4
+云南卫视,rtmp://hwzbout.yntv.net/62hdvf/41hse3
 云南卫视,http://A/ku9/js/Yunnan/qicaiyunnan.js?id=yunnanweishi
 云南卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Yunnan/qicaiyunnan.js?id=yunnanweishi$酷9远程JS
 云南卫视,http://A/ku9/js/Yunnan/yn.js?id=ynws
@@ -2437,17 +2400,14 @@ BesTV电竞天堂,http://php.jdshipin.com/bestv.php?id=djtt8m/8000000
 CHANNELV,http://iptv.huuc.edu.cn/hls/channelv.m3u8
 CHC影迷电影,http://k.061899.xyz/k.php?id=ymdy
 CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$江西电信
-CHC影迷电影,http://mursor.ottiptv.cc/mgtv/952383261.m3u8
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC家庭影院,http://k.061899.xyz/k.php?id=jtyy
 CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$江西电信
-CHC家庭影院,http://mursor.ottiptv.cc/mgtv/644368373.m3u8
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC动作电影,http://k.061899.xyz/k.php?id=dzdy
 CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140$江西电信
-CHC动作电影,http://mursor.ottiptv.cc/mgtv/644368714.m3u8
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 FASHIONTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
@@ -2941,13 +2901,6 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 中国天气,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000031974
 中国天气,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000057
 中国天气,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000005000031974
-新片放映厅,http://mursor.ottiptv.cc/mgtv/619495952.m3u8
-高清大片,http://mursor.ottiptv.cc/mgtv/629943678.m3u8
-红色轮播台,http://mursor.ottiptv.cc/mgtv/713600957.m3u8
-华语乐坛最强音,http://mursor.ottiptv.cc/mgtv/707671890.m3u8
-周杰伦现场,http://mursor.ottiptv.cc/mgtv/625133682.m3u8
-最强综艺趴,http://mursor.ottiptv.cc/mgtv/629942228.m3u8
-经典动画大集合,http://mursor.ottiptv.cc/mgtv/629942219.m3u8
 
 安徽,#genre#
 安徽经济生活,http://A/ku9/js/Anhui/anhui.js?id=jjsh&key=关注公共号❤：AI科技生活
@@ -3158,7 +3111,6 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 北京纪实科教,http://39.134.62.141:6610/PLTV/88888888/224/3221225729/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 北京纪实科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225729$黑龙江移动V4
 北京纪实科教,http://k.061899.xyz/k.php?id=bjjs
-北京纪实科教,http://mursor.ottiptv.cc/gptv/G_BEIJINGJS-HD.m3u8
 北京纪实科教,http://iptv.huuc.edu.cn/hls/btv3hd.m3u8
 北京纪实科教,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000001910
 北京纪实科教,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000028380
@@ -3580,7 +3532,6 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 广东嘉佳卡通,http://39.134.87.62/000000001000/4739906347743456369/index.m3u8?IASHttpSessionId=$上海移动V4
 广东嘉佳卡通,http://39.134.87.83/000000001000/4739906347743456369/index.m3u8?IASHttpSessionId=$上海移动V4
 广东嘉佳卡通,http://39.134.90.60/000000001000/4739906347743456369/index.m3u8?IASHttpSessionId=$上海移动V4
-广东嘉佳卡通,http://mursor.ottiptv.cc/mgtv/614952364.m3u8
 广东嘉佳卡通,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000025964
 广东嘉佳卡通,http://php.jdshipin.com/itv6.php?cid=bestzb&id=4739906347743456369
 广东嘉佳卡通,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000003000025508
@@ -3591,7 +3542,6 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 广东影视,http://k.061899.xyz/k.php?id=gdys
 广东影视,http://go.bkpcp.top/mg/gdys
 广东影视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
-广东影视,http://mursor.ottiptv.cc/mgtv/614961829.m3u8
 广东影视,http://119.123.79.35:9600/hls/25/index.m3u8
 广东影视,http://113.101.119.94:808/hls/110/index.m3u8
 广东影视,https://tplaylive.grtn.cn/live/health.m3u8
@@ -3927,7 +3877,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 贵州移动电视,http://A/ku9/js/Guizhou/gzstv.js?id=ch13
 贵州移动电视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guizhou/gzstv.js?id=ch13$酷9远程JS
 贵州移动电视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
-天元围棋,http://mursor.ottiptv.cc/gptv/G_TIANYUANWQ.m3u8
 天元围棋,http://php.jdshipin.com/cqyx.php?id=weiqi
 安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.m3u8
 安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.flv
@@ -5833,7 +5782,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏城市,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jscs
 江苏城市,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jscs$酷9远程JS
 江苏城市,http://k.061899.xyz/k.php?id=jscs
-江苏城市,http://mursor.ottiptv.cc/mgtv/626064714.m3u8
 江苏城市,http://live.nctv.top/6688/jstv.php?id=jscs
 江苏城市,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSCS/G_JSCS.m3u8
 江苏城市,http://cdn.jdshipin.com:8880/jstv.php?id=jscs
@@ -5842,7 +5790,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏综艺,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jszy
 江苏综艺,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jszy$酷9远程JS
 江苏综艺,http://k.061899.xyz/k.php?id=jszy
-江苏综艺,http://mursor.ottiptv.cc/mgtv/626065193.m3u8
 江苏综艺,http://live.nctv.top/6688/jstv.php?id=jszy
 江苏综艺,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSZY/G_JSZY.m3u8
 江苏综艺,http://cdn.jdshipin.com:8880/jstv.php?id=jszy
@@ -5851,7 +5798,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏影视,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsys
 江苏影视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsys$酷9远程JS
 江苏影视,http://k.061899.xyz/k.php?id=jsys
-江苏影视,http://mursor.ottiptv.cc/mgtv/626064697.m3u8
 江苏影视,http://live.nctv.top/6688/jstv.php?id=jsys
 江苏影视,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
 江苏影视,http://cdn.jdshipin.com:8880/jstv.php?id=jsys
@@ -5860,7 +5806,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏新闻,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsxw
 江苏新闻,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsxw$酷9远程JS
 江苏新闻,http://k.061899.xyz/k.php?id=jsxw
-江苏新闻,http://mursor.ottiptv.cc/mgtv/626064693.m3u8
 江苏新闻,http://live.nctv.top/6688/jstv.php?id=jsxw
 江苏新闻,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
 江苏新闻,http://cdn.jdshipin.com:8880/jstv.php?id=jsgg
@@ -5869,7 +5814,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏体育休闲,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsty
 江苏体育休闲,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsty$酷9远程JS
 江苏体育休闲,http://k.061899.xyz/k.php?id=jstyxx
-江苏体育休闲,http://mursor.ottiptv.cc/mgtv/626064707.m3u8
 江苏体育休闲,http://58.221.214.82:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&authid=0$江苏酒店
 江苏体育休闲,http://live.nctv.top/6688/jstv.php?id=jsty
 江苏体育休闲,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSTY/G_JSTY.m3u8
@@ -5879,7 +5823,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏优漫卡通,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=ymkt
 江苏优漫卡通,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=ymkt$酷9远程JS
 江苏优漫卡通,http://k.061899.xyz/k.php?id=ymkt
-江苏优漫卡通,http://mursor.ottiptv.cc/mgtv/626064703.m3u8
 江苏优漫卡通,http://39.134.62.141:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=$黑龙江移动V4
 江苏优漫卡通,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225656$黑龙江移动V4
 江苏优漫卡通,http://cdn.jdshipin.com:8880/jstv.php?id=ymkt
@@ -5890,7 +5833,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏国际,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsgj
 江苏国际,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsgj$酷9远程JS
 江苏国际,http://k.061899.xyz/k.php?id=jsgj
-江苏国际,http://mursor.ottiptv.cc/mgtv/626064674.m3u8
 江苏国际,http://live.nctv.top/6688/jstv.php?id=jsgj
 江苏国际,http://cdn.jdshipin.com:8880/jstv.php?id=jsgj
 江苏国际,http://cdn.jdshipin.com/jstv.php?id=jsgj
@@ -5898,7 +5840,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江苏教育,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsjy
 江苏教育,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsjy$酷9远程JS
 江苏教育,http://k.061899.xyz/k.php?id=jsjy
-江苏教育,http://mursor.ottiptv.cc/mgtv/628008321.m3u8
 江苏教育,http://live.nctv.top/6688/jstv.php?id=jsjy
 江苏教育,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
 江苏教育,http://cdn.jdshipin.com:8880/jstv.php?id=jsjy
@@ -5917,14 +5858,11 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 南京新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=nj1$酷9远程JS
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
 南京新闻综合,http://k.061899.xyz/k.php?id=njxwzh
-南京新闻综合,http://mursor.ottiptv.cc/mgtv/838109047.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京教科,http://k.061899.xyz/k.php?id=njkj
-南京教科,http://mursor.ottiptv.cc/mgtv/838153729.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 南京十八生活,http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
 南京十八生活,http://k.061899.xyz/k.php?id=njsb
-南京十八生活,http://mursor.ottiptv.cc/mgtv/838151753.m3u8
 南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
 苏州新闻综合,http://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州新闻综合,http://live-auth.51kandianshi.com/szgd/csztv1.flv
@@ -6015,7 +5953,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 泰州新闻综合,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=tz1
 泰州新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=tz1$酷9远程JS
 泰州新闻综合,http://k.061899.xyz/k.php?id=tzxwzh
-泰州新闻综合,http://mursor.ottiptv.cc/mgtv/639731818.m3u8
 泰州经济生活,http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
 泰州影视娱乐,http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 泰兴综合,https://tv.alonso0729.dpdns.org/api/jiangsulitchi_app.php?id=taixing
@@ -6086,7 +6023,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 徐州新闻综合,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=xz1
 徐州新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=xz1$酷9远程JS
 徐州新闻综合,http://k.061899.xyz/k.php?id=xzxwzh
-徐州新闻综合,http://mursor.ottiptv.cc/mgtv/639731747.m3u8
 徐州经济生活,http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 徐州文艺影视,http://stream3.huaihai.tv/xz3t/sd/live.m3u8
 徐州公共,http://stream3.huaihai.tv/xz4t/sd/live.m3u8
@@ -6100,7 +6036,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 宿迁综合,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=sq1
 宿迁综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=sq1$酷9远程JS
 宿迁综合,http://k.061899.xyz/k.php?id=sqxwzh
-宿迁综合,http://mursor.ottiptv.cc/mgtv/639731832.m3u8
 宿豫综合,http://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 宿豫综合,http://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.flv
 宿豫综合,rtmp://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd
@@ -6200,7 +6135,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 连云港新闻综合,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=lyg1
 连云港新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=lyg1$酷9远程JS
 连云港新闻综合,http://k.061899.xyz/k.php?id=lygxwzh
-连云港新闻综合,http://mursor.ottiptv.cc/mgtv/639731715.m3u8
 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
 溧阳新闻综合,http://tvlive.cxzly.com/live/tv.m3u8
 溧阳新闻综合,http://tvlive.cxzly.com/live/tv.flv
@@ -6252,7 +6186,6 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 淮安综合,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=hazh
 淮安综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=hazh$酷9远程JS
 淮安综合,http://k.061899.xyz/k.php?id=haxwzh
-淮安综合,http://mursor.ottiptv.cc/mgtv/639731826.m3u8
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
