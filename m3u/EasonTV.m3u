@@ -8656,6 +8656,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://11.112114.xyz/logo/河南移动戏曲.png" group-title="河南",河南移动戏曲
 http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 #EXTINF:-1 tvg-name="河南象视界" tvg-logo="https://11.112114.xyz/logo/河南象视界.png" group-title="河南",河南象视界
+https://tv.alonso0729.dpdns.org/api/henan_daxiang.php?id=xsj
+#EXTINF:-1 tvg-name="河南象视界" tvg-logo="https://11.112114.xyz/logo/河南象视界.png" group-title="河南",河南象视界
 https://tv.alonso0729.dpdns.org/api/henantv.php?id=xsj
 #EXTINF:-1 tvg-name="河南象视界" tvg-logo="https://11.112114.xyz/logo/河南象视界.png" group-title="河南",河南象视界
 http://A/ku9/js/Henan/henan.js?id=xsj&key=关注公共号❤：AI科技生活
