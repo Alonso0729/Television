@@ -2002,9 +2002,9 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 天津卫视,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000001000009186
 天津卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6707942579111517572
 天津卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8798367982904688776
-西藏藏语卫视,https://tv.alonso0729.dpdns.org/api/xizang.php?id=1
-西藏藏语卫视,https://tv.alonso0729.dpdns.org/api/xztv.php?id=zy
-西藏藏语卫视,http://php.jdshipin.com/xztv.php?id=zy
+西藏藏语卫视,https://tv.alonso0729.dpdns.org/api/Tibet.php?id=1
+西藏藏语卫视,https://tv.alonso0729.dpdns.org/api/TibetTV.php?id=zy
+西藏藏语卫视,http://php.jdshipin.com/TibetTV.php?id=zy
 西藏藏语卫视,http://A/ku9/js/Tibet/Tibet.js?id=1
 西藏藏语卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Tibet/Tibet.js?id=1$酷9远程JS
 西藏藏语卫视,http://39.134.87.62/000000001000/5000000002000021549/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -2012,10 +2012,10 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 西藏藏语卫视,http://39.134.90.60/000000001000/5000000002000021549/index.m3u8?IASHttpSessionId=$上海移动V4
 西藏藏语卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000021549
 西藏藏语卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7134589828528695864
-西藏卫视,https://tv.alonso0729.dpdns.org/api/xizang.php?id=0
-西藏卫视,https://tv.alonso0729.dpdns.org/api/xztv.php?id=ws
+西藏卫视,https://tv.alonso0729.dpdns.org/api/Tibet.php?id=0
+西藏卫视,https://tv.alonso0729.dpdns.org/api/TibetTV.php?id=ws
 西藏卫视,http://A/ku9/js/Tibet/Tibet.js?id=0
-西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+西藏卫视,http://php.jdshipin.com/TibetTV.php?id=ws
 西藏卫视,http://k.061899.xyz/k.php?id=xzws
 西藏卫视,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8?IASHttpSessionId=$上海移动V6
 西藏卫视,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001072/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -7203,9 +7203,9 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 蓟州电视台,http://m.176178.xyz/php/i2863.php?id=jztv
 
 西藏,#genre#
-西藏影视文化,https://tv.alonso0729.dpdns.org/api/xizang.php?id=2
-西藏影视文化,https://tv.alonso0729.dpdns.org/api/xztv.php?id=ys
-西藏影视文化,http://php.jdshipin.com/xztv.php?id=ys
+西藏影视文化,https://tv.alonso0729.dpdns.org/api/Tibet.php?id=2
+西藏影视文化,https://tv.alonso0729.dpdns.org/api/TibetTV.php?id=ys
+西藏影视文化,http://php.jdshipin.com/TibetTV.php?id=ys
 西藏影视文化,http://A/ku9/js/Tibet/Tibet.js?id=2
 西藏影视文化,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Tibet/Tibet.js?id=2$酷9远程JS
 拉萨汉语综合,https://tv.alonso0729.dpdns.org/api/lhasa.php?id=1021641
