@@ -4004,9 +4004,9 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://php.jdshipin.com/xztv.php?id=zy
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
-https://tv.alonso0729.dpdns.org/api/Tibet.php?id=1
+https://tv.alonso0729.dpdns.org/api/xizang.php?id=1
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
-https://tv.alonso0729.dpdns.org/api/TibetTV.php?id=zy
+https://tv.alonso0729.dpdns.org/api/xztv.php?id=zy
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://39.134.87.62/000000001000/5000000002000021549/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
@@ -4024,9 +4024,9 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://php.jdshipin.com/xztv.php?id=ws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-https://tv.alonso0729.dpdns.org/api/Tibet.php?id=0
+https://tv.alonso0729.dpdns.org/api/xizang.php?id=0
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-https://tv.alonso0729.dpdns.org/api/TibetTV.php?id=ws
+https://tv.alonso0729.dpdns.org/api/xztv.php?id=ws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://k.061899.xyz/k.php?id=xzws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
@@ -14328,9 +14328,9 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
 http://php.jdshipin.com/xztv.php?id=ys
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
-https://tv.alonso0729.dpdns.org/api/Tibet.php?id=2
+https://tv.alonso0729.dpdns.org/api/xizang.php?id=2
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
-https://tv.alonso0729.dpdns.org/api/TibetTV.php?id=ys
+https://tv.alonso0729.dpdns.org/api/xztv.php?id=ys
 #EXTINF:-1 tvg-name="拉萨汉语综合" tvg-logo="https://11.112114.xyz/logo/拉萨汉语综合.png" group-title="西藏",拉萨汉语综合
 https://tv.alonso0729.dpdns.org/api/lhasa.php?id=1021641
 #EXTINF:-1 tvg-name="拉萨汉语综合" tvg-logo="https://11.112114.xyz/logo/拉萨汉语综合.png" group-title="西藏",拉萨汉语综合
