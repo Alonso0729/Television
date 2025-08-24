@@ -1762,6 +1762,10 @@ http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:5e08:25::4]:6610/000000001000/1000000006000270001/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
+http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000270001/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://113.27.11.24:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
 http://home.odbo.cc:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
@@ -1855,6 +1859,10 @@ http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:5e08:25::4]:6610/000000001000/1000000006000270002/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
+http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000270002/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
 http://113.27.11.24:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://11.112114.xyz/logo/睛彩篮球.png" group-title="体育",睛彩篮球
@@ -1957,6 +1965,14 @@ http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
 http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$黑龙江移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:5e08:25::4]:6610/000000001000/1000000006000270003/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000270003/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:5e08:25::4]:6610/000000001000/1000000006000270005/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
+http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000270005/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
 http://113.27.11.24:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://11.112114.xyz/logo/睛彩广场舞.png" group-title="体育",睛彩广场舞
@@ -2592,6 +2608,10 @@ http://[2409:8087:1a15:10d1::26]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://[2409:8087:1a15:10d1::27]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000006000022124/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000006000022124/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 https://epg.pw/stream/64f8d4678019673ff347d3636f9aaa9cb5dcde274672e6d75a25aca77d453a12.m3u8
@@ -2775,6 +2795,10 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000025797
 http://[2409:8087:5e08:25::4]:6610/200000001898/460000089800010108/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010108/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://[2409:8087:5e08:25::4]:6610/000000001000/1000000002000011619/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000011619/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://k.061899.xyz/k.php?id=dwqws
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
@@ -4040,6 +4064,10 @@ http://39.134.87.83/000000001000/5000000002000021549/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://39.134.90.60/000000001000/5000000002000021549/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+http://[2409:8087:5e08:25::4]:6610/000000001000/7134589828528695864/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+http://[2409:8087:5e08:25::16]:6610/000000001000/7134589828528695864/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000021549
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7134589828528695864
@@ -4368,17 +4396,29 @@ http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001162/index.m3u8?IAS
 #EXTINF:-1 tvg-name="BesTV" tvg-logo="https://11.112114.xyz/logo/BesTV.png" group-title="娱乐",BesTV
 http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001162/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288005/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288005/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
 http://39.134.87.83/000000001000/5000000011000288005/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288005
 #EXTINF:-1 tvg-name="BesTV华语影院" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="娱乐",BesTV华语影院
 http://php.jdshipin.com/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
+#EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光影院.png" group-title="娱乐",BesTV星光影院
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288013/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光影院.png" group-title="娱乐",BesTV星光影院
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288013/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光影院.png" group-title="娱乐",BesTV星光影院
 http://39.134.87.83/000000001000/5000000011000288013/index.m3u8?IASHttpSessionId=$上海移动V4
-#EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
+#EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光影院.png" group-title="娱乐",BesTV星光影院
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288013
-#EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光院线.png" group-title="娱乐",BesTV星光影院
+#EXTINF:-1 tvg-name="BesTV星光影院" tvg-logo="https://11.112114.xyz/logo/星光影院.png" group-title="娱乐",BesTV星光影院
 http://php.jdshipin.com/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288009/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288009/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
 http://39.134.87.83/000000001000/5000000011000288009/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
@@ -4386,41 +4426,81 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288009
 #EXTINF:-1 tvg-name="BesTV全球大片" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="娱乐",BesTV全球大片
 http://php.jdshipin.com/bestv.php?id=qqdp8m/8000000
 #EXTINF:-1 tvg-name="BesTV热门剧场" tvg-logo="https://11.112114.xyz/logo/热门剧场.png" group-title="娱乐",BesTV热门剧场
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288010/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV热门剧场" tvg-logo="https://11.112114.xyz/logo/热门剧场.png" group-title="娱乐",BesTV热门剧场
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288010/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV热门剧场" tvg-logo="https://11.112114.xyz/logo/热门剧场.png" group-title="娱乐",BesTV热门剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288010
 #EXTINF:-1 tvg-name="BesTV热门剧场" tvg-logo="https://11.112114.xyz/logo/热门剧场.png" group-title="娱乐",BesTV热门剧场
 http://php.jdshipin.com/bestv.php?id=rmjc8m/8000000
+#EXTINF:-1 tvg-name="BesTV谍战剧场" tvg-logo="https://11.112114.xyz/logo/谍战剧场.png" group-title="娱乐",BesTV谍战剧场
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288004/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV谍战剧场" tvg-logo="https://11.112114.xyz/logo/谍战剧场.png" group-title="娱乐",BesTV谍战剧场
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288004/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="BesTV谍战剧场" tvg-logo="https://11.112114.xyz/logo/谍战剧场.png" group-title="娱乐",BesTV谍战剧场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288004
 #EXTINF:-1 tvg-name="BesTV谍战剧场" tvg-logo="https://11.112114.xyz/logo/谍战剧场.png" group-title="娱乐",BesTV谍战剧场
 http://php.jdshipin.com/bestv.php?id=dzjc8m/8000000
 #EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://11.112114.xyz/logo/青春动漫.png" group-title="娱乐",BesTV青春动漫
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288008/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://11.112114.xyz/logo/青春动漫.png" group-title="娱乐",BesTV青春动漫
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288008/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://11.112114.xyz/logo/青春动漫.png" group-title="娱乐",BesTV青春动漫
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288008
 #EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://11.112114.xyz/logo/青春动漫.png" group-title="娱乐",BesTV青春动漫
 http://php.jdshipin.com/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-logo="https://11.112114.xyz/logo/宝宝动画.png" group-title="娱乐",BesTV宝宝动画
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288002/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-logo="https://11.112114.xyz/logo/宝宝动画.png" group-title="娱乐",BesTV宝宝动画
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288002/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-logo="https://11.112114.xyz/logo/宝宝动画.png" group-title="娱乐",BesTV宝宝动画
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288002
 #EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-logo="https://11.112114.xyz/logo/宝宝动画.png" group-title="娱乐",BesTV宝宝动画
 http://php.jdshipin.com/bestv.php?id=bbdh8m/8000000
 #EXTINF:-1 tvg-name="BesTV戏曲精选" tvg-logo="https://11.112114.xyz/logo/戏曲精选.png" group-title="娱乐",BesTV戏曲精选
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288012/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV戏曲精选" tvg-logo="https://11.112114.xyz/logo/戏曲精选.png" group-title="娱乐",BesTV戏曲精选
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288012/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV戏曲精选" tvg-logo="https://11.112114.xyz/logo/戏曲精选.png" group-title="娱乐",BesTV戏曲精选
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288012
 #EXTINF:-1 tvg-name="BesTV戏曲精选" tvg-logo="https://11.112114.xyz/logo/戏曲精选.png" group-title="娱乐",BesTV戏曲精选
 http://php.jdshipin.com/bestv.php?id=xqjx8m/8000000
+#EXTINF:-1 tvg-name="BesTV热门综艺" tvg-logo="https://11.112114.xyz/logo/热门综艺.png" group-title="娱乐",BesTV热门综艺
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288011/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV热门综艺" tvg-logo="https://11.112114.xyz/logo/热门综艺.png" group-title="娱乐",BesTV热门综艺
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288011/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="BesTV热门综艺" tvg-logo="https://11.112114.xyz/logo/热门综艺.png" group-title="娱乐",BesTV热门综艺
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288011
 #EXTINF:-1 tvg-name="BesTV热门综艺" tvg-logo="https://11.112114.xyz/logo/热门综艺.png" group-title="娱乐",BesTV热门综艺
 http://php.jdshipin.com/bestv.php?id=rmzy8m/8000000
 #EXTINF:-1 tvg-name="BesTV健康养生" tvg-logo="https://11.112114.xyz/logo/健康养生.png" group-title="娱乐",BesTV健康养生
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288006/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV健康养生" tvg-logo="https://11.112114.xyz/logo/健康养生.png" group-title="娱乐",BesTV健康养生
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288006/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV健康养生" tvg-logo="https://11.112114.xyz/logo/健康养生.png" group-title="娱乐",BesTV健康养生
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288006
 #EXTINF:-1 tvg-name="BesTV健康养生" tvg-logo="https://11.112114.xyz/logo/健康养生.png" group-title="娱乐",BesTV健康养生
 http://php.jdshipin.com/bestv.php?id=jkys8m/8000000
 #EXTINF:-1 tvg-name="BesTV百变课堂" tvg-logo="https://11.112114.xyz/logo/百变课堂.png" group-title="娱乐",BesTV百变课堂
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288001/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV百变课堂" tvg-logo="https://11.112114.xyz/logo/百变课堂.png" group-title="娱乐",BesTV百变课堂
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288001/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV百变课堂" tvg-logo="https://11.112114.xyz/logo/百变课堂.png" group-title="娱乐",BesTV百变课堂
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288001
 #EXTINF:-1 tvg-name="BesTV百变课堂" tvg-logo="https://11.112114.xyz/logo/百变课堂.png" group-title="娱乐",BesTV百变课堂
 http://php.jdshipin.com/bestv.php?id=bbkt8m/8000000
-#EXTINF:-1 tvg-name="BesTV看天下精选" tvg-logo="https://11.112114.xyz/logo/BesTV看天下精选.png" group-title="娱乐",BesTV看天下精选
+#EXTINF:-1 tvg-name="BesTV看天下精选" tvg-logo="https://11.112114.xyz/logo/看天下精选.png" group-title="娱乐",BesTV看天下精选
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288007/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV看天下精选" tvg-logo="https://11.112114.xyz/logo/看天下精选.png" group-title="娱乐",BesTV看天下精选
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288007/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV看天下精选" tvg-logo="https://11.112114.xyz/logo/看天下精选.png" group-title="娱乐",BesTV看天下精选
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288007
-#EXTINF:-1 tvg-name="BesTV看天下精选" tvg-logo="https://11.112114.xyz/logo/BesTV看天下精选.png" group-title="娱乐",BesTV看天下精选
+#EXTINF:-1 tvg-name="BesTV看天下精选" tvg-logo="https://11.112114.xyz/logo/看天下精选.png" group-title="娱乐",BesTV看天下精选
 http://php.jdshipin.com/bestv.php?id=ktxjx8m/8000000
+#EXTINF:-1 tvg-name="BesTV电竞天堂" tvg-logo="https://11.112114.xyz/logo/电竞天堂.png" group-title="娱乐",BesTV电竞天堂
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000288003/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="BesTV电竞天堂" tvg-logo="https://11.112114.xyz/logo/电竞天堂.png" group-title="娱乐",BesTV电竞天堂
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000288003/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="BesTV电竞天堂" tvg-logo="https://11.112114.xyz/logo/电竞天堂.png" group-title="娱乐",BesTV电竞天堂
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288003
 #EXTINF:-1 tvg-name="BesTV电竞天堂" tvg-logo="https://11.112114.xyz/logo/电竞天堂.png" group-title="娱乐",BesTV电竞天堂
@@ -5270,6 +5350,10 @@ http://[2409:8087:5e08:25::4]:6610/200000001898/460000089800010084/1.m3u8?IAS$�
 #EXTINF:-1 tvg-name="精品综合" tvg-logo="https://11.112114.xyz/logo/NEWTV精品综合.png" group-title="娱乐",NEWTV精品综合
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010084/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="精品综合" tvg-logo="https://11.112114.xyz/logo/NEWTV精品综合.png" group-title="娱乐",NEWTV精品综合
+http://[2409:8087:5e08:25::4]:6610/000000001000/5595720619887440144/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="精品综合" tvg-logo="https://11.112114.xyz/logo/NEWTV精品综合.png" group-title="娱乐",NEWTV精品综合
+http://[2409:8087:5e08:25::16]:6610/000000001000/5595720619887440144/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="精品综合" tvg-logo="https://11.112114.xyz/logo/NEWTV精品综合.png" group-title="娱乐",NEWTV精品综合
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000008
 #EXTINF:-1 tvg-name="精品综合" tvg-logo="https://11.112114.xyz/logo/NEWTV精品综合.png" group-title="娱乐",NEWTV精品综合
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000019008
@@ -5397,6 +5481,10 @@ http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:5e08:25::4]:6610/200000001898/460000089800010085/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010085/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
+http://[2409:8087:5e08:25::4]:6610/000000001000/6193684637634073625/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
+http://[2409:8087:5e08:25::16]:6610/000000001000/6193684637634073625/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000003
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://11.112114.xyz/logo/NEWTV农业致富.png" group-title="娱乐",NEWTV农业致富
@@ -5615,6 +5703,10 @@ http://111.225.95.105:33333/hls/26/index.m3u8
 http://39.134.87.62/000000001000/5000000005000031974/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
 http://39.134.90.60/000000001000/5000000005000031974/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000005000031974/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000005000031974/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
