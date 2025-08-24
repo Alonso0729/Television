@@ -369,6 +369,8 @@ IP-34,http://[2409:8087:1a15:10d1::2d]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 西藏藏语卫视,https://tv.alonso0729.dpdns.org/api/xztv.php?id=zy
 西藏卫视,https://tv.alonso0729.dpdns.org/api/xizang.php?id=0
 西藏卫视,https://tv.alonso0729.dpdns.org/api/xztv.php?id=ws
+西藏影视文化,https://tv.alonso0729.dpdns.org/api/xizang.php?id=2
+西藏影视文化,https://tv.alonso0729.dpdns.org/api/xztv.php?id=ys
 广州综合,https://tv.alonso0729.dpdns.org/api/guangzhou.php?id=zhonghe
 广州综合,https://tv.alonso0729.dpdns.org/api/gztv.php?id=zhonghe
 广州新闻,https://tv.alonso0729.dpdns.org/api/guangzhou.php?id=xinwen
@@ -408,7 +410,5 @@ IP-34,http://[2409:8087:1a15:10d1::2d]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 朝阳新闻综合,https://tv.alonso0729.dpdns.org/api/liaoning_bfgd.php?id=282
 本溪新闻综合,https://tv.alonso0729.dpdns.org/api/liaoning_bfgd.php?id=312
 鞍山新闻综合,https://tv.alonso0729.dpdns.org/api/liaoning_bfgd.php?id=274
-西藏影视文化,https://tv.alonso0729.dpdns.org/api/xizang.php?id=2
-西藏影视文化,https://tv.alonso0729.dpdns.org/api/xztv.php?id=ys
 
 PHP持续测试,#genre#
