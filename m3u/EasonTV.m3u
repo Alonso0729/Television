@@ -2416,6 +2416,10 @@ http://39.134.87.83/000000001000/5000000001000001116/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-11
 http://39.134.90.60/000000001000/5000000001000001116/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-11
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000001116/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-11
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000001000001116/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-11" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-11
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000001116
 #EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-12
 http://39.134.87.62/000000001000/5000000001000002898/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -2423,6 +2427,10 @@ http://39.134.87.62/000000001000/5000000001000002898/index.m3u8?IASHttpSessionId
 http://39.134.87.83/000000001000/5000000001000002898/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-12
 http://39.134.90.60/000000001000/5000000001000002898/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-12
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000002898/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-12
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000001000002898/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="百视通直播-12" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-12
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000002898
 #EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-13
@@ -2432,6 +2440,10 @@ http://39.134.87.83/000000001000/5000000001000004876/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-13
 http://39.134.90.60/000000001000/5000000001000004876/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-13
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000004876/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-13
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000001000004876/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-13" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-13
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000004876
 #EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-14
 http://39.134.87.62/000000001000/5000000001000006777/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -2439,6 +2451,10 @@ http://39.134.87.62/000000001000/5000000001000006777/index.m3u8?IASHttpSessionId
 http://39.134.87.83/000000001000/5000000001000006777/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-14
 http://39.134.90.60/000000001000/5000000001000006777/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-14
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000006777/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-14
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000001000006777/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="百视通直播-14" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-14
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000006777
 #EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-15
@@ -2448,6 +2464,10 @@ http://39.134.87.83/000000001000/5000000001000017342/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-15
 http://39.134.90.60/000000001000/5000000001000017342/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-15
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000017342/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-15
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000001000017342/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-15" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-15
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000017342
 #EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-16
 http://39.134.87.62/000000001000/5000000001000018009/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -2455,6 +2475,10 @@ http://39.134.87.62/000000001000/5000000001000018009/index.m3u8?IASHttpSessionId
 http://39.134.87.83/000000001000/5000000001000018009/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-16
 http://39.134.90.60/000000001000/5000000001000018009/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-16
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000018009/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-16
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000001000018009/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="百视通直播-16" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-16
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000018009
 #EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-17
@@ -2464,6 +2488,10 @@ http://39.134.87.83/000000001000/5000000001000019233/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-17
 http://39.134.90.60/000000001000/5000000001000019233/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-17
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000019233/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-17
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000001000019233/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-17" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-17
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000019233
 #EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-18
 http://39.134.87.62/000000001000/5000000001000022620/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -2471,6 +2499,10 @@ http://39.134.87.62/000000001000/5000000001000022620/index.m3u8?IASHttpSessionId
 http://39.134.87.83/000000001000/5000000001000022620/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-18
 http://39.134.90.60/000000001000/5000000001000022620/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-18
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000022620/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-18
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000001000022620/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="百视通直播-18" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-18
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000022620
 #EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-19
@@ -2480,6 +2512,10 @@ http://39.134.87.83/000000001000/5000000001000023256/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-19
 http://39.134.90.60/000000001000/5000000001000023256/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-19
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000023256/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-19
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000001000023256/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-19" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-19
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000023256
 #EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-20
 http://39.134.87.62/000000001000/5000000001000026930/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -2487,6 +2523,10 @@ http://39.134.87.62/000000001000/5000000001000026930/index.m3u8?IASHttpSessionId
 http://39.134.87.83/000000001000/5000000001000026930/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-20
 http://39.134.90.60/000000001000/5000000001000026930/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-20
+http://[2409:8087:5e08:25::4]:6610/000000001000/5000000001000026930/1.m3u8?IAS$海南移动V6
+#EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-20
+http://[2409:8087:5e08:25::16]:6610/000000001000/5000000001000026930/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="百视通直播-20" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-20
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000026930
 #EXTINF:-1 tvg-name="百视通直播-21" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-21
