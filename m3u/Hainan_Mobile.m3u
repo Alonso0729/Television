@@ -367,45 +367,45 @@ http://[2409:8087:5e08:25::16]:6610/000000001000/1000000006000268004/1.m3u8?IAS$
 http://[2409:8087:5e08:25::4]:6610/200000001898/460000089800010210/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010210/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://11.112114.xyz/logo/CETV-1.png" group-title="央视",CETV-1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://[2409:8087:5e08:25::4]:6610/200000001898/460000089800010103/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://11.112114.xyz/logo/CETV-1.png" group-title="央视",CETV-1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010103/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://11.112114.xyz/logo/CETV-1.png" group-title="央视",CETV-1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000002000027253/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://11.112114.xyz/logo/CETV-1.png" group-title="央视",CETV-1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000027253/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://11.112114.xyz/logo/CETV-1.png" group-title="央视",CETV-1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000002000002652/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://11.112114.xyz/logo/CETV-1.png" group-title="央视",CETV-1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://11.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 http://[2409:8087:5e08:25::16]:6610/000000001000/5000000002000002652/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://11.112114.xyz/logo/CETV-2.png" group-title="央视",CETV-2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
 http://[2409:8087:5e08:25::4]:6610/200000001898/460000089800010104/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://11.112114.xyz/logo/CETV-2.png" group-title="央视",CETV-2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010104/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://11.112114.xyz/logo/CETV-2.png" group-title="央视",CETV-2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000005000266004/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://11.112114.xyz/logo/CETV-2.png" group-title="央视",CETV-2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
 http://[2409:8087:5e08:25::16]:6610/000000001000/1000000005000266004/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://11.112114.xyz/logo/CETV-2.png" group-title="央视",CETV-2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031201/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://11.112114.xyz/logo/CETV-2.png" group-title="央视",CETV-2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="央视",CETV-2
 http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000031201/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://11.112114.xyz/logo/CETV-4.png" group-title="央视",CETV-4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e08:25::4]:6610/200000001898/460000089800010105/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://11.112114.xyz/logo/CETV-4.png" group-title="央视",CETV-4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010105/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://11.112114.xyz/logo/CETV-4.png" group-title="央视",CETV-4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000005000025333/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://11.112114.xyz/logo/CETV-4.png" group-title="央视",CETV-4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e08:25::16]:6610/000000001000/1000000005000025333/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://11.112114.xyz/logo/CETV-4.png" group-title="央视",CETV-4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000006000012123/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://11.112114.xyz/logo/CETV-4.png" group-title="央视",CETV-4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e08:25::16]:6610/000000001000/5000000006000012123/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://11.112114.xyz/logo/CETV-4.png" group-title="央视",CETV-4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031126/1.m3u8?IAS$海南移动V6
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://11.112114.xyz/logo/CETV-4.png" group-title="央视",CETV-4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://[2409:8087:5e08:25::16]:6610/000000001000/5000000011000031126/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://11.112114.xyz/logo/CGTN英语.png" group-title="央视",CGTN英语
 http://[2409:8087:5e08:25::4]:6610/200000001898/460000089800010095/1.m3u8?IAS$海南移动V6
