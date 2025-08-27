@@ -1498,8 +1498,6 @@ http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001268/index.m3u8?IAS
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
 http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001268/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
-https://tv.alonso0729.dpdns.org/api/Shanghai_setv.php
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000107
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
@@ -4605,6 +4603,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://mursor.ottiptv.cc/bilibili/883263
 #EXTINF:-1 tvg-name="真栗" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",真栗
 http://live.iill.top/bilibili/883263
+#EXTINF:-1 tvg-name="真栗" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",真栗
+https://tv.alonso0729.dpdns.org/api/bilibili.php?id=883263
 #EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
 http://mursor.ottiptv.cc/douyin/2793884530
 #EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
@@ -4639,10 +4639,14 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://mursor.ottiptv.cc/bilibili/5520
 #EXTINF:-1 tvg-name="菠萝赛东" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",菠萝赛东
 http://live.iill.top/bilibili/5520
+#EXTINF:-1 tvg-name="菠萝赛东" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",菠萝赛东
+https://tv.alonso0729.dpdns.org/api/bilibili.php?id=5520
 #EXTINF:-1 tvg-name="大肉嘎" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",大肉嘎
 http://mursor.ottiptv.cc/bilibili/21737720
 #EXTINF:-1 tvg-name="大肉嘎" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",大肉嘎
 http://live.iill.top/bilibili/21737720
+#EXTINF:-1 tvg-name="大肉嘎" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",大肉嘎
+https://tv.alonso0729.dpdns.org/api/bilibili.php?id=21737720
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
 http://mursor.ottiptv.cc/douyin/fayelau
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
