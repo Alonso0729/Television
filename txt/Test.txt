@@ -434,6 +434,12 @@ IP-50,http://[2409:8087:1a15:10d1::3b]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 杭州青少体育,https://tv.alonso0729.dpdns.org/api/hangzhou.php?idhzqsty
 杭州导视,https://tv.alonso0729.dpdns.org/api/hangzhou.php?idhzds
 富阳新闻综合,https://tv.alonso0729.dpdns.org/api/hangzhou.php?idfyxwzh
+甘肃卫视,https://tv.alonso0729.dpdns.org/api/gansu.php?n=%E5%8D%AB%E8%A7%86
+甘肃文化影视,https://tv.alonso0729.dpdns.org/api/gansu.php?n=%E5%BD%B1%E8%A7%86
+甘肃公共应急,https://tv.alonso0729.dpdns.org/api/gansu.php?n=%E5%85%AC%E5%85%B1
+甘肃少儿,https://tv.alonso0729.dpdns.org/api/gansu.php?n=%E5%B0%91%E5%84%BF
+甘肃科教,https://tv.alonso0729.dpdns.org/api/gansu.php?n=%E7%A7%91%E6%95%99
+甘肃移动电视,https://tv.alonso0729.dpdns.org/api/gansu.php?n=%E7%A7%BB%E5%8A%A8
 
 PHP持续测试,#genre#
 
