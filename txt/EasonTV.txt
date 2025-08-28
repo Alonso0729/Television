@@ -1961,6 +1961,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 内蒙古卫视,http://k.061899.xyz/k.php?id=nmgws
 内蒙古卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000014080
 内蒙古卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=7331079758781182663
+宁夏卫视,https://tv.alonso0729.dpdns.org/api/ningxia.php?id=56
 宁夏卫视,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001074/index.m3u8?IASHttpSessionId=$上海移动V6
 宁夏卫视,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001074/index.m3u8?IASHttpSessionId=$上海移动V6
 宁夏卫视,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001074/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -6735,15 +6736,19 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 阿拉善新闻综合,http://play1-qk.nmtv.cn:80/live/1735547046115053.m3u8
 
 宁夏,#genre#
+宁夏公共,https://tv.alonso0729.dpdns.org/api/ningxia.php?id=111
 宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.flv
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+宁夏经济,https://tv.alonso0729.dpdns.org/api/ningxia.php?id=61
 宁夏经济,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
 宁夏经济,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.flv
 宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+宁夏少儿,https://tv.alonso0729.dpdns.org/api/ningxia.php?id=67
 宁夏少儿,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
 宁夏少儿,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.flv
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+宁夏文旅,https://tv.alonso0729.dpdns.org/api/ningxia.php?id=71
 宁夏文旅,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxwl.m3u8
 宁夏文旅,http://livepgc.cmc.ningxiahuangheyun.com/tv/nxwl.flv
 宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8

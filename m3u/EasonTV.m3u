@@ -3912,6 +3912,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000014080
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=7331079758781182663
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+https://tv.alonso0729.dpdns.org/api/ningxia.php?id=56
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001074/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001074/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -13376,11 +13378,15 @@ rtmp://play1-qk.nmtv.cn/live/1735547046115053
 #EXTINF:-1 tvg-name="阿拉善新闻综合" tvg-logo="https://11.112114.xyz/logo/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合
 http://play1-qk.nmtv.cn:80/live/1735547046115053.m3u8
 #EXTINF:-1 tvg-name="宁夏公共" tvg-logo="https://11.112114.xyz/logo/宁夏公共.png" group-title="宁夏",宁夏公共
+https://tv.alonso0729.dpdns.org/api/ningxia.php?id=111
+#EXTINF:-1 tvg-name="宁夏公共" tvg-logo="https://11.112114.xyz/logo/宁夏公共.png" group-title="宁夏",宁夏公共
 https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 #EXTINF:-1 tvg-name="宁夏公共" tvg-logo="https://11.112114.xyz/logo/宁夏公共.png" group-title="宁夏",宁夏公共
 https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.flv
 #EXTINF:-1 tvg-name="宁夏公共" tvg-logo="https://11.112114.xyz/logo/宁夏公共.png" group-title="宁夏",宁夏公共
 https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+#EXTINF:-1 tvg-name="宁夏经济" tvg-logo="https://11.112114.xyz/logo/宁夏经济.png" group-title="宁夏",宁夏经济
+https://tv.alonso0729.dpdns.org/api/ningxia.php?id=61
 #EXTINF:-1 tvg-name="宁夏经济" tvg-logo="https://11.112114.xyz/logo/宁夏经济.png" group-title="宁夏",宁夏经济
 https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
 #EXTINF:-1 tvg-name="宁夏经济" tvg-logo="https://11.112114.xyz/logo/宁夏经济.png" group-title="宁夏",宁夏经济
@@ -13388,11 +13394,15 @@ https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.flv
 #EXTINF:-1 tvg-name="宁夏经济" tvg-logo="https://11.112114.xyz/logo/宁夏经济.png" group-title="宁夏",宁夏经济
 https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 #EXTINF:-1 tvg-name="宁夏少儿" tvg-logo="https://11.112114.xyz/logo/宁夏少儿.png" group-title="宁夏",宁夏少儿
+https://tv.alonso0729.dpdns.org/api/ningxia.php?id=67
+#EXTINF:-1 tvg-name="宁夏少儿" tvg-logo="https://11.112114.xyz/logo/宁夏少儿.png" group-title="宁夏",宁夏少儿
 http://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
 #EXTINF:-1 tvg-name="宁夏少儿" tvg-logo="https://11.112114.xyz/logo/宁夏少儿.png" group-title="宁夏",宁夏少儿
 http://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.flv
 #EXTINF:-1 tvg-name="宁夏少儿" tvg-logo="https://11.112114.xyz/logo/宁夏少儿.png" group-title="宁夏",宁夏少儿
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+#EXTINF:-1 tvg-name="宁夏文旅" tvg-logo="https://11.112114.xyz/logo/宁夏文旅.png" group-title="宁夏",宁夏文旅
+https://tv.alonso0729.dpdns.org/api/ningxia.php?id=71
 #EXTINF:-1 tvg-name="宁夏文旅" tvg-logo="https://11.112114.xyz/logo/宁夏文旅.png" group-title="宁夏",宁夏文旅
 http://livepgc.cmc.ningxiahuangheyun.com/tv/nxwl.m3u8
 #EXTINF:-1 tvg-name="宁夏文旅" tvg-logo="https://11.112114.xyz/logo/宁夏文旅.png" group-title="宁夏",宁夏文旅

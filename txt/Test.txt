@@ -427,10 +427,12 @@ IP-50,http://[2409:8087:1a15:10d1::3b]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 朝阳新闻综合,https://tv.alonso0729.dpdns.org/api/liaoning_bfgd.php?id=282
 本溪新闻综合,https://tv.alonso0729.dpdns.org/api/liaoning_bfgd.php?id=312
 鞍山新闻综合,https://tv.alonso0729.dpdns.org/api/liaoning_bfgd.php?id=274
-宁夏卫视,https://tv.alonso0729.dpdns.org/api/ningxia.php?id=56
-宁夏公共,https://tv.alonso0729.dpdns.org/api/ningxia.php?id=111
-宁夏经济,https://tv.alonso0729.dpdns.org/api/ningxia.php?id=61
-宁夏文旅,https://tv.alonso0729.dpdns.org/api/ningxia.php?id=71
-宁夏少儿,https://tv.alonso0729.dpdns.org/api/ningxia.php?id=67
+杭州综合,https://tv.alonso0729.dpdns.org/api/hangzhou.php?id
+杭州西湖明珠,https://tv.alonso0729.dpdns.org/api/hangzhou.php?idhzmz
+杭州生活,https://tv.alonso0729.dpdns.org/api/hangzhou.php?idhzsh
+杭州影视,https://tv.alonso0729.dpdns.org/api/hangzhou.php?idhzys
+杭州青少体育,https://tv.alonso0729.dpdns.org/api/hangzhou.php?idhzqsty
+杭州导视,https://tv.alonso0729.dpdns.org/api/hangzhou.php?idhzds
+富阳新闻综合,https://tv.alonso0729.dpdns.org/api/hangzhou.php?idfyxwzh
 
 PHP持续测试,#genre#
