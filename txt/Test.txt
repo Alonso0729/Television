@@ -440,6 +440,13 @@ IP-50,http://[2409:8087:1a15:10d1::3b]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 甘肃少儿,https://tv.alonso0729.dpdns.org/api/gansu.php?n=%E5%B0%91%E5%84%BF
 甘肃科教,https://tv.alonso0729.dpdns.org/api/gansu.php?n=%E7%A7%91%E6%95%99
 甘肃移动电视,https://tv.alonso0729.dpdns.org/api/gansu.php?n=%E7%A7%BB%E5%8A%A8
+甘肃卫视,https://tv.alonso0729.dpdns.org/api/gansu2.php?id=gsws
+甘肃经济,https://tv.alonso0729.dpdns.org/api/gansu2.php?id=jjpd
+甘肃文化影视,https://tv.alonso0729.dpdns.org/api/gansu2.php?id=whys
+甘肃公共应急,https://tv.alonso0729.dpdns.org/api/gansu2.php?id=ggyj
+甘肃少儿,https://tv.alonso0729.dpdns.org/api/gansu2.php?id=sepd
+甘肃都市,https://tv.alonso0729.dpdns.org/api/gansu2.php?id=dspd
+甘肃移动电视,https://tv.alonso0729.dpdns.org/api/gansu2.php?id=ydds
 
 PHP持续测试,#genre#
 
