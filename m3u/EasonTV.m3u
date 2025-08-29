@@ -436,8 +436,6 @@ https://tv.alonso0729.dpdns.org/api/jzb.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://k.061899.xyz/k.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-http://91.229.133.222/TVOD/reallive-cctv5plus/ystenlive/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000018504
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000020505
@@ -6718,15 +6716,35 @@ http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
 http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
-http://[2409:8087:5e08:25::4]:6610/000000001000/bokesen/1.m3u8?IAS
+http://[2409:8087:5e08:25::4]:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
-http://[2409:8087:5e08:25::16]:6610/000000001000/bokesen/1.m3u8?IAS
+http://[2409:8087:5e08:25::16]:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V6
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
-http://129.150.58.101:50001/TVOD/bokesen/ystenlive/index.m3u8
+http://39.134.136.196:6410/000000001000/bokesen/1.m3u8?IAS$海南移动V4
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
-http://91.208.73.125:50001/TVOD/bokesen/ystenlive/index.m3u8
+http://39.134.136.197:6410/000000001000/bokesen/1.m3u8?IAS$海南移动V4
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
-http://91.229.133.222/TVOD/bokesen/ystenlive/index.m3u8
+http://39.134.136.198:6410/000000001000/bokesen/1.m3u8?IAS$海南移动V4
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
+http://39.134.136.196:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V4
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
+http://39.134.136.197:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V4
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
+http://39.134.136.198:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V4
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
+http://39.134.136.199:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V4
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
+http://39.134.136.200:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V4
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
+http://39.134.136.201:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V4
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
+http://39.134.136.202:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V4
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
+http://39.134.136.203:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V4
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
+http://39.134.136.204:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V4
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
+http://39.134.136.205:6610/000000001000/bokesen/1.m3u8?IAS$海南移动V4
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000007
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://11.112114.xyz/logo/NEWTV武搏世界.png" group-title="娱乐",NEWTV武搏世界
