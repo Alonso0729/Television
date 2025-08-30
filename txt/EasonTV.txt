@@ -62,7 +62,6 @@ CCTV-1,http://39.134.87.62/000000001000/5000000011000265008/index.m3u8?IASHttpSe
 CCTV-1,http://39.134.87.83/000000001000/5000000011000265008/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-1,http://39.134.90.60/000000001000/5000000011000265008/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-1,http://k.061899.xyz/k.php?id=cctv1
-CCTV-1,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv1
 CCTV-1,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000018602
 CCTV-1,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000021973
 CCTV-1,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265001
@@ -83,7 +82,6 @@ CCTV-2,http://39.134.87.62/000000001000/5000000011000031101/index.m3u8?IASHttpSe
 CCTV-2,http://39.134.87.83/000000001000/5000000011000031101/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-2,http://39.134.90.60/000000001000/5000000011000031101/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-2,http://k.061899.xyz/k.php?id=cctv2
-CCTV-2,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv2
 CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000012442
 CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000023315
 CCTV-2,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265002
@@ -106,7 +104,6 @@ CCTV-3,http://39.134.87.62/000000001000/5000000004000008883/index.m3u8?IASHttpSe
 CCTV-3,http://39.134.87.83/000000001000/5000000004000008883/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-3,http://39.134.90.60/000000001000/5000000004000008883/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-3,http://k.061899.xyz/k.php?id=cctv3
-CCTV-3,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv3
 CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000011218
 CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000013682
 CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265003
@@ -128,7 +125,6 @@ CCTV-4,http://39.134.87.62/000000001000/5000000011000031102/index.m3u8?IASHttpSe
 CCTV-4,http://39.134.87.83/000000001000/5000000011000031102/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-4,http://39.134.90.60/000000001000/5000000011000031102/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-4,http://k.061899.xyz/k.php?id=cctv4
-CCTV-4,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv4
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031664
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265004
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000030093
@@ -136,9 +132,7 @@ CCTV-4,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031102
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265004
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8183388942203045169
 CCTV-4美洲,http://k.061899.xyz/k.php?id=cctv4m
-CCTV-4美洲,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv4a
 CCTV-4欧洲,http://k.061899.xyz/k.php?id=cctv4o
-CCTV-4欧洲,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv4o
 CCTV-5,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-5,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-5,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -154,7 +148,6 @@ CCTV-5,http://39.134.87.62/000000001000/5000000010000016619/index.m3u8?IASHttpSe
 CCTV-5,http://39.134.87.83/000000001000/5000000010000016619/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-5,http://39.134.90.60/000000001000/5000000010000016619/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-5,http://k.061899.xyz/k.php?id=cctv5
-CCTV-5,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv5
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000004794
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000003000030177
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000025222
@@ -215,7 +208,6 @@ CCTV-5+,http://39.134.136.196:6410/200000001898/460000089800010202/1.m3u8?IAS$�
 CCTV-5+,http://39.134.136.198:6410/200000001898/460000089800010202/1.m3u8?IAS$海南移动V4
 CCTV-5+,http://39.134.136.201:6610/200000001898/460000089800010202/1.m3u8?IAS$海南移动V4
 CCTV-5+,http://39.134.136.205:6610/200000001898/460000089800010202/1.m3u8?IAS$海南移动V4
-CCTV-5+,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv5p
 CCTV-5+,http://k.061899.xyz/k.php?id=cctv5p
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000018504
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000020505
@@ -238,7 +230,6 @@ CCTV-6,http://39.134.87.62/000000001000/5000000010000018433/index.m3u8?IASHttpSe
 CCTV-6,http://39.134.87.83/000000001000/5000000010000018433/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-6,http://39.134.90.60/000000001000/5000000010000018433/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-6,http://k.061899.xyz/k.php?id=cctv6
-CCTV-6,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv6
 CCTV-6,http://A/ku9/js/Entertainment/1905.js?id=cctv6
 CCTV-6,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/1905.js?id=cctv6$酷9远程JS
 CCTV-6,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000001737
@@ -262,7 +253,6 @@ CCTV-7,http://39.134.87.62/000000001000/5000000011000031104/index.m3u8?IASHttpSe
 CCTV-7,http://39.134.87.83/000000001000/5000000011000031104/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-7,http://39.134.90.60/000000001000/5000000011000031104/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-7,http://k.061899.xyz/k.php?id=cctv7
-CCTV-7,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv7
 CCTV-7,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000017218
 CCTV-7,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000024341
 CCTV-7,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265007
@@ -285,7 +275,6 @@ CCTV-8,http://39.134.87.62/000000001000/5000000010000018377/index.m3u8?IASHttpSe
 CCTV-8,http://39.134.87.83/000000001000/5000000010000018377/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-8,http://39.134.90.60/000000001000/5000000010000018377/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-8,http://k.061899.xyz/k.php?id=cctv8
-CCTV-8,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv8
 CCTV-8,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000003736
 CCTV-8,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000031433
 CCTV-8,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265008
@@ -300,7 +289,6 @@ CCTV-9,http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001237/index.m
 CCTV-9,http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001237/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-9,http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001237/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-9,http://k.061899.xyz/k.php?id=cctv9
-CCTV-9,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv9
 CCTV-9,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000014583
 CCTV-9,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000028286
 CCTV-9,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265009
@@ -321,7 +309,6 @@ CCTV-10,http://39.134.87.62/000000001000/5000000010000016738/index.m3u8?IASHttpS
 CCTV-10,http://39.134.87.83/000000001000/5000000010000016738/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-10,http://39.134.90.60/000000001000/5000000010000016738/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-10,http://k.061899.xyz/k.php?id=cctv10
-CCTV-10,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv10
 CCTV-10,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000023734
 CCTV-10,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000026367
 CCTV-10,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265010
@@ -344,7 +331,6 @@ CCTV-11,http://39.134.87.62/000000001000/5000000011000031106/index.m3u8?IASHttpS
 CCTV-11,http://39.134.87.83/000000001000/5000000011000031106/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-11,http://39.134.90.60/000000001000/5000000011000031106/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-11,http://k.061899.xyz/k.php?id=cctv11
-CCTV-11,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv11
 CCTV-11,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000019789
 CCTV-11,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265011
 CCTV-11,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040011
@@ -365,7 +351,6 @@ CCTV-12,http://39.134.87.62/000000001000/5000000011000031107/index.m3u8?IASHttpS
 CCTV-12,http://39.134.87.83/000000001000/5000000011000031107/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-12,http://39.134.90.60/000000001000/5000000011000031107/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-12,http://k.061899.xyz/k.php?id=cctv12
-CCTV-12,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv12
 CCTV-12,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000001640
 CCTV-12,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000032494
 CCTV-12,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265012
@@ -386,7 +371,6 @@ CCTV-13,http://39.134.87.62/000000001000/5000000011000031108/index.m3u8?IASHttpS
 CCTV-13,http://39.134.87.83/000000001000/5000000011000031108/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-13,http://39.134.90.60/000000001000/5000000011000031108/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-13,http://k.061899.xyz/k.php?id=cctv13
-CCTV-13,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv13
 CCTV-13,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000021303
 CCTV-13,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000001827
 CCTV-13,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031108
@@ -406,7 +390,6 @@ CCTV-14,http://39.134.87.62/000000001000/5000000010000023358/index.m3u8?IASHttpS
 CCTV-14,http://39.134.87.83/000000001000/5000000010000023358/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-14,http://39.134.90.60/000000001000/5000000010000023358/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-14,http://k.061899.xyz/k.php?id=cctv14
-CCTV-14,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv14
 CCTV-14,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000008170
 CCTV-14,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000021349
 CCTV-14,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265013
@@ -427,7 +410,6 @@ CCTV-15,http://39.134.87.62/000000001000/5000000011000031109/index.m3u8?IASHttpS
 CCTV-15,http://39.134.87.83/000000001000/5000000011000031109/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-15,http://39.134.90.60/000000001000/5000000011000031109/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-15,http://k.061899.xyz/k.php?id=cctv15
-CCTV-15,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv15
 CCTV-15,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000008163
 CCTV-15,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265014
 CCTV-15,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=4832596595465032187
@@ -463,7 +445,6 @@ CCTV-17,http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001241/index.
 CCTV-17,http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001241/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-17,http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001241/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-17,http://k.061899.xyz/k.php?id=cctv17
-CCTV-17,https://mytv.easonzhang.eu.org/api/jzb.php?id=cctv17
 CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000056836
 CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265015
 CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000268004
@@ -608,7 +589,6 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 东方卫视,http://39.134.87.83/000000001000/5000000010000032246/index.m3u8?IASHttpSessionId=$上海移动V4
 东方卫视,http://39.134.90.60/000000001000/5000000010000032246/index.m3u8?IASHttpSessionId=$上海移动V4
 东方卫视,http://k.061899.xyz/k.php?id=dfws
-东方卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=dfws
 东方卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000005866
 东方卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000030202
 东方卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265018
@@ -1530,7 +1510,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 北京卫视,https://mytv.easonzhang.eu.org/api/beijing.php?id=bjws
 北京卫视,http://A/ku9/js/Beijing/bjtime.js?id=bjws
 北京卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Beijing/bjtime.js?id=bjws$酷9远程JS
-北京卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=bjws
 北京卫视,http://my.tmos.cn:15181/chs002.m3u8
 北京卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000017156
 北京卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000021288
@@ -1567,7 +1546,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 重庆卫视,http://39.134.87.83/000000001000/5000000004000025797/index.m3u8?IASHttpSessionId=$上海移动V4
 重庆卫视,http://39.134.90.60/000000001000/5000000004000025797/index.m3u8?IASHttpSessionId=$上海移动V4
 重庆卫视,http://k.061899.xyz/k.php?id=cqws
-重庆卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=cqws
 重庆卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000001096
 重庆卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000018937
 重庆卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265017
@@ -1603,7 +1581,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 东南卫视,http://39.134.87.62/000000001000/5000000004000010584/index.m3u8?IASHttpSessionId=$上海移动V4
 东南卫视,http://39.134.90.60/000000001000/5000000004000010584/index.m3u8?IASHttpSessionId=$上海移动V4
 东南卫视,http://k.061899.xyz/k.php?id=dnws
-东南卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=dnws
 东南卫视,http://A/ku9/js/Fujian/fjtv.js?id=dnws
 东南卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Fujian/fjtv.js?id=dnws$酷9远程JS
 东南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000009263
@@ -1654,7 +1631,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 广东卫视,http://39.134.87.83/000000001000/5000000010000030417/index.m3u8?IASHttpSessionId=$上海移动V4
 广东卫视,http://39.134.90.60/000000001000/5000000010000030417/index.m3u8?IASHttpSessionId=$上海移动V4
 广东卫视,http://k.061899.xyz/k.php?id=gdws
-广东卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=gdws
 广东卫视,http://my.tmos.cn:15181/chs006.m3u8
 广东卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000014176
 广东卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000028357
@@ -1860,7 +1836,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 黑龙江卫视,http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8$黑龙江移动V6
 黑龙江卫视,http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8$黑龙江移动V6
 黑龙江卫视,http://k.061899.xyz/k.php?id=hljws
-黑龙江卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=hljws
 黑龙江卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000001925
 黑龙江卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000009082
 黑龙江卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265029
@@ -1903,7 +1878,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 湖南卫视,http://39.134.87.83/000000001000/5000000010000030452/index.m3u8?IASHttpSessionId=$上海移动V4
 湖南卫视,http://39.134.90.60/000000001000/5000000010000030452/index.m3u8?IASHttpSessionId=$上海移动V4
 湖南卫视,http://k.061899.xyz/k.php?id=hunws
-湖南卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=hunws
 湖南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000009115
 湖南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000032695
 湖南卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265024
@@ -1950,7 +1924,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 江苏卫视,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsws
 江苏卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=jsws$酷9远程JS
 江苏卫视,http://k.061899.xyz/k.php?id=jsws
-江苏卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=jsws
 江苏卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000001828
 江苏卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000004684
 江苏卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265030
@@ -1973,7 +1946,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 江西卫视,http://39.134.87.62/000000001000/5000000004000011210/index.m3u8?IASHttpSessionId=$上海移动V4
 江西卫视,http://39.134.90.60/000000001000/5000000004000011210/index.m3u8?IASHttpSessionId=$上海移动V4
 江西卫视,http://k.061899.xyz/k.php?id=jxws
-江西卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=jxws
 江西卫视,http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 江西卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000013731
 江西卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265032
@@ -2183,7 +2155,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 陕西卫视,http://39.134.87.62/000000001000/5000000006000040017/index.m3u8?IASHttpSessionId=$上海移动V4
 陕西卫视,http://39.134.87.83/000000001000/5000000006000040017/index.m3u8?IASHttpSessionId=$上海移动V4
 陕西卫视,http://39.134.90.60/000000001000/5000000006000040017/index.m3u8?IASHttpSessionId=$上海移动V4
-陕西卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=sxws
 陕西卫视,https://mytv.easonzhang.eu.org/api/shaanxi.php?id=1131
 陕西卫视,http://A/ku9/js/Shaanxi/shaanxi.js?id=shaanxi
 陕西卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shaanxi/shaanxi.js?id=shaanxi$酷9远程JS
@@ -2220,7 +2191,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 深圳卫视,http://A/ku9/js/Guangdong/shenzhen.js?id=szws
 深圳卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=szws$酷9远程JS
 深圳卫视,http://k.061899.xyz/k.php?id=szws
-深圳卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=szws
 深圳卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000009227
 深圳卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000011645
 深圳卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265028
@@ -2390,7 +2360,6 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 浙江卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/zhejiang.js?id=zjws$酷9远程JS
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://k.061899.xyz/k.php?id=zjws
-浙江卫视,https://mytv.easonzhang.eu.org/api/jzb.php?id=zjws
 浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb
 浙江卫视,https://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-5db0c78ba3a42d4005ada143d24b1318
 浙江卫视,https://zwebl02.cztv.com/live/channel01480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-038a74e875522aced87d044b36c735cb
