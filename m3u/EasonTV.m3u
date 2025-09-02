@@ -288,6 +288,8 @@ http://39.134.87.62/000000001000/5000000010000018433/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
 http://k.061899.xyz/k.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
+http://192.168.1.200/myphp/1905a.php?id=LIVE28XN12SUI4GWG
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
 http://A/ku9/js/Entertainment/1905.js?id=cctv6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/1905.js?id=cctv6$酷9远程JS
@@ -1026,7 +1028,11 @@ http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001268/index.m3u8?IAS
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
 http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001268/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
+http://192.168.1.200/myphp/Shanghai_setv.php
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://11.112114.xyz/logo/上海教育.png" group-title="上海",上海教育
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000107
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
+http://192.168.1.200/myphp/cwjd.php
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
@@ -2172,6 +2178,8 @@ http://A/ku9/js/Anhui/anhui.js?id=ahws&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=ahws&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://192.168.1.200/myphp/anhui.php?id=47
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000027288
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000023002
@@ -2904,6 +2912,8 @@ http://A/ku9/js/Sichuan/sichuan1.js?id=kbws
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/sichuan1.js?id=kbws$酷9远程JS
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://192.168.1.200/myphp/sichuan.php?id=9
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000003000001598
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266002
@@ -3032,6 +3042,8 @@ https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000106
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://192.168.1.200/myphp/xiamen.php?id=84
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://39.134.87.62/000000001000/5084893189220221988/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266006
@@ -3113,6 +3125,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Shanxi/shanxi.js?id=sxws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxws$酷9远程JS
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
+http://192.168.1.200/myphp/shanxi_huanghe.php?id=q8RVWgs
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 http://k.061899.xyz/k.php?id=sxiws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
@@ -3212,6 +3226,8 @@ http://A/ku9/js/Sichuan/sichuan1.js?id=scws
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/sichuan1.js?id=scws$酷9远程JS
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
+http://192.168.1.200/myphp/sichuan.php?id=1
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000006119
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000016825
@@ -3252,6 +3268,10 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://php.jdshipin.com/xztv.php?id=zy
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+http://192.168.1.200/myphp/xizang.php?id=1
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
+http://192.168.1.200/myphp/xztv.php?id=zy
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000002000021549/1.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://11.112114.xyz/logo/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视
 http://39.134.87.62/000000001000/5000000002000021549/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -3265,6 +3285,10 @@ http://A/ku9/js/Tibet/Tibet.js?id=0
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Tibet/Tibet.js?id=0$酷9远程JS
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://php.jdshipin.com/xztv.php?id=ws
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://192.168.1.200/myphp/xizang.php?id=0
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://192.168.1.200/myphp/xztv.php?id=ws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://k.061899.xyz/k.php?id=xzws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
@@ -3381,6 +3405,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Yunnan/yn.js?id=ynws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Yunnan/yn.js?id=ynws$酷9远程JS
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+http://192.168.1.200/myphp/yunnan.php?id=yunnanweishi
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
 http://k.061899.xyz/k.php?id=ynws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
@@ -3550,11 +3576,15 @@ http://A/ku9/js/Entertainment/1905.js?id=1905a
 #EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://11.112114.xyz/logo/1905极限反转.png" group-title="娱乐",1905极限反转
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/1905.js?id=1905a$酷9远程JS
 #EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://11.112114.xyz/logo/1905极限反转.png" group-title="娱乐",1905极限反转
+http://192.168.1.200/myphp/1905a.php?id=LIVENCOI8M4RGOOJ9
+#EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://11.112114.xyz/logo/1905极限反转.png" group-title="娱乐",1905极限反转
 http://php.jdshipin.com/1905.php?id=1905dy
 #EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://11.112114.xyz/logo/1905环球经典.png" group-title="娱乐",1905环球经典
 http://A/ku9/js/Entertainment/1905.js?id=1905b
 #EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://11.112114.xyz/logo/1905环球经典.png" group-title="娱乐",1905环球经典
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Entertainment/1905.js?id=1905b$酷9远程JS
+#EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://11.112114.xyz/logo/1905环球经典.png" group-title="娱乐",1905环球经典
+http://192.168.1.200/myphp/1905a.php?id=LIVE8J4LTCXPI7QJ5
 #EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://11.112114.xyz/logo/1905环球经典.png" group-title="娱乐",1905环球经典
 http://php.jdshipin.com/1905.php?id=1905dy2
 #EXTINF:-1 tvg-name="4KUHD" tvg-logo="https://11.112114.xyz/logo/4KUHD.png" group-title="娱乐",4KUHD
@@ -4572,6 +4602,8 @@ http://A/ku9/js/Anhui/anhui.js?id=jjsh&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://11.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=jjsh&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://11.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
+http://192.168.1.200/myphp/anhui.php?id=71
+#EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://11.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
 http://live.ahcartv.dev.geek-zoo.cn/live/jjshtv.m3u8?txSecret=94e99c3721b25b3ac3d04be07d92fa3c&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://11.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
 https://ahlive.ahwanyun.cn/live/5c6207583a334b048f77dddf370bd840/hls.m3u8
@@ -4587,6 +4619,8 @@ http://203.205.191.53/live.ahsx.ahtv.cn/live/jjshtv.m3u8
 http://A/ku9/js/Anhui/anhui.js?id=yspd&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://11.112114.xyz/logo/安徽影视.png" group-title="安徽",安徽影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=yspd&key=关注公共号❤：AI科技生活$酷9远程JS
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://11.112114.xyz/logo/安徽影视.png" group-title="安徽",安徽影视
+http://192.168.1.200/myphp/anhui.php?id=72
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://11.112114.xyz/logo/安徽影视.png" group-title="安徽",安徽影视
 http://live.ahcartv.dev.geek-zoo.cn/live/ystv.m3u8?txSecret=e2c76086598b48e1fb4b6a823c69e2d5&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://11.112114.xyz/logo/安徽影视.png" group-title="安徽",安徽影视
@@ -4604,6 +4638,8 @@ http://A/ku9/js/Anhui/anhui.js?id=ggpd&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://11.112114.xyz/logo/安徽公共.png" group-title="安徽",安徽公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=ggpd&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://11.112114.xyz/logo/安徽公共.png" group-title="安徽",安徽公共
+http://192.168.1.200/myphp/anhui.php?id=50
+#EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://11.112114.xyz/logo/安徽公共.png" group-title="安徽",安徽公共
 http://live.ahcartv.dev.geek-zoo.cn/live/ggtv.m3u8?txSecret=642c057a63f8e7c6fcd0f236d3f24c69&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://11.112114.xyz/logo/安徽公共.png" group-title="安徽",安徽公共
 http://203.205.191.53/live.ahsx.ahtv.cn/live/ggtv.m3u8
@@ -4611,6 +4647,8 @@ http://203.205.191.53/live.ahsx.ahtv.cn/live/ggtv.m3u8
 http://A/ku9/js/Anhui/anhui.js?id=zyty&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://11.112114.xyz/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=zyty&key=关注公共号❤：AI科技生活$酷9远程JS
+#EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://11.112114.xyz/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
+http://192.168.1.200/myphp/anhui.php?id=73
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://11.112114.xyz/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
 http://live.ahcartv.dev.geek-zoo.cn/live/zytytv.m3u8?txSecret=095c3ce3216bfda624ec4acce6e8a02c&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://11.112114.xyz/logo/安徽综艺体育.png" group-title="安徽",安徽综艺体育
@@ -4626,6 +4664,8 @@ http://A/ku9/js/Anhui/anhui.js?id=nykj&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽农业科教" tvg-logo="https://11.112114.xyz/logo/安徽农业科教.png" group-title="安徽",安徽农业科教
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=nykj&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="安徽农业科教" tvg-logo="https://11.112114.xyz/logo/安徽农业科教.png" group-title="安徽",安徽农业科教
+http://192.168.1.200/myphp/anhui.php?id=51
+#EXTINF:-1 tvg-name="安徽农业科教" tvg-logo="https://11.112114.xyz/logo/安徽农业科教.png" group-title="安徽",安徽农业科教
 http://live.ahcartv.dev.geek-zoo.cn/live/nykjtv.m3u8?txSecret=4888aba85d563cfd8853ca0982febcbe&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽农业科教" tvg-logo="https://11.112114.xyz/logo/安徽农业科教.png" group-title="安徽",安徽农业科教
 http://203.205.191.53/live.ahsx.ahtv.cn/live/nykjtv.m3u8
@@ -4633,6 +4673,8 @@ http://203.205.191.53/live.ahsx.ahtv.cn/live/nykjtv.m3u8
 http://A/ku9/js/Anhui/anhui.js?id=ahgj&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://11.112114.xyz/logo/安徽国际.png" group-title="安徽",安徽国际
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=ahgj&key=关注公共号❤：AI科技生活$酷9远程JS
+#EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://11.112114.xyz/logo/安徽国际.png" group-title="安徽",安徽国际
+http://192.168.1.200/myphp/anhui.php?id=70
 #EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://11.112114.xyz/logo/安徽国际.png" group-title="安徽",安徽国际
 http://live.ahcartv.dev.geek-zoo.cn/live/gjtv.m3u8?txSecret=e628bcb47d7741b3a60c6793b7295d84&txTime=6861F1F6
 #EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://11.112114.xyz/logo/安徽国际.png" group-title="安徽",安徽国际
@@ -4643,6 +4685,8 @@ https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index
 http://A/ku9/js/Anhui/anhui.js?id=ydds&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽移动电视" tvg-logo="https://11.112114.xyz/logo/安徽移动电视.png" group-title="安徽",安徽移动电视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhui.js?id=ydds&key=关注公共号❤：AI科技生活$酷9远程JS
+#EXTINF:-1 tvg-name="安徽移动电视" tvg-logo="https://11.112114.xyz/logo/安徽移动电视.png" group-title="安徽",安徽移动电视
+http://192.168.1.200/myphp/anhui.php?id=68
 #EXTINF:-1 tvg-name="合肥新闻" tvg-logo="https://11.112114.xyz/logo/合肥新闻.png" group-title="安徽",合肥新闻
 http://A/ku9/js/Anhui/hefei.js?id=1
 #EXTINF:-1 tvg-name="合肥新闻" tvg-logo="https://11.112114.xyz/logo/合肥新闻.png" group-title="安徽",合肥新闻
@@ -5332,13 +5376,19 @@ https://r8.vzan.com/v/slowlive_929856430577299580.flv
 #EXTINF:-1 tvg-name="长乐综合" tvg-logo="https://11.112114.xyz/logo/长乐综合.png" group-title="福建",长乐综合
 rtmp://r8.vzan.com/v/slowlive_929856430577299580
 #EXTINF:-1 tvg-name="厦门综合" tvg-logo="https://11.112114.xyz/logo/厦门综合.png" group-title="福建",厦门综合
+http://192.168.1.200/myphp/xiamen.php?id=16
+#EXTINF:-1 tvg-name="厦门综合" tvg-logo="https://11.112114.xyz/logo/厦门综合.png" group-title="福建",厦门综合
 https://live1b.kxm.xmtv.cn/xm1bf/playlist.m3u8
 #EXTINF:-1 tvg-name="厦门综合" tvg-logo="https://11.112114.xyz/logo/厦门综合.png" group-title="福建",厦门综合
 https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8
 #EXTINF:-1 tvg-name="厦门海峡" tvg-logo="https://11.112114.xyz/logo/厦门海峡.png" group-title="福建",厦门海峡
+http://192.168.1.200/myphp/xiamen.php?id=17
+#EXTINF:-1 tvg-name="厦门海峡" tvg-logo="https://11.112114.xyz/logo/厦门海峡.png" group-title="福建",厦门海峡
 https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8
 #EXTINF:-1 tvg-name="厦门海峡" tvg-logo="https://11.112114.xyz/logo/厦门海峡.png" group-title="福建",厦门海峡
 https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8
+#EXTINF:-1 tvg-name="厦门移动电视" tvg-logo="https://11.112114.xyz/logo/厦门移动电视.png" group-title="福建",厦门移动电视
+http://192.168.1.200/myphp/xiamen.php?id=52
 #EXTINF:-1 tvg-name="厦门移动电视" tvg-logo="https://11.112114.xyz/logo/厦门移动电视.png" group-title="福建",厦门移动电视
 https://live1b.kxm.xmtv.cn/xmyidongbf_1b/playlist.m3u8
 #EXTINF:-1 tvg-name="厦门移动电视" tvg-logo="https://11.112114.xyz/logo/厦门移动电视.png" group-title="福建",厦门移动电视
@@ -5848,6 +5898,10 @@ http://A/ku9/js/Guangdong/gztv.js?id=zonghes
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://11.112114.xyz/logo/广州综合.png" group-title="广东",广州综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/gztv.js?id=zonghes$酷9远程JS
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://11.112114.xyz/logo/广州综合.png" group-title="广东",广州综合
+http://192.168.1.200/myphp/guangzhou.php?id=zhonghe
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://11.112114.xyz/logo/广州综合.png" group-title="广东",广州综合
+http://192.168.1.200/myphp/gztv.php?id=zhonghe
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://11.112114.xyz/logo/广州综合.png" group-title="广东",广州综合
 http://php.jdshipin.com/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://11.112114.xyz/logo/广州综合.png" group-title="广东",广州综合
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
@@ -5863,6 +5917,10 @@ http://tencentplaygzrb.gztv.com:80/live/zonghes.m3u8
 http://A/ku9/js/Guangdong/gztv.js?id=xinwen
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://11.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/gztv.js?id=xinwen$酷9远程JS
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://11.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
+http://192.168.1.200/myphp/guangzhou.php?id=xinwen
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://11.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
+http://192.168.1.200/myphp/gztv.php?id=xinwen
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://11.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
 http://php.jdshipin.com/gztv.php?id=xinwen
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://11.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
@@ -5880,6 +5938,10 @@ http://A/ku9/js/Guangdong/gztv.js?id=yingshi
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://11.112114.xyz/logo/广州影视.png" group-title="广东",广州影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/gztv.js?id=yingshi$酷9远程JS
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://11.112114.xyz/logo/广州影视.png" group-title="广东",广州影视
+http://192.168.1.200/myphp/guangzhou.php?id=yingshi
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://11.112114.xyz/logo/广州影视.png" group-title="广东",广州影视
+http://192.168.1.200/myphp/gztv.php?id=yingshi
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://11.112114.xyz/logo/广州影视.png" group-title="广东",广州影视
 http://php.jdshipin.com/gztv.php?id=yingshi
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://11.112114.xyz/logo/广州影视.png" group-title="广东",广州影视
 http://php.jdshipin.com/TVOD/iptv.php?id=gzys
@@ -5896,6 +5958,10 @@ http://A/ku9/js/Guangdong/gztv.js?id=fazhi
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://11.112114.xyz/logo/广州法治.png" group-title="广东",广州法治
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/gztv.js?id=fazhi$酷9远程JS
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://11.112114.xyz/logo/广州法治.png" group-title="广东",广州法治
+http://192.168.1.200/myphp/guangzhou.php?id=fazhi
+#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://11.112114.xyz/logo/广州法治.png" group-title="广东",广州法治
+http://192.168.1.200/myphp/gztv.php?id=fazhi
+#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://11.112114.xyz/logo/广州法治.png" group-title="广东",广州法治
 http://php.jdshipin.com/gztv.php?id=fazhi
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://11.112114.xyz/logo/广州法治.png" group-title="广东",广州法治
 https://tencentplaybusiness.gztv.com/live/fazhi.m3u8
@@ -5911,6 +5977,10 @@ http://58.144.154.93/tencentplay.gztv.com/live/fazhi.m3u8
 http://A/ku9/js/Guangdong/gztv.js?id=nanguodushi
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://11.112114.xyz/logo/广州南国都市.png" group-title="广东",广州南国都市
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/gztv.js?id=nanguodushi$酷9远程JS
+#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://11.112114.xyz/logo/广州南国都市.png" group-title="广东",广州南国都市
+http://192.168.1.200/myphp/guangzhou.php?id=shenghuo
+#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://11.112114.xyz/logo/广州南国都市.png" group-title="广东",广州南国都市
+http://192.168.1.200/myphp/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://11.112114.xyz/logo/广州南国都市.png" group-title="广东",广州南国都市
 http://php.jdshipin.com/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://11.112114.xyz/logo/广州南国都市.png" group-title="广东",广州南国都市
@@ -9240,15 +9310,23 @@ https://rmplive.hljtv.com/live/anda.m3u8
 #EXTINF:-1 tvg-name="安达综合" tvg-logo="https://11.112114.xyz/logo/安达综合.png" group-title="黑龙江",安达综合
 https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
 #EXTINF:-1 tvg-name="武汉新闻综合" tvg-logo="https://11.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
+http://192.168.1.200/myphp/wuhan.php?id=20
+#EXTINF:-1 tvg-name="武汉新闻综合" tvg-logo="https://11.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
 http://stream.appwuhan.com:80/1tzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="武汉新闻综合" tvg-logo="https://11.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="武汉电视剧" tvg-logo="https://11.112114.xyz/logo/武汉电视剧.png" group-title="湖北",武汉电视剧
+http://192.168.1.200/myphp/wuhan.php?id=5
+#EXTINF:-1 tvg-name="武汉电视剧" tvg-logo="https://11.112114.xyz/logo/武汉电视剧.png" group-title="湖北",武汉电视剧
 http://stream.appwuhan.com/2tzb/sd/live.m3u8
+#EXTINF:-1 tvg-name="武汉科技生活" tvg-logo="https://11.112114.xyz/logo/武汉科技生活.png" group-title="湖北",武汉科技生活
+http://192.168.1.200/myphp/wuhan.php?id=6
 #EXTINF:-1 tvg-name="武汉科技生活" tvg-logo="https://11.112114.xyz/logo/武汉科技生活.png" group-title="湖北",武汉科技生活
 http://stream.appwuhan.com/3tzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="武汉经济" tvg-logo="https://11.112114.xyz/logo/武汉经济.png" group-title="湖北",武汉经济
 http://stream.appwuhan.com/4tzb/sd/live.m3u8
+#EXTINF:-1 tvg-name="武汉文体" tvg-logo="https://11.112114.xyz/logo/武汉文体.png" group-title="湖北",武汉文体
+http://192.168.1.200/myphp/wuhan.php?id=8
 #EXTINF:-1 tvg-name="武汉文体" tvg-logo="https://11.112114.xyz/logo/武汉文体.png" group-title="湖北",武汉文体
 http://stream.appwuhan.com/5tzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="武汉文体" tvg-logo="https://11.112114.xyz/logo/武汉文体.png" group-title="湖北",武汉文体
@@ -10480,7 +10558,7 @@ http://m.flv.wifiwx.com/live/wifiwx-494.flv
 #EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://11.112114.xyz/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
 https://mytv.easonzhang.eu.org/api/jiangsulitchi_app.php?id=czpro
 #EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://11.112114.xyz/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
-https://mytv.easonzhang.eu.org/api/cztv.php?id=czzh
+http://192.168.1.200/myphp/cztv.php?id=czzh
 #EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://11.112114.xyz/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
 http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=cz1
 #EXTINF:-1 tvg-name="常州新闻综合" tvg-logo="https://11.112114.xyz/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
@@ -11243,10 +11321,16 @@ rtmp://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang
 http://A/ku9/js/Jiangxi/jxtv.js?id=ncds
 #EXTINF:-1 tvg-name="南昌都市" tvg-logo="https://11.112114.xyz/logo/南昌都市.png" group-title="江西",南昌都市
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=ncds$酷9远程JS
+#EXTINF:-1 tvg-name="南昌都市" tvg-logo="https://11.112114.xyz/logo/南昌都市.png" group-title="江西",南昌都市
+https://mytv.easonzhang.eu.org/api/nanchang.php?n=%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-name="南昌都市" tvg-logo="https://11.112114.xyz/logo/南昌都市.png" group-title="江西",南昌都市
+https://mytv.easonzhang.eu.org/api/nanchang.php?n=%E6%96%87%E6%97%85
 #EXTINF:-1 tvg-name="南昌资讯" tvg-logo="https://11.112114.xyz/logo/南昌资讯.png" group-title="江西",南昌资讯
 http://A/ku9/js/Jiangxi/jxtv.js?id=nczx
 #EXTINF:-1 tvg-name="南昌资讯" tvg-logo="https://11.112114.xyz/logo/南昌资讯.png" group-title="江西",南昌资讯
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=nczx$酷9远程JS
+#EXTINF:-1 tvg-name="南昌资讯" tvg-logo="https://11.112114.xyz/logo/南昌资讯.png" group-title="江西",南昌资讯
+https://mytv.easonzhang.eu.org/api/nanchang.php?n=%E8%B5%84%E8%AE%AF
 #EXTINF:-1 tvg-name="南昌公共" tvg-logo="https://11.112114.xyz/logo/南昌公共.png" group-title="江西",南昌公共
 http://A/ku9/js/Jiangxi/jxtv.js?id=ncgg
 #EXTINF:-1 tvg-name="南昌公共" tvg-logo="https://11.112114.xyz/logo/南昌公共.png" group-title="江西",南昌公共
@@ -11272,6 +11356,8 @@ http://A/ku9/js/Jiangxi/jxtv.js?id=wltv
 #EXTINF:-1 tvg-name="南昌湾里" tvg-logo="https://11.112114.xyz/logo/南昌湾里.png" group-title="江西",南昌湾里
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=wltv$酷9远程JS
 #EXTINF:-1 tvg-name="九江新闻综合" tvg-logo="https://11.112114.xyz/logo/九江新闻综合.png" group-title="江西",九江新闻综合
+http://192.168.1.200/myphp/jiujiang.php?id=jjtv1
+#EXTINF:-1 tvg-name="九江新闻综合" tvg-logo="https://11.112114.xyz/logo/九江新闻综合.png" group-title="江西",九江新闻综合
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_jiujiang.m3u8
 #EXTINF:-1 tvg-name="九江新闻综合" tvg-logo="https://11.112114.xyz/logo/九江新闻综合.png" group-title="江西",九江新闻综合
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_jiujiang.flv
@@ -11280,9 +11366,13 @@ https://live02.jxtvcn.com.cn/live/ganyun_jiujiang1.m3u8
 #EXTINF:-1 tvg-name="九江新闻综合" tvg-logo="https://11.112114.xyz/logo/九江新闻综合.png" group-title="江西",九江新闻综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8
 #EXTINF:-1 tvg-name="九江公共" tvg-logo="https://11.112114.xyz/logo/九江公共.png" group-title="江西",九江公共
+http://192.168.1.200/myphp/jiujiang.php?id=jjtv2
+#EXTINF:-1 tvg-name="九江公共" tvg-logo="https://11.112114.xyz/logo/九江公共.png" group-title="江西",九江公共
 https://live02.jxtvcn.com.cn/live/ganyun_jiujiang2.m3u8
 #EXTINF:-1 tvg-name="九江公共" tvg-logo="https://11.112114.xyz/logo/九江公共.png" group-title="江西",九江公共
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8
+#EXTINF:-1 tvg-name="九江教育" tvg-logo="https://11.112114.xyz/logo/九江教育.png" group-title="江西",九江教育
+http://192.168.1.200/myphp/jiujiang.php?id=jjfz
 #EXTINF:-1 tvg-name="九江教育" tvg-logo="https://11.112114.xyz/logo/九江教育.png" group-title="江西",九江教育
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8
 #EXTINF:-1 tvg-name="九江教育" tvg-logo="https://11.112114.xyz/logo/九江教育.png" group-title="江西",九江教育
@@ -12480,6 +12570,8 @@ http://A/ku9/js/Shanxi/shanxi.js?id=sxhh
 #EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxhh$酷9远程JS
 #EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
+http://192.168.1.200/myphp/shanxi_huanghe.php?id=lce1mC4
+#EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxjj
@@ -12493,6 +12585,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Shanxi/shanxi.js?id=sxjj
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxjj$酷9远程JS
+#EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
+http://192.168.1.200/myphp/shanxi_huanghe.php?id=4j01KWX
 #EXTINF:-1 tvg-name="山西经济与科技" tvg-logo="http://11.112114.xyz/logo/山西经济与科技.png" group-title="山西",山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
@@ -12508,6 +12602,8 @@ http://A/ku9/js/Shanxi/shanxi.js?id=sxys
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxys$酷9远程JS
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
+http://192.168.1.200/myphp/shanxi_huanghe.php?id=Md571Kv
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="http://11.112114.xyz/logo/山西影视.png" group-title="山西",山西影视
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxshfz
@@ -12522,6 +12618,8 @@ http://A/ku9/js/Shanxi/shanxi.js?id=sxfz
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxfz$酷9远程JS
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
+http://192.168.1.200/myphp/shanxi_huanghe.php?id=p4y5do9
+#EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="http://11.112114.xyz/logo/山西社会与法治.png" group-title="山西",山西社会与法治
 http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
 http://A/ku9/js/Guangdong/shenzhen.js?id=sxwtsh
@@ -12535,6 +12633,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Shanxi/shanxi.js?id=sxwt
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxi.js?id=sxwt$酷9远程JS
+#EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
+http://192.168.1.200/myphp/shanxi_huanghe.php?id=Y00Xezi
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="http://11.112114.xyz/logo/山西文体生活.png" group-title="山西",山西文体生活
@@ -12823,26 +12923,38 @@ https://qnwjgp6u.live.sxmty.com/live/hls/dbc13d75496d4203ae47dbefbc4ecec2/f6f863
 http://A/ku9/js/Sichuan/sichuan1.js?id=scjj
 #EXTINF:-1 tvg-name="四川经济" tvg-logo="https://11.112114.xyz/logo/四川经济.png" group-title="四川",四川经济
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/sichuan1.js?id=scjj$酷9远程JS
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://11.112114.xyz/logo/四川经济.png" group-title="四川",四川经济
+http://192.168.1.200/myphp/sichuan.php?id=3
 #EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://11.112114.xyz/logo/四川文化旅游.png" group-title="四川",四川文化旅游
 http://A/ku9/js/Sichuan/sichuan1.js?id=scwhly
 #EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://11.112114.xyz/logo/四川文化旅游.png" group-title="四川",四川文化旅游
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/sichuan1.js?id=scwhly$酷9远程JS
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://11.112114.xyz/logo/四川文化旅游.png" group-title="四川",四川文化旅游
+http://192.168.1.200/myphp/sichuan.php?id=4
 #EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://11.112114.xyz/logo/四川新闻.png" group-title="四川",四川新闻
 http://A/ku9/js/Sichuan/sichuan1.js?id=scxw
 #EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://11.112114.xyz/logo/四川新闻.png" group-title="四川",四川新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/sichuan1.js?id=scxw$酷9远程JS
+#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://11.112114.xyz/logo/四川新闻.png" group-title="四川",四川新闻
+http://192.168.1.200/myphp/sichuan.php?id=2
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://11.112114.xyz/logo/四川影视文艺.png" group-title="四川",四川影视文艺
 http://A/ku9/js/Sichuan/sichuan1.js?id=scyswy
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://11.112114.xyz/logo/四川影视文艺.png" group-title="四川",四川影视文艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/sichuan1.js?id=scyswy$酷9远程JS
+#EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://11.112114.xyz/logo/四川影视文艺.png" group-title="四川",四川影视文艺
+http://192.168.1.200/myphp/sichuan.php?id=5
 #EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://11.112114.xyz/logo/四川星空购物.png" group-title="四川",四川星空购物
 http://A/ku9/js/Sichuan/sichuan1.js?id=scxkgw
 #EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://11.112114.xyz/logo/四川星空购物.png" group-title="四川",四川星空购物
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/sichuan1.js?id=scxkgw$酷9远程JS
+#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://11.112114.xyz/logo/四川星空购物.png" group-title="四川",四川星空购物
+http://192.168.1.200/myphp/sichuan.php?id=7
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://11.112114.xyz/logo/四川妇女儿童.png" group-title="四川",四川妇女儿童
 http://A/ku9/js/Sichuan/sichuan1.js?id=scfnet
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://11.112114.xyz/logo/四川妇女儿童.png" group-title="四川",四川妇女儿童
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/sichuan1.js?id=scfnet$酷9远程JS
+#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://11.112114.xyz/logo/四川妇女儿童.png" group-title="四川",四川妇女儿童
+http://192.168.1.200/myphp/sichuan.php?id=6
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://11.112114.xyz/logo/四川科教.png" group-title="四川",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://11.112114.xyz/logo/四川科教.png" group-title="四川",四川科教
@@ -12879,6 +12991,8 @@ http://182.150.115.21:8030/pcgacg/pcgacg_240.m3u8
 http://A/ku9/js/Sichuan/sichuan1.js?id=scxc
 #EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://11.112114.xyz/logo/四川乡村.png" group-title="四川",四川乡村
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Sichuan/sichuan1.js?id=scxc$酷9远程JS
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://11.112114.xyz/logo/四川乡村.png" group-title="四川",四川乡村
+http://192.168.1.200/myphp/sichuan.php?id=8
 #EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://11.112114.xyz/logo/四川乡村.png" group-title="四川",四川乡村
 https://tvshow.scgchc.com/hdlive/sctv98f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1747959902-1881382939321516033-0-3c670710dc96125feb239e3a7eb35583
 #EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://11.112114.xyz/logo/四川乡村.png" group-title="四川",四川乡村
@@ -13612,6 +13726,10 @@ http://A/ku9/js/Tibet/Tibet.js?id=2
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Tibet/Tibet.js?id=2$酷9远程JS
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
+http://192.168.1.200/myphp/xizang.php?id=2
+#EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
+http://192.168.1.200/myphp/xztv.php?id=ys
+#EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
 http://php.jdshipin.com/xztv.php?id=ys
 #EXTINF:-1 tvg-name="拉萨汉语综合" tvg-logo="https://11.112114.xyz/logo/拉萨汉语综合.png" group-title="西藏",拉萨汉语综合
 https://mytv.easonzhang.eu.org/api/lhasa.php?id=1021641
@@ -13793,6 +13911,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Yunnan/yn.js?id=ynds
 #EXTINF:-1 tvg-name="云南都市" tvg-logo="https://11.112114.xyz/logo/云南都市.png" group-title="云南",云南都市
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Yunnan/yn.js?id=ynds$酷9远程JS
+#EXTINF:-1 tvg-name="云南都市" tvg-logo="https://11.112114.xyz/logo/云南都市.png" group-title="云南",云南都市
+http://192.168.1.200/myphp/yunnan.php?id=yunnandushi
 #EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://11.112114.xyz/logo/云南娱乐.png" group-title="云南",云南娱乐
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 #EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://11.112114.xyz/logo/云南娱乐.png" group-title="云南",云南娱乐
@@ -13805,6 +13925,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Yunnan/yn.js?id=ynyl
 #EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://11.112114.xyz/logo/云南娱乐.png" group-title="云南",云南娱乐
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Yunnan/yn.js?id=ynyl$酷9远程JS
+#EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://11.112114.xyz/logo/云南娱乐.png" group-title="云南",云南娱乐
+http://192.168.1.200/myphp/yunnan.php?id=yunnanyule
 #EXTINF:-1 tvg-name="云南影视" tvg-logo="https://11.112114.xyz/logo/云南影视.png" group-title="云南",云南影视
 https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 #EXTINF:-1 tvg-name="云南影视" tvg-logo="https://11.112114.xyz/logo/云南影视.png" group-title="云南",云南影视
@@ -13821,6 +13943,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Yunnan/yn.js?id=ynkl
 #EXTINF:-1 tvg-name="云南康旅" tvg-logo="https://11.112114.xyz/logo/云南康旅.png" group-title="云南",云南康旅
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Yunnan/yn.js?id=ynkl$酷9远程JS
+#EXTINF:-1 tvg-name="云南康旅" tvg-logo="https://11.112114.xyz/logo/云南康旅.png" group-title="云南",云南康旅
+http://192.168.1.200/myphp/yunnan.php?id=yunnangonggong
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://11.112114.xyz/logo/云南少儿.png" group-title="云南",云南少儿
 rtmp://hwzbout.yntv.net/62hdvf/9ojsty
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://11.112114.xyz/logo/云南少儿.png" group-title="云南",云南少儿
@@ -13832,6 +13956,8 @@ http://A/ku9/js/Yunnan/yn.js?id=ynse
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://11.112114.xyz/logo/云南少儿.png" group-title="云南",云南少儿
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Yunnan/yn.js?id=ynse$酷9远程JS
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://11.112114.xyz/logo/云南少儿.png" group-title="云南",云南少儿
+http://192.168.1.200/myphp/yunnan.php?id=yunnanshaoer
+#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://11.112114.xyz/logo/云南少儿.png" group-title="云南",云南少儿
 https://hwapi.yntv.net/62hdvf/9ojsty.m3u8
 #EXTINF:-1 tvg-name="云南澜湄国际" tvg-logo="https://11.112114.xyz/logo/云南澜湄国际.png" group-title="云南",云南澜湄国际
 http://A/ku9/js/Yunnan/qicaiyunnan.js?id=yunnanguoji
@@ -13841,6 +13967,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Yunnan/yn.js?id=yngj
 #EXTINF:-1 tvg-name="云南澜湄国际" tvg-logo="https://11.112114.xyz/logo/云南澜湄国际.png" group-title="云南",云南澜湄国际
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Yunnan/yn.js?id=yngj$酷9远程JS
+#EXTINF:-1 tvg-name="云南澜湄国际" tvg-logo="https://11.112114.xyz/logo/云南澜湄国际.png" group-title="云南",云南澜湄国际
+http://192.168.1.200/myphp/yunnan.php?id=yunnanguoji
 #EXTINF:-1 tvg-name="昆明新闻综合" tvg-logo="https://11.112114.xyz/logo/昆明新闻综合.png" group-title="云南",昆明新闻综合
 https://hwapi.yntv.net/ew265l/32l193.m3u8
 #EXTINF:-1 tvg-name="昆明新闻综合" tvg-logo="https://11.112114.xyz/logo/昆明新闻综合.png" group-title="云南",昆明新闻综合
@@ -14200,6 +14328,8 @@ http://A/ku9/js/Zhejiang/hztv.js?id=hzzh
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://11.112114.xyz/logo/杭州综合.png" group-title="浙江",杭州综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/hztv.js?id=hzzh$酷9远程JS
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://11.112114.xyz/logo/杭州综合.png" group-title="浙江",杭州综合
+http://192.168.1.200/myphp/hangzhou.php?id=hzzh
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://11.112114.xyz/logo/杭州综合.png" group-title="浙江",杭州综合
 http://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
 #EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://11.112114.xyz/logo/杭州明珠.png" group-title="浙江",杭州明珠
 http://A/ku9/js/Zhejiang/hangzhou.js?id=xh
@@ -14209,6 +14339,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Zhejiang/hztv.js?id=hzmz
 #EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://11.112114.xyz/logo/杭州明珠.png" group-title="浙江",杭州明珠
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/hztv.js?id=hzmz$酷9远程JS
+#EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://11.112114.xyz/logo/杭州明珠.png" group-title="浙江",杭州明珠
+http://192.168.1.200/myphp/hangzhou.php?id=hzmz
 #EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://11.112114.xyz/logo/杭州生活.png" group-title="浙江",杭州生活
 http://A/ku9/js/Zhejiang/hangzhou.js?id=sh
 #EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://11.112114.xyz/logo/杭州生活.png" group-title="浙江",杭州生活
@@ -14217,6 +14349,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Zhejiang/hztv.js?id=hzsh
 #EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://11.112114.xyz/logo/杭州生活.png" group-title="浙江",杭州生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/hztv.js?id=hzsh$酷9远程JS
+#EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://11.112114.xyz/logo/杭州生活.png" group-title="浙江",杭州生活
+http://192.168.1.200/myphp/hangzhou.php?id=hzsh
 #EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://11.112114.xyz/logo/杭州影视.png" group-title="浙江",杭州影视
 http://A/ku9/js/Zhejiang/hangzhou.js?id=ys
 #EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://11.112114.xyz/logo/杭州影视.png" group-title="浙江",杭州影视
@@ -14225,6 +14359,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Zhejiang/hztv.js?id=hzys
 #EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://11.112114.xyz/logo/杭州影视.png" group-title="浙江",杭州影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/hztv.js?id=hzys$酷9远程JS
+#EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://11.112114.xyz/logo/杭州影视.png" group-title="浙江",杭州影视
+http://192.168.1.200/myphp/hangzhou.php?id=hzys
 #EXTINF:-1 tvg-name="杭州青少体育" tvg-logo="https://11.112114.xyz/logo/杭州青少体育.png" group-title="浙江",杭州青少体育
 http://A/ku9/js/Zhejiang/hangzhou.js?id=qt
 #EXTINF:-1 tvg-name="杭州青少体育" tvg-logo="https://11.112114.xyz/logo/杭州青少体育.png" group-title="浙江",杭州青少体育
@@ -14233,6 +14369,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Zhejiang/hztv.js?id=hzqsty
 #EXTINF:-1 tvg-name="杭州青少体育" tvg-logo="https://11.112114.xyz/logo/杭州青少体育.png" group-title="浙江",杭州青少体育
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/hztv.js?id=hzqsty$酷9远程JS
+#EXTINF:-1 tvg-name="杭州青少体育" tvg-logo="https://11.112114.xyz/logo/杭州青少体育.png" group-title="浙江",杭州青少体育
+http://192.168.1.200/myphp/hangzhou.php?id=hzqsty
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://11.112114.xyz/logo/杭州导视.png" group-title="浙江",杭州导视
 http://A/ku9/js/Zhejiang/hangzhou.js?id=ds
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://11.112114.xyz/logo/杭州导视.png" group-title="浙江",杭州导视
@@ -14241,6 +14379,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://A/ku9/js/Zhejiang/hztv.js?id=hzds
 #EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://11.112114.xyz/logo/杭州导视.png" group-title="浙江",杭州导视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/hztv.js?id=hzds$酷9远程JS
+#EXTINF:-1 tvg-name="杭州导视" tvg-logo="https://11.112114.xyz/logo/杭州导视.png" group-title="浙江",杭州导视
+http://192.168.1.200/myphp/hangzhou.php?id=hzds
 #EXTINF:-1 tvg-name="宁波新闻综合" tvg-logo="https://11.112114.xyz/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
 https://mytv.easonzhang.eu.org/api/ningbo.php?id=nbtv1
 #EXTINF:-1 tvg-name="宁波新闻综合" tvg-logo="https://11.112114.xyz/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
@@ -14609,6 +14749,8 @@ http://p2hs.vzan.com/slowlive/140655701702632623/live.m3u8
 http://A/ku9/js/Zhejiang/hztv.js?id=fyxwzh
 #EXTINF:-1 tvg-name="富阳新闻综合" tvg-logo="https://11.112114.xyz/logo/富阳新闻综合.png" group-title="浙江",富阳新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/hztv.js?id=fyxwzh$酷9远程JS
+#EXTINF:-1 tvg-name="富阳新闻综合" tvg-logo="https://11.112114.xyz/logo/富阳新闻综合.png" group-title="浙江",富阳新闻综合
+http://192.168.1.200/myphp/hangzhou.php?id=fyxwzh
 #EXTINF:-1 tvg-name="洞头综合" tvg-logo="https://11.112114.xyz/logo/洞头综合.png" group-title="浙江",洞头综合
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="洞头综合" tvg-logo="https://11.112114.xyz/logo/洞头综合.png" group-title="浙江",洞头综合
