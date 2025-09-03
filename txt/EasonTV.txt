@@ -77,7 +77,9 @@ CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031664
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265004
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8183388942203045169
 CCTV-4美洲,http://k.061899.xyz/k.php?id=cctv4m
+CCTV-4美洲,http://192.168.1.200/myphp/jzb.php?id=cctv4a
 CCTV-4欧洲,http://k.061899.xyz/k.php?id=cctv4o
+CCTV-4欧洲,http://192.168.1.200/myphp/jzb.php?id=cctv4o
 CCTV-5,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-5,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-5,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001187/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -128,6 +130,7 @@ CCTV-5+,http://[2409:8087:1a15:10d1::6]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-5+,http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
 CCTV-5+,http://[2409:8087:1a15:10d1::8]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
 CCTV-5+,http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动V6
+CCTV-5+,http://192.168.1.200/myphp/jzb.php?id=cctv5p
 CCTV-5+,http://k.061899.xyz/k.php?id=cctv5p
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031127
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000018504
@@ -2446,11 +2449,13 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 蚌埠新闻,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/anhuidf.js?id=bbxw&key=关注公共号❤：AI科技生活$酷9远程JS
 蚌埠新闻,https://live.ahsx.ahtv.cn/live/bbtv.m3u8?txSecret=ebffe06acf43cdc63aa59bded04cca45&txTime=6954CAD3
 蚌埠新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/bbtv.m3u8
+安庆新闻综合,http://192.168.1.200/myphp/anhui_anqing.php?id=61005770c525480db84eed456cd093c1
 安庆新闻综合,https://nrtapush.ahsx.ahtv.cn/live/aqpd.m3u8?txSecret=ffe64c1a8ed3f34b6277d30237f4618b&txTime=688AE38B
 安庆新闻综合,https://aq-live.media.xinhuamm.net/r/252b77197b104e1aa2456481204fb656.m3u8?auth_key=2341308330-0-0-4e8ffbdb0c0dcfab23e1b8962730f59d
 安庆新闻综合,http://live.ahcartv.dev.geek-zoo.cn/live/aqpd.m3u8?txSecret=068c51559e25e8891c14335dd58be9bc&txTime=6861F813
 安庆新闻综合,http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3214.m3u8?auth_key=4840160301-0-0-378c5d20acdfb32e54fe2f61b057ecff&extra_key=qj4e5_Ej_mtN2cbGJEcXXjgw_HVomOse5m7vYzTTZ4M3tRajimjfp6N0QpS7g3ceGHkR7LqT0Kxj8Tn2sRlk7RwZ0GaWLs_CkzOYAF6IHwgf6Lbta-F7B_2g6wO7mYGIamz4w7or8NkNjGhC4MExW4sdqzTUSoe9cXN-snl9s9OhN0PIDv0lxTbXYIJ7fSDU
 安庆新闻综合,http://203.205.191.53/nrtapush.ahsx.ahtv.cn/live/aqpd.m3u8
+安庆经济生活,http://192.168.1.200/myphp/anhui_anqing.php?id=b7287de089c6401f985ae27873fb34f8
 安庆经济生活,https://aq-live.media.xinhuamm.net/r/ed093a3514bd4174b1dbd5af8a8e0a9c.m3u8?auth_key=2341308528-0-0-1d8df1d541b495f33875e247c9300fc1
 安庆经济生活,http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3215.m3u8?auth_key=4840160247-0-0-09f173f08ee665e4b1b65aa69a5ee46d&extra_key=9Gv-6hfRrMAaAuD7AYFdmB969naxPovqhZHAkcCYJSb1EAOCXARnqb8CUtO3J79-DQBGs-_55m2odXUh9cAecLDbz52sbpGw9b0f7umLy91QXS1P_Ueiz0_24GvOOdDugwSYLDZBUq-Ia5AZgi3CDUtTcex5hgsjrgkpwyXJnQH37tIiCpZY3zrNbW0tiDDU
 
