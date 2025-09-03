@@ -2544,6 +2544,7 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 生态环境,http://www.lizhinas.top:1009/rtp/239.252.220.216:5140$江西电信
 
 重庆,#genre#
+重庆新闻,http://192.168.1.200/myphp/chongqing_news.php
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/m20256.m3u8
 重庆汽摩,http://www.lizhinas.top:1009/rtp/239.252.220.181:5140$江西电信
 重庆汽摩,http://php.jdshipin.com/cqyx.php?id=cqcarSD
@@ -4637,6 +4638,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 武汉文体,http://stream.appwuhan.com:80/5tzb/sd/live.m3u8
 武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
+武汉教育,https://mytv.easonzhang.eu.org/api/wuhan_edu.php
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 秭归新闻综合,http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-f27821a31e3848f8ad80f2ae93e2f8c3&sid=10111
 秭归新闻综合,http://app.cjyun.org/video/player/index?video=http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-f27821a31e3848f8ad80f2ae93e2f8c3&sid=10111&sid=10120&autoStart=1
@@ -6896,9 +6898,11 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 新疆少儿,http://cdn.jdshipin.com:8880/xjtv.php?id=xjse
 乌鲁木齐汉语综合,http://A/ku9/js/Xinjiang/wlmq.js?id=hy
 乌鲁木齐汉语综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/wlmq.js?id=hy$酷9远程JS
+乌鲁木齐汉语综合,http://192.168.1.200/myphp/wlmq.php?id=17
 乌鲁木齐汉语综合,http://pili-live-rtmp.xjwlmqapp2019.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
 乌鲁木齐维语综合,http://A/ku9/js/Xinjiang/wlmq.js?id=wy
 乌鲁木齐维语综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/wlmq.js?id=wy$酷9远程JS
+乌鲁木齐维语综合,http://192.168.1.200/myphp/wlmq.php?id=21
 乌鲁木齐维语综合,http://pili-live-rtmp.xjwlmqapp2019.sobeylive.com/xjwlmqapp2019/wy.m3u8
 五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.flv

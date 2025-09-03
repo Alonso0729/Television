@@ -5178,6 +5178,8 @@ http://php.jdshipin.com/cqyx.php?id=huanqiulvyou
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://11.112114.xyz/logo/生态环境.png" group-title="北京",生态环境
 http://www.lizhinas.top:1009/rtp/239.252.220.216:5140$江西电信
 #EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://11.112114.xyz/logo/重庆新闻.png" group-title="重庆",重庆新闻
+http://192.168.1.200/myphp/chongqing_news.php
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://11.112114.xyz/logo/重庆新闻.png" group-title="重庆",重庆新闻
 https://cqonsitecdn.cbgcloud.com/qf6jl2/m20256.m3u8
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://11.112114.xyz/logo/重庆汽摩.png" group-title="重庆",重庆汽摩
 http://www.lizhinas.top:1009/rtp/239.252.220.181:5140$江西电信
@@ -9333,6 +9335,8 @@ http://stream.appwuhan.com/5tzb/sd/live.m3u8
 http://stream.appwuhan.com:80/5tzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="武汉外语" tvg-logo="https://11.112114.xyz/logo/武汉外语.png" group-title="湖北",武汉外语
 http://stream.appwuhan.com/6tzb/sd/live.m3u8
+#EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://11.112114.xyz/logo/武汉教育.png" group-title="湖北",武汉教育
+https://mytv.easonzhang.eu.org/api/wuhan_edu.php
 #EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://11.112114.xyz/logo/武汉教育.png" group-title="湖北",武汉教育
 http://stream.appwuhan.com/jyzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="秭归新闻综合" tvg-logo="https://11.112114.xyz/logo/秭归新闻综合.png" group-title="湖北",秭归新闻综合
@@ -13832,11 +13836,15 @@ http://A/ku9/js/Xinjiang/wlmq.js?id=hy
 #EXTINF:-1 tvg-name="乌鲁木齐汉语综合" tvg-logo="https://11.112114.xyz/logo/乌鲁木齐汉语综合.png" group-title="新疆",乌鲁木齐汉语综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/wlmq.js?id=hy$酷9远程JS
 #EXTINF:-1 tvg-name="乌鲁木齐汉语综合" tvg-logo="https://11.112114.xyz/logo/乌鲁木齐汉语综合.png" group-title="新疆",乌鲁木齐汉语综合
+http://192.168.1.200/myphp/wlmq.php?id=17
+#EXTINF:-1 tvg-name="乌鲁木齐汉语综合" tvg-logo="https://11.112114.xyz/logo/乌鲁木齐汉语综合.png" group-title="新疆",乌鲁木齐汉语综合
 http://pili-live-rtmp.xjwlmqapp2019.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
 #EXTINF:-1 tvg-name="乌鲁木齐维语综合" tvg-logo="https://11.112114.xyz/logo/乌鲁木齐维语综合.png" group-title="新疆",乌鲁木齐维语综合
 http://A/ku9/js/Xinjiang/wlmq.js?id=wy
 #EXTINF:-1 tvg-name="乌鲁木齐维语综合" tvg-logo="https://11.112114.xyz/logo/乌鲁木齐维语综合.png" group-title="新疆",乌鲁木齐维语综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Xinjiang/wlmq.js?id=wy$酷9远程JS
+#EXTINF:-1 tvg-name="乌鲁木齐维语综合" tvg-logo="https://11.112114.xyz/logo/乌鲁木齐维语综合.png" group-title="新疆",乌鲁木齐维语综合
+http://192.168.1.200/myphp/wlmq.php?id=21
 #EXTINF:-1 tvg-name="乌鲁木齐维语综合" tvg-logo="https://11.112114.xyz/logo/乌鲁木齐维语综合.png" group-title="新疆",乌鲁木齐维语综合
 http://pili-live-rtmp.xjwlmqapp2019.sobeylive.com/xjwlmqapp2019/wy.m3u8
 #EXTINF:-1 tvg-name="五师双河新闻综合" tvg-logo="https://11.112114.xyz/logo/五师双河新闻综合.png" group-title="新疆",五师双河新闻综合
