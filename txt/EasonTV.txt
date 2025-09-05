@@ -342,6 +342,7 @@ CECTV-汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CECTV-国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CECTV-国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CECTV-国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+CECTV-美食文化,http://192.168.1.200/myphp/gdy.php?pid=3782&cid=4251
 CGTN英语,https://mytv.easonzhang.eu.org/api/cgtn.php?id=cgtn
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN英语,http://k.061899.xyz/k.php?id=cgtn
@@ -376,6 +377,7 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140$江西电信
 风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140$江西电信
 女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140$江西电信
+第一剧场,http://192.168.1.200/myphp/gdy.php?pid=1793&cid=2311
 第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140$江西电信
 风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140$江西电信
 风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140$江西电信
@@ -2312,6 +2314,7 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 合肥教育法制,http://A/ku9/js/Anhui/hefei.js?id=4
 合肥教育法制,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Anhui/hefei.js?id=4$酷9远程JS
 肥东新闻综合,https://mytv.easonzhang.eu.org/api/anhui_feidong.php?id=752
+肥东新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3780&cid=1167
 肥东新闻综合,https://31699.hlsplay.aodianyun.com/tv_radio_31699/tv_channel_3780.m3u8?auth_key=3318562388-0-0-8ebbb954451edcaa4ab7f7e8f6b9f8c
 肥东经济生活,https://mytv.easonzhang.eu.org/api/anhui_feidong.php?id=753
 肥东经济生活,https://gnhls.qingmei.tv/live/jjsh.m3u8?volcTime=1774408589&volcSecret=4938d82045551d670c9d796c4ec39bc4
@@ -2331,8 +2334,10 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 宿州科教,rtmp://live.ahsz.tv/video/s10001-kxjy
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy-hd/index.m3u8
 宿州经济生活,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+宿松新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3390&cid=4180
 宿松新闻综合,rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=4849469644-0-0-4ebac1aa7b06c07197e6a43bb43b3fa7
 宿松新闻综合,http://52181.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3390.m3u8?auth_key=4864330173-0-0-2a353fbf5a7ca1fbcd416784d0dd6feb&extra_key=FRIjWvNtz2cHy_4tijOGiUt7HGzSh36VS8wM7heXJuKS7QcdzmYtB4Xdwq1-b49heYVFgOjfNYcHlNkWMLljrgOgBYUtPvwV329k2Wtl9C1vpcHndVm2VT0bYMkLnNPAKUqWAnhUpZ259pZH3kjIIJAAI7lXbvNNkOq0p761Gds
+宿松戏曲文艺,http://192.168.1.200/myphp/gdy.php?pid=3389&cid=4180
 宿松戏曲文艺,rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3389?auth_key=4849469668-0-0-a08583749fce624e9ff690c859fcf8ae
 宿松戏曲文艺,http://52181.hlsplay.aodianyun.com/tv_radio_52181/tv_channel_3389.m3u8?auth_key=4864330202-0-0-2268f4d5824c10bb314f55dc9cd6b165&extra_key=rwRUgVSNWali97XRZgNTe4xO1vc8AG2jj51x8uQ7gSUG-XyXYVHFzXxi5tygubMbWE7cRjthGbemXjtCXGTqIE-4BBaPBL-LaG6ZTKGc-p9GYmcPwlPB3DuYKNV_2nnPq7h_TG4Dvi4flw3CUYjIRvrtvCAUIcWgymSmI75x3QU
 萧县新闻综合,http://60.171.239.216:9080/hls/stream1.m3u8
@@ -2414,12 +2419,16 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 固镇综合,http://www.guzhenm.com:7002/hls/hd-live.m3u8
 固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+阜阳新闻综合,http://192.168.1.200/myphp/gdy.php?pid=2851&cid=2577
+阜阳生活,http://192.168.1.200/myphp/gdy.php?pid=2853&cid=2577
 阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
 阜阳生活,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308
+阜阳都市文艺,http://192.168.1.200/myphp/gdy.php?pid=2854&cid=2577
+阜阳都市文艺,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
+阜阳都市文艺,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
+阜阳教育,http://192.168.1.200/myphp/gdy.php?pid=2852&cid=2577
 阜阳教育,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
 阜阳教育,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca
-阜阳都市文艺,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
-阜阳都市文艺,http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
 阜南新闻综合,https://xhmm-new-live.media.xinhuamm.net/liveNoRecord/a42bf9ee9c224a44a393aafc33990c78_111ae5a842ff4b32ab277ed1d9e216c5.m3u8?auth_key=2017017629-3866c768f70a4b47a2352f7b746e7bc1-0-1470ba4cbd641cbe479da8838d3396da
 阜南新闻综合,http://xhmm-new-live.media.xinhuamm.net/liveNoRecord/a42bf9ee9c224a44a393aafc33990c78_111ae5a842ff4b32ab277ed1d9e216c5.m3u8?auth_key=2017017629-3866c768f70a4b47a2352f7b746e7bc1-0-1470ba4cbd641cbe479da8838d3396da
 阜南新闻综合,http://xhmm-new-live.media.xinhuamm.net/liveNoRecord/a42bf9ee9c224a44a393aafc33990c78_111ae5a842ff4b32ab277ed1d9e216c5.flv?auth_key=2017017629-3866c768f70a4b47a2352f7b746e7bc1-0-b51623f59e01a3520d9e1dd584ce14b2
@@ -2458,6 +2467,9 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 安庆经济生活,http://192.168.1.200/myphp/anhui_anqing.php?id=b7287de089c6401f985ae27873fb34f8
 安庆经济生活,https://aq-live.media.xinhuamm.net/r/ed093a3514bd4174b1dbd5af8a8e0a9c.m3u8?auth_key=2341308528-0-0-1d8df1d541b495f33875e247c9300fc1
 安庆经济生活,http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3215.m3u8?auth_key=4840160247-0-0-09f173f08ee665e4b1b65aa69a5ee46d&extra_key=9Gv-6hfRrMAaAuD7AYFdmB969naxPovqhZHAkcCYJSb1EAOCXARnqb8CUtO3J79-DQBGs-_55m2odXUh9cAecLDbz52sbpGw9b0f7umLy91QXS1P_Ueiz0_24GvOOdDugwSYLDZBUq-Ia5AZgi3CDUtTcex5hgsjrgkpwyXJnQH37tIiCpZY3zrNbW0tiDDU
+宁国新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1588&cid=2465
+桐城综合,http://192.168.1.200/myphp/gdy.php?pid=3350&cid=4104
+砀山新闻综合,http://192.168.1.200/myphp/gdy.php?pid=2334&cid=1364
 
 北京,#genre#
 北京文艺,https://mytv.easonzhang.eu.org/api/beijing_app.php?id=bjwy
@@ -2536,6 +2548,7 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 顺义综合,http://livebjsy.chinamcache.com/live/zb01.m3u8
 顺义综合,http://livebjsy.chinamcache.com/live/zb02.m3u8
 延庆电视台,https://videoplay.yanqingrmzx.com/yanqappvideo/yqingappvideo.m3u8?auth_key=1725670927-0-0-692111986e725c19ea6478b894e23911
+昌平综合,http://192.168.1.200/myphp/gdy.php?pid=3341&cid=3698
 优优宝贝,http://www.lizhinas.top:1009/rtp/239.252.220.219:5140$江西电信
 车迷频道,http://www.lizhinas.top:1009/rtp/239.252.220.215:5140$江西电信
 车迷频道,http://www.cdnstv.com:6398/hls/1177/index.m3u8
@@ -2660,8 +2673,10 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 厦门移动电视,http://192.168.1.200/myphp/xiamen.php?id=52
 厦门移动电视,https://live1b.kxm.xmtv.cn/xmyidongbf_1b/playlist.m3u8
 厦门移动电视,https://live1b.kxm.xmtv.cn/xmyidongbf_1b/tvzb/live.m3u8
-漳州一套,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.flv
-漳州一套,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+漳州新闻综合,http://192.168.1.200/myphp/gdy.php?pid=175&cid=1116
+漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.flv
+漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+漳浦综合,http://192.168.1.200/myphp/gdy.php?pid=2803&cid=3350
 漳浦综合,http://220.161.87.62:8800/hls/0/index.m3u8
 漳浦综合,rtmp://220.161.87.62:1935/live/0
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
@@ -2692,6 +2707,7 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 泉州闽南语,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Fujian/quanzhou.js?id=qzmny$酷9远程JS
 泉州闽南语,http://kudan.x3322.net:3456/quanzhou.php?id=qzmny
 泉州闽南语,rtmp://live.qztv.cn/live/mny
+德化电视台,http://192.168.1.200/myphp/gdy.php?pid=2467&cid=3164
 德化电视台,https://play.cmptp.fjgdwl.com/live/63a563ec75764af588f3215b0afa2588.m3u8
 晋江市电视台,https://live.ijjnews.com/jjtv/sd/live.m3u8
 石狮电视台,http://live-new.chinashishi.net/SSTV/sd/live.m3u8
@@ -2699,6 +2715,18 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 建宁综合,http://pull-hsbj.vzan.com/v/2144741973_681448837351911792.m3u8
 建宁综合,http://pull-hsbj.vzan.com/v/2144741973_681448837351911792.flv
 建宁综合,rtmp://pull-hsbj.vzan.com/v/2144741973_681448837351911792
+福清综合,http://192.168.1.200/myphp/gdy.php?pid=699&cid=1945
+闽侯综合,http://192.168.1.200/myphp/gdy.php?pid=2068&cid=2656
+平潭新闻综合,http://192.168.1.200/myphp/gdy.php?pid=907&cid=1118
+平潭旅游文化,http://192.168.1.200/myphp/gdy.php?pid=908&cid=1118
+永安综合,http://192.168.1.200/myphp/gdy.php?pid=2597&cid=3454
+沙县综合,http://192.168.1.200/myphp/gdy.php?pid=425&cid=1567
+尤溪综合,http://192.168.1.200/myphp/gdy.php?pid=765&cid=2055
+尤溪旅游宣传,http://192.168.1.200/myphp/gdy.php?pid=767&cid=2055
+泉港电视台,http://192.168.1.200/myphp/gdy.php?pid=2333&cid=3708
+永春综合,http://192.168.1.200/myphp/gdy.php?pid=1792&cid=2311
+永春公共,http://192.168.1.200/myphp/gdy.php?pid=1793&cid=2311
+集美综合,http://192.168.1.200/myphp/gdy.php?pid=3102&cid=4113
 
 甘肃,#genre#
 甘肃经济,https://hls.gstv.com.cn/49048r/10iv1j.m3u8
@@ -3010,6 +3038,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 湛江综合,http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.flv
 湛江公共,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
 湛江公共,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.flv
+增城电视台,http://192.168.1.200/myphp/gdy.php?pid=3454&cid=3047
 增城电视台,https://44372.hlsplay.aodianyun.com/tv_radio_44372/tv_channel_3454.m3u8?auth_key=3302990233-0-0-447a4429d3cd0b9498435f8d0710e754&extra_key=xYrWaeH47ng6LgNv3gtGnKLRsri9Mh7okSc1pQ0Lw-5jwpfeFEm5QkWXcX5LsBM2QllVnB9VAA0PiHh9jKD0e8OAnX7856RTQC0SPuDRS--6bpHRC1ETUcuFN_dvpyA-4F13ZieDava7Bir-rIIhYzgyfMEEasxZ67lJMVU1z6o
 云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
 云浮文旅,https://livestream.oeeee.com/slive/28284.m3u8
@@ -3058,6 +3087,9 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 东莞生活资讯,rtmp://stream.sun0769.com/dgrtv1/mp4tv2_1500
 潮州综合,http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州公共,http://vod-zjst-time.sobeylive.com/czbtv2019/czggpd.m3u8
+信宜综合,http://192.168.1.200/myphp/gdy.php?pid=643&cid=1629
+开平综合,http://192.168.1.200/myphp/gdy.php?pid=1434&cid=1132
+开平生活,http://192.168.1.200/myphp/gdy.php?pid=1435&cid=1132
 
 广西,#genre#
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
@@ -3076,13 +3108,17 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.flv
 南宁公共,rtmp://rtmp.nntv.cn/nnlive/GGPD_24
 南宁公共,rtmp://live.gxrb.com.cn/tv/nntv_gg
+柳州新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1902&cid=3370
+柳州科教,http://192.168.1.200/myphp/gdy.php?pid=1808&cid=3370
 资源综合,http://rtmp.gdlive.gdmain.com/live/5z4yjgm0.m3u8
 资源综合,http://pulls.myun.tv/live/5z4yjgm0.m3u8
 资源综合,http://pull0503gxd.myun.tv/live/5z4yjgm0.m3u8
 资源综合,http://lives.myun.tv/live/5z4yjgm0.m3u8
 昭平综合,rtmp://live.gxrb.com.cn/gx/zhaoping
+玉林新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3289&cid=4042
 玉林新闻综合,http://51742.hlsplay.aodianyun.com/tv_radio_51742/tv_channel_3289.m3u8?auth_key=4846965841-0-0-9764667fa15da8675d9343a9d685e93b&extra_key=3G7phQNujucfjDfVZX7XtFsfMjeELWIZpjNRADdYpRWOUdAykIw7RkxbAmiF9U934MKf8LNlRPUVp9ooT4UEvKJQlaJrZuMqJnw-UvayII5G4kw7jFgAqhhjpD4DC7gyZEtynT7zMnF8xzE3J1g6soaagSkmkag_tsjqRTH1zeM
 玉林新闻综合,http://51742.hlsplay.aodianyun.com/tv_radio_51742/tv_channel_3289.m3u8?auth_key=4846965841-0-0-9764667fa15da8675d9343a9d685e93b
+玉林公共,http://192.168.1.200/myphp/gdy.php?pid=3290&cid=4042
 玉林公共,http://51742.hlsplay.aodianyun.com/tv_radio_51742/tv_channel_3290.m3u8?auth_key=4846966707-0-0-3692291c1867891a8e1bcd3342c2c7d3&extra_key=WyQ8_SnoOM_9UoUOZv2pjgP04oOipJ-pQWnJjw0jcBbaVgB0SkWuufEouIoMrTTOHqCKsiuUTwsIC0eKdC6zj2Gjlo7loVJYBjnj9u34skklFkjAiC1ZElhnKpE8Ld7G4gu1Brfz5mapU04IA8BsDydhsghkaLRDTTxYAQGuvqw
 玉林公共,http://51742.hlsplay.aodianyun.com/tv_radio_51742/tv_channel_3290.m3u8?auth_key=4846966707-0-0-3692291c1867891a8e1bcd3342c2c7d3
 兴安综合,rtmp://live.gxrb.com.cn/gx/xingan
@@ -3245,6 +3281,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 贵州移动电视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guizhou/gzstv.js?id=ch13$酷9远程JS
 贵州移动电视,http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
 天元围棋,http://php.jdshipin.com/cqyx.php?id=weiqi
+贵阳新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3398&cid=4263
 安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.m3u8
 安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.flv
 安顺公共,http://hplayer1.juyun.tv/camera/154526164.m3u8
@@ -3266,6 +3303,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 松桃综艺,http://live.strmtzx.cn/stzy/sd/live.m3u8
 凤冈综合,http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
+印江电视台,http://192.168.1.200/myphp/gdy.php?pid=3043&cid=4088
 
 海南,#genre#
 海南自贸,https://mytv.easonzhang.eu.org/api/hainan.php?id=jjpd
@@ -3291,6 +3329,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 海口城乡经济,http://183.255.46.4:16080/live/tv2503.flv
 海口城乡经济,https://www.hkbtv.cn/live/tv2503.m3u8
 海口城乡经济,https://www.hkbtv.cn/live/tv2503.flv
+儋州台,http://192.168.1.200/myphp/gdy.php?pid=1330&cid=1669
 儋州台,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3
 
 河北,#genre#
@@ -3362,18 +3401,21 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 石家庄文化娱乐,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/shijiaz.js?id=6$酷9远程JS
 保定新闻综合,http://A/ku9/js/Hebei/hebeidf.js?id=bd1&key=关注公共号❤：AI科技生活
 保定新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/hebeidf.js?id=bd1&key=关注公共号❤：AI科技生活$酷9远程JS
+保定新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3067&cid=1630
 保定新闻综合,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定新闻综合,http://111.225.95.105:33333/hls/27/index.m3u8
 保定新闻综合,http://111.225.94.177:33333/hls/27/index.m3u8
 保定新闻综合,http://111.225.93.174:33333/hls/27/index.m3u8
 保定公共,http://A/ku9/js/Hebei/hebeidf.js?id=bd2&key=关注公共号❤：AI科技生活
 保定公共,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/hebeidf.js?id=bd2&key=关注公共号❤：AI科技生活$酷9远程JS
+保定公共,http://192.168.1.200/myphp/gdy.php?pid=3068&cid=1630
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定公共,http://111.225.95.105:33333/hls/28/index.m3u8
 保定公共,http://111.225.94.177:33333/hls/28/index.m3u8
 保定公共,http://111.225.93.174:33333/hls/28/index.m3u8
 保定生活健康,http://A/ku9/js/Hebei/hebeidf.js?id=bd3&key=关注公共号❤：AI科技生活
 保定生活健康,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hebei/hebeidf.js?id=bd3&key=关注公共号❤：AI科技生活$酷9远程JS
+保定生活健康,http://192.168.1.200/myphp/gdy.php?pid=3069&cid=1630
 保定生活健康,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 保定生活健康,http://111.225.95.105:33333/hls/29/index.m3u8
 保定生活健康,http://111.225.94.177:33333/hls/29/index.m3u8
@@ -3544,6 +3586,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 霸州公共,http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
 安平综合,http://zhap.city1000.cn/xinwen/ap_xw.m3u8
 安平综合,http://zhap.city1000.cn/xinwen/ap_xw.flv
+冀州综合,http://192.168.1.200/myphp/gdy.php?pid=732&cid=1724
+武强综合,http://192.168.1.200/myphp/gdy.php?pid=3654&cid=1425
 
 河南,#genre#
 河南都市,https://mytv.easonzhang.eu.org/api/henan_daxiang.php?id=hnds
@@ -3791,9 +3835,11 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 新郑综合,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
 新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
 新乡新闻综合,https://mytv.easonzhang.eu.org/api/henan_daxiang.php?id=xxxw
+新乡新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3706&cid=4436
 新乡新闻综合,http://php.jdshipin.com/hntv.php?id=xx1
 新乡新闻综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 新乡新闻综合,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+新乡公共,http://192.168.1.200/myphp/gdy.php?pid=3708&cid=4436
 新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
 新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-1.m3u8
 新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
@@ -3842,10 +3888,14 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 棋牌汇,http://1.197.253.9:885/hls/32/index.m3u8
 淇县电视台,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 濮阳综合,https://mytv.easonzhang.eu.org/api/henan_daxiang.php?id=pyxw
+濮阳综合,http://192.168.1.200/myphp/gdy.php?pid=3662&cid=3616
 濮阳综合,http://php.jdshipin.com/hntv.php?id=py1
 濮阳综合,http://zhpull.dxhmt.cn/puyangxian/0779dbf4086a455fa1f36e3d56740a41/playlist.m3u8
+濮阳公共,http://192.168.1.200/myphp/gdy.php?pid=3017&cid=3616
+濮阳县电视台,http://192.168.1.200/myphp/gdy.php?pid=3753&cid=3616
 平舆综合,http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
 平顶山新闻综合,https://mytv.easonzhang.eu.org/api/henan_daxiang.php?id=pdsxw
+平顶山新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1969&cid=2367
 平顶山新闻综合,http://php.jdshipin.com/hntv.php?id=pds1
 平顶山新闻综合,http://live.dxhmt.cn:9080/13781808226/9a468f23270e457d8872da5e630d9e54.m3u8
 平顶山城市,http://live.muzhifm.com/shuazhibo/room2982_pc.m3u8?auth_key=1785035772-0-0-2e1f9c256448a75c1fc656a32a12794d
@@ -3860,11 +3910,14 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 南阳新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/nanyang.js?id=ny1$酷9远程JS
 南阳新闻综合,http://A/ku9/js/Henan/nanyang2.js?id=nyxwzh
 南阳新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/nanyang2.js?id=nyxwzh$酷9远程JS
+南阳新闻综合,http://192.168.1.200/myphp/gdy.php?pid=142&cid=1081
 南阳新闻综合,http://php.jdshipin.com/hntv.php?id=ny1
 南阳公共,http://A/ku9/js/Henan/nanyang2.js?id=nygg
 南阳公共,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/nanyang2.js?id=nygg$酷9远程JS
+南阳公共,http://192.168.1.200/myphp/gdy.php?pid=295&cid=1081
 南阳科教法治,http://A/ku9/js/Henan/nanyang2.js?id=nykj
 南阳科教法治,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Henan/nanyang2.js?id=nykj$酷9远程JS
+南阳科教法治,http://192.168.1.200/myphp/gdy.php?pid=296&cid=1081
 南乐综合,http://tvpull.dxhmt.cn:9081/tv/10923-1.m3u8
 渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
 泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
@@ -3912,6 +3965,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 华龙有线,http://tvpull.dxhmt.cn:9081/tv/10902-1.m3u8
 华龙有线,http://live.dxhmt.cn:9081/tv/10902-1.m3u8
 鹤壁新闻综合,https://mytv.easonzhang.eu.org/api/henan_daxiang.php?id=hbxw
+鹤壁新闻综合,http://192.168.1.200/myphp/gdy.php?pid=340&cid=1465
 鹤壁新闻综合,http://php.jdshipin.com/hntv.php?id=hb1
 鹤壁新闻综合,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
@@ -4401,6 +4455,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 宁安综合,rtmp://masterpull.hljtv.com/live/BV2wr0vH
 宁安综合,https://rmplive.hljtv.com/live/ningan.m3u8
 宁安综合,https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
+宁安综合,http://192.168.1.200/myphp/gdy.php?pid=2475&cid=3543
 嫩江综合,rtmp://rmplive.hljtv.com/live/nenjiang
 嫩江综合,rtmp://masterpull.hljtv.com/live/hrSfaA6T
 嫩江综合,https://rmplive.hljtv.com/live/nenjiang.m3u8
@@ -4595,11 +4650,13 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 大庆新闻综合,http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8$黑龙江移动V6
 大庆新闻综合,rtmp://masterpull.hljtv.com/live/4WdrZLCq
 大庆新闻综合,https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
+大庆新闻综合,http://192.168.1.200/myphp/gdy.php?pid=2281&cid=1463
 大庆新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 大庆教育,http://[2409:8087:1a15:10d1::10]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8$黑龙江移动V6
 大庆教育,http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8$黑龙江移动V6
 大庆教育,http://[2409:8087:1a15:10d1::30]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8$黑龙江移动V6
 大庆教育,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8$黑龙江移动V6
+大庆教育,http://192.168.1.200/myphp/gdy.php?pid=2283&cid=1463
 大庆教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 勃利综合,rtmp://rmplive.hljtv.com/live/boli
 勃利综合,rtmp://masterpull.hljtv.com/live/6rx9bifO
@@ -4689,8 +4746,9 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 咸宁综合,http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-fea9ed9b2105c8e66da382be47a0acae
 咸宁经济生活,https://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1735660799-0-0-d81f4b2fc33920d8341033fef8dcfd16
 咸宁经济生活,http://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-8cb875770938fdeb7179752f74e13062
+咸丰综合,http://192.168.1.200/myphp/gdy.php?pid=3567&cid=3179
 咸丰综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3567.m3u8?auth_key=4867549325-0-0-cc7ce201270f1bfda8bd5c54e0e5739c&extra_key=hKfYhS2z6614oV0yCs-AFVt7IpvlJJgoGCHOij1q2onFz-Yr5Us2Cd41rIlv4l1XjWrMXCVgYMdOmrNAgjF2W_2a6vxf1HxtHHoYEC6BCIqSeo4VGtaHFxadD2xtzAtmsjFPKB3DP_Ev_ci_KC8TQllAks-AnwmJWoohc4XLA6Q
-咸丰新闻综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3567.m3u8?auth_key=4867549325-0-0-cc7ce201270f1bfda8bd5c54e0e5739c&extra_key=hKfYhS2z6614oV0yCs-AFVt7IpvlJJgoGCHOij1q2onFz-Yr5Us2Cd41rIlv4l1XjWrMXCVgYMdOmrNAgjF2W_2a6vxf1HxtHHoYEC6BCIqSeo4VGtaHFxadD2xtzAtmsjFPKB3DP_Ev_ci_KC8TQllAks-AnwmJWoohc4XLA6Q
+咸丰综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3567.m3u8?auth_key=4867549325-0-0-cc7ce201270f1bfda8bd5c54e0e5739c&extra_key=hKfYhS2z6614oV0yCs-AFVt7IpvlJJgoGCHOij1q2onFz-Yr5Us2Cd41rIlv4l1XjWrMXCVgYMdOmrNAgjF2W_2a6vxf1HxtHHoYEC6BCIqSeo4VGtaHFxadD2xtzAtmsjFPKB3DP_Ev_ci_KC8TQllAks-AnwmJWoohc4XLA6Q
 武穴综合,https://wuxue-live21.cjyun.org/10107/s10107-wxtv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-5027944a3323aec0fb1293cb024a9555&sid=1&autoStart=1
 五峰电视台,https://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1735660799-0-0-6e0f896e48713ad894a3b35b92780628
 五峰电视台,http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-06846ff2e035fdacd3bed68838375e5f
@@ -4698,7 +4756,9 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 通山综合,https://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-23ad1b5ada69ec0d4796d8227f737ca6&sid=10134&autoStart=1
 通山综合,https://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1735660799-0-0-aa195babe014c73b2e4f423d1ae4622f
 通山综合,http://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-23ad1b5ada69ec0d4796d8227f737ca6
+随州综合,http://192.168.1.200/myphp/gdy.php?pid=304&cid=1487
 随州综合,https://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8?auth_key=3302215019-0-0-de184e5122771cc495e468e9c7436cef&extra_key=Gpp9OoaDCH7QYfDm16Wcl4hKcngRCXVGx9VcHeaQX930Ka3v-c4mV2j97p_kbvdufvKF3Q6wFS1W_H1aXcWh_V1jOTCERh56NU_qMoXr0phq-bmgkVoBH38ozPxOe3-ykriQMcm-F2_pLFglvV2A78dDHi093smvbecTkzhTa9c
+随州农村,http://192.168.1.200/myphp/gdy.php?pid=305&cid=1487
 随州农村,https://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8?auth_key=3302215637-0-0-ced6f406c4ff6e16edb0959f7d6600c5&extra_key=Z7grDZO4e_1OJTbTzz9CB1XhDyBay1lf_GPwKh_Q1ye7qTAt80lk4bAnyqM1YtS7-cCnEE600CDUMfLyba0O3pOROiZm7BHYTGFQuWxWiS176QsQu9OY_VTcvIkwzij3U_hgBqEW2Ko-M2oKgnFWVKgLft8SROIMGz1ZpWAPorQ
 松滋综合,https://songzi-live21.cjyun.org/10194/s10194-songzi-tv1.m3u8?auth_key=1735660799-0-0-a380e59865129a39561528ada31d0e63
 松滋综合,http://songzi-live21.cjyun.org/10194/s10194-songzi-tv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-388ba0519fa8a2846925a78282f2aa1f
@@ -4726,6 +4786,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 荆州新闻综合,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1735660799-0-0-e0477d4b5bc584e7518a1bde13892cbe
 荆州垄上,https://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-7dff02969ff316d795ac73c86747fd05
+荆门新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3612&cid=1936
 荆门新闻综合,https://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1735660799-0-0-04adca697874bc8b70f46fa700ba3e0a
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 荆门新闻综合,http://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a3399d7105dbd7cc983c2845a1d2f949
@@ -4741,8 +4802,12 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 嘉鱼新闻综合,https://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9ca56ee7b0e7b23d7ccb3f6649b2686a&sid=10131&autoStart=1
 嘉鱼新闻综合,https://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1735660799-0-0-05395acf38fa1497c0985dcb4c329c0b
 嘉鱼新闻综合,http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9ca56ee7b0e7b23d7ccb3f6649b2686a
+黄石新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3031&cid=3065
 黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1735660799-0-0-a2a4204859d1b4447db4050a4bc202b1
 黄石新闻综合,http://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-e22af05072c6fa8bc1fc35e042e97467
+黄石都市,http://192.168.1.200/myphp/gdy.php?pid=3032&cid=3065
+黄石公共,http://192.168.1.200/myphp/gdy.php?pid=3623&cid=3065
+直播黄石,http://192.168.1.200/myphp/gdy.php?pid=3071&cid=3065
 黄冈新闻综合,http://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-5bd0da98b1004ca63dc31ac88e0e92a3
 黄冈新闻,https://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
 黄冈生活,https://huanggang-live21.cjyun.org/10210/s10210-xwgg.m3u8?auth_key=1735660799-0-0-39c6d712b6337fbdefe84e2d22e34513
@@ -4764,8 +4829,10 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 房县新闻综合,http://pull-hsbj.vzan.com/v/844270_495391109072307857.m3u8
 房县新闻综合,http://pull-hsbj.vzan.com/v/844270_495391109072307857.flv
 房县新闻综合,rtmp://pull-hsbj.vzan.com/v/844270_495391109072307857
+恩施综合,http://192.168.1.200/myphp/gdy.php?pid=1812&cid=3179
 恩施综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8?auth_key=4857760445-0-0-48b20fcc677c9c453aade4127fb60836&extra_key=GstcZaunflMNLGu8_neZZDSebP_vdaZpjgvDNh0oFxowejqLIrS9a1EoZExxdRI2S9Y2xkAXOOpuGxK1RXBwE9Pxgs64YJr12xMoUq8C0CDA-bYdaRFKaVVL_9eb5cvcS93rOcGOJVmGyvmgI8egJounqzsBrsfAbiojm3VtXXo
 恩施综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8?auth_key=3322524559-0-0-91369a707e53997c66aea96fba6e414e&extra_key=Fn3K5CSAbEsf-5fzUnzydENrea727-MmmTVOEadItt4hz3QEBCG8z5KaM1VZmYUZwurb5S-QCfB3bWe_DEQ5ngQwAn4jrE3cmEWkchUrMyf9jqarfDVj2GGAKcOdiM0Ls34P4BF-t1WTw2XEwKqzEQ
+恩施文旅,http://192.168.1.200/myphp/gdy.php?pid=1811&cid=3179
 恩施文旅,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
 恩施文旅,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=3319694126-0-0-1ba863f6b32d03b00e53bd9ec9d9df5d
 鄂州新闻综合,https://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-0f99f7df9fd0d3fca9beca6bafa6b043&sid=10116&autoStart=1
@@ -4787,6 +4854,13 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 赤壁电视台-1,http://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a9f4eb22b55c750628c090d53a445bbc
 保康新闻综合,http://bktvplay.gdnewmedia.cc/bktv/bktv001.m3u8?auth_key=1715157778-0-0-2a5aee0bfaeff717537ec0ef8a1e1567
 巴东综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3522.m3u8?auth_key=4860354782-0-0-0bc026e554be331e11f9118a5507dbd6&extra_key=du5v5yekM-ggopdZ_sngtTZ65Uth9WDHICSAwr25ENDQIdlV3Yd2lHeLSlp5B8KLBoWG0nmJUj1QO75vWPg_oNJJLOYxRTOV57psEWQI4qKLGvWzL9PBysSluKuq-Ux9lJltJgQb5lWNdWOKYZiLcxSGG_008O5kq4mJC8KOxeo
+巴东综合,http://192.168.1.200/myphp/gdy.php?pid=3522&cid=3179
+襄阳综合,http://192.168.1.200/myphp/gdy.php?pid=3061&cid=1500
+襄阳公共,http://192.168.1.200/myphp/gdy.php?pid=2337&cid=1500
+襄阳经济生活,http://192.168.1.200/myphp/gdy.php?pid=2675&cid=1500
+仙桃综合,http://192.168.1.200/myphp/gdy.php?pid=509&cid=1832
+蔡甸新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1982&cid=3165
+新洲综合,http://192.168.1.200/myphp/gdy.php?pid=2904&cid=3951
 
 湖南,#genre#
 湖南经视,http://A/ku9/js/Hunan/hunan.js?id=hnjs&key=关注公共号❤：AI科技生活
@@ -4881,9 +4955,11 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 长沙新闻综合,http://A/ku9/js/Hunan/hunan.js?id=csxwzh&key=关注公共号❤：AI科技生活
 长沙新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hunan/hunan.js?id=csxwzh&key=关注公共号❤：AI科技生活$酷9远程JS
 长沙新闻综合,https://mytv.easonzhang.eu.org/api/hunan.php?id=csxwzh
+长沙新闻综合,http://192.168.1.200/myphp/gdy.php?pid=346&cid=1648
 长沙政法,http://A/ku9/js/Hunan/hunan.js?id=cszfpd&key=关注公共号❤：AI科技生活
 长沙政法,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hunan/hunan.js?id=cszfpd&key=关注公共号❤：AI科技生活$酷9远程JS
 长沙政法,https://mytv.easonzhang.eu.org/api/hunan.php?id=cszfpd
+长沙政法,http://192.168.1.200/myphp/gdy.php?pid=348&cid=1648
 长沙女性,http://A/ku9/js/Hunan/hunan.js?id=csnxpd&key=关注公共号❤：AI科技生活
 长沙女性,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hunan/hunan.js?id=csnxpd&key=关注公共号❤：AI科技生活$酷9远程JS
 长沙女性,https://mytv.easonzhang.eu.org/api/hunan.php?id=csnxpd
@@ -4995,6 +5071,14 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 安化综合,http://A/ku9/js/Hunan/hny.js?id=ahzh&key=关注公共号❤：AI科技生活
 安化综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Hunan/hny.js?id=ahzh&key=关注公共号❤：AI科技生活$酷9远程JS
 安化综合,http://liveplay-srs.voc.com.cn/hls/tv/204_16cb0f.m3u8
+浏阳电视台,http://192.168.1.200/myphp/gdy.php?pid=1788&cid=3275
+岳阳新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1699&cid=2193
+岳阳文旅都市,http://192.168.1.200/myphp/gdy.php?pid=1701&cid=2193
+株洲新闻综合,http://192.168.1.200/myphp/gdy.php?pid=2053&cid=1366
+南县新闻,http://192.168.1.200/myphp/gdy.php?pid=1724&cid=1632
+湘西综合,http://192.168.1.200/myphp/gdy.php?pid=2581&cid=3815
+湘西公共,http://192.168.1.200/myphp/gdy.php?pid=2582&cid=3815
+宜章新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3088&cid=4100
 
 吉林,#genre#
 吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
@@ -5172,14 +5256,14 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 南京新闻综合,https://mytv.easonzhang.eu.org/api/jiangsulitchi_app.php?id=nanjing
 南京新闻综合,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=nj1
 南京新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=nj1$酷9远程JS
-南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
+南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 南京新闻综合,http://k.061899.xyz/k.php?id=njxwzh
-南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 南京教科,http://k.061899.xyz/k.php?id=njkj
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-南京十八生活,http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
+南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京十八生活,http://k.061899.xyz/k.php?id=njsb
-南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
+南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 苏州新闻综合,http://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州新闻综合,http://live-auth.51kandianshi.com/szgd/csztv1.flv
 苏州新闻综合,http://61.155.203.93:5021/live_hls/1/.m3u8
@@ -5356,11 +5440,14 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 宿豫综合,http://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.flv
 宿豫综合,rtmp://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd
 宿豫综合,https://suyu-tv-replay.cm.jstv.com/suyu-tv/syzhpd.m3u8
-新沂新闻综合,https://mytv.easonzhang.eu.org/api/jiangsulitchi_app.php?id=xinyi
-新沂新闻综合,http://live.xysrmt.cn/xwzh/sd/live.m3u8
-新沂新闻综合,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=xzxy
-新沂新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=xzxy$酷9远程JS
+新沂新闻,https://mytv.easonzhang.eu.org/api/jiangsulitchi_app.php?id=xinyi
+新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8
+新沂新闻,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=xzxy
+新沂新闻,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=xzxy$酷9远程JS
+新沂新闻,http://192.168.1.200/myphp/gdy.php?pid=3177&cid=1812
+新沂生活,http://192.168.1.200/myphp/gdy.php?pid=3178&cid=1812
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8
+新沂老电影,http://192.168.1.200/myphp/gdy.php?pid=2648&cid=1812
 响水综合,https://mytv.easonzhang.eu.org/api/jiangsulitchi_app.php?id=xiangshui
 响水综合,http://xiangshui-tv-hls.cm.jstv.com/xiangshui-tv/xiangshuizh.m3u8
 响水综合,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=ycxs
@@ -5492,6 +5579,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 江宁综合,http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 江宁综合,http://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.flv
 江宁综合,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
+江宁综合,http://192.168.1.200/myphp/gdy.php?pid=2505&cid=3579
 贾汪新闻综合,https://mytv.easonzhang.eu.org/api/jiangsulitchi_app.php?id=jiawang
 贾汪新闻综合,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=xzjw
 贾汪新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=xzjw$酷9远程JS
@@ -5501,8 +5589,10 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 淮安综合,https://mytv.easonzhang.eu.org/api/jiangsulitchi_app.php?id=huaian
 淮安综合,http://A/ku9/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=hazh
 淮安综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangsu/jstv.js?key=关注公共号❤️❤️：AI科技生活&id=hazh$酷9远程JS
+淮安综合,http://192.168.1.200/myphp/gdy.php?pid=2778&cid=1610
 淮安综合,http://k.061899.xyz/k.php?id=haxwzh
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
+淮安公共,http://192.168.1.200/myphp/gdy.php?pid=803&cid=1610
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.flv
@@ -5557,6 +5647,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 滨海新闻综合,http://binhai-tv-hls.cm.jstv.com/binhai-tv/news.m3u8
 滨海新闻综合,http://binhai-tv-hls.cm.jstv.com/binhai-tv/news.flv
 滨海新闻综合,rtmp://binhai-tv-hls.cm.jstv.com/binhai-tv/news
+灌云综合,http://192.168.1.200/myphp/gdy.php?pid=777&cid=1909
 
 江西,#genre#
 江西都市,http://www.lizhinas.top:1009/rtp/239.252.220.238:5140
@@ -5664,6 +5755,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 余干综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
 永修一套,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
 永修电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8?t=&token=1
+鹰潭综合,http://192.168.1.200/myphp/gdy.php?pid=2574&cid=3313
 鹰潭综合,https://47065.hlsplay.aodianyun.com/tv_radio_47065/tv_channel_2574.m3u8?auth_key=3306360579-0-0-643b91dca6504855a7f3b6c25fc65bae&extra_key=UIJC1IKvRr5RIQ8OO-Kb-jHvK3dZ23KL--EicHBaH9xLD4liBWqzvERJK0QtE6_x_bngd2X2NTmw2z8BGWgHZjryaqwp5XY9Ot_RNnw2BjyE36nTfjxs3IdTbnpcIPPQ0jkLid3iC5-SjntGIUKXzkSDQEw2zzOJiifOoOwsX0Y
 鹰潭综合,http://play-live-hls.jxtvcn.com.cn/live-city/tv_yingtan.m3u8
 鹰潭综合,http://play-live-hls.jxtvcn.com.cn/live-city/tv_yingtan.flv
@@ -5798,8 +5890,11 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 大连乐天购物,rtmp://secret.dltv.cn/dreamStreamCore/N4S4uAj/lv500
 大连乐天购物,http://A/ku9/js/Guangdong/shenzhen.js?id=dlgw
 大连乐天购物,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=dlgw$酷9远程JS
+铁岭新闻综合,http://192.168.1.200/myphp/gdy.php?pid=2584&cid=3816
 铁岭新闻综合,rtmp://50461.lssplay.aodianyun.com/tv_radio_50461/tv_channel_2584?auth_key=3305857673-0-0-6af7f46f71adf90ce559f87a17af73cf
 大洼综合频道,https://cp.dawawg.com/live/dawatv/hls.m3u8
+金普新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1066&cid=1332
+金普生活服务,http://192.168.1.200/myphp/gdy.php?pid=2598&cid=1332
 
 内蒙古,#genre#
 内蒙古新闻综合,https://mytv.easonzhang.eu.org/api/neimenggu.php?id=nmxwzh
@@ -6158,6 +6253,7 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 淄博新闻综合,https://mytv.easonzhang.eu.org/api/shandong_shandian.php?id=zbdst
 淄博新闻综合,http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zbdst&channelid=100010
 淄博新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zbdst&channelid=100010$酷9远程JS
+淄博新闻综合,http://192.168.1.200/myphp/gdy.php?pid=2308&cid=3185
 枣庄新闻综合,https://mytv.easonzhang.eu.org/api/shandong_shandian.php?id=zzdst
 枣庄新闻综合,http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zzdst&channelid=100023
 枣庄新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zzdst&channelid=100023$酷9远程JS
@@ -6230,13 +6326,16 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 济宁生活,https://lives.jnnews.tv/video/s10001-JNTV2-2023/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 济宁公共,http://221.2.36.14/video/s10001-JNTV3/index.m3u8
-菏泽新闻,https://mytv.easonzhang.eu.org/api/shandong_shandian.php?id=hzdst
-菏泽新闻,http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=hzdst&channelid=100024
-菏泽新闻,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=hzdst&channelid=100024$酷9远程JS
-菏泽新闻,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
-菏泽新闻,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+菏泽新闻综合,https://mytv.easonzhang.eu.org/api/shandong_shandian.php?id=hzdst
+菏泽新闻综合,http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=hzdst&channelid=100024
+菏泽新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=hzdst&channelid=100024$酷9远程JS
+菏泽新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3492&cid=4042
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+菏泽经济,http://192.168.1.200/myphp/gdy.php?pid=3493&cid=4042
 菏泽经济,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 菏泽经济,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+菏泽影视,http://192.168.1.200/myphp/gdy.php?pid=3520&cid=4042
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 德州新闻综合,https://mytv.easonzhang.eu.org/api/shandong_shandian.php?id=dzdst
 德州新闻综合,http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dzdst&channelid=100020
@@ -6256,6 +6355,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 滨州新闻综合,https://mytv.easonzhang.eu.org/api/shandong_shandian.php?id=bzdst
 滨州新闻综合,http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=bzdst&channelid=100022
 滨州新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=bzdst&channelid=100022$酷9远程JS
+嘉祥新闻,http://192.168.1.200/myphp/gdy.php?pid=1306&cid=2606
+嘉祥生活,http://192.168.1.200/myphp/gdy.php?pid=1307&cid=2606
 
 山西,#genre#
 山西黄河,http://A/ku9/js/Guangdong/shenzhen.js?id=sxhh
@@ -6391,6 +6492,8 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 灵丘电视台,http://player4.juyun.tv/tv/150434132.flv
 吕梁新闻综合,http://A/ku9/js/Shanxi/shanxidf.js?id=1
 吕梁新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxidf.js?id=1$酷9远程JS
+吕梁新闻综合,http://192.168.1.200/myphp/gdy.php?pid=2652&cid=2268
+吕梁影视生活,http://192.168.1.200/myphp/gdy.php?pid=2653&cid=2268
 临猗综合,http://pili-live-hls.lyzx.live.chinacici.cn/lyrmt/ceshi-ly.m3u8
 临汾新闻综合,http://A/ku9/js/Shanxi/shanxidf.js?id=2
 临汾新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/shanxidf.js?id=2$酷9远程JS
@@ -6439,6 +6542,12 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 保德综合,http://A/ku9/js/Shanxi/baode.js?id=https://rmtzx.bdxrmtzx.com/api/media/channelMore?siteId=1%26pageNoNum=1%26pageSizeNum=9%26typeId=1
 保德综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanxi/baode.js?id=https://rmtzx.bdxrmtzx.com/api/media/channelMore?siteId=1%26pageNoNum=1%26pageSizeNum=9%26typeId=1$酷9远程JS
 安泽综合,https://qnwjgp6u.live.sxmty.com/live/hls/dbc13d75496d4203ae47dbefbc4ecec2/f6f863a0944346819c63bb413b5bd35c.m3u8
+清徐电视台,http://192.168.1.200/myphp/gdy.php?pid=2988&cid=4048
+侯马新闻综合,http://192.168.1.200/myphp/gdy.php?pid=2125&cid=2556
+曲沃新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1203&cid=2653
+交城电视台,http://192.168.1.200/myphp/gdy.php?pid=3406&cid=1779
+潞州融媒,http://192.168.1.200/myphp/gdy.php?pid=3407&cid=1723
+芮城综合,http://192.168.1.200/myphp/gdy.php?pid=2511&cid=3580
 
 四川,#genre#
 四川经济,http://A/ku9/js/Sichuan/sichuan1.js?id=scjj
@@ -6670,7 +6779,8 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 内江综合,https://njzb.scnj.tv/hls_njtv_direct/1.m3u8
 内江综合,https://njzb.scnj.tv/hls_njtv_direct/2.m3u8
 内江科教生活,https://njzb.scnj.tv/hls_njtv_direct/9.m3u8
-南江综合,http://36903.hlsplay.aodianyun.com/tv_radio_36903/tv_channel_1670.m3u8?auth_key=4842409639-0-0-319d3d61d27f502f5b5f0f76e7fa6874&extra_key=YptbuuU4ni8OBTztr__wTSm-QnJOZeFyY8K0svzHJXyx8i_Bwwirqaews6N1gr-_4uVfOgbaOHwbH5u3_SrH4tTfxj9Nq7Az5LOT0a8C2sHIKSmLBEAoz4lSxmsINvTeQ5QF1ngz-OYrciPm27dkyEEQdzEUxwSVphOF99qfQFU
+南江电视台,http://192.168.1.200/myphp/gdy.php?pid=1670&cid=1822
+南江电视台,http://36903.hlsplay.aodianyun.com/tv_radio_36903/tv_channel_1670.m3u8?auth_key=4842409639-0-0-319d3d61d27f502f5b5f0f76e7fa6874&extra_key=YptbuuU4ni8OBTztr__wTSm-QnJOZeFyY8K0svzHJXyx8i_Bwwirqaews6N1gr-_4uVfOgbaOHwbH5u3_SrH4tTfxj9Nq7Az5LOT0a8C2sHIKSmLBEAoz4lSxmsINvTeQ5QF1ngz-OYrciPm27dkyEEQdzEUxwSVphOF99qfQFU
 南部综合,http://pili-live-hls.148.i2863.com/i2863-148/live_148_811389.m3u8
 南部综合,http://pili-live-hls.148.i2863.com/i2863-148/live_148_811389.flv
 南溪综合,https://p2hs.vzan.com/slowlive/371673471833525863/live.m3u8
@@ -6684,6 +6794,8 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 名山综合,http://tv.yunxya.com/channellive/mingshan.flv
 马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8
 马尔康综合,rtmp://live.zmmek.com/live/zhxw
+绵竹新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1933&cid=3277
+绵竹新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3686&cid=3277
 绵竹新闻综合,http://46894.hlsplay.aodianyun.com/tv_radio_46894/tv_channel_1933.m3u8?auth_key=4807819605-0-0-06fa1f0d2f0250fa73a89de237107d09
 罗江综合,http://pull.luojiangrongmei.com/ljds/ljtv.m3u8
 罗江综合,http://pull.luojiangrongmei.com/ljds/ljtv.flv
@@ -6832,6 +6944,7 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 阿坝新闻综合,http://apppull.aba-news.com.cn/live/be5325350190100009f6751d00000000.flv?wsSecret=ddd23d18b26744116ef3e201de2c9683&wsTime=2019657600
 阿坝藏语综合,http://apppull.aba-news.com.cn/live/be57fb5401901000b611a82100000000/playlist.m3u8?wsSecret=5d932b106deb38dfdd65bf463a0278f7&wsTime=2019657600
 阿坝藏语综合,http://apppull.aba-news.com.cn/live/be57fb5401901000b611a82100000000.flv?wsSecret=23cc6d3b9c6c1c4b1bbb3f2fe23107bc&wsTime=2019657600
+射洪综合,http://192.168.1.200/myphp/gdy.php?pid=391&cid=1743
 
 天津,#genre#
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
@@ -6939,6 +7052,10 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
 塔城汉语综合,rtmp://218.84.35.38/live/tctv-1
 奇台综合,http://117.146.76.46:9090/stream1/m2e2000.m3u8
+阿克苏汉语综合,http://192.168.1.200/myphp/gdy.php?pid=2229&cid=3643
+阿克苏维语综合,http://192.168.1.200/myphp/gdy.php?pid=2233&cid=3643
+阿克苏党教,http://192.168.1.200/myphp/gdy.php?pid=2234&cid=3643
+布尔津哈语,http://192.168.1.200/myphp/gdy.php?pid=3377&cid=4239
 
 云南,#genre#
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
@@ -7222,19 +7339,25 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+永嘉新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1335&cid=2768
 鄞州一套,http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
 鄞州二套,http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
+义乌新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1796&cid=3071
 义乌新闻综合,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 义乌新闻综合,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN
 义乌新闻综合,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=3319276079-0-0-1c7f085dd0f8be6fbd9a99ad060282c4
+义乌商贸,http://192.168.1.200/myphp/gdy.php?pid=2133&cid=3071
 义乌商贸,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_2133.m3u8?auth_key=4830674369-0-0-792c50b6dbb1f212177ee413838c9d34&extra_key=MhCFdbXNI70ZdkebtW5Way43jpzFEOtNAkun-0XCgWwdfGQyDYjGaLOvaQkG4p4ahsRmKWH3euwpK_-6AzTj-NsrVKt9WX6WKnoTmOLcKhXuM68iO_FXB63j8Avfm_P7SLv_nrzGAup7gYxtTu4IpKilWBeWfflJTVwXfos8VFTWL_xtZEURqWRFF3AtLaqe&ali_ffmpeg_version=mpengine
 义乌商贸,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_2133.m3u8?auth_key=4830674369-0-0-792c50b6dbb1f212177ee413838c9d34&extra_key=MhCFdbXNI70ZdkebtW5Way43jpzFEOtNAkun-0XCgWwdfGQyDYjGaLOvaQkG4p4ahsRmKWH3euwpK_-6AzTj-NsrVKt9WX6WKnoTmOLcKhXuM68iO_FXB63j8Avfm_P7SLv_nrzGAup7gYxtTu4IpKilWBeWfflJTVwXfos8VFTWL_xtZEURqWRFF3AtLaqe
 义乌商贸,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_2133.m3u8?auth_key=3319276605-0-0-a0ce16310f547769f3c1d3ac26ab6b20
+义乌公共文艺,http://192.168.1.200/myphp/gdy.php?pid=3090&cid=3071
 义乌公共文艺,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_3090.m3u8?auth_key=4830667771-0-0-4d788b80bdc1fa13522a2d10511a62d4&extra_key=2fk3HCWcAsUB_ZsuI_rrUP3hdTqEFaFPai_ZFKXo5njEPrgmFlIRA9tmB7xb-zLryaZ4y-4A5GYToA82EpN6NdveoFiv45QQP6qp6ZHI1kOJff_5KHtRvRocR3iFRzq6k1eIMRcEcYBzpX3_T595uQ9-UVygOh1Sd_dXnlNCAKoSeP5mtY226hlsTAI9rbgN
 义乌公共文艺,http://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_3090.m3u8?auth_key=3319276414-0-0-52c0db3a44a03308530f743e095bd731
 新昌新闻,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+新昌新闻,http://192.168.1.200/myphp/gdy.php?pid=1361&cid=2840
 新昌新闻,http://42483.hlsplay.aodianyun.com/tv_radio_42483/tv_channel_1361.m3u8?auth_key=4822776050-0-0-4962c7b74dc899703bfbba3439ce0fe2&extra_key=2vtD8BdG6zU_tdWMbQ3NhQgb0T-EUej6APZOEIIFMIXy-Qo8suohFB31MQ8Yfs4NbDBbjUuK1dm9poPK9TNHJYi1LmeV9yFZW7PGDnAVdPRc8Bfn3G_z-YHOF4oWZDkwlpDzJEnv0XpVyYEvaYWovw2FApRPUzlQ8OMBCXApCo07Yd3A2mNI9LAy51E0B4zV
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+新昌生活,http://192.168.1.200/myphp/gdy.php?pid=1362&cid=2840
 新昌生活,http://42483.hlsplay.aodianyun.com/tv_radio_42483/tv_channel_1362.m3u8?auth_key=4822775993-0-0-794137d1fe5386cd0af9187b847cdb58
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
@@ -7257,9 +7380,12 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 温岭新闻综合,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.m3u8
 温岭新闻综合,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.flv
 温岭新闻综合,rtmp://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911
+温岭新闻综合,http://192.168.1.200/myphp/gdy.php?pid=911&cid=1639
 温岭民生休闲,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_1287.m3u8
 温岭民生休闲,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_1287.flv
 温岭民生休闲,rtmp://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_1287
+温岭民生休闲,http://192.168.1.200/myphp/gdy.php?pid=1287&cid=1639
+桐庐综合,http://192.168.1.200/myphp/gdy.php?pid=3566&cid=1163
 桐庐综合,http://31666.hlsplay.aodianyun.com/tv_radio_31666/tv_channel_3566.m3u8?auth_key=4867613167-0-0-7e4d136d59c046f779f0c50461de5fe5&extra_key=ZsnRdSSZsd_55ssIU7GXV9vL2bVgmdCUfbd0zhEWRYtF1fIJa_P34oEH8HVCgRtNY3GLWcIgRP1lO0kocw3d7cCCfJYKu980fDypjkFzkHzqrB4amtUEsglZvsGvzYzoDZyioKwM9H2EUg0PFXBSWFJ1WyLLQNoQey-Q6kSGklw
 台州新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel10/1080p.m3u8
 遂昌电视台,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
@@ -7316,6 +7442,7 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 宁海新闻综合,http://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423.m3u8
 宁海新闻综合,http://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423.flv
 宁海新闻综合,rtmp://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423
+宁海新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1423&cid=1329
 南浔综合,http://pili-live-hls.nanxunfb.com/nanxun/live3002833-0.m3u8
 龙游新闻综合,http://play-sh13.quklive.com/live/1703570877483349.m3u8?auth_key=2028414694-515206b2ec504fa3bc90bb1ec3b0c48e-0-eeeeb3d5a8f8e5415142bf430b916d79
 龙游新闻综合,http://play-sh13.quklive.com/live/1703570877483349.m3u8?auth_key=2027429960-ec040acfac1e470189be19709432f77c-0-eb588b9f095452543de44ed271de22ae
@@ -7328,9 +7455,11 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 龙港综合,http://play-qukan.cztv.com/live/1722309876941077.m3u8
 龙港综合,http://play-qukan.cztv.com/live/1722309876941077.flv
 临平新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+临平新闻,http://192.168.1.200/myphp/gdy.php?pid=2513&cid=3767
 丽水新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel09/1080p.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+兰溪新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1185&cid=1324
 柯桥新闻综合,http://play-a2.quklive.com/live/1640945211435051.m3u8
 柯桥新闻综合,http://play-a2.quklive.com/live/1640945211435051.flv
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
@@ -7344,6 +7473,7 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 金华新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel07/1080p.m3u8
+金华新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3711&cid=4099
 江山电视台,http://play-sh13.quklive.com/live/1623117710666335.m3u8?auth_key=2027320874-f4ab7bf26c7f450398f90acd51fbe541-0-b9952255f66849bc8e7afaa8e6865488
 嘉兴新闻综合,http://l.cztvcloud.com/channels/lantian/sxchannel06/1080p.m3u8
 嘉兴新闻综合,http://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=2028413378-e4cdf32aa25640128a84617007b41ded-0-2efe889aea4ab37d56749564cbf1e07f
@@ -7368,6 +7498,7 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 富阳新闻综合,http://A/ku9/js/Zhejiang/hztv.js?id=fyxwzh
 富阳新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Zhejiang/hztv.js?id=fyxwzh$酷9远程JS
 富阳新闻综合,http://192.168.1.200/myphp/hangzhou.php?id=fyxwzh
+富阳新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1181&cid=1482
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed?
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 东阳新闻综合,http://play-sh13.quklive.com/live/1681113308206040.m3u8?auth_key=2028413158-ad2723c5e94045f393c4ccc595b573f9-0-c75b8d81f4470e67519c154e85115a4e
@@ -7377,10 +7508,20 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 常山新闻综合,http://play-sh13.quklive.com/live/1621306190044902.m3u8?auth_key=2027836299-cf0d1ff5eb894d83902a32cd7f5f21e8-0-247137557260eb5ed742e07ad600784b
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+安吉新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1499&cid=1253
 安吉新闻综合,http://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1499.m3u8
 安吉新闻综合,http://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1499.flv
+安吉生活影视,http://192.168.1.200/myphp/gdy.php?pid=1526&cid=1253
 安吉生活影视,http://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1526.m3u8
 安吉生活影视,http://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1526.flv
+临安综合,http://192.168.1.200/myphp/gdy.php?pid=2747&cid=3568
+建德综合,http://192.168.1.200/myphp/gdy.php?pid=187&cid=1176
+乐清新闻,http://192.168.1.200/myphp/gdy.php?pid=170&cid=1356
+乐清综合,http://192.168.1.200/myphp/gdy.php?pid=171&cid=1356
+仙居新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1603&cid=2515
+奉化新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3152&cid=3512
+慈溪新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3697&cid=1346
+桐乡新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1511&cid=1043
 
 港澳台,#genre#
 凤凰中文,http://k.061899.xyz/k.php?id=fhzw
