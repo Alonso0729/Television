@@ -1340,6 +1340,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 湖北卫视,http://39.134.87.62/000000001000/5000000004000014954/index.m3u8?IASHttpSessionId=$上海移动V4
 湖北卫视,http://39.134.87.62/000000001000/5000000010000022140/index.m3u8?IASHttpSessionId=$上海移动V4
 湖北卫视,http://k.061899.xyz/k.php?id=hubws
+湖北卫视,http://192.168.1.200/myphp/hubei.php?id=hbws
 湖北卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000014954
 湖北卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000022140
 湖北卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000010355
@@ -4688,6 +4689,12 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 安达综合,https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
 
 湖北,#genre#
+湖北综合,http://192.168.1.200/myphp/hubei.php?id=hbzh
+湖北经济,http://192.168.1.200/myphp/hubei.php?id=hbjs
+湖北教育,http://192.168.1.200/myphp/hubei.php?id=hbjy
+湖北生活,http://192.168.1.200/myphp/hubei.php?id=hbsh
+湖北影视,http://192.168.1.200/myphp/hubei.php?id=hbys
+湖北垄上,http://192.168.1.200/myphp/hubei.php?id=hbls
 武汉新闻综合,http://192.168.1.200/myphp/wuhan.php?id=20
 武汉新闻综合,http://stream.appwuhan.com:80/1tzb/sd/live.m3u8
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8

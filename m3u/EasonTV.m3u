@@ -2762,6 +2762,8 @@ http://39.134.87.62/000000001000/5000000010000022140/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://k.061899.xyz/k.php?id=hubws
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://192.168.1.200/myphp/hubei.php?id=hbws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000014954
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000022140
@@ -9435,6 +9437,18 @@ rtmp://masterpull.hljtv.com/live/FsGxlDZQ
 https://rmplive.hljtv.com/live/anda.m3u8
 #EXTINF:-1 tvg-name="安达综合" tvg-logo="https://11.112114.xyz/logo/安达综合.png" group-title="黑龙江",安达综合
 https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
+#EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://11.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合
+http://192.168.1.200/myphp/hubei.php?id=hbzh
+#EXTINF:-1 tvg-name="湖北经济" tvg-logo="https://11.112114.xyz/logo/湖北经济.png" group-title="湖北",湖北经济
+http://192.168.1.200/myphp/hubei.php?id=hbjs
+#EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://11.112114.xyz/logo/湖北教育.png" group-title="湖北",湖北教育
+http://192.168.1.200/myphp/hubei.php?id=hbjy
+#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://11.112114.xyz/logo/湖北生活.png" group-title="湖北",湖北生活
+http://192.168.1.200/myphp/hubei.php?id=hbsh
+#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://11.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北影视
+http://192.168.1.200/myphp/hubei.php?id=hbys
+#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://11.112114.xyz/logo/湖北垄上.png" group-title="湖北",湖北垄上
+http://192.168.1.200/myphp/hubei.php?id=hbls
 #EXTINF:-1 tvg-name="武汉新闻综合" tvg-logo="https://11.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
 http://192.168.1.200/myphp/wuhan.php?id=20
 #EXTINF:-1 tvg-name="武汉新闻综合" tvg-logo="https://11.112114.xyz/logo/武汉新闻综合.png" group-title="湖北",武汉新闻综合
