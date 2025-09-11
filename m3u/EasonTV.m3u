@@ -2152,6 +2152,8 @@ http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001378/index.m3u8?IAS
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://39.134.87.62/000000001000/5000000006000022124/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
+http://39.134.90.60/000000001000/5000000006000022124/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://[2409:8087:1a15:10d1::20]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://[2409:8087:1a15:10d1::21]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$黑龙江移动V6
@@ -2908,6 +2910,8 @@ http://gslbserv.itv.cmvideo.cn/000000001000/5000000003000001598/1.m3u8?channel-i
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://39.134.87.62/000000001000/5000000003000001598/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
+http://39.134.90.37/000000001000/5000000003000001598/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$黑龙江移动V6
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://11.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8$黑龙江移动V6
@@ -3055,6 +3059,10 @@ https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000106
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://39.134.87.62/000000001000/5084893189220221988/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://39.134.90.37/000000001000/5084893189220221988/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://39.134.87.95/000000001000/5084893189220221988/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://192.168.1.200/myphp/xiamen.php?id=84
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
