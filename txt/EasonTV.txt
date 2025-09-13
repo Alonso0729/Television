@@ -1260,6 +1260,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 青海卫视,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001450/index.m3u8?IASHttpSessionId=$上海移动V6
 青海卫视,http://gslbserv.itv.cmvideo.cn/000000001000/5000000006000040015/1.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3$上海移动V4
 青海卫视,http://39.134.87.62/000000001000/5000000006000040015/index.m3u8?IASHttpSessionId=$上海移动V4
+青海卫视,https://mytv.easonzhang.eu.org/api/qinghai.php?id=qhws
 青海卫视,http://k.061899.xyz/k.php?id=qhws
 青海卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040015
 青海卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000013359
@@ -5033,17 +5034,29 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 崇仁综合,http://zhibo.jxxw.com.cn/live/chongrtv.m3u8?txSecret=0888cc0a0492280b6ba6c551cb40e6db&txTime=69F30AD9
 
 辽宁,#genre#
-辽宁影视剧,http://iptv.huuc.edu.cn/hls/lnysjtv.m3u8
-辽宁体育休闲,http://120.76.248.139/live/bfgd/4200000611.m3u8
+辽宁都市,http://192.168.1.200/myphp/liaoning_bfgd.php?id=610
+辽宁都市,http://192.168.1.200/myphp/liaoning_bfgd.php?id=068
+辽宁影视剧,http://192.168.1.200/myphp/liaoning_bfgd.php?id=070
+辽宁生活,http://192.168.1.200/myphp/liaoning_bfgd.php?id=073
+辽宁体育休闲,http://192.168.1.200/myphp/liaoning_bfgd.php?id=072
+辽宁教育青少,http://192.168.1.200/myphp/liaoning_bfgd.php?id=075
+辽宁北方,http://192.168.1.200/myphp/liaoning_bfgd.php?id=071
+辽宁经济,http://192.168.1.200/myphp/liaoning_bfgd.php?id=076
+辽宁经济,http://192.168.1.200/myphp/liaoning_bfgd.php?id=480
+辽宁公共,http://192.168.1.200/myphp/liaoning_bfgd.php?id=077
+辽宁公共,http://192.168.1.200/myphp/liaoning_bfgd.php?id=481
+北方导视,http://192.168.1.200/myphp/liaoning_bfgd.php?id=187
 家庭理财,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001278/index.m3u8?IASHttpSessionId=$上海移动V6
 家庭理财,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001278/index.m3u8?IASHttpSessionId=$上海移动V6
 家庭理财,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001278/index.m3u8?IASHttpSessionId=$上海移动V6
 家庭理财,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031210
 家庭理财,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000064
+沈阳新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=059
 大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?t
 大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500
 大连新闻综合,http://A/ku9/js/Guangdong/shenzhen.js?id=dlzh
 大连新闻综合,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Guangdong/shenzhen.js?id=dlzh$酷9远程JS
+大连新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=273
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?t
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500
 大连生活,http://A/ku9/js/Guangdong/shenzhen.js?id=dlsh
@@ -5062,6 +5075,20 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 大洼综合频道,https://cp.dawawg.com/live/dawatv/hls.m3u8
 金普新闻综合,http://192.168.1.200/myphp/gdy.php?pid=1066&cid=1332
 金普生活服务,http://192.168.1.200/myphp/gdy.php?pid=2598&cid=1332
+鞍山新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=274
+抚顺新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=275
+本溪新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=312
+丹东新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=276
+锦州新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=277
+营口新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=278
+阜新新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=279
+辽阳新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=280
+铁岭新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=281
+朝阳新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=282
+盘锦新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=283
+葫芦岛新闻综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=284
+葫芦岛连山区综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=491
+葫芦岛龙港区综合,http://192.168.1.200/myphp/liaoning_bfgd.php?id=490
 
 内蒙古,#genre#
 内蒙古新闻综合,https://mytv.easonzhang.eu.org/api/neimenggu.php?id=nmxwzh
@@ -5213,8 +5240,10 @@ GRTN文化,https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.flv
 
 青海,#genre#
+青海经视,https://mytv.easonzhang.eu.org/api/qinghai.php?id=qhjs
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
+青海都市,https://mytv.easonzhang.eu.org/api/qinghai.php?id=qhds
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
 青海都市,http://stream.qhbtv.com/qhds/playlist.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
