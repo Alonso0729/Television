@@ -2086,6 +2086,8 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://k.061899.xyz/k.php?id=gsws
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://192.168.1.200/myphp/gansu.php?n=%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 https://hls.gstv.com.cn/skt649/c7yia3.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 https://liveout.gstv.com.cn/skt649/c7yia3.m3u8
@@ -4539,8 +4541,8 @@ http://192.168.1.200/myphp/gdy.php?pid=1792&cid=2311
 http://192.168.1.200/myphp/gdy.php?pid=1793&cid=2311
 #EXTINF:-1 tvg-name="集美综合" tvg-logo="https://11.112114.xyz/logo/集美综合.png" group-title="福建",集美综合
 http://192.168.1.200/myphp/gdy.php?pid=3102&cid=4113
-#EXTINF:-1 tvg-name="甘肃经济" tvg-logo="https://11.112114.xyz/logo/甘肃经济.png" group-title="甘肃",甘肃经济
-https://hls.gstv.com.cn/49048r/10iv1j.m3u8
+#EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://11.112114.xyz/logo/甘肃文化影视.png" group-title="甘肃",甘肃文化影视
+http://192.168.1.200/myphp/gansu.php?n=%E5%BD%B1%E8%A7%86
 #EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://11.112114.xyz/logo/甘肃文化影视.png" group-title="甘肃",甘肃文化影视
 http://A/ku9/js/Gansu/gansu.js?id=whys
 #EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://11.112114.xyz/logo/甘肃文化影视.png" group-title="甘肃",甘肃文化影视
@@ -4552,6 +4554,8 @@ https://liveout.gstv.com.cn/skt649/oip0kg.m3u8
 #EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://11.112114.xyz/logo/甘肃文化影视.png" group-title="甘肃",甘肃文化影视
 https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
 #EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://11.112114.xyz/logo/甘肃公共应急.png" group-title="甘肃",甘肃公共应急
+http://192.168.1.200/myphp/gansu.php?n=%E5%85%AC%E5%85%B1
+#EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://11.112114.xyz/logo/甘肃公共应急.png" group-title="甘肃",甘肃公共应急
 http://A/ku9/js/Gansu/gansu.js?id=ggyj
 #EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://11.112114.xyz/logo/甘肃公共应急.png" group-title="甘肃",甘肃公共应急
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Gansu/gansu.js?id=ggyj$酷9远程JS
@@ -4561,6 +4565,8 @@ https://hls.gstv.com.cn/skt649/002kn9.m3u8
 https://liveout.gstv.com.cn/skt649/002kn9.m3u8
 #EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://11.112114.xyz/logo/甘肃公共应急.png" group-title="甘肃",甘肃公共应急
 https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
+#EXTINF:-1 tvg-name="甘肃科教" tvg-logo="https://11.112114.xyz/logo/甘肃科教.png" group-title="甘肃",甘肃科教
+http://192.168.1.200/myphp/gansu.php?n=%E7%A7%91%E6%95%99
 #EXTINF:-1 tvg-name="甘肃科教" tvg-logo="https://11.112114.xyz/logo/甘肃科教.png" group-title="甘肃",甘肃科教
 http://A/ku9/js/Gansu/gansu.js?id=kjpd
 #EXTINF:-1 tvg-name="甘肃科教" tvg-logo="https://11.112114.xyz/logo/甘肃科教.png" group-title="甘肃",甘肃科教
@@ -4572,6 +4578,8 @@ https://liveout.gstv.com.cn/skt649/yje9aa.m3u8
 #EXTINF:-1 tvg-name="甘肃科教" tvg-logo="https://11.112114.xyz/logo/甘肃科教.png" group-title="甘肃",甘肃科教
 https://hls.gstv.com.cn/49048r/l54391.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://11.112114.xyz/logo/甘肃少儿.png" group-title="甘肃",甘肃少儿
+http://192.168.1.200/myphp/gansu.php?n=%E5%B0%91%E5%84%BF
+#EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://11.112114.xyz/logo/甘肃少儿.png" group-title="甘肃",甘肃少儿
 http://A/ku9/js/Gansu/gansu.js?id=sepd
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://11.112114.xyz/logo/甘肃少儿.png" group-title="甘肃",甘肃少儿
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Gansu/gansu.js?id=sepd$酷9远程JS
@@ -4581,6 +4589,8 @@ https://hls.gstv.com.cn/skt649/mmkwqg.m3u8
 https://liveout.gstv.com.cn/skt649/mmkwqg.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://11.112114.xyz/logo/甘肃少儿.png" group-title="甘肃",甘肃少儿
 https://hls.gstv.com.cn/49048r/922k96.m3u8
+#EXTINF:-1 tvg-name="甘肃移动电视" tvg-logo="https://11.112114.xyz/logo/甘肃移动电视.png" group-title="甘肃",甘肃移动电视
+http://192.168.1.200/myphp/gansu.php?n=%E7%A7%BB%E5%8A%A8
 #EXTINF:-1 tvg-name="甘肃移动电视" tvg-logo="https://11.112114.xyz/logo/甘肃移动电视.png" group-title="甘肃",甘肃移动电视
 http://A/ku9/js/Gansu/gansu.js?id=ydds
 #EXTINF:-1 tvg-name="甘肃移动电视" tvg-logo="https://11.112114.xyz/logo/甘肃移动电视.png" group-title="甘肃",甘肃移动电视
