@@ -13486,6 +13486,14 @@ http://192.168.1.200/myphp/gdy.php?pid=3697&cid=1346
 #EXTINF:-1 tvg-name="桐乡新闻综合" tvg-logo="https://11.112114.xyz/logo/桐乡新闻综合.png" group-title="浙江",桐乡新闻综合
 http://192.168.1.200/myphp/gdy.php?pid=1511&cid=1043
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13389247903&pwd=Llxxcc198
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13955036885&pwd=make123456MAKE
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://A/ku9/js/HongKong/PhoenixTV.js?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/HongKong/PhoenixTV.js?id=fhzw$酷9远程JS
@@ -13500,6 +13508,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://php.jdshipin.com/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13389247903&pwd=Llxxcc198
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
+http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13955036885&pwd=make123456MAKE
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://A/ku9/js/HongKong/PhoenixTV.js?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/HongKong/PhoenixTV.js?id=fhzx$酷9远程JS
@@ -13513,6 +13529,14 @@ http://k.061899.xyz/k.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://tv.groupshare.com.cn/fhtv?id=hk&token=id=cn&prefix
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://tv.groupshare.com.cn/fhtv?id=hk&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://tv.groupshare.com.cn/fhtv?id=hk&token=id=cn&prefix=86&phone=13389247903&pwd=Llxxcc198
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+http://tv.groupshare.com.cn/fhtv?id=hk&token=id=cn&prefix=86&phone=13955036885&pwd=make123456MAKE
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://A/ku9/js/HongKong/PhoenixTV.js?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
