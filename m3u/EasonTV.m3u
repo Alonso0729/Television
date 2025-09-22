@@ -2052,6 +2052,10 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=4995134319251569870
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://k.061899.xyz/k.php?id=dwqws
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://192.168.1.200/myphp/guangdong.php?id=51
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://192.168.1.200/myphp/guangdong.php?id=46
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_dwq.flv
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000011619
@@ -2143,6 +2147,8 @@ http://39.134.87.62/000000001000/5000000004000014694/index.m3u8?IASHttpSessionId
 http://39.134.87.62/000000001000/5000000010000030417/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
 http://k.061899.xyz/k.php?id=gdws
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+http://192.168.1.200/myphp/guangdong.php?id=43
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
 http://my.tmos.cn:15181/chs006.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
@@ -4904,6 +4910,8 @@ https://play.kankanlive.com/live/1720408280309109.flv
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
 http://k.061899.xyz/k.php?id=gdzj
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
+http://192.168.1.200/myphp/guangdong.php?id=44
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
 http://go.bkpcp.top/mg/gdzj
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
 http://cdn5.132.us.kg/live/gdzj/stream.m3u8
@@ -4921,8 +4929,20 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011655
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000033
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://11.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
+http://192.168.1.200/myphp/guangdong.php?id=45
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://11.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://11.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
+http://119.123.79.35:9600/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://11.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
+http://192.168.1.200/myphp/guangdong.php?id=48
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://11.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
 http://k.061899.xyz/k.php?id=gdty
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
+http://192.168.1.200/myphp/guangdong.php?id=47
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
@@ -4935,12 +4955,28 @@ http://cdn5.163189.xyz/live/gdty/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
 http://cdn2.1689.us.kg/live/live1.1.php?id=gdty
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://11.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://11.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://11.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
-http://119.123.79.35:9600/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
+http://192.168.1.200/myphp/guangdong.php?id=53
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
+http://k.061899.xyz/k.php?id=gdys
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
+http://go.bkpcp.top/mg/gdys
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
+http://119.123.79.35:9600/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
+http://113.101.119.94:808/hls/110/index.m3u8
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
+https://tplaylive.grtn.cn/live/health.m3u8
+#EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://11.112114.xyz/logo/广东4K超高清.png" group-title="广东",广东4K超高清
+http://192.168.1.200/myphp/guangdong.php?id=16
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://11.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
+http://192.168.1.200/myphp/guangdong.php?id=54
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://11.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
+http://27.41.245.2:9003/hls/200/index.m3u8
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://11.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
+http://119.123.79.35:9600/hls/26/index.m3u8
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
@@ -4948,19 +4984,11 @@ http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001227/index.m3u8?IAS
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
 http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001227/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
-http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001227/index.m3u8?IASHttpSessionId=$上海移动V6
-#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
-http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001227/index.m3u8?IASHttpSessionId=$上海移动V6
-#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
-http://[2409:8087:1e78:21::12]:6610/cms001/ch00000090990000001227/index.m3u8?IASHttpSessionId=$上海移动V6
-#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
 http://gslbserv.itv.cmvideo.cn/000000001000/4739906347743456369/1.m3u8?channel-id=bestzb&Contentid=4739906347743456369&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
 http://39.134.87.62/000000001000/4739906347743456369/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
-http://39.134.87.83/000000001000/4739906347743456369/index.m3u8?IASHttpSessionId=$上海移动V4
-#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
-http://39.134.90.60/000000001000/4739906347743456369/index.m3u8?IASHttpSessionId=$上海移动V4
+http://192.168.1.200/myphp/guangdong.php?id=66
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=4739906347743456369
 #EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/广东嘉佳卡通.png" group-title="广东",广东嘉佳卡通
@@ -4975,32 +5003,32 @@ http://pili-live-hls.kingsmedia.cn/metoo-live/c40c8d3679704d729f3254ca2b98abfe.f
 rtmp://pili-live-hls.kingsmedia.cn/metoo-live/c40c8d3679704d729f3254ca2b98abfe
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://11.112114.xyz/logo/广东经济科教.png" group-title="广东",广东经济科教
 http://119.123.79.35:9600/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-http://k.061899.xyz/k.php?id=gdys
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-http://go.bkpcp.top/mg/gdys
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-http://119.123.79.35:9600/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-http://113.101.119.94:808/hls/110/index.m3u8
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-https://tplaylive.grtn.cn/live/health.m3u8
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://11.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
-http://27.41.245.2:9003/hls/200/index.m3u8
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://11.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
-http://119.123.79.35:9600/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="广东南方购物" tvg-logo="https://11.112114.xyz/logo/广东南方购物.png" group-title="广东",广东南方购物
+http://192.168.1.200/myphp/guangdong.php?id=42
+#EXTINF:-1 tvg-name="广东岭南戏曲" tvg-logo="https://11.112114.xyz/logo/广东岭南戏曲.png" group-title="广东",广东岭南戏曲
+http://192.168.1.200/myphp/guangdong.php?id=15
 #EXTINF:-1 tvg-name="广东岭南戏曲" tvg-logo="https://11.112114.xyz/logo/广东岭南戏曲.png" group-title="广东",广东岭南戏曲
 http://27.41.245.2:9003/hls/44/index.m3u8
-#EXTINF:-1 tvg-name="GRTN教育" tvg-logo="https://11.112114.xyz/logo/GRTN教育.png" group-title="广东",GRTN教育
+#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://11.112114.xyz/logo/广东移动.png" group-title="广东",广东移动
+http://192.168.1.200/myphp/guangdong.php?id=74
+#EXTINF:-1 tvg-name="广东台经典剧" tvg-logo="https://11.112114.xyz/logo/广东台经典剧.png" group-title="广东",广东台经典剧
+http://192.168.1.200/myphp/guangdong.php?id=100
+#EXTINF:-1 tvg-name="纪录片" tvg-logo="https://11.112114.xyz/logo/纪录片.png" group-title="广东",纪录片
+http://192.168.1.200/myphp/guangdong.php?id=94
+#EXTINF:-1 tvg-name="GRTN健康频道" tvg-logo="https://11.112114.xyz/logo/GRTN健康频道.png" group-title="广东",GRTN健康频道
+http://192.168.1.200/myphp/guangdong.php?id=99
+#EXTINF:-1 tvg-name="GRTN文化频道" tvg-logo="https://11.112114.xyz/logo/GRTN文化频道.png" group-title="广东",GRTN文化频道
+http://192.168.1.200/myphp/guangdong.php?id=75
+#EXTINF:-1 tvg-name="GRTN文化频道" tvg-logo="https://11.112114.xyz/logo/GRTN文化频道.png" group-title="广东",GRTN文化频道
+https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 tvg-name="GRTN生活频道" tvg-logo="https://11.112114.xyz/logo/GRTN生活频道.png" group-title="广东",GRTN生活频道
+http://192.168.1.200/myphp/guangdong.php?id=102
+#EXTINF:-1 tvg-name="GRTN生活频道" tvg-logo="https://11.112114.xyz/logo/GRTN生活频道.png" group-title="广东",GRTN生活频道
+https://tplaylive.grtn.cn/live/life.m3u8
+#EXTINF:-1 tvg-name="GRTN教育频道" tvg-logo="https://11.112114.xyz/logo/GRTN教育频道.png" group-title="广东",GRTN教育频道
 https://tplaylive.grtn.cn/live/jiaoyu.m3u8
 #EXTINF:-1 tvg-name="GRTN荔枝台" tvg-logo="https://11.112114.xyz/logo/GRTN荔枝台.png" group-title="广东",GRTN荔枝台
 https://tplaylive.grtn.cn/live/lizhi.m3u8
-#EXTINF:-1 tvg-name="GRTN生活" tvg-logo="https://11.112114.xyz/logo/GRTN生活.png" group-title="广东",GRTN生活
-https://tplaylive.grtn.cn/live/life.m3u8
-#EXTINF:-1 tvg-name="GRTN文化" tvg-logo="https://11.112114.xyz/logo/GRTN文化.png" group-title="广东",GRTN文化
-https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://11.112114.xyz/logo/广州综合.png" group-title="广东",广州综合
 http://A/ku9/js/Guangdong/gztv.js?id=zonghes
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://11.112114.xyz/logo/广州综合.png" group-title="广东",广州综合
