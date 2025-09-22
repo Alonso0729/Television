@@ -2494,6 +2494,8 @@ http://39.134.87.62/000000001000/5000000001000032154/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
 http://39.134.87.62/000000001000/5000000004000011210/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=87
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
 http://k.061899.xyz/k.php?id=jxws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000032154
@@ -9782,131 +9784,77 @@ rtmp://binhai-tv-hls.cm.jstv.com/binhai-tv/news
 #EXTINF:-1 tvg-name="灌云综合" tvg-logo="https://11.112114.xyz/logo/灌云综合.png" group-title="江苏",灌云综合
 http://192.168.1.200/myphp/gdy.php?pid=777&cid=1909
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://11.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
-http://www.lizhinas.top:1009/rtp/239.252.220.238:5140
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=86
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://11.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://11.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
-http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.flv
-#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://11.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
-http://php.jdshipin.com/TVOD/iptv.php?id=jxds
-#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://11.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://11.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
+http://www.lizhinas.top:1009/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-name="江西都市" tvg-logo="https://11.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.flv
-#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://11.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
-http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=jxds
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://11.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经济生活
-http://www.lizhinas.top:1009/rtp/239.252.219.173:5140
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=153
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://11.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经济生活
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://11.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经济生活
-http://php.jdshipin.com/TVOD/iptv.php?id=jxjjsh
-#EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://11.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经济生活
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://11.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经济生活
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.flv
+http://www.lizhinas.top:1009/rtp/239.252.219.173:5140
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://11.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经济生活
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
-#EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://11.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经济生活
-http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.flv
-#EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://11.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经济生活
-http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://11.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://www.lizhinas.top:1009/rtp/239.252.220.242:5140
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://11.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://11.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.flv
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://11.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://php.jdshipin.com/TVOD/iptv.php?id=jxysly
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://11.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://11.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://11.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.flv
-#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://11.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视旅游
-http://58.144.154.93/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=jxjjsh
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://11.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共农业
-http://www.lizhinas.top:1009/rtp/239.252.220.102:5140
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=83
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://11.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共农业
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://11.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共农业
-http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.flv
-#EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://11.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共农业
-http://php.jdshipin.com/TVOD/iptv.php?id=jxggny
-#EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://11.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共农业
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://11.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共农业
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.flv
+http://www.lizhinas.top:1009/rtp/239.252.220.102:5140
 #EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://11.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共农业
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
-#EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://11.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共农业
-http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=jxggny
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://11.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
-http://www.lizhinas.top:1009/rtp/239.252.219.113:5140
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=82
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://11.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://11.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
-http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.flv
-#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://11.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
-http://php.jdshipin.com/TVOD/iptv.php?id=jxse
-#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://11.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://11.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+http://www.lizhinas.top:1009/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://11.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.flv
-#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://11.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
-http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=jxse
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://11.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
-http://www.lizhinas.top:1009/rtp/239.252.220.100:5140
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=81
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://11.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv7.m3u8
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://11.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
-http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv7.flv
-#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://11.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=jxxw
-#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://11.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://11.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+http://www.lizhinas.top:1009/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://11.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.flv
-#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://11.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
-http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
-#EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://11.112114.xyz/logo/江西移动电视.png" group-title="江西",江西移动电视
-http://www.lizhinas.top:1009/rtp/239.252.220.241:5140
-#EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://11.112114.xyz/logo/江西移动电视.png" group-title="江西",江西移动电视
-http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv8.m3u8
-#EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://11.112114.xyz/logo/江西移动电视.png" group-title="江西",江西移动电视
-http://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv8.flv
-#EXTINF:-1 tvg-name="江西移动电视" tvg-logo="https://11.112114.xyz/logo/江西移动电视.png" group-title="江西",江西移动电视
-http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=jxxw
 #EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://11.112114.xyz/logo/江西风尚购物.png" group-title="江西",江西风尚购物
-http://www.lizhinas.top:1009/rtp/239.252.219.101:5140
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=79
 #EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://11.112114.xyz/logo/江西风尚购物.png" group-title="江西",江西风尚购物
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_fsgw.m3u8
 #EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://11.112114.xyz/logo/江西风尚购物.png" group-title="江西",江西风尚购物
-http://play-live-hls.jxtvcn.com.cn/live-city/tv_fsgw.flv
-#EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://11.112114.xyz/logo/江西风尚购物.png" group-title="江西",江西风尚购物
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
+#EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://11.112114.xyz/logo/江西风尚购物.png" group-title="江西",江西风尚购物
+http://www.lizhinas.top:1009/rtp/239.252.219.101:5140
+#EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://11.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=78
 #EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://11.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷
 http://www.lizhinas.top:1009/rtp/239.252.220.243:5140
 #EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://11.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷
-http://local-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
-#EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://11.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
-#EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://11.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷
-http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
 #EXTINF:-1 tvg-name="江西教育" tvg-logo="https://11.112114.xyz/logo/江西教育.png" group-title="江西",江西教育
 http://www.lizhinas.top:1009/rtp/239.252.219.115:5140
 #EXTINF:-1 tvg-name="江西教育" tvg-logo="https://11.112114.xyz/logo/江西教育.png" group-title="江西",江西教育
 http://php.jdshipin.com/TVOD/iptv.php?id=jxjy
 #EXTINF:-1 tvg-name="江西教育" tvg-logo="https://11.112114.xyz/logo/江西教育.png" group-title="江西",江西教育
 https://cdn-live.jxeduyun.com/streams/640f79857ff58.m3u8
+#EXTINF:-1 tvg-name="南昌新闻综合" tvg-logo="https://11.112114.xyz/logo/南昌新闻综合.png" group-title="江西",南昌新闻综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=173
 #EXTINF:-1 tvg-name="南昌新闻综合" tvg-logo="https://11.112114.xyz/logo/南昌新闻综合.png" group-title="江西",南昌新闻综合
 http://A/ku9/js/Jiangxi/jxtv.js?id=nczh
 #EXTINF:-1 tvg-name="南昌新闻综合" tvg-logo="https://11.112114.xyz/logo/南昌新闻综合.png" group-title="江西",南昌新闻综合
@@ -9935,26 +9883,8 @@ https://mytv.easonzhang.eu.org/api/nanchang.php?n=%E8%B5%84%E8%AE%AF
 http://A/ku9/js/Jiangxi/jxtv.js?id=ncgg
 #EXTINF:-1 tvg-name="南昌公共" tvg-logo="https://11.112114.xyz/logo/南昌公共.png" group-title="江西",南昌公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=ncgg$酷9远程JS
-#EXTINF:-1 tvg-name="南昌新建" tvg-logo="https://11.112114.xyz/logo/南昌新建.png" group-title="江西",南昌新建
-http://A/ku9/js/Jiangxi/jxtv.js?id=xjtv
-#EXTINF:-1 tvg-name="南昌新建" tvg-logo="https://11.112114.xyz/logo/南昌新建.png" group-title="江西",南昌新建
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=xjtv$酷9远程JS
-#EXTINF:-1 tvg-name="南昌县" tvg-logo="https://11.112114.xyz/logo/南昌县.png" group-title="江西",南昌县
-http://A/ku9/js/Jiangxi/jxtv.js?id=ncxtv
-#EXTINF:-1 tvg-name="南昌县" tvg-logo="https://11.112114.xyz/logo/南昌县.png" group-title="江西",南昌县
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=ncxtv$酷9远程JS
-#EXTINF:-1 tvg-name="南昌安义" tvg-logo="https://11.112114.xyz/logo/南昌安义.png" group-title="江西",南昌安义
-http://A/ku9/js/Jiangxi/jxtv.js?id=aytv
-#EXTINF:-1 tvg-name="南昌安义" tvg-logo="https://11.112114.xyz/logo/南昌安义.png" group-title="江西",南昌安义
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=aytv$酷9远程JS
-#EXTINF:-1 tvg-name="南昌进贤" tvg-logo="https://11.112114.xyz/logo/南昌进贤.png" group-title="江西",南昌进贤
-http://A/ku9/js/Jiangxi/jxtv.js?id=jxtv
-#EXTINF:-1 tvg-name="南昌进贤" tvg-logo="https://11.112114.xyz/logo/南昌进贤.png" group-title="江西",南昌进贤
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=jxtv$酷9远程JS
-#EXTINF:-1 tvg-name="南昌湾里" tvg-logo="https://11.112114.xyz/logo/南昌湾里.png" group-title="江西",南昌湾里
-http://A/ku9/js/Jiangxi/jxtv.js?id=wltv
-#EXTINF:-1 tvg-name="南昌湾里" tvg-logo="https://11.112114.xyz/logo/南昌湾里.png" group-title="江西",南昌湾里
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=wltv$酷9远程JS
+#EXTINF:-1 tvg-name="九江新闻综合" tvg-logo="https://11.112114.xyz/logo/九江新闻综合.png" group-title="江西",九江新闻综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=174
 #EXTINF:-1 tvg-name="九江新闻综合" tvg-logo="https://11.112114.xyz/logo/九江新闻综合.png" group-title="江西",九江新闻综合
 http://192.168.1.200/myphp/jiujiang.php?id=jjtv1
 #EXTINF:-1 tvg-name="九江新闻综合" tvg-logo="https://11.112114.xyz/logo/九江新闻综合.png" group-title="江西",九江新闻综合
@@ -9989,8 +9919,10 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8?t=&token=1
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
 #EXTINF:-1 tvg-name="永修一套" tvg-logo="https://11.112114.xyz/logo/永修一套.png" group-title="江西",永修一套
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
-#EXTINF:-1 tvg-name="永修电视台" tvg-logo="https://11.112114.xyz/logo/永修电视台.png" group-title="江西",永修电视台
+#EXTINF:-1 tvg-name="永修一套" tvg-logo="https://11.112114.xyz/logo/永修一套.png" group-title="江西",永修一套
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8?t=&token=1
+#EXTINF:-1 tvg-name="鹰潭综合" tvg-logo="https://11.112114.xyz/logo/鹰潭综合.png" group-title="江西",鹰潭综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=167
 #EXTINF:-1 tvg-name="鹰潭综合" tvg-logo="https://11.112114.xyz/logo/鹰潭综合.png" group-title="江西",鹰潭综合
 http://192.168.1.200/myphp/gdy.php?pid=2574&cid=3313
 #EXTINF:-1 tvg-name="鹰潭综合" tvg-logo="https://11.112114.xyz/logo/鹰潭综合.png" group-title="江西",鹰潭综合
@@ -9999,6 +9931,8 @@ https://47065.hlsplay.aodianyun.com/tv_radio_47065/tv_channel_2574.m3u8?auth_key
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_yingtan.m3u8
 #EXTINF:-1 tvg-name="鹰潭综合" tvg-logo="https://11.112114.xyz/logo/鹰潭综合.png" group-title="江西",鹰潭综合
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_yingtan.flv
+#EXTINF:-1 tvg-name="宜春综合" tvg-logo="https://11.112114.xyz/logo/宜春综合.png" group-title="江西",宜春综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=175
 #EXTINF:-1 tvg-name="宜春综合" tvg-logo="https://11.112114.xyz/logo/宜春综合.png" group-title="江西",宜春综合
 rtmp://play-live-hls.jxtvcn.com.cn/live-city/tv_yichun
 #EXTINF:-1 tvg-name="宜春综合" tvg-logo="https://11.112114.xyz/logo/宜春综合.png" group-title="江西",宜春综合
@@ -10015,6 +9949,12 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xiushui01.m3u8?t=&token=1
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xiushui01.m3u8
 #EXTINF:-1 tvg-name="信丰综合" tvg-logo="https://11.112114.xyz/logo/信丰综合.png" group-title="江西",信丰综合
 http://zhibo.jxxw.com.cn/live/dingntv.m3u8?txSecret=343ddfceeecd29f43c7d7eb36fabfa39&txTime=69F30A3F
+#EXTINF:-1 tvg-name="新建综合" tvg-logo="https://11.112114.xyz/logo/新建综合.png" group-title="江西",新建综合
+http://A/ku9/js/Jiangxi/jxtv.js?id=xjtv
+#EXTINF:-1 tvg-name="新建综合" tvg-logo="https://11.112114.xyz/logo/新建综合.png" group-title="江西",新建综合
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=xjtv$酷9远程JS
+#EXTINF:-1 tvg-name="新余新闻综合" tvg-logo="https://11.112114.xyz/logo/新余新闻综合.png" group-title="江西",新余新闻综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=170
 #EXTINF:-1 tvg-name="新余新闻综合" tvg-logo="https://11.112114.xyz/logo/新余新闻综合.png" group-title="江西",新余新闻综合
 rtmp://play-live-hls.jxtvcn.com.cn/live-city/tv_xinyu
 #EXTINF:-1 tvg-name="新余新闻综合" tvg-logo="https://11.112114.xyz/logo/新余新闻综合.png" group-title="江西",新余新闻综合
@@ -10041,6 +9981,10 @@ rtmp://play-a2.quklive.com/live/1739162440932308
 http://play-a2.quklive.com/live/1739162440932308.m3u8
 #EXTINF:-1 tvg-name="万载电视台" tvg-logo="https://11.112114.xyz/logo/万载电视台.png" group-title="江西",万载电视台
 http://play-a2.quklive.com/live/1739162440932308.flv
+#EXTINF:-1 tvg-name="湾里综合" tvg-logo="https://11.112114.xyz/logo/湾里综合.png" group-title="江西",湾里综合
+http://A/ku9/js/Jiangxi/jxtv.js?id=wltv
+#EXTINF:-1 tvg-name="湾里综合" tvg-logo="https://11.112114.xyz/logo/湾里综合.png" group-title="江西",湾里综合
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=wltv$酷9远程JS
 #EXTINF:-1 tvg-name="铜鼓综合" tvg-logo="https://11.112114.xyz/logo/铜鼓综合.png" group-title="江西",铜鼓综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_tonggu.m3u8?t=&token=1
 #EXTINF:-1 tvg-name="铜鼓综合" tvg-logo="https://11.112114.xyz/logo/铜鼓综合.png" group-title="江西",铜鼓综合
@@ -10049,6 +9993,8 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_tonggu.m3u8
 http://zhibo.jxxw.com.cn/live/suictv.m3u8?txSecret=503246d22e9f803743d8f64cdd8ec303&txTime=69F2AD12
 #EXTINF:-1 tvg-name="上犹综合" tvg-logo="https://11.112114.xyz/logo/上犹综合.png" group-title="江西",上犹综合
 http://zhibo.jxxw.com.cn:80/live/shangytv.m3u8?txSecret=4f9e7f5fcfe547ad51992f5ef0e4aadf&txTime=69F30AD9
+#EXTINF:-1 tvg-name="上饶新闻综合" tvg-logo="https://11.112114.xyz/logo/上饶新闻综合.png" group-title="江西",上饶新闻综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=169
 #EXTINF:-1 tvg-name="上饶新闻综合" tvg-logo="https://11.112114.xyz/logo/上饶新闻综合.png" group-title="江西",上饶新闻综合
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_shangrao.m3u8
 #EXTINF:-1 tvg-name="上饶新闻综合" tvg-logo="https://11.112114.xyz/logo/上饶新闻综合.png" group-title="江西",上饶新闻综合
@@ -10063,6 +10009,8 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8?t=&token=1
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8
 #EXTINF:-1 tvg-name="瑞金综合" tvg-logo="https://11.112114.xyz/logo/瑞金综合.png" group-title="江西",瑞金综合
 http://zhibo.jxxw.com.cn/live/rj.m3u8?txSecret=e0647bc72f667c1314ef3ac975e77b3f&txTime=6773635B
+#EXTINF:-1 tvg-name="萍乡新闻综合" tvg-logo="https://11.112114.xyz/logo/萍乡新闻综合.png" group-title="江西",萍乡新闻综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=165
 #EXTINF:-1 tvg-name="萍乡新闻综合" tvg-logo="https://11.112114.xyz/logo/萍乡新闻综合.png" group-title="江西",萍乡新闻综合
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_pingxiang.m3u8
 #EXTINF:-1 tvg-name="萍乡新闻综合" tvg-logo="https://11.112114.xyz/logo/萍乡新闻综合.png" group-title="江西",萍乡新闻综合
@@ -10089,6 +10037,10 @@ http://zhibo.jxxw.com.cn/live/ningdutv.m3u8?txSecret=6ec7ededd99203d30be1a53b981
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_ningdu.m3u8?t=&token=1
 #EXTINF:-1 tvg-name="宁都综合" tvg-logo="https://11.112114.xyz/logo/宁都综合.png" group-title="江西",宁都综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_ningdu.m3u8
+#EXTINF:-1 tvg-name="南昌县综合" tvg-logo="https://11.112114.xyz/logo/南昌县综合.png" group-title="江西",南昌县综合
+http://A/ku9/js/Jiangxi/jxtv.js?id=ncxtv
+#EXTINF:-1 tvg-name="南昌县综合" tvg-logo="https://11.112114.xyz/logo/南昌县综合.png" group-title="江西",南昌县综合
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=ncxtv$酷9远程JS
 #EXTINF:-1 tvg-name="南康综合" tvg-logo="https://11.112114.xyz/logo/南康综合.png" group-title="江西",南康综合
 http://zhibo.jxxw.com.cn:80/live/NKDST.m3u8?txSecret=21ec65635f3ba3c0aea94a430e6acf9e&txTime=ce703de3
 #EXTINF:-1 tvg-name="庐山电视台" tvg-logo="https://11.112114.xyz/logo/庐山电视台.png" group-title="江西",庐山电视台
@@ -10107,6 +10059,12 @@ http://play-hsbj.vzan.com/slowlive/514115730916142429/live.m3u8
 http://p2hs.vzan.com/slowlive/514115730916142429/live.m3u8
 #EXTINF:-1 tvg-name="莲花综合" tvg-logo="https://11.112114.xyz/logo/莲花综合.png" group-title="江西",莲花综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8
+#EXTINF:-1 tvg-name="进贤综合" tvg-logo="https://11.112114.xyz/logo/进贤综合.png" group-title="江西",进贤综合
+http://A/ku9/js/Jiangxi/jxtv.js?id=jxtv
+#EXTINF:-1 tvg-name="进贤综合" tvg-logo="https://11.112114.xyz/logo/进贤综合.png" group-title="江西",进贤综合
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=jxtv$酷9远程JS
+#EXTINF:-1 tvg-name="景德镇新闻综合" tvg-logo="https://11.112114.xyz/logo/景德镇新闻综合.png" group-title="江西",景德镇新闻综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=166
 #EXTINF:-1 tvg-name="景德镇新闻综合" tvg-logo="https://11.112114.xyz/logo/景德镇新闻综合.png" group-title="江西",景德镇新闻综合
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_jingdezhen.m3u8
 #EXTINF:-1 tvg-name="景德镇新闻综合" tvg-logo="https://11.112114.xyz/logo/景德镇新闻综合.png" group-title="江西",景德镇新闻综合
@@ -10123,6 +10081,8 @@ rtmp://play-sh.quklive.com/live/1724916607073321
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8?t=&token=1
 #EXTINF:-1 tvg-name="井冈山电视台" tvg-logo="https://11.112114.xyz/logo/井冈山电视台.png" group-title="江西",井冈山电视台
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
+#EXTINF:-1 tvg-name="吉安综合" tvg-logo="https://11.112114.xyz/logo/吉安综合.png" group-title="江西",吉安综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=168
 #EXTINF:-1 tvg-name="吉安综合" tvg-logo="https://11.112114.xyz/logo/吉安综合.png" group-title="江西",吉安综合
 http://A/ku9/js/Jiangxi/jazh.js?id=jazh
 #EXTINF:-1 tvg-name="吉安综合" tvg-logo="https://11.112114.xyz/logo/吉安综合.png" group-title="江西",吉安综合
@@ -10158,6 +10118,8 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchuangTV.m3u8
 #EXTINF:-1 tvg-name="广昌综合" tvg-logo="https://11.112114.xyz/logo/广昌综合.png" group-title="江西",广昌综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchang.m3u8
 #EXTINF:-1 tvg-name="赣州新闻综合" tvg-logo="https://11.112114.xyz/logo/赣州新闻综合.png" group-title="江西",赣州新闻综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=172
+#EXTINF:-1 tvg-name="赣州新闻综合" tvg-logo="https://11.112114.xyz/logo/赣州新闻综合.png" group-title="江西",赣州新闻综合
 http://wb.jxgztv.com/live/gztv1.m3u8
 #EXTINF:-1 tvg-name="赣州新闻综合" tvg-logo="https://11.112114.xyz/logo/赣州新闻综合.png" group-title="江西",赣州新闻综合
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_ganzhou.m3u8
@@ -10179,6 +10141,8 @@ http://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.
 http://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.flv
 #EXTINF:-1 tvg-name="赣县综合" tvg-logo="https://11.112114.xyz/logo/赣县综合.png" group-title="江西",赣县综合
 http://zhibo.jxxw.com.cn/live/ganxtv.m3u8?txSecret=5de6c9d1b218f12d37fafef4b49b8fc9&txTime=69F30AD9
+#EXTINF:-1 tvg-name="抚州综合" tvg-logo="https://11.112114.xyz/logo/抚州综合.png" group-title="江西",抚州综合
+https://mytv.easonzhang.eu.org/api/jiangxi.php?id=171
 #EXTINF:-1 tvg-name="抚州综合" tvg-logo="https://11.112114.xyz/logo/抚州综合.png" group-title="江西",抚州综合
 http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
 #EXTINF:-1 tvg-name="抚州综合" tvg-logo="https://11.112114.xyz/logo/抚州综合.png" group-title="江西",抚州综合
@@ -10209,6 +10173,10 @@ http://zhibo.jxxw.com.cn/live/chingytv.m3u8?txSecret=7d9f0a4680022a48521b10ac449
 http://zhibo.jxxw.com.cn/live/8732289.m3u8?txSecret=0b6fae1696f7d0d5a7912855f2c204da&txTime=72ee001b
 #EXTINF:-1 tvg-name="崇仁综合" tvg-logo="https://11.112114.xyz/logo/崇仁综合.png" group-title="江西",崇仁综合
 http://zhibo.jxxw.com.cn/live/chongrtv.m3u8?txSecret=0888cc0a0492280b6ba6c551cb40e6db&txTime=69F30AD9
+#EXTINF:-1 tvg-name="安义综合" tvg-logo="https://11.112114.xyz/logo/安义综合.png" group-title="江西",安义综合
+http://A/ku9/js/Jiangxi/jxtv.js?id=aytv
+#EXTINF:-1 tvg-name="安义综合" tvg-logo="https://11.112114.xyz/logo/安义综合.png" group-title="江西",安义综合
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Jiangxi/jxtv.js?id=aytv$酷9远程JS
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://11.112114.xyz/logo/辽宁都市.png" group-title="辽宁",辽宁都市
 http://192.168.1.200/myphp/liaoning_bfgd.php?id=610
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://11.112114.xyz/logo/辽宁都市.png" group-title="辽宁",辽宁都市
