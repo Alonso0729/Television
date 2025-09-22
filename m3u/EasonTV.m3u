@@ -2432,6 +2432,8 @@ http://39.134.87.62/000000001000/5000000011000031117/index.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://k.061899.xyz/k.php?id=jlws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://192.168.1.200/myphp/jltv.php?id=jlws
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040013
@@ -8648,15 +8650,15 @@ http://192.168.1.200/myphp/gdy.php?pid=2582&cid=3815
 #EXTINF:-1 tvg-name="宜章新闻综合" tvg-logo="https://11.112114.xyz/logo/宜章新闻综合.png" group-title="湖南",宜章新闻综合
 http://192.168.1.200/myphp/gdy.php?pid=3088&cid=4100
 #EXTINF:-1 tvg-name="吉林都市" tvg-logo="https://11.112114.xyz/logo/吉林都市.png" group-title="吉林",吉林都市
-https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+http://192.168.1.200/myphp/jltv.php?id=jlds
 #EXTINF:-1 tvg-name="吉林生活" tvg-logo="https://11.112114.xyz/logo/吉林生活.png" group-title="吉林",吉林生活
-https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+http://192.168.1.200/myphp/jltv.php?id=jlsh
 #EXTINF:-1 tvg-name="吉林影视" tvg-logo="https://11.112114.xyz/logo/吉林影视.png" group-title="吉林",吉林影视
-https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+http://192.168.1.200/myphp/jltv.php?id=jlys
 #EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://11.112114.xyz/logo/吉林乡村.png" group-title="吉林",吉林乡村
-https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
+http://192.168.1.200/myphp/jltv.php?id=jlxc
 #EXTINF:-1 tvg-name="吉林综艺文化" tvg-logo="https://11.112114.xyz/logo/吉林综艺文化.png" group-title="吉林",吉林综艺文化
-https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8
+http://192.168.1.200/myphp/jltv.php?id=jlzy
 #EXTINF:-1 tvg-name="长春综合" tvg-logo="https://11.112114.xyz/logo/长春综合.png" group-title="吉林",长春综合
 http://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
 #EXTINF:-1 tvg-name="长春综合" tvg-logo="https://11.112114.xyz/logo/长春综合.png" group-title="吉林",长春综合
