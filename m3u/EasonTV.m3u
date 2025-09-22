@@ -9833,20 +9833,20 @@ http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 http://www.lizhinas.top:1009/rtp/239.252.220.100:5140
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://11.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=jxxw
-#EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://11.112114.xyz/logo/江西风尚购物.png" group-title="江西",江西风尚购物
+#EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://11.112114.xyz/logo/风尚购物.png" group-title="江西",风尚购物
 https://mytv.easonzhang.eu.org/api/jiangxi.php?id=79
-#EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://11.112114.xyz/logo/江西风尚购物.png" group-title="江西",江西风尚购物
+#EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://11.112114.xyz/logo/风尚购物.png" group-title="江西",风尚购物
 http://play-live-hls.jxtvcn.com.cn/live-city/tv_fsgw.m3u8
-#EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://11.112114.xyz/logo/江西风尚购物.png" group-title="江西",江西风尚购物
+#EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://11.112114.xyz/logo/风尚购物.png" group-title="江西",风尚购物
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
-#EXTINF:-1 tvg-name="江西风尚购物" tvg-logo="https://11.112114.xyz/logo/江西风尚购物.png" group-title="江西",江西风尚购物
+#EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://11.112114.xyz/logo/风尚购物.png" group-title="江西",风尚购物
 http://www.lizhinas.top:1009/rtp/239.252.219.101:5140
 #EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://11.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷
 https://mytv.easonzhang.eu.org/api/jiangxi.php?id=78
 #EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://11.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷
-http://www.lizhinas.top:1009/rtp/239.252.220.243:5140
-#EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://11.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷
 http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
+#EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://11.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷
+http://www.lizhinas.top:1009/rtp/239.252.220.243:5140
 #EXTINF:-1 tvg-name="江西教育" tvg-logo="https://11.112114.xyz/logo/江西教育.png" group-title="江西",江西教育
 http://www.lizhinas.top:1009/rtp/239.252.219.115:5140
 #EXTINF:-1 tvg-name="江西教育" tvg-logo="https://11.112114.xyz/logo/江西教育.png" group-title="江西",江西教育
