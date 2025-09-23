@@ -609,6 +609,12 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031126
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000025333
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="央视",CETV-4
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000005000042312
+#EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://11.112114.xyz/logo/CETV早期教育.png" group-title="央视",CETV-早期教育
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001680/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://11.112114.xyz/logo/CETV早期教育.png" group-title="央视",CETV-早期教育
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001680/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://11.112114.xyz/logo/CETV早期教育.png" group-title="央视",CETV-早期教育
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001680/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CECTV-汉语文化" tvg-logo="https://11.112114.xyz/logo/CECTV-汉语文化.png" group-title="央视",CECTV-汉语文化
 http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 #EXTINF:-1 tvg-name="CECTV-国际旅游" tvg-logo="https://11.112114.xyz/logo/CECTV-国际旅游.png" group-title="央视",CECTV-国际旅游
@@ -684,27 +690,93 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://11.112114.xyz/logo/电视指南.png" group-title="央视",电视指南
 http://www.lizhinas.top:1009/rtp/239.252.219.97:5140$江西电信
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001590/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001590/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001590/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://11.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
 http://www.lizhinas.top:1009/rtp/239.252.219.96:5140$江西电信
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="央视",女性时尚
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001571/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001571/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="央视",女性时尚
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001571/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://11.112114.xyz/logo/女性时尚.png" group-title="央视",女性时尚
 http://www.lizhinas.top:1009/rtp/239.252.219.94:5140$江西电信
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001621/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001621/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001621/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
 http://192.168.1.200/myphp/gdy.php?pid=1793&cid=2311
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.86:5140$江西电信
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001650/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001650/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001650/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.89:5140$江西电信
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://11.112114.xyz/logo/风云音乐.png" group-title="央视",风云音乐
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001660/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://11.112114.xyz/logo/风云音乐.png" group-title="央视",风云音乐
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001660/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://11.112114.xyz/logo/风云音乐.png" group-title="央视",风云音乐
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001660/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://11.112114.xyz/logo/风云音乐.png" group-title="央视",风云音乐
 http://www.lizhinas.top:1009/rtp/239.252.219.87:5140$江西电信
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001640/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001640/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001640/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.90:5140$江西电信
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001630/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001630/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001630/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://11.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球
 http://www.lizhinas.top:1009/rtp/239.252.219.95:5140$江西电信
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://11.112114.xyz/logo/央视文化精品.png" group-title="央视",央视文化精品
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001670/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://11.112114.xyz/logo/央视文化精品.png" group-title="央视",央视文化精品
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001670/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://11.112114.xyz/logo/央视文化精品.png" group-title="央视",央视文化精品
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001670/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://11.112114.xyz/logo/央视文化精品.png" group-title="央视",央视文化精品
 http://www.lizhinas.top:1009/rtp/239.252.219.81:5140$江西电信
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="央视",世界地理
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001620/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="央视",世界地理
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001620/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="央视",世界地理
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001620/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://11.112114.xyz/logo/世界地理.png" group-title="央视",世界地理
 http://www.lizhinas.top:1009/rtp/239.252.219.93:5140$江西电信
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="央视",央视台球
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001600/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="央视",央视台球
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001600/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="央视",央视台球
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001600/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://11.112114.xyz/logo/央视台球.png" group-title="央视",央视台球
 http://www.lizhinas.top:1009/rtp/239.252.219.80:5140$江西电信
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001610/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001610/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001610/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://11.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
 http://www.lizhinas.top:1009/rtp/239.252.219.98:5140$江西电信
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://11.112114.xyz/logo/老故事.png" group-title="央视",老故事
@@ -3252,6 +3324,12 @@ http://php.jdshipin.com/bestv.php?id=djtt8m/8000000
 #EXTINF:-1 tvg-name="CHANNELV" tvg-logo="https://11.112114.xyz/logo/CHANNELV.png" group-title="娱乐",CHANNELV
 http://iptv.huuc.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001581/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001581/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001581/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://k.061899.xyz/k.php?id=ymdy
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$江西电信
@@ -3260,6 +3338,12 @@ http://eastscreen.tv/ooooo.php?id=chchd
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://11.112114.xyz/logo/CHC影迷电影.png" group-title="娱乐",CHC影迷电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001570/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001570/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001570/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://k.061899.xyz/k.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$江西电信
@@ -3267,6 +3351,12 @@ http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$江西电信
 http://eastscreen.tv/ooooo.php?id=chcjt
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://11.112114.xyz/logo/CHC家庭影院.png" group-title="娱乐",CHC家庭影院
 http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001580/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001580/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001580/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
 http://k.061899.xyz/k.php?id=dzdy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://11.112114.xyz/logo/CHC动作电影.png" group-title="娱乐",CHC动作电影
