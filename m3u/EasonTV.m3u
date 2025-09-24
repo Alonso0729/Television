@@ -8750,6 +8750,8 @@ http://192.168.1.200/myphp/jltv.php?id=jlxc
 #EXTINF:-1 tvg-name="吉林综艺文化" tvg-logo="https://11.112114.xyz/logo/吉林综艺文化.png" group-title="吉林",吉林综艺文化
 http://192.168.1.200/myphp/jltv.php?id=jlzy
 #EXTINF:-1 tvg-name="长春综合" tvg-logo="https://11.112114.xyz/logo/长春综合.png" group-title="吉林",长春综合
+https://mytv.easonzhang.eu.org/api/changchun.php?id=cczh
+#EXTINF:-1 tvg-name="长春综合" tvg-logo="https://11.112114.xyz/logo/长春综合.png" group-title="吉林",长春综合
 http://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
 #EXTINF:-1 tvg-name="长春综合" tvg-logo="https://11.112114.xyz/logo/长春综合.png" group-title="吉林",长春综合
 http://r2bj.vzan.com/v/slowlive_763922717250086092.m3u8
@@ -8762,6 +8764,8 @@ http://stream2.jlntv.cn/jlcc/sd/live.m3u8
 #EXTINF:-1 tvg-name="长春综合" tvg-logo="https://11.112114.xyz/logo/长春综合.png" group-title="吉林",长春综合
 https://p2bj.vzan.com/slowlive/662567539514013385/live.m3u8
 #EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://11.112114.xyz/logo/长春文旅体育.png" group-title="吉林",长春文旅体育
+https://mytv.easonzhang.eu.org/api/changchun.php?id=wlty
+#EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://11.112114.xyz/logo/长春文旅体育.png" group-title="吉林",长春文旅体育
 http://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
 #EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://11.112114.xyz/logo/长春文旅体育.png" group-title="吉林",长春文旅体育
 http://r2bj.vzan.com/v/slowlive_077592635708642635.m3u8
@@ -8771,6 +8775,8 @@ http://r2bj.vzan.com/v/slowlive_077592635708642635.flv
 rtmp://r2bj.vzan.com/v/slowlive_077592635708642635
 #EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://11.112114.xyz/logo/长春文旅体育.png" group-title="吉林",长春文旅体育
 https://p2bj.vzan.com/slowlive/950305825453158091/live.m3u8
+#EXTINF:-1 tvg-name="长春市民生活" tvg-logo="https://11.112114.xyz/logo/长春市民生活.png" group-title="吉林",长春市民生活
+https://mytv.easonzhang.eu.org/api/changchun.php?id=smsh
 #EXTINF:-1 tvg-name="长春市民生活" tvg-logo="https://11.112114.xyz/logo/长春市民生活.png" group-title="吉林",长春市民生活
 http://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
 #EXTINF:-1 tvg-name="长春市民生活" tvg-logo="https://11.112114.xyz/logo/长春市民生活.png" group-title="吉林",长春市民生活
