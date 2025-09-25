@@ -808,6 +808,12 @@ http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001013/index.m3u8?IAS
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001013/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001641/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001641/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001641/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000010000032246/1.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=3$上海移动V4
@@ -2468,6 +2474,12 @@ http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001026/index.m3u8?IAS
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001026/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001710/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001710/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001710/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000010000030452/1.m3u8?channel-id=bestzb&Contentid=5000000010000030452&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://39.134.87.62/000000001000/5000000004000006692/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -2527,6 +2539,12 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8?
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001033/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001033/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001700/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001700/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001700/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000019351/1.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
@@ -2760,6 +2778,12 @@ http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001028/index.m3u8?IAS
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001028/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001582/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001582/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001582/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000010000027763/1.m3u8?channel-id=bestzb&Contentid=5000000010000027763&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://39.134.87.62/000000001000/5000000004000020424/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -2903,6 +2927,12 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001130/index.m3u8?
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001130/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001130/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001690/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001690/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001690/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
@@ -3083,6 +3113,12 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8?
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001023/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001023/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001720/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001720/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001720/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000007275/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
