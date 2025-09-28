@@ -5914,6 +5914,14 @@ https://mytv.easonzhang.eu.org/api/hainan.php?id=xwpd
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://11.112114.xyz/logo/海南新闻.png" group-title="海南",海南新闻
 http://php.jdshipin.com/TVOD/hnyd.php?id=000000001000/4600001000000000111
 #EXTINF:-1 tvg-name="海口综合" tvg-logo="https://11.112114.xyz/logo/海口综合.png" group-title="海南",海口综合
+http://p2.vzan.com/11763520/789880173860851733/live.m3u8
+#EXTINF:-1 tvg-name="海口综合" tvg-logo="https://11.112114.xyz/logo/海口综合.png" group-title="海南",海口综合
+http://r2.vzan.com/v/11763520_789880173860851733.m3u8
+#EXTINF:-1 tvg-name="海口综合" tvg-logo="https://11.112114.xyz/logo/海口综合.png" group-title="海南",海口综合
+http://r2.vzan.com/v/11763520_789880173860851733.flv
+#EXTINF:-1 tvg-name="海口综合" tvg-logo="https://11.112114.xyz/logo/海口综合.png" group-title="海南",海口综合
+rtmp://r2.vzan.com/v/11763520_789880173860851733
+#EXTINF:-1 tvg-name="海口综合" tvg-logo="https://11.112114.xyz/logo/海口综合.png" group-title="海南",海口综合
 http://183.255.46.4:16080/live/tv1001.m3u8
 #EXTINF:-1 tvg-name="海口综合" tvg-logo="https://11.112114.xyz/logo/海口综合.png" group-title="海南",海口综合
 http://183.255.46.4:16080/live/tv1001.flv
@@ -5922,6 +5930,14 @@ https://www.hkbtv.cn/live/tv1001.m3u8
 #EXTINF:-1 tvg-name="海口综合" tvg-logo="https://11.112114.xyz/logo/海口综合.png" group-title="海南",海口综合
 https://www.hkbtv.cn/live/tv1001.flv
 #EXTINF:-1 tvg-name="海口生活娱乐" tvg-logo="https://11.112114.xyz/logo/海口生活娱乐.png" group-title="海南",海口生活娱乐
+http://p2.vzan.com/11763520/718014261347227306/live.m3u8
+#EXTINF:-1 tvg-name="海口生活娱乐" tvg-logo="https://11.112114.xyz/logo/海口生活娱乐.png" group-title="海南",海口生活娱乐
+http://r2.vzan.com/v/11763520_718014261347227306.m3u8
+#EXTINF:-1 tvg-name="海口生活娱乐" tvg-logo="https://11.112114.xyz/logo/海口生活娱乐.png" group-title="海南",海口生活娱乐
+http://r2.vzan.com/v/11763520_718014261347227306.flv
+#EXTINF:-1 tvg-name="海口生活娱乐" tvg-logo="https://11.112114.xyz/logo/海口生活娱乐.png" group-title="海南",海口生活娱乐
+rtmp://r2.vzan.com/v/11763520_718014261347227306
+#EXTINF:-1 tvg-name="海口生活娱乐" tvg-logo="https://11.112114.xyz/logo/海口生活娱乐.png" group-title="海南",海口生活娱乐
 http://183.255.46.4:16080/live/tv2502.m3u8
 #EXTINF:-1 tvg-name="海口生活娱乐" tvg-logo="https://11.112114.xyz/logo/海口生活娱乐.png" group-title="海南",海口生活娱乐
 http://183.255.46.4:16080/live/tv2502.flv
@@ -5929,6 +5945,14 @@ http://183.255.46.4:16080/live/tv2502.flv
 https://www.hkbtv.cn/live/tv2502.m3u8
 #EXTINF:-1 tvg-name="海口生活娱乐" tvg-logo="https://11.112114.xyz/logo/海口生活娱乐.png" group-title="海南",海口生活娱乐
 https://www.hkbtv.cn/live/tv2502.flv
+#EXTINF:-1 tvg-name="海口城乡经济" tvg-logo="https://11.112114.xyz/logo/海口城乡经济.png" group-title="海南",海口城乡经济
+http://p2.vzan.com/11763520/801146877082650859/live.m3u8
+#EXTINF:-1 tvg-name="海口城乡经济" tvg-logo="https://11.112114.xyz/logo/海口城乡经济.png" group-title="海南",海口城乡经济
+http://r2.vzan.com/v/11763520_801146877082650859.m3u8
+#EXTINF:-1 tvg-name="海口城乡经济" tvg-logo="https://11.112114.xyz/logo/海口城乡经济.png" group-title="海南",海口城乡经济
+http://r2.vzan.com/v/11763520_801146877082650859.flv
+#EXTINF:-1 tvg-name="海口城乡经济" tvg-logo="https://11.112114.xyz/logo/海口城乡经济.png" group-title="海南",海口城乡经济
+rtmp://r2.vzan.com/v/11763520_801146877082650859
 #EXTINF:-1 tvg-name="海口城乡经济" tvg-logo="https://11.112114.xyz/logo/海口城乡经济.png" group-title="海南",海口城乡经济
 http://183.255.46.4:16080/live/tv2503.m3u8
 #EXTINF:-1 tvg-name="海口城乡经济" tvg-logo="https://11.112114.xyz/logo/海口城乡经济.png" group-title="海南",海口城乡经济
