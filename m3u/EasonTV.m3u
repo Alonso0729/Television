@@ -792,6 +792,10 @@ http://www.cdnstv.com:6398/hls/1176/index.m3u8
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://11.112114.xyz/logo/书画.png" group-title="央视",书画
 http://php.jdshipin.com/cqyx.php?id=shuhua
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=2030
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=dfws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=dfws
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://A/ku9/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活
@@ -848,6 +852,10 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000056
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000003639
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=20
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=shxwzh
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=xwzh
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://A/ku9/js/Shanghai/shanghai.js?id=shxwzh&key=关注公共号❤：AI科技生活
@@ -873,6 +881,10 @@ http://k.061899.xyz/k.php?id=shxw
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031110
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000005
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
+https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=18
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
+https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=shds
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=ds
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://11.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
@@ -916,6 +928,10 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000032212
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="上海",东方影视
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000013
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
+https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=21
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
+https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=dycj
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
 https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=dycj
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
 http://A/ku9/js/Shanghai/shanghai.js?id=dycj&key=关注公共号❤：AI科技生活
@@ -942,6 +958,10 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000027146
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://11.112114.xyz/logo/第一财经.png" group-title="上海",第一财经
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000004
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
+https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=1605
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
+https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=wxty
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=wxty
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 http://A/ku9/js/Shanghai/shanghai.js?id=wxty&key=关注公共号❤：AI科技生活
@@ -967,6 +987,8 @@ http://k.061899.xyz/k.php?id=wxty
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000017540
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000007
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
+https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=hhxd
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001232/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
@@ -996,6 +1018,10 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031123
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000000172
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="上海",魔都眼
+https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=1601
+#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="上海",魔都眼
+https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=mdy
+#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="上海",魔都眼
 https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=mdy
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="上海",魔都眼
 http://A/ku9/js/Shanghai/shanghai.js?id=mdy&key=关注公共号❤：AI科技生活
@@ -1008,6 +1034,10 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://11.112114.xyz/logo/魔都眼.png" group-title="上海",魔都眼
 http://k.061899.xyz/k.php?id=mdy
 #EXTINF:-1 tvg-name="新纪实" tvg-logo="https://11.112114.xyz/logo/新纪实.png" group-title="上海",新纪实
+https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=1600
+#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://11.112114.xyz/logo/新纪实.png" group-title="上海",新纪实
+https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=jsrw
+#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://11.112114.xyz/logo/新纪实.png" group-title="上海",新纪实
 https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=xjs
 #EXTINF:-1 tvg-name="新纪实" tvg-logo="https://11.112114.xyz/logo/新纪实.png" group-title="上海",新纪实
 http://A/ku9/js/Shanghai/shanghai.js?id=xjs&key=关注公共号❤：AI科技生活
@@ -1019,6 +1049,8 @@ http://A/ku9/js/Shanghai/KanKanNews.js?id=12
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/KanKanNews.js?id=12$酷9远程JS
 #EXTINF:-1 tvg-name="新纪实" tvg-logo="https://11.112114.xyz/logo/新纪实.png" group-title="上海",新纪实
 http://k.061899.xyz/k.php?id=xjs
+#EXTINF:-1 tvg-name="爱上海" tvg-logo="https://11.112114.xyz/logo/爱上海.png" group-title="上海",爱上海
+https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=2029
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1 tvg-name="东方购物一台" tvg-logo="https://11.112114.xyz/logo/东方购物.png" group-title="上海",东方购物一台
@@ -1076,8 +1108,6 @@ http://cdn8.163189.xyz/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="上海",重温经典
 http://iptv.huuc.edu.cn/hls/cwjdhd.m3u8
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
-https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=ly
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001200/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -1091,6 +1121,10 @@ http://gslbserv.itv.cmvideo.cn/000000001000/5000000011000031112/1.m3u8?channel-i
 http://39.134.87.62/000000001000/5000000006000040025/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://39.134.87.62/000000001000/5000000011000031112/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
+https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=1745
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
+https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=ly
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://k.061899.xyz/k.php?id=ly
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="上海",乐游
