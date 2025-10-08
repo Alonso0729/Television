@@ -1320,15 +1320,19 @@ http://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.f
 #EXTINF:-1 tvg-name="金山电视台" tvg-logo="https://11.112114.xyz/logo/金山电视台.png" group-title="上海",金山电视台
 rtmp://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3
 #EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
-http://guyue0227.eicp.net:35455/douyin/FIAFormulaE
-#EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
-http://guyue0227.eicp.net:35455/douyin/21642043600
+http://live.iill.top/douyin/FIAFormulaE
 #EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
 http://guyue0227.eicp.net:35455/douyin/FIAFormulaE
 #EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
-http://guyue0227.eicp.net:35455/douyin/21642043600
+http://live.ottiptv.cc/bilibili/FIAFormulaE
 #EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
 https://mytv.easonzhang.eu.org/api/douyin.php?id=FIAFormulaE
+#EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
+http://live.iill.top/douyin/21642043600
+#EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
+http://guyue0227.eicp.net:35455/douyin/21642043600
+#EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
+http://live.ottiptv.cc/bilibili/21642043600
 #EXTINF:-1 tvg-name="FE电动方程式" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="体育",FE电动方程式
 https://mytv.easonzhang.eu.org/api/douyin.php?id=21642043600
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://11.112114.xyz/logo/睛彩竞技.png" group-title="体育",睛彩竞技
@@ -3216,7 +3220,7 @@ http://live.iill.top/douyin/427652269946
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
 http://guyue0227.eicp.net:35455/douyin/427652269946
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
-http://live.ottiptv.cc/douyin/427652269946
+http://live.ottiptv.cc/bilibili/427652269946
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
 https://mytv.easonzhang.eu.org/api/douyin.php?id=427652269946
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
@@ -3224,7 +3228,7 @@ http://live.iill.top/douyin/38993952516
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
 http://guyue0227.eicp.net:35455/douyin/38993952516
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
-http://live.ottiptv.cc/douyin/38993952516
+http://live.ottiptv.cc/bilibili/38993952516
 #EXTINF:-1 tvg-name="气人主播QQQ" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",气人主播QQQ
 https://mytv.easonzhang.eu.org/api/douyin.php?id=38993952516
 #EXTINF:-1 tvg-name="米娜Minana" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",米娜Minana
@@ -3246,17 +3250,19 @@ http://live.ottiptv.cc/bilibili/883263
 #EXTINF:-1 tvg-name="真栗" tvg-logo="https://11.112114.xyz/logo/bilibili.png" group-title="娱乐",真栗
 https://mytv.easonzhang.eu.org/api/bilibili.php?id=883263
 #EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
-http://live.iill.top/douyin/2793884530
+http://live.iill.top/douyin/fishwomen
 #EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
 http://guyue0227.eicp.net:35455/douyin/fishwomen
 #EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
-http://guyue0227.eicp.net:35455/douyin/2793884530
-#EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
-http://live.ottiptv.cc/douyin/fishwomen
-#EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
-http://live.ottiptv.cc/douyin/2793884530
+http://live.ottiptv.cc/bilibili/fishwomen
 #EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
 https://mytv.easonzhang.eu.org/api/douyin.php?id=fishwomen
+#EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
+http://live.iill.top/douyin/2793884530
+#EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
+http://guyue0227.eicp.net:35455/douyin/2793884530
+#EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
+http://live.ottiptv.cc/bilibili/2793884530
 #EXTINF:-1 tvg-name="鱼子酱" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",鱼子酱
 https://mytv.easonzhang.eu.org/api/douyin.php?id=2793884530
 #EXTINF:-1 tvg-name="Prince晋" tvg-logo="https://11.112114.xyz/logo/douyu.png" group-title="娱乐",Prince晋
@@ -3310,9 +3316,7 @@ http://live.iill.top/douyin/fayelau
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
 http://guyue0227.eicp.net:35455/douyin/fayelau
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
-http://live.ottiptv.cc/douyin/fayelau
-#EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
-http://live.ottiptv.cc/douyin/fayelau
+http://live.ottiptv.cc/bilibili/fayelau
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
 https://mytv.easonzhang.eu.org/api/douyin.php?id=fayelau
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
@@ -3320,9 +3324,7 @@ http://live.iill.top/douyin/769667829224
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
 http://guyue0227.eicp.net:35455/douyin/769667829224
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
-http://live.ottiptv.cc/douyin/769667829224
-#EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
-http://live.ottiptv.cc/douyin/769667829224
+http://live.ottiptv.cc/bilibili/769667829224
 #EXTINF:-1 tvg-name="刘飞儿Fare" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",刘飞儿Fare
 https://mytv.easonzhang.eu.org/api/douyin.php?id=769667829224
 #EXTINF:-1 tvg-name="Mr.619" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",Mr.619
@@ -3330,7 +3332,7 @@ http://live.iill.top/douyin/20855128
 #EXTINF:-1 tvg-name="Mr.619" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",Mr.619
 http://guyue0227.eicp.net:35455/douyin/20855128
 #EXTINF:-1 tvg-name="Mr.619" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",Mr.619
-http://live.ottiptv.cc/douyin/20855128
+http://live.ottiptv.cc/bilibili/20855128
 #EXTINF:-1 tvg-name="Mr.619" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",Mr.619
 https://mytv.easonzhang.eu.org/api/douyin.php?id=20855128
 #EXTINF:-1 tvg-name="56学姐" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",56学姐
@@ -3338,7 +3340,7 @@ http://live.iill.top/douyin/10429123
 #EXTINF:-1 tvg-name="56学姐" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",56学姐
 http://guyue0227.eicp.net:35455/douyin/10429123
 #EXTINF:-1 tvg-name="56学姐" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",56学姐
-http://live.ottiptv.cc/douyin/10429123
+http://live.ottiptv.cc/bilibili/10429123
 #EXTINF:-1 tvg-name="56学姐" tvg-logo="https://11.112114.xyz/logo/抖音.png" group-title="娱乐",56学姐
 https://mytv.easonzhang.eu.org/api/douyin.php?id=10429123
 #EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://11.112114.xyz/logo/1905极限反转.png" group-title="娱乐",1905极限反转
