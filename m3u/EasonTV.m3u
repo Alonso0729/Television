@@ -194,6 +194,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265005
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000016431
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+https://mytv.easonzhang.eu.org/api/unknown.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://k.061899.xyz/k.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://192.168.1.200/myphp/jzb.php?id=cctv5p
@@ -261,6 +263,8 @@ http://39.134.87.62/000000001000/5000000005000026715/index.m3u8?IASHttpSessionId
 http://39.134.87.62/000000001000/5000000011000031104/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
 http://k.061899.xyz/k.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
+https://mytv.easonzhang.eu.org/api/unknown.php?id=cctv7
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000026715
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
@@ -2106,7 +2110,7 @@ http://A/ku9/js/Beijing/bjtime.js?id=bjws
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Beijing/bjtime.js?id=bjws$酷9远程JS
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-http://my.tmos.cn:15181/chs002.m3u8
+https://mytv.easonzhang.eu.org/api/unknown.php?id=bjws
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000031556
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
@@ -3805,6 +3809,50 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000031974
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="娱乐",中国天气
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000057
+#EXTINF:-1 tvg-name="科幻电影1" tvg-logo="https://11.112114.xyz/logo/科幻电影1.png" group-title="娱乐",科幻电影1
+https://mytv.easonzhang.eu.org/api/unknown.php?id=khdy1
+#EXTINF:-1 tvg-name="科幻电影2" tvg-logo="https://11.112114.xyz/logo/科幻电影2.png" group-title="娱乐",科幻电影2
+https://mytv.easonzhang.eu.org/api/unknown.php?id=khdy2
+#EXTINF:-1 tvg-name="科幻电影3" tvg-logo="https://11.112114.xyz/logo/科幻电影3.png" group-title="娱乐",科幻电影3
+https://mytv.easonzhang.eu.org/api/unknown.php?id=khdy3
+#EXTINF:-1 tvg-name="港片电影1" tvg-logo="https://11.112114.xyz/logo/港片电影1.png" group-title="娱乐",港片电影1
+https://mytv.easonzhang.eu.org/api/unknown.php?id=gpdy1
+#EXTINF:-1 tvg-name="港片电影2" tvg-logo="https://11.112114.xyz/logo/港片电影2.png" group-title="娱乐",港片电影2
+https://mytv.easonzhang.eu.org/api/unknown.php?id=gpdy2
+#EXTINF:-1 tvg-name="港片电影3" tvg-logo="https://11.112114.xyz/logo/港片电影3.png" group-title="娱乐",港片电影3
+https://mytv.easonzhang.eu.org/api/unknown.php?id=gpdy3
+#EXTINF:-1 tvg-name="超级英雄" tvg-logo="https://11.112114.xyz/logo/超级英雄.png" group-title="娱乐",超级英雄
+https://mytv.easonzhang.eu.org/api/unknown.php?id=cjdy
+#EXTINF:-1 tvg-name="末日系列" tvg-logo="https://11.112114.xyz/logo/末日系列.png" group-title="娱乐",末日系列
+https://mytv.easonzhang.eu.org/api/unknown.php?id=mrxl
+#EXTINF:-1 tvg-name="漫威电影" tvg-logo="https://11.112114.xyz/logo/漫威电影.png" group-title="娱乐",漫威电影
+https://mytv.easonzhang.eu.org/api/unknown.php?id=mwdy
+#EXTINF:-1 tvg-name="精选动作" tvg-logo="https://11.112114.xyz/logo/精选动作.png" group-title="娱乐",精选动作
+https://mytv.easonzhang.eu.org/api/unknown.php?id=jxdz
+#EXTINF:-1 tvg-name="惊悚电影" tvg-logo="https://11.112114.xyz/logo/惊悚电影.png" group-title="娱乐",惊悚电影
+https://mytv.easonzhang.eu.org/api/unknown.php?id=jsdy
+#EXTINF:-1 tvg-name="国外动作" tvg-logo="https://11.112114.xyz/logo/国外动作.png" group-title="娱乐",国外动作
+https://mytv.easonzhang.eu.org/api/unknown.php?id=gwdz
+#EXTINF:-1 tvg-name="国内喜剧" tvg-logo="https://11.112114.xyz/logo/国内喜剧.png" group-title="娱乐",国内喜剧
+https://mytv.easonzhang.eu.org/api/unknown.php?id=gnxj
+#EXTINF:-1 tvg-name="国内动作" tvg-logo="https://11.112114.xyz/logo/国内动作.png" group-title="娱乐",国内动作
+https://mytv.easonzhang.eu.org/api/unknown.php?id=gndz
+#EXTINF:-1 tvg-name="周星驰电影" tvg-logo="https://11.112114.xyz/logo/周星驰电影.png" group-title="娱乐",周星驰电影
+https://mytv.easonzhang.eu.org/api/unknown.php?id=zxc
+#EXTINF:-1 tvg-name="林正英电影" tvg-logo="https://11.112114.xyz/logo/林正英电影.png" group-title="娱乐",林正英电影
+https://mytv.easonzhang.eu.org/api/unknown.php?id=lzy
+#EXTINF:-1 tvg-name="王晶港风电影" tvg-logo="https://11.112114.xyz/logo/王晶港风电影.png" group-title="娱乐",王晶港风电影
+https://mytv.easonzhang.eu.org/api/unknown.php?id=wj
+#EXTINF:-1 tvg-name="沈腾马丽经典小品" tvg-logo="https://11.112114.xyz/logo/沈腾马丽经典小品.png" group-title="娱乐",沈腾马丽经典小品
+https://mytv.easonzhang.eu.org/api/unknown.php?id=stml
+#EXTINF:-1 tvg-name="宋小宝经典小品" tvg-logo="https://11.112114.xyz/logo/宋小宝经典小品.png" group-title="娱乐",宋小宝经典小品
+https://mytv.easonzhang.eu.org/api/unknown.php?id=sb
+#EXTINF:-1 tvg-name="贾玲经典小品" tvg-logo="https://11.112114.xyz/logo/贾玲经典小品.png" group-title="娱乐",贾玲经典小品
+https://mytv.easonzhang.eu.org/api/unknown.php?id=jl
+#EXTINF:-1 tvg-name="经典小品下饭必备" tvg-logo="https://11.112114.xyz/logo/经典小品下饭必备.png" group-title="娱乐",经典小品下饭必备
+https://mytv.easonzhang.eu.org/api/unknown.php?id=jdjp
+#EXTINF:-1 tvg-name="赵本山经典小品" tvg-logo="https://11.112114.xyz/logo/赵本山经典小品.png" group-title="娱乐",赵本山经典小品
+https://mytv.easonzhang.eu.org/api/unknown.php?id=zbs
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://11.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济生活
 http://A/ku9/js/Anhui/anhui.js?id=jjsh&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://11.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济生活

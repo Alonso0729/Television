@@ -96,6 +96,7 @@ CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000003000030177
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000025222
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265005
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000016431
+CCTV-5+,https://mytv.easonzhang.eu.org/api/unknown.php?id=cctv5p
 CCTV-5+,http://192.168.1.200/myphp/jzb.php?id=cctv5p
 CCTV-5+,http://k.061899.xyz/k.php?id=cctv5p
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031127
@@ -130,6 +131,7 @@ CCTV-7,http://gslbserv.itv.cmvideo.cn/000000001000/5000000011000031104/1.m3u8?ch
 CCTV-7,http://39.134.87.62/000000001000/5000000005000026715/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-7,http://39.134.87.62/000000001000/5000000011000031104/index.m3u8?IASHttpSessionId=$上海移动V4
 CCTV-7,http://k.061899.xyz/k.php?id=cctv7
+CCTV-7,https://mytv.easonzhang.eu.org/api/unknown.php?id=cctv7
 CCTV-7,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000026715
 CCTV-7,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031104
 CCTV-7,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000017218
@@ -1012,7 +1014,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 北京卫视,https://mytv.easonzhang.eu.org/api/beijing.php?id=bjws
 北京卫视,http://A/ku9/js/Beijing/bjtime.js?id=bjws
 北京卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Beijing/bjtime.js?id=bjws$酷9远程JS
-北京卫视,http://my.tmos.cn:15181/chs002.m3u8
+北京卫视,https://mytv.easonzhang.eu.org/api/unknown.php?id=bjws
 北京卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000031556
 北京卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000011502
 北京卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000265011
@@ -1857,6 +1859,28 @@ SkyFolkTV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 中国天气,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000005000031974
 中国天气,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000057
+科幻电影1,https://mytv.easonzhang.eu.org/api/unknown.php?id=khdy1
+科幻电影2,https://mytv.easonzhang.eu.org/api/unknown.php?id=khdy2
+科幻电影3,https://mytv.easonzhang.eu.org/api/unknown.php?id=khdy3
+港片电影1,https://mytv.easonzhang.eu.org/api/unknown.php?id=gpdy1
+港片电影2,https://mytv.easonzhang.eu.org/api/unknown.php?id=gpdy2
+港片电影3,https://mytv.easonzhang.eu.org/api/unknown.php?id=gpdy3
+超级英雄,https://mytv.easonzhang.eu.org/api/unknown.php?id=cjdy
+末日系列,https://mytv.easonzhang.eu.org/api/unknown.php?id=mrxl
+漫威电影,https://mytv.easonzhang.eu.org/api/unknown.php?id=mwdy
+精选动作,https://mytv.easonzhang.eu.org/api/unknown.php?id=jxdz
+惊悚电影,https://mytv.easonzhang.eu.org/api/unknown.php?id=jsdy
+国外动作,https://mytv.easonzhang.eu.org/api/unknown.php?id=gwdz
+国内喜剧,https://mytv.easonzhang.eu.org/api/unknown.php?id=gnxj
+国内动作,https://mytv.easonzhang.eu.org/api/unknown.php?id=gndz
+周星驰电影,https://mytv.easonzhang.eu.org/api/unknown.php?id=zxc
+林正英电影,https://mytv.easonzhang.eu.org/api/unknown.php?id=lzy
+王晶港风电影,https://mytv.easonzhang.eu.org/api/unknown.php?id=wj
+沈腾马丽经典小品,https://mytv.easonzhang.eu.org/api/unknown.php?id=stml
+宋小宝经典小品,https://mytv.easonzhang.eu.org/api/unknown.php?id=sb
+贾玲经典小品,https://mytv.easonzhang.eu.org/api/unknown.php?id=jl
+经典小品下饭必备,https://mytv.easonzhang.eu.org/api/unknown.php?id=jdjp
+赵本山经典小品,https://mytv.easonzhang.eu.org/api/unknown.php?id=zbs
 
 安徽,#genre#
 安徽经济生活,http://A/ku9/js/Anhui/anhui.js?id=jjsh&key=关注公共号❤：AI科技生活
