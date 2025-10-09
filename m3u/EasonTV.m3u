@@ -194,9 +194,9 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265005
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000016431
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
-https://mytv.easonzhang.eu.org/api/unknown.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://k.061899.xyz/k.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
+https://mytv.easonzhang.eu.org/api/unknown.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://192.168.1.200/myphp/jzb.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+
@@ -796,20 +796,6 @@ http://www.cdnstv.com:6398/hls/1176/index.m3u8
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://11.112114.xyz/logo/书画.png" group-title="央视",书画
 http://php.jdshipin.com/cqyx.php?id=shuhua
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=2030
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=dfws
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=dfws
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/ku9/js/Shanghai/KanDongFang.js?id=dfws
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/KanDongFang.js?id=dfws$酷9远程JS
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/ku9/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活$酷9远程JS
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001013/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -831,6 +817,20 @@ http://gslbserv.itv.cmvideo.cn/000000001000/6131854485504331903/1.m3u8?channel-i
 http://39.134.87.62/000000001000/5000000004000014098/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://39.134.87.62/000000001000/5000000010000032246/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=2030
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=dfws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=dfws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://A/ku9/js/Shanghai/KanDongFang.js?id=dfws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/KanDongFang.js?id=dfws$酷9远程JS
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://A/ku9/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活$酷9远程JS
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://k.061899.xyz/k.php?id=dfws
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视

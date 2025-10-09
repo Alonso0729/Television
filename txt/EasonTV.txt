@@ -96,9 +96,9 @@ CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000003000030177
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000025222
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265005
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000016431
+CCTV-5+,http://k.061899.xyz/k.php?id=cctv5p
 CCTV-5+,https://mytv.easonzhang.eu.org/api/unknown.php?id=cctv5p
 CCTV-5+,http://192.168.1.200/myphp/jzb.php?id=cctv5p
-CCTV-5+,http://k.061899.xyz/k.php?id=cctv5p
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031127
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000018504
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000020505
@@ -399,13 +399,6 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 书画,http://php.jdshipin.com/cqyx.php?id=shuhua
 
 上海,#genre#
-东方卫视,https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=2030
-东方卫视,https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=dfws
-东方卫视,https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=dfws
-东方卫视,http://A/ku9/js/Shanghai/KanDongFang.js?id=dfws
-东方卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/KanDongFang.js?id=dfws$酷9远程JS
-东方卫视,http://A/ku9/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活
-东方卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活$酷9远程JS
 东方卫视,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8?IASHttpSessionId=$上海移动V6
 东方卫视,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001013/index.m3u8?IASHttpSessionId=$上海移动V6
 东方卫视,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001013/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -417,6 +410,13 @@ CGTN纪录,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8428799834696888424
 东方卫视,http://gslbserv.itv.cmvideo.cn/000000001000/6131854485504331903/1.m3u8?channel-id=bestzb&Contentid=6131854485504331903&livemode=1&stbId=3$上海移动V4
 东方卫视,http://39.134.87.62/000000001000/5000000004000014098/index.m3u8?IASHttpSessionId=$上海移动V4
 东方卫视,http://39.134.87.62/000000001000/5000000010000032246/index.m3u8?IASHttpSessionId=$上海移动V4
+东方卫视,https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=2030
+东方卫视,https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=dfws
+东方卫视,https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=dfws
+东方卫视,http://A/ku9/js/Shanghai/KanDongFang.js?id=dfws
+东方卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/KanDongFang.js?id=dfws$酷9远程JS
+东方卫视,http://A/ku9/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活
+东方卫视,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活$酷9远程JS
 东方卫视,http://k.061899.xyz/k.php?id=dfws
 东方卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000014098
 东方卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000032246
