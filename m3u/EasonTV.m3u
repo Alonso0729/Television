@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
+https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv1&q=lg
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001520/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001520/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -68,6 +70,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265001
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000029752
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
+https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv2&q=lg
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001220/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -127,6 +131,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265003
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8378175926191110263
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000022313
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
+https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv4&q=lg
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4
@@ -250,6 +256,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6117099895556651277
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000004574
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
+https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv7&q=lg
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001236/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -310,6 +318,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8871488051501921127
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000001070
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
+https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv9&q=lg
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001237/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -327,6 +337,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000028286
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265009
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000032162
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
+https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv10&q=lg
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10
@@ -384,6 +396,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265011
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6351457414282570521
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
+https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv12&q=lg
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001239/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -413,6 +427,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265012
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5325631075193490169
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12
 http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000022586
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
+https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv13&q=lg
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13
@@ -518,6 +534,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000233001
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000233002
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
+https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv17&q=lg
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001241/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -531,6 +549,8 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000056836
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265015
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000268004
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
+https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv4k&q=lg
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
@@ -3003,6 +3023,8 @@ http://39.134.87.62/000000001000/5000000001000030788/index.m3u8?IASHttpSessionId
 http://39.134.87.62/000000001000/5000000004000006827/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
 http://k.061899.xyz/k.php?id=tjws
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000698
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000030788
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
@@ -12629,6 +12651,22 @@ http://apppull.aba-news.com.cn/live/be57fb5401901000b611a82100000000/playlist.m3
 http://apppull.aba-news.com.cn/live/be57fb5401901000b611a82100000000.flv?wsSecret=23cc6d3b9c6c1c4b1bbb3f2fe23107bc&wsTime=2019657600
 #EXTINF:-1 tvg-name="射洪综合" tvg-logo="https://11.112114.xyz/logo/射洪综合.png" group-title="四川",射洪综合
 http://192.168.1.200/myphp/gdy.php?pid=391&cid=1743
+#EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://11.112114.xyz/logo/天津新闻.png" group-title="天津",天津新闻
+http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000699
+#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://11.112114.xyz/logo/天津文艺.png" group-title="天津",天津文艺
+http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000700
+#EXTINF:-1 tvg-name="天津影视" tvg-logo="https://11.112114.xyz/logo/天津影视.png" group-title="天津",天津影视
+http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000701
+#EXTINF:-1 tvg-name="天津都市" tvg-logo="https://11.112114.xyz/logo/天津都市.png" group-title="天津",天津都市
+http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000702
+#EXTINF:-1 tvg-name="天津体育" tvg-logo="https://11.112114.xyz/logo/天津体育.png" group-title="天津",天津体育
+http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000692
+#EXTINF:-1 tvg-name="天津教育" tvg-logo="https://11.112114.xyz/logo/天津教育.png" group-title="天津",天津教育
+http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000693
+#EXTINF:-1 tvg-name="天津三佳购物" tvg-logo="https://11.112114.xyz/logo/天津三佳购物.png" group-title="天津",天津三佳购物
+http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000697
+#EXTINF:-1 tvg-name="羽球精品赛事" tvg-logo="https://11.112114.xyz/logo/羽球精品赛事.png" group-title="天津",羽球精品赛事
+http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000001942
 #EXTINF:-1 tvg-name="滨海新闻" tvg-logo="https://11.112114.xyz/logo/滨海新闻.png" group-title="天津",滨海新闻
 http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 #EXTINF:-1 tvg-name="滨海生活" tvg-logo="https://11.112114.xyz/logo/滨海生活.png" group-title="天津",滨海生活

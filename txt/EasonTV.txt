@@ -1,4 +1,5 @@
 央视,#genre#
+CCTV-1,https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv1&q=lg
 CCTV-1,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001520/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-1,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001520/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-1,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001520/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -33,6 +34,7 @@ CCTV-1,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000018602
 CCTV-1,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000021973
 CCTV-1,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265001
 CCTV-1,http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000029752
+CCTV-2,https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv2&q=lg
 CCTV-2,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-2,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001220/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-2,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001220/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -63,6 +65,7 @@ CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000013682
 CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265003
 CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8378175926191110263
 CCTV-3,http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000022313
+CCTV-4,https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv4&q=lg
 CCTV-4,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-4,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001221/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-4,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001221/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -124,6 +127,7 @@ CCTV-6,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000016466
 CCTV-6,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265006
 CCTV-6,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6117099895556651277
 CCTV-6,http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000004574
+CCTV-7,https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv7&q=lg
 CCTV-7,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-7,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001236/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-7,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001236/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -154,6 +158,7 @@ CCTV-8,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000031433
 CCTV-8,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265008
 CCTV-8,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=8871488051501921127
 CCTV-8,http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000001070
+CCTV-9,https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv9&q=lg
 CCTV-9,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-9,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001237/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-9,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001237/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -163,6 +168,7 @@ CCTV-9,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000014583
 CCTV-9,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000028286
 CCTV-9,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265009
 CCTV-9,http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000032162
+CCTV-10,https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv10&q=lg
 CCTV-10,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-10,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001238/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-10,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001238/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -191,6 +197,7 @@ CCTV-11,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031106
 CCTV-11,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000019789
 CCTV-11,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265011
 CCTV-11,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6351457414282570521
+CCTV-12,https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv12&q=lg
 CCTV-12,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-12,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001239/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-12,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001239/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -206,6 +213,7 @@ CCTV-12,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000032494
 CCTV-12,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265012
 CCTV-12,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=5325631075193490169
 CCTV-12,http://php.jdshipin.com/itv6.php?cid=wasusyt&id=6000000001000022586
+CCTV-13,https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv13&q=lg
 CCTV-13,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-13,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001328/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-13,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001328/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -258,6 +266,7 @@ CCTV-16,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000008000023253
 CCTV-16,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000008000023254
 CCTV-16,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000233001
 CCTV-16,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000233002
+CCTV-17,https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv17&q=lg
 CCTV-17,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-17,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001241/index.m3u8?IASHttpSessionId=$上海移动V6
 CCTV-17,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001241/index.m3u8?IASHttpSessionId=$上海移动V6
@@ -265,6 +274,7 @@ CCTV-17,http://k.061899.xyz/k.php?id=cctv17
 CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000056836
 CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265015
 CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000268004
+CCTV-4K,https://mytv.easonzhang.eu.org/api/CCTV.php?id=cctv4k&q=lg
 CCTV-4K,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 CCTV-4K,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001451/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 CCTV-4K,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001451/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
@@ -1461,6 +1471,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 天津卫视,http://39.134.87.62/000000001000/5000000001000030788/index.m3u8?IASHttpSessionId=$上海移动V4
 天津卫视,http://39.134.87.62/000000001000/5000000004000006827/index.m3u8?IASHttpSessionId=$上海移动V4
 天津卫视,http://k.061899.xyz/k.php?id=tjws
+天津卫视,http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000698
 天津卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000001000030788
 天津卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000004000006827
 天津卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000000831
@@ -6299,6 +6310,14 @@ i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=
 射洪综合,http://192.168.1.200/myphp/gdy.php?pid=391&cid=1743
 
 天津,#genre#
+天津新闻,http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000699
+天津文艺,http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000700
+天津影视,http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000701
+天津都市,http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000702
+天津体育,http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000692
+天津教育,http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000693
+天津三佳购物,http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000000697
+羽球精品赛事,http://192.168.1.200/myphp/tianjin/wsd.php?id=30001110000000000000000000001942
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 滨海生活,http://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
 津南电视台,https://play.jinnantv.top/live/JNTV1/playlist.m3u8
