@@ -12688,6 +12688,8 @@ rtmp://tvpull.smartwq.cn/wqlive/convergencemedia
 #EXTINF:-1 tvg-name="蓟州电视台" tvg-logo="https://11.112114.xyz/logo/蓟州电视台.png" group-title="天津",蓟州电视台
 http://m.176178.xyz/php/i2863.php?id=jztv
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
+http://php.jdshipin.com/xztv.php?id=ys
+#EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
 http://A/ku9/js/Tibet/Tibet.js?id=2
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Tibet/Tibet.js?id=2$酷9远程JS
@@ -12695,8 +12697,6 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 http://192.168.1.200/myphp/xizang.php?id=2
 #EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
 http://192.168.1.200/myphp/xztv.php?id=ys
-#EXTINF:-1 tvg-name="西藏影视文化" tvg-logo="https://11.112114.xyz/logo/西藏影视文化.png" group-title="西藏",西藏影视文化
-http://php.jdshipin.com/xztv.php?id=ys
 #EXTINF:-1 tvg-name="拉萨汉语综合" tvg-logo="https://11.112114.xyz/logo/拉萨汉语综合.png" group-title="西藏",拉萨汉语综合
 https://mytv.easonzhang.eu.org/api/lhasa.php?id=1021641
 #EXTINF:-1 tvg-name="拉萨汉语综合" tvg-logo="https://11.112114.xyz/logo/拉萨汉语综合.png" group-title="西藏",拉萨汉语综合
