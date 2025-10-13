@@ -985,6 +985,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 百视通直播-29,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001378/index.m3u8?IASHttpSessionId=$上海移动V6
 
 卫视,#genre#
+安多卫视,https://mytv.easonzhang.eu.org/api/qhtv.php?id=adws
 安多卫视,http://39.134.87.62/000000001000/5000000006000022124/index.m3u8?IASHttpSessionId=$上海移动V4
 安多卫视,http://39.134.90.60/000000001000/5000000006000022124/index.m3u8?IASHttpSessionId=$上海移动V4
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
@@ -1354,6 +1355,7 @@ Sky2Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 青海卫视,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8?IASHttpSessionId=$上海移动V6
 青海卫视,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001450/index.m3u8?IASHttpSessionId=$上海移动V6
 青海卫视,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001450/index.m3u8?IASHttpSessionId=$上海移动V6
+青海卫视,https://mytv.easonzhang.eu.org/api/qhtv.php?id=qhws
 青海卫视,https://mytv.easonzhang.eu.org/api/qinghai.php?id=qhws
 青海卫视,http://k.061899.xyz/k.php?id=qhws
 青海卫视,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040015
@@ -5409,9 +5411,11 @@ GRTN荔枝台,https://tplaylive.grtn.cn/live/lizhi.m3u8
 石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.flv
 
 青海,#genre#
+青海经视,https://mytv.easonzhang.eu.org/api/qhtv.php?id=qhjs
 青海经视,https://mytv.easonzhang.eu.org/api/qinghai.php?id=qhjs
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
+青海都市,https://mytv.easonzhang.eu.org/api/qhtv.php?id=qhds
 青海都市,https://mytv.easonzhang.eu.org/api/qinghai.php?id=qhds
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
 青海都市,http://stream.qhbtv.com/qhds/playlist.m3u8

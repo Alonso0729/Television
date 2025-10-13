@@ -2052,6 +2052,8 @@ http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001378/index.m3u8?IAS
 #EXTINF:-1 tvg-name="百视通直播-29" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-29
 http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001378/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
+https://mytv.easonzhang.eu.org/api/qhtv.php?id=adws
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://39.134.87.62/000000001000/5000000006000022124/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 http://39.134.90.60/000000001000/5000000006000022124/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -2789,6 +2791,8 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8?
 http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001450/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001450/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
+https://mytv.easonzhang.eu.org/api/qhtv.php?id=qhws
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 https://mytv.easonzhang.eu.org/api/qinghai.php?id=qhws
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
@@ -10866,11 +10870,15 @@ http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8
 #EXTINF:-1 tvg-name="石嘴山公共" tvg-logo="https://11.112114.xyz/logo/石嘴山公共.png" group-title="宁夏",石嘴山公共
 http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.flv
 #EXTINF:-1 tvg-name="青海经视" tvg-logo="https://11.112114.xyz/logo/青海经视.png" group-title="青海",青海经视
+https://mytv.easonzhang.eu.org/api/qhtv.php?id=qhjs
+#EXTINF:-1 tvg-name="青海经视" tvg-logo="https://11.112114.xyz/logo/青海经视.png" group-title="青海",青海经视
 https://mytv.easonzhang.eu.org/api/qinghai.php?id=qhjs
 #EXTINF:-1 tvg-name="青海经视" tvg-logo="https://11.112114.xyz/logo/青海经视.png" group-title="青海",青海经视
 http://stream.qhbtv.com/qhsh/sd/live.m3u8
 #EXTINF:-1 tvg-name="青海经视" tvg-logo="https://11.112114.xyz/logo/青海经视.png" group-title="青海",青海经视
 http://stream.qhbtv.com/qhsh/playlist.m3u8
+#EXTINF:-1 tvg-name="青海都市" tvg-logo="https://11.112114.xyz/logo/青海都市.png" group-title="青海",青海都市
+https://mytv.easonzhang.eu.org/api/qhtv.php?id=qhds
 #EXTINF:-1 tvg-name="青海都市" tvg-logo="https://11.112114.xyz/logo/青海都市.png" group-title="青海",青海都市
 https://mytv.easonzhang.eu.org/api/qinghai.php?id=qhds
 #EXTINF:-1 tvg-name="青海都市" tvg-logo="https://11.112114.xyz/logo/青海都市.png" group-title="青海",青海都市
