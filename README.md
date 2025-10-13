@@ -2,6 +2,9 @@
 # 订阅地址(txt格式)
 # 可支持订阅该格式软件：
 <a href="https://wfy.lanzout.com/b0izqfjwb" target="_blank">酷9播放器</a>
+<a href="https://www.baidu.com" onclick="window.open(this.href); return false;">点击这里，在新窗口打开Example网站</a>
+<a href="https://www.bing.com" target="_blank">点击这里，在新窗口打开Example网站</a>
+
 <table style="border-collapse: collapse; width: 99.9902%; height: 100px;" border="1">
 <tbody>
 <tr>
