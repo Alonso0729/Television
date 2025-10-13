@@ -10673,9 +10673,9 @@ rtmp://play1-qk.nmtv.cn/live/1735546150395017
 http://1.24.190.98:10089/hls/26/index.m3u8
 #EXTINF:-1 tvg-name="包头生活服务" tvg-logo="https://11.112114.xyz/logo/包头生活服务.png" group-title="内蒙古",包头生活服务
 http://1.24.190.98:10089/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="包头经济生活" tvg-logo="https://11.112114.xyz/logo/包头经济生活.png" group-title="内蒙古",包头经济生活
+#EXTINF:-1 tvg-name="包头经济" tvg-logo="https://11.112114.xyz/logo/包头经济.png" group-title="内蒙古",包头经济
 https://mytv.easonzhang.eu.org/api/baotou.php?id=dHZsLTY4OS0zNQ
-#EXTINF:-1 tvg-name="包头经济生活" tvg-logo="https://11.112114.xyz/logo/包头经济生活.png" group-title="内蒙古",包头经济生活
+#EXTINF:-1 tvg-name="包头经济" tvg-logo="https://11.112114.xyz/logo/包头经济.png" group-title="内蒙古",包头经济
 http://1.24.190.98:10089/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="准格尔旗综合" tvg-logo="https://11.112114.xyz/logo/准格尔旗综合.png" group-title="内蒙古",准格尔旗综合
 http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
