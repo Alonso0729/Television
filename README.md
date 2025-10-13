@@ -7,8 +7,8 @@
 <td style="width: 19.7882%;"><span style="font-size: 12pt;">安卓(包含安卓TV)</span></td>
 <td style="width: 20.075%;"><span style="font-size: 12pt;"><a href="https://wfy.lanzout.com/b0izqfjwb">酷9播放器</a> (密码:123456)</span></td>
 <td style="width: 20.075%;"><span style="font-size: 12pt;"><a href="https://pan.quark.cn/s/d2d32f444901#/list/share">OK影视</a></span></td>
-<td style="width: 19.9794%;"><span style="font-size: 12pt;"><a href="https://www.123pan.com/s/PMXuVv-fU74H.html">DIYP影音</a></span></td>
-<td style="width: 19.9794%;"><span style="font-size: 12pt;"><a href="https://www.123pan.com/s/PMXuVv-9U74H.html">百川影音</a></span></td>
+<td style="width: 19.9794%;"><span style="font-size: 12pt;"><a href="https://www.123865.com/s/PMXuVv-FUHxH">DIYP影音</a></span></td>
+<td style="width: 19.9794%;"><span style="font-size: 12pt;"><a href="https://www.123865.com/s/PMXuVv-PUHxH">百川影音</a></span></td>
 </tr>
 <tr>
 <td style="width: 19.7882%;"><span style="font-size: 12pt;">iOS</span></td>
@@ -33,8 +33,8 @@
 <td style="width: 19.9794%;"><span style="font-size: 12pt;"><a href="https://wfy.lanzout.com/b0izqfjwb">酷9播放器</a> (密码:123456)</span></td>
 <td style="width: 19.9794%;"><span style="font-size: 12pt;"><a href="https://pan.quark.cn/s/d2d32f444901#/list/share">OK影视</a></span></td>
 <td style="width: 19.9794%;"><span style="font-size: 12pt;"><a href="https://www.videolan.org/vlc/download-android.html" rel="nofollow">VLC for Android</a>&nbsp;</span></td>
-<td style="width: 10.0375%;"><span style="font-size: 12pt;"><a title="可安装在基于安卓系统的智能电视TV端" href="https://www.123pan.com/s/PMXuVv-fG74H.html" rel="nofollow">TiviMate</a></span></td>
-<td style="width: 10.0375%;"><span style="font-size: 12pt;"><a href="https://www.123pan.com/s/PMXuVv-VX74H.html" rel="nofollow">IPTV Pro</a></span></td>
+<td style="width: 10.0375%;"><span style="font-size: 12pt;"><a href="https://www.123865.com/s/PMXuVv-YUHxH" rel="nofollow">TiviMate</a></span></td>
+<td style="width: 10.0375%;"><span style="font-size: 12pt;"><a href="https://www.123865.com/s/PMXuVv-GUHxH" rel="nofollow">IPTV Pro</a></span></td>
 </tr>
 <tr>
 <td style="width: 19.9794%;"><span style="font-size: 12pt;">iOS</span></td>
