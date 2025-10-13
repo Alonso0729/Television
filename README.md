@@ -1,11 +1,12 @@
 # Television
 # 订阅地址(txt格式)
 # 可支持订阅该格式软件：
+<a href="https://wfy.lanzout.com/b0izqfjwb" target="_blank">酷9播放器</a>
 <table style="border-collapse: collapse; width: 99.9902%; height: 100px;" border="1">
 <tbody>
 <tr>
 <td style="width: 19.7882%;"><span style="font-size: 12pt;">安卓(包含安卓TV)</span></td>
-<td style="width: 20.075%;"><span style="font-size: 12pt;"><a href="https://wfy.lanzout.com/b0izqfjwb" target="_blank">酷9播放器</a> (密码:123456)</span></td>
+<td style="width: 20.075%;"><span style="font-size: 12pt;"><a href="https://wfy.lanzout.com/b0izqfjwb" onclick="window.open(this.href); return false;">酷9播放器</a> (密码:123456)</span></td>
 <td style="width: 20.075%;"><span style="font-size: 12pt;"><a href="https://pan.quark.cn/s/d2d32f444901#/list/share" target="_blank">OK影视</a></span></td>
 <td style="width: 19.9794%;"><span style="font-size: 12pt;"><a href="https://www.123865.com/s/PMXuVv-FUHxH" target="_blank">DIYP影音</a></span></td>
 <td style="width: 19.9794%;"><span style="font-size: 12pt;"><a href="https://www.123865.com/s/PMXuVv-PUHxH" target="_blank">百川影音</a></span></td>
