@@ -2077,6 +2077,184 @@ http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001378/index.m3u8?IAS
 http://[2409:8087:1e10:21::18]:6610/cms001/ch00000090990000001378/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="百视通直播-29" tvg-logo="https://11.112114.xyz/logo/BESTV.png" group-title="体育",百视通直播-29
 http://[2409:8087:1e58:21::13]:6610/cms001/ch00000090990000001378/index.m3u8?IASHttpSessionId=$上海移动V6
+#EXTINF:-1 tvg-name="TNT SPORTS 1" tvg-logo="https://11.112114.xyz/logo/TNT SPORTS 1.png" group-title="体育",TNT SPORTS 1
+https://mytv.easonzhang.eu.org/api/Sports.php?id=TNT_Sports_1
+#EXTINF:-1 tvg-name="TNT SPORTS 2" tvg-logo="https://11.112114.xyz/logo/TNT SPORTS 2.png" group-title="体育",TNT SPORTS 2
+https://mytv.easonzhang.eu.org/api/Sports.php?id=TNT_Sports_2
+#EXTINF:-1 tvg-name="TNT SPORTS 3" tvg-logo="https://11.112114.xyz/logo/TNT SPORTS 3.png" group-title="体育",TNT SPORTS 3
+https://mytv.easonzhang.eu.org/api/Sports.php?id=TNT_Sports_3
+#EXTINF:-1 tvg-name="TNT SPORTS 4" tvg-logo="https://11.112114.xyz/logo/TNT SPORTS 4.png" group-title="体育",TNT SPORTS 4
+https://mytv.easonzhang.eu.org/api/Sports.php?id=TNT_Sports_4
+#EXTINF:-1 tvg-name="Sky Sports FOOTBALL" tvg-logo="https://11.112114.xyz/logo/Sky Sports FOOTBALL.png" group-title="体育",Sky Sports FOOTBALL
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Football_Live_TV
+#EXTINF:-1 tvg-name="Sky Sports MAIN EVENT" tvg-logo="https://11.112114.xyz/logo/Sky Sports MAIN EVENT.png" group-title="体育",Sky Sports MAIN EVENT
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Main_Event
+#EXTINF:-1 tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://11.112114.xyz/logo/Sky Sports PREMIER LEAGUE.png" group-title="体育",Sky Sports PREMIER LEAGUE
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Premier_League
+#EXTINF:-1 tvg-name="Sky Sports ACTION" tvg-logo="https://11.112114.xyz/logo/Sky Sports ACTION.png" group-title="体育",Sky Sports ACTION
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Action_Live_TV
+#EXTINF:-1 tvg-name="Sky Sports MIX" tvg-logo="https://11.112114.xyz/logo/Sky Sports MIX.png" group-title="体育",Sky Sports MIX
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Mix_Live_TV
+#EXTINF:-1 tvg-name="Sky Sports ARENA" tvg-logo="https://11.112114.xyz/logo/Sky Sports ARENA.png" group-title="体育",Sky Sports ARENA
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Arena_Live_TV
+#EXTINF:-1 tvg-name="Sky Sports NEWS" tvg-logo="https://11.112114.xyz/logo/Sky Sports NEWS.png" group-title="体育",Sky Sports NEWS
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_News_Live_TV
+#EXTINF:-1 tvg-name="Sky Sports CRICKET" tvg-logo="https://11.112114.xyz/logo/Sky Sports CRICKET.png" group-title="体育",Sky Sports CRICKET
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Cricket_Live_TV
+#EXTINF:-1 tvg-name="Sky Sports Tennis" tvg-logo="https://11.112114.xyz/logo/Sky Sports Tennis.png" group-title="体育",Sky Sports Tennis
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Tennis
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://11.112114.xyz/logo/Sky Sports F1.png" group-title="体育",Sky Sports F1
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_F1_Live_TV
+#EXTINF:-1 tvg-name="Sky Sports GOLF" tvg-logo="https://11.112114.xyz/logo/Sky Sports GOLF.png" group-title="体育",Sky Sports GOLF
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Golf_Live_TV
+#EXTINF:-1 tvg-name="Sky Sports RACING" tvg-logo="https://11.112114.xyz/logo/Sky Sports RACING.png" group-title="体育",Sky Sports RACING
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Racing_Live_TV
+#EXTINF:-1 tvg-name="Sky Sports Darts" tvg-logo="https://11.112114.xyz/logo/Sky Sports Darts.png" group-title="体育",Sky Sports Darts
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Sports_Darts
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://11.112114.xyz/logo/BBC News.png" group-title="体育",BBC News
+https://mytv.easonzhang.eu.org/api/Sports.php?id=BBC_News
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://11.112114.xyz/logo/BBC Three.png" group-title="体育",BBC Three
+https://mytv.easonzhang.eu.org/api/Sports.php?id=BBC_Three
+#EXTINF:-1 tvg-name="BBC FOUR" tvg-logo="https://11.112114.xyz/logo/BBC FOUR.png" group-title="体育",BBC FOUR
+https://mytv.easonzhang.eu.org/api/Sports.php?id=BBC_FOUR
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://11.112114.xyz/logo/BBC One.png" group-title="体育",BBC One
+https://mytv.easonzhang.eu.org/api/Sports.php?id=BBC_1
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://11.112114.xyz/logo/BBC Two.png" group-title="体育",BBC Two
+https://mytv.easonzhang.eu.org/api/Sports.php?id=BBC_2
+#EXTINF:-1 tvg-name="BEIN SPORTS USA" tvg-logo="https://11.112114.xyz/logo/BEIN SPORTS USA.png" group-title="体育",BEIN SPORTS USA
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Bein_Sports_USA_Live_TV
+#EXTINF:-1 tvg-name="Racing TV" tvg-logo="https://11.112114.xyz/logo/Racing TV.png" group-title="体育",Racing TV
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Racing_TV
+#EXTINF:-1 tvg-name="TENNIS CHANNEL" tvg-logo="https://11.112114.xyz/logo/TENNIS CHANNEL.png" group-title="体育",TENNIS CHANNEL
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Tennis_Channel_Live_TV
+#EXTINF:-1 tvg-name="LALIGA TV HD" tvg-logo="https://11.112114.xyz/logo/LALIGA TV HD.png" group-title="体育",LALIGA TV HD
+https://mytv.easonzhang.eu.org/api/Sports.php?id=La_Liga_TV_Live_TV
+#EXTINF:-1 tvg-name="HBO 1" tvg-logo="https://11.112114.xyz/logo/HBO 1.png" group-title="体育",HBO 1
+https://mytv.easonzhang.eu.org/api/Sports.php?id=HBO_Live_TV
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://11.112114.xyz/logo/HBO 2.png" group-title="体育",HBO 2
+https://mytv.easonzhang.eu.org/api/Sports.php?id=HBO_2_Live_TV
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://11.112114.xyz/logo/Discovery Channel.png" group-title="体育",Discovery Channel
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Discovery_Channel_Live_TV
+#EXTINF:-1 tvg-name="Discovery Life" tvg-logo="https://11.112114.xyz/logo/Discovery Life.png" group-title="体育",Discovery Life
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Discovery_Life_Live_TV
+#EXTINF:-1 tvg-name="Cinemax West" tvg-logo="https://11.112114.xyz/logo/Cinemax West.png" group-title="体育",Cinemax West
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Cinemax_West_Live_TV
+#EXTINF:-1 tvg-name="Great Movies" tvg-logo="https://11.112114.xyz/logo/Great Movies.png" group-title="体育",Great Movies
+https://mytv.easonzhang.eu.org/api/Sports.php?id=UK_Great_Movies_Live_TV
+#EXTINF:-1 tvg-name="Sky Cinema Comedy" tvg-logo="https://11.112114.xyz/logo/Sky Cinema Comedy.png" group-title="体育",Sky Cinema Comedy
+https://mytv.easonzhang.eu.org/api/Sports.php?id=UK_Sky_Cinema_Comedy_Live_TV
+#EXTINF:-1 tvg-name="Sky Cinema Family" tvg-logo="https://11.112114.xyz/logo/Sky Cinema Family.png" group-title="体育",Sky Cinema Family
+https://mytv.easonzhang.eu.org/api/Sports.php?id=UK_Sky_Cinema_Family_Live_TV
+#EXTINF:-1 tvg-name="Sky Cinema Action" tvg-logo="https://11.112114.xyz/logo/Sky Cinema Action.png" group-title="体育",Sky Cinema Action
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Cinema_Action
+#EXTINF:-1 tvg-name="Sky Cinema Animation" tvg-logo="https://11.112114.xyz/logo/Sky Cinema Animation.png" group-title="体育",Sky Cinema Animation
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Sky_Cinema_Animation
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://11.112114.xyz/logo/Cartoon Network.png" group-title="体育",Cartoon Network
+https://mytv.easonzhang.eu.org/api/Sports.php?id=UK_Cartoon_Network_Live_TV
+#EXTINF:-1 tvg-name="Virgin 2" tvg-logo="https://11.112114.xyz/logo/Virgin 2.png" group-title="体育",Virgin 2
+https://mytv.easonzhang.eu.org/api/Sports.php?id=UK_Virgin_2
+#EXTINF:-1 tvg-name="Virgin 3" tvg-logo="https://11.112114.xyz/logo/Virgin 3.png" group-title="体育",Virgin 3
+https://mytv.easonzhang.eu.org/api/Sports.php?id=UK_Virgin_3
+#EXTINF:-1 tvg-name="Virgin 1" tvg-logo="https://11.112114.xyz/logo/Virgin 1.png" group-title="体育",Virgin 1
+https://mytv.easonzhang.eu.org/api/Sports.php?id=UK_Virgin_1
+#EXTINF:-1 tvg-name="Bein Sports English 2" tvg-logo="https://11.112114.xyz/logo/Bein Sports English 2.png" group-title="体育",Bein Sports English 2
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Bein_Sports_English_2_Live_TV
+#EXTINF:-1 tvg-name="SuperSport Premier League" tvg-logo="https://11.112114.xyz/logo/SuperSport Premier League.png" group-title="体育",SuperSport Premier League
+https://mytv.easonzhang.eu.org/api/Sports.php?id=SuperSport_Premier_League_Live_TV
+#EXTINF:-1 tvg-name="SuperSport LaLiga" tvg-logo="https://11.112114.xyz/logo/SuperSport LaLiga.png" group-title="体育",SuperSport LaLiga
+https://mytv.easonzhang.eu.org/api/Sports.php?id=SuperSport_LaLiga_Live_TV
+#EXTINF:-1 tvg-name="SuperSport Action" tvg-logo="https://11.112114.xyz/logo/SuperSport Action.png" group-title="体育",SuperSport Action
+https://mytv.easonzhang.eu.org/api/Sports.php?id=SuperSport_Action_Live_TV
+#EXTINF:-1 tvg-name="SuperSport Blitz" tvg-logo="https://11.112114.xyz/logo/SuperSport Blitz.png" group-title="体育",SuperSport Blitz
+https://mytv.easonzhang.eu.org/api/Sports.php?id=SuperSport_Blitz_Live_TV
+#EXTINF:-1 tvg-name="SuperSport Cricket" tvg-logo="https://11.112114.xyz/logo/SuperSport Cricket.png" group-title="体育",SuperSport Cricket
+https://mytv.easonzhang.eu.org/api/Sports.php?id=SuperSport_Cricket_Live_TV
+#EXTINF:-1 tvg-name="SuperSport Football" tvg-logo="https://11.112114.xyz/logo/SuperSport Football.png" group-title="体育",SuperSport Football
+https://mytv.easonzhang.eu.org/api/Sports.php?id=SuperSport_Football_Live_TV
+#EXTINF:-1 tvg-name="SuperSport Golf" tvg-logo="https://11.112114.xyz/logo/SuperSport Golf.png" group-title="体育",SuperSport Golf
+https://mytv.easonzhang.eu.org/api/Sports.php?id=SuperSport_Golf_Live_TV
+#EXTINF:-1 tvg-name="SuperSport Rugby" tvg-logo="https://11.112114.xyz/logo/SuperSport Rugby.png" group-title="体育",SuperSport Rugby
+https://mytv.easonzhang.eu.org/api/Sports.php?id=SuperSport_Rugby_Live_TV
+#EXTINF:-1 tvg-name="SuperSport Tennis" tvg-logo="https://11.112114.xyz/logo/SuperSport Tennis.png" group-title="体育",SuperSport Tennis
+https://mytv.easonzhang.eu.org/api/Sports.php?id=SuperSport_Tennis_Live_TV
+#EXTINF:-1 tvg-name="Variety 1" tvg-logo="https://11.112114.xyz/logo/Variety 1.png" group-title="体育",Variety 1
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Variety_1_Live_TV
+#EXTINF:-1 tvg-name="Variety 2" tvg-logo="https://11.112114.xyz/logo/Variety 2.png" group-title="体育",Variety 2
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Variety_2_Live_TV
+#EXTINF:-1 tvg-name="Variety 3" tvg-logo="https://11.112114.xyz/logo/Variety 3.png" group-title="体育",Variety 3
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Variety_3_Live_TV
+#EXTINF:-1 tvg-name="Variety 4" tvg-logo="https://11.112114.xyz/logo/Variety 4.png" group-title="体育",Variety 4
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Variety_4_Live_TV
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://11.112114.xyz/logo/Eurosport 2.png" group-title="体育",Eurosport 2
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Eurosport_2_Live_TV
+#EXTINF:-1 tvg-name="Premier Sports 1" tvg-logo="https://11.112114.xyz/logo/Premier Sports 1.png" group-title="体育",Premier Sports 1
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Premier_Sports_1
+#EXTINF:-1 tvg-name="Premier Sports 2" tvg-logo="https://11.112114.xyz/logo/Premier Sports 2.png" group-title="体育",Premier Sports 2
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Premier_Sports_2
+#EXTINF:-1 tvg-name="Golf Channel" tvg-logo="https://11.112114.xyz/logo/Golf Channel.png" group-title="体育",Golf Channel
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Golf_Channel_Live_TV
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://11.112114.xyz/logo/MLB Network.png" group-title="体育",MLB Network
+https://mytv.easonzhang.eu.org/api/Sports.php?id=MLB_Network_Live_TV
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://11.112114.xyz/logo/NBA TV.png" group-title="体育",NBA TV
+https://mytv.easonzhang.eu.org/api/Sports.php?id=NBA_TV_Live_TV
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://11.112114.xyz/logo/NFL Network.png" group-title="体育",NFL Network
+https://mytv.easonzhang.eu.org/api/Sports.php?id=NFL_Network_Live_TV
+#EXTINF:-1 tvg-name="NFL REDZONE" tvg-logo="https://11.112114.xyz/logo/NFL REDZONE.png" group-title="体育",NFL REDZONE
+https://mytv.easonzhang.eu.org/api/Sports.php?id=NFL_REDZONE_Live_TV
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://11.112114.xyz/logo/NHL Network.png" group-title="体育",NHL Network
+https://mytv.easonzhang.eu.org/api/Sports.php?id=NHL_Network_Live_TV
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://11.112114.xyz/logo/WWE.png" group-title="体育",WWE
+https://mytv.easonzhang.eu.org/api/Sports.php?id=WWE_Live_TV
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://11.112114.xyz/logo/Willow Cricket.png" group-title="体育",Willow Cricket
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Willow_Cricket_Live_TV
+#EXTINF:-1 tvg-name="Willow Extra" tvg-logo="https://11.112114.xyz/logo/Willow Extra.png" group-title="体育",Willow Extra
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Willow_Extra_Live_TV
+#EXTINF:-1 tvg-name="World Fishing Network" tvg-logo="https://11.112114.xyz/logo/World Fishing Network.png" group-title="体育",World Fishing Network
+https://mytv.easonzhang.eu.org/api/Sports.php?id=World_Fishing_Network_Live_TV
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://11.112114.xyz/logo/ESPN.png" group-title="体育",ESPN
+https://mytv.easonzhang.eu.org/api/Sports.php?id=ESPN_Live_TV
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://11.112114.xyz/logo/ESPN 2.png" group-title="体育",ESPN 2
+https://mytv.easonzhang.eu.org/api/Sports.php?id=ESPN_2_Live_TV
+#EXTINF:-1 tvg-name="ESPN News" tvg-logo="https://11.112114.xyz/logo/ESPN News.png" group-title="体育",ESPN News
+https://mytv.easonzhang.eu.org/api/Sports.php?id=ESPN_News_Live_TV
+#EXTINF:-1 tvg-name="ESPN U" tvg-logo="https://11.112114.xyz/logo/ESPN U.png" group-title="体育",ESPN U
+https://mytv.easonzhang.eu.org/api/Sports.php?id=ESPN_U_Live_TV
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="https://11.112114.xyz/logo/ESPN Deportes.png" group-title="体育",ESPN Deportes
+https://mytv.easonzhang.eu.org/api/Sports.php?id=ESPN_Deportes
+#EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://11.112114.xyz/logo/ITV 1.png" group-title="体育",ITV 1
+https://mytv.easonzhang.eu.org/api/Sports.php?id=ITV_1
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://11.112114.xyz/logo/ITV 2.png" group-title="体育",ITV 2
+https://mytv.easonzhang.eu.org/api/Sports.php?id=ITV_2
+#EXTINF:-1 tvg-name="ITV 3" tvg-logo="https://11.112114.xyz/logo/ITV 3.png" group-title="体育",ITV 3
+https://mytv.easonzhang.eu.org/api/Sports.php?id=ITV_3
+#EXTINF:-1 tvg-name="ITV 4" tvg-logo="https://11.112114.xyz/logo/ITV 4.png" group-title="体育",ITV 4
+https://mytv.easonzhang.eu.org/api/Sports.php?id=ITV_4
+#EXTINF:-1 tvg-name="MUTV" tvg-logo="https://11.112114.xyz/logo/MUTV.png" group-title="体育",MUTV
+https://mytv.easonzhang.eu.org/api/Sports.php?id=MUTV_Live_TV
+#EXTINF:-1 tvg-name="LFC TV" tvg-logo="https://11.112114.xyz/logo/LFC TV.png" group-title="体育",LFC TV
+https://mytv.easonzhang.eu.org/api/Sports.php?id=LFC_TV_Live_TV
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://11.112114.xyz/logo/FOX NEWS.png" group-title="体育",FOX NEWS
+https://mytv.easonzhang.eu.org/api/Sports.php?id=FOX_NEWS_Live_TV
+#EXTINF:-1 tvg-name="Fox Soccer Plus" tvg-logo="https://11.112114.xyz/logo/Fox Soccer Plus.png" group-title="体育",Fox Soccer Plus
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Fox_Soccer_Plus
+#EXTINF:-1 tvg-name="FOX DEPORTES" tvg-logo="https://11.112114.xyz/logo/FOX DEPORTES.png" group-title="体育",FOX DEPORTES
+https://mytv.easonzhang.eu.org/api/Sports.php?id=FOX_DEPORTES
+#EXTINF:-1 tvg-name="ACC Network" tvg-logo="https://11.112114.xyz/logo/ACC Network.png" group-title="体育",ACC Network
+https://mytv.easonzhang.eu.org/api/Sports.php?id=ACC_Network_Live_TV
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://11.112114.xyz/logo/Fight Network.png" group-title="体育",Fight Network
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Fight_Network_Live_TV
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://11.112114.xyz/logo/CBS Sports Network.png" group-title="体育",CBS Sports Network
+https://mytv.easonzhang.eu.org/api/Sports.php?id=CBS_Sports_Network_Live_TV
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://11.112114.xyz/logo/CNBC.png" group-title="体育",CNBC
+https://mytv.easonzhang.eu.org/api/Sports.php?id=CNBC_Live_TV
+#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="https://11.112114.xyz/logo/Fox Sports 1.png" group-title="体育",Fox Sports 1
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Fox_Sports_1_Live_TV
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://11.112114.xyz/logo/Fox Sports 2.png" group-title="体育",Fox Sports 2
+https://mytv.easonzhang.eu.org/api/Sports.php?id=Fox_Sports_2_Live_TV
+#EXTINF:-1 tvg-name="BBC Red Button" tvg-logo="https://11.112114.xyz/logo/BBC Red Button.png" group-title="体育",BBC Red Button
+https://mytv.easonzhang.eu.org/api/Sports.php?id=BBC_Red_Button
+#EXTINF:-1 tvg-name="NBC UNIVERSO" tvg-logo="https://11.112114.xyz/logo/NBC UNIVERSO.png" group-title="体育",NBC UNIVERSO
+https://mytv.easonzhang.eu.org/api/Sports.php?id=NBC_UNIVERSO
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
 https://mytv.easonzhang.eu.org/api/qhtv.php?id=adws
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://11.112114.xyz/logo/安多卫视.png" group-title="卫视",安多卫视
@@ -13862,13 +14040,7 @@ http://192.168.1.200/myphp/gdy.php?pid=3697&cid=1346
 #EXTINF:-1 tvg-name="桐乡新闻综合" tvg-logo="https://11.112114.xyz/logo/桐乡新闻综合.png" group-title="浙江",桐乡新闻综合
 http://192.168.1.200/myphp/gdy.php?pid=1511&cid=1043
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13389247903&pwd=Llxxcc198
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://tv.groupshare.com.cn/fhtv?id=cn&token=id=cn&prefix=86&phone=13955036885&pwd=make123456MAKE
+https://mytv.easonzhang.eu.org/api/PhoenixTV.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://A/ku9/js/HongKong/PhoenixTV.js?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
@@ -13884,13 +14056,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://11.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 http://php.jdshipin.com/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13389247903&pwd=Llxxcc198
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://tv.groupshare.com.cn/fhtv?id=info&token=id=cn&prefix=86&phone=13955036885&pwd=make123456MAKE
+https://mytv.easonzhang.eu.org/api/PhoenixTV.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://A/ku9/js/HongKong/PhoenixTV.js?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
@@ -13906,13 +14072,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://11.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://tv.groupshare.com.cn/fhtv?id=hk&token=id=cn&prefix
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://tv.groupshare.com.cn/fhtv?id=hk&token=id=cn&prefix=86&phone=13256889895&pwd=Fan2345678
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://tv.groupshare.com.cn/fhtv?id=hk&token=id=cn&prefix=86&phone=13389247903&pwd=Llxxcc198
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://tv.groupshare.com.cn/fhtv?id=hk&token=id=cn&prefix=86&phone=13955036885&pwd=make123456MAKE
+https://mytv.easonzhang.eu.org/api/PhoenixTV.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://A/ku9/js/HongKong/PhoenixTV.js?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://11.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
