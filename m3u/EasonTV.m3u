@@ -3050,13 +3050,13 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000027731
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=7304224304099543804
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000025203/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3$上海移动V4
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000010000031107/1.m3u8?channel-id=bestzb&Contentid=5000000010000031107&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://39.134.87.62/000000001000/5000000004000025203/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://39.134.87.62/000000001000/5000000010000031107/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000025203/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
@@ -12314,25 +12314,37 @@ http://hlspull.qtv.com.cn/v31faxcg/channel/1126ac08401969c70b0aa7814ad40975/inde
 #EXTINF:-1 tvg-name="邹平综合" tvg-logo="https://11.112114.xyz/logo/邹平综合.png" group-title="山东",邹平综合
 http://A/ku9/js/Shandong/sdqilu.js?id=bzzpzh
 #EXTINF:-1 tvg-name="邹平综合" tvg-logo="https://11.112114.xyz/logo/邹平综合.png" group-title="山东",邹平综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzzpzh
+#EXTINF:-1 tvg-name="邹平综合" tvg-logo="https://11.112114.xyz/logo/邹平综合.png" group-title="山东",邹平综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzzpzh$酷9远程JS
 #EXTINF:-1 tvg-name="邹平民生" tvg-logo="https://11.112114.xyz/logo/邹平民生.png" group-title="山东",邹平民生
 http://A/ku9/js/Shandong/sdqilu.js?id=bzzpms
+#EXTINF:-1 tvg-name="邹平民生" tvg-logo="https://11.112114.xyz/logo/邹平民生.png" group-title="山东",邹平民生
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzzpms
 #EXTINF:-1 tvg-name="邹平民生" tvg-logo="https://11.112114.xyz/logo/邹平民生.png" group-title="山东",邹平民生
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzzpms$酷9远程JS
 #EXTINF:-1 tvg-name="邹城综合" tvg-logo="https://11.112114.xyz/logo/邹城综合.png" group-title="山东",邹城综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jizczh
 #EXTINF:-1 tvg-name="邹城综合" tvg-logo="https://11.112114.xyz/logo/邹城综合.png" group-title="山东",邹城综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jizczh
+#EXTINF:-1 tvg-name="邹城综合" tvg-logo="https://11.112114.xyz/logo/邹城综合.png" group-title="山东",邹城综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jizczh$酷9远程JS
 #EXTINF:-1 tvg-name="邹城文化生活" tvg-logo="https://11.112114.xyz/logo/邹城文化生活.png" group-title="山东",邹城文化生活
 http://A/ku9/js/Shandong/sdqilu.js?id=jizcwh
+#EXTINF:-1 tvg-name="邹城文化生活" tvg-logo="https://11.112114.xyz/logo/邹城文化生活.png" group-title="山东",邹城文化生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jizcwh
 #EXTINF:-1 tvg-name="邹城文化生活" tvg-logo="https://11.112114.xyz/logo/邹城文化生活.png" group-title="山东",邹城文化生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jizcwh$酷9远程JS
 #EXTINF:-1 tvg-name="淄川新闻" tvg-logo="https://11.112114.xyz/logo/淄川新闻.png" group-title="山东",淄川新闻
 http://A/ku9/js/Shandong/sdqilu.js?id=zbzcxw
 #EXTINF:-1 tvg-name="淄川新闻" tvg-logo="https://11.112114.xyz/logo/淄川新闻.png" group-title="山东",淄川新闻
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbzcxw
+#EXTINF:-1 tvg-name="淄川新闻" tvg-logo="https://11.112114.xyz/logo/淄川新闻.png" group-title="山东",淄川新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbzcxw$酷9远程JS
 #EXTINF:-1 tvg-name="淄川生活" tvg-logo="https://11.112114.xyz/logo/淄川生活.png" group-title="山东",淄川生活
 http://A/ku9/js/Shandong/sdqilu.js?id=zbzcsh
+#EXTINF:-1 tvg-name="淄川生活" tvg-logo="https://11.112114.xyz/logo/淄川生活.png" group-title="山东",淄川生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbzcsh
 #EXTINF:-1 tvg-name="淄川生活" tvg-logo="https://11.112114.xyz/logo/淄川生活.png" group-title="山东",淄川生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbzcsh$酷9远程JS
 #EXTINF:-1 tvg-name="淄博新闻综合" tvg-logo="https://11.112114.xyz/logo/淄博新闻综合.png" group-title="山东",淄博新闻综合
@@ -12346,57 +12358,85 @@ http://192.168.1.200/myphp/gdy.php?pid=2308&cid=3185
 #EXTINF:-1 tvg-name="诸城新闻综合" tvg-logo="https://11.112114.xyz/logo/诸城新闻综合.png" group-title="山东",诸城新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=wfzcxw
 #EXTINF:-1 tvg-name="诸城新闻综合" tvg-logo="https://11.112114.xyz/logo/诸城新闻综合.png" group-title="山东",诸城新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfzcxw
+#EXTINF:-1 tvg-name="诸城新闻综合" tvg-logo="https://11.112114.xyz/logo/诸城新闻综合.png" group-title="山东",诸城新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfzcxw$酷9远程JS
 #EXTINF:-1 tvg-name="诸城生活娱乐" tvg-logo="https://11.112114.xyz/logo/诸城生活娱乐.png" group-title="山东",诸城生活娱乐
 http://A/ku9/js/Shandong/sdqilu.js?id=wfzcsh
+#EXTINF:-1 tvg-name="诸城生活娱乐" tvg-logo="https://11.112114.xyz/logo/诸城生活娱乐.png" group-title="山东",诸城生活娱乐
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfzcsh
 #EXTINF:-1 tvg-name="诸城生活娱乐" tvg-logo="https://11.112114.xyz/logo/诸城生活娱乐.png" group-title="山东",诸城生活娱乐
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfzcsh$酷9远程JS
 #EXTINF:-1 tvg-name="周村新闻" tvg-logo="https://11.112114.xyz/logo/周村新闻.png" group-title="山东",周村新闻
 http://A/ku9/js/Shandong/sdqilu.js?id=zbzctv1
 #EXTINF:-1 tvg-name="周村新闻" tvg-logo="https://11.112114.xyz/logo/周村新闻.png" group-title="山东",周村新闻
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbzctv1
+#EXTINF:-1 tvg-name="周村新闻" tvg-logo="https://11.112114.xyz/logo/周村新闻.png" group-title="山东",周村新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbzctv1$酷9远程JS
 #EXTINF:-1 tvg-name="周村生活" tvg-logo="https://11.112114.xyz/logo/周村生活.png" group-title="山东",周村生活
 http://A/ku9/js/Shandong/sdqilu.js?id=zbzctv2
+#EXTINF:-1 tvg-name="周村生活" tvg-logo="https://11.112114.xyz/logo/周村生活.png" group-title="山东",周村生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbzctv2
 #EXTINF:-1 tvg-name="周村生活" tvg-logo="https://11.112114.xyz/logo/周村生活.png" group-title="山东",周村生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbzctv2$酷9远程JS
 #EXTINF:-1 tvg-name="招远综艺" tvg-logo="https://11.112114.xyz/logo/招远综艺.png" group-title="山东",招远综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=ytzyzy
 #EXTINF:-1 tvg-name="招远综艺" tvg-logo="https://11.112114.xyz/logo/招远综艺.png" group-title="山东",招远综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytzyzy
+#EXTINF:-1 tvg-name="招远综艺" tvg-logo="https://11.112114.xyz/logo/招远综艺.png" group-title="山东",招远综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytzyzy$酷9远程JS
 #EXTINF:-1 tvg-name="招远综合" tvg-logo="https://11.112114.xyz/logo/招远综合.png" group-title="山东",招远综合
 http://A/ku9/js/Shandong/sdqilu.js?id=ytzyzh
+#EXTINF:-1 tvg-name="招远综合" tvg-logo="https://11.112114.xyz/logo/招远综合.png" group-title="山东",招远综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytzyzh
 #EXTINF:-1 tvg-name="招远综合" tvg-logo="https://11.112114.xyz/logo/招远综合.png" group-title="山东",招远综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytzyzh$酷9远程JS
 #EXTINF:-1 tvg-name="长清新闻" tvg-logo="https://11.112114.xyz/logo/长清新闻.png" group-title="山东",长清新闻
 http://A/ku9/js/Shandong/sdqilu.js?id=jncqxw
 #EXTINF:-1 tvg-name="长清新闻" tvg-logo="https://11.112114.xyz/logo/长清新闻.png" group-title="山东",长清新闻
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jncqxw
+#EXTINF:-1 tvg-name="长清新闻" tvg-logo="https://11.112114.xyz/logo/长清新闻.png" group-title="山东",长清新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jncqxw$酷9远程JS
 #EXTINF:-1 tvg-name="长岛电视台" tvg-logo="https://11.112114.xyz/logo/长岛电视台.png" group-title="山东",长岛电视台
 http://A/ku9/js/Shandong/sdqilu.js?id=ytcd
+#EXTINF:-1 tvg-name="长岛电视台" tvg-logo="https://11.112114.xyz/logo/长岛电视台.png" group-title="山东",长岛电视台
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytcd
 #EXTINF:-1 tvg-name="长岛电视台" tvg-logo="https://11.112114.xyz/logo/长岛电视台.png" group-title="山东",长岛电视台
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytcd$酷9远程JS
 #EXTINF:-1 tvg-name="章丘综合" tvg-logo="https://11.112114.xyz/logo/章丘综合.png" group-title="山东",章丘综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jnzqzh
 #EXTINF:-1 tvg-name="章丘综合" tvg-logo="https://11.112114.xyz/logo/章丘综合.png" group-title="山东",章丘综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jnzqzh
+#EXTINF:-1 tvg-name="章丘综合" tvg-logo="https://11.112114.xyz/logo/章丘综合.png" group-title="山东",章丘综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jnzqzh$酷9远程JS
 #EXTINF:-1 tvg-name="章丘公共" tvg-logo="https://11.112114.xyz/logo/章丘公共.png" group-title="山东",章丘公共
 http://A/ku9/js/Shandong/sdqilu.js?id=jnzqgg
+#EXTINF:-1 tvg-name="章丘公共" tvg-logo="https://11.112114.xyz/logo/章丘公共.png" group-title="山东",章丘公共
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jnzqgg
 #EXTINF:-1 tvg-name="章丘公共" tvg-logo="https://11.112114.xyz/logo/章丘公共.png" group-title="山东",章丘公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jnzqgg$酷9远程JS
 #EXTINF:-1 tvg-name="张店综合" tvg-logo="https://11.112114.xyz/logo/张店综合.png" group-title="山东",张店综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zbzd1
 #EXTINF:-1 tvg-name="张店综合" tvg-logo="https://11.112114.xyz/logo/张店综合.png" group-title="山东",张店综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbzd1
+#EXTINF:-1 tvg-name="张店综合" tvg-logo="https://11.112114.xyz/logo/张店综合.png" group-title="山东",张店综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbzd1$酷9远程JS
 #EXTINF:-1 tvg-name="张店二套" tvg-logo="https://11.112114.xyz/logo/张店二套.png" group-title="山东",张店二套
 http://A/ku9/js/Shandong/sdqilu.js?id=zbzd2
+#EXTINF:-1 tvg-name="张店二套" tvg-logo="https://11.112114.xyz/logo/张店二套.png" group-title="山东",张店二套
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbzd2
 #EXTINF:-1 tvg-name="张店二套" tvg-logo="https://11.112114.xyz/logo/张店二套.png" group-title="山东",张店二套
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbzd2$酷9远程JS
 #EXTINF:-1 tvg-name="沾化综艺" tvg-logo="https://11.112114.xyz/logo/沾化综艺.png" group-title="山东",沾化综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=bzzhzy
 #EXTINF:-1 tvg-name="沾化综艺" tvg-logo="https://11.112114.xyz/logo/沾化综艺.png" group-title="山东",沾化综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzzhzy
+#EXTINF:-1 tvg-name="沾化综艺" tvg-logo="https://11.112114.xyz/logo/沾化综艺.png" group-title="山东",沾化综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzzhzy$酷9远程JS
 #EXTINF:-1 tvg-name="沾化综合" tvg-logo="https://11.112114.xyz/logo/沾化综合.png" group-title="山东",沾化综合
 http://A/ku9/js/Shandong/sdqilu.js?id=bzzhzh
+#EXTINF:-1 tvg-name="沾化综合" tvg-logo="https://11.112114.xyz/logo/沾化综合.png" group-title="山东",沾化综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzzhzh
 #EXTINF:-1 tvg-name="沾化综合" tvg-logo="https://11.112114.xyz/logo/沾化综合.png" group-title="山东",沾化综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzzhzh$酷9远程JS
 #EXTINF:-1 tvg-name="枣庄新闻综合" tvg-logo="https://11.112114.xyz/logo/枣庄新闻综合.png" group-title="山东",枣庄新闻综合
@@ -12415,6 +12455,8 @@ http://pili-live-rtmp-zdzz-tv.zzxwcm.cn/zdzz-tv/dianshi1.flv
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=zzdst&channelid=100023$酷9远程JS
 #EXTINF:-1 tvg-name="枣庄市中综合" tvg-logo="https://11.112114.xyz/logo/枣庄市中综合.png" group-title="山东",枣庄市中综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zzszzh
+#EXTINF:-1 tvg-name="枣庄市中综合" tvg-logo="https://11.112114.xyz/logo/枣庄市中综合.png" group-title="山东",枣庄市中综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zzszzh
 #EXTINF:-1 tvg-name="枣庄市中综合" tvg-logo="https://11.112114.xyz/logo/枣庄市中综合.png" group-title="山东",枣庄市中综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zzszzh$酷9远程JS
 #EXTINF:-1 tvg-name="枣庄经济生活" tvg-logo="https://11.112114.xyz/logo/枣庄经济生活.png" group-title="山东",枣庄经济生活
@@ -12436,73 +12478,109 @@ http://pili-live-rtmp-zdzz-tv.zzxwcm.cn/zdzz-tv/dianshi3.flv
 #EXTINF:-1 tvg-name="郓城综艺" tvg-logo="https://11.112114.xyz/logo/郓城综艺.png" group-title="山东",郓城综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=hzyczy
 #EXTINF:-1 tvg-name="郓城综艺" tvg-logo="https://11.112114.xyz/logo/郓城综艺.png" group-title="山东",郓城综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzyczy
+#EXTINF:-1 tvg-name="郓城综艺" tvg-logo="https://11.112114.xyz/logo/郓城综艺.png" group-title="山东",郓城综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzyczy$酷9远程JS
 #EXTINF:-1 tvg-name="郓城新闻" tvg-logo="https://11.112114.xyz/logo/郓城新闻.png" group-title="山东",郓城新闻
 http://A/ku9/js/Shandong/sdqilu.js?id=hzycxw
+#EXTINF:-1 tvg-name="郓城新闻" tvg-logo="https://11.112114.xyz/logo/郓城新闻.png" group-title="山东",郓城新闻
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzycxw
 #EXTINF:-1 tvg-name="郓城新闻" tvg-logo="https://11.112114.xyz/logo/郓城新闻.png" group-title="山东",郓城新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzycxw$酷9远程JS
 #EXTINF:-1 tvg-name="禹城综艺" tvg-logo="https://11.112114.xyz/logo/禹城综艺.png" group-title="山东",禹城综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=dzyczy
 #EXTINF:-1 tvg-name="禹城综艺" tvg-logo="https://11.112114.xyz/logo/禹城综艺.png" group-title="山东",禹城综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzyczy
+#EXTINF:-1 tvg-name="禹城综艺" tvg-logo="https://11.112114.xyz/logo/禹城综艺.png" group-title="山东",禹城综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzyczy$酷9远程JS
 #EXTINF:-1 tvg-name="禹城综合" tvg-logo="https://11.112114.xyz/logo/禹城综合.png" group-title="山东",禹城综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dzyczh
+#EXTINF:-1 tvg-name="禹城综合" tvg-logo="https://11.112114.xyz/logo/禹城综合.png" group-title="山东",禹城综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzyczh
 #EXTINF:-1 tvg-name="禹城综合" tvg-logo="https://11.112114.xyz/logo/禹城综合.png" group-title="山东",禹城综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzyczh$酷9远程JS
 #EXTINF:-1 tvg-name="鱼台新闻" tvg-logo="https://11.112114.xyz/logo/鱼台新闻.png" group-title="山东",鱼台新闻
 http://A/ku9/js/Shandong/sdqilu.js?id=jiytxw
 #EXTINF:-1 tvg-name="鱼台新闻" tvg-logo="https://11.112114.xyz/logo/鱼台新闻.png" group-title="山东",鱼台新闻
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jiytxw
+#EXTINF:-1 tvg-name="鱼台新闻" tvg-logo="https://11.112114.xyz/logo/鱼台新闻.png" group-title="山东",鱼台新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jiytxw$酷9远程JS
 #EXTINF:-1 tvg-name="鱼台生活" tvg-logo="https://11.112114.xyz/logo/鱼台生活.png" group-title="山东",鱼台生活
 http://A/ku9/js/Shandong/sdqilu.js?id=jiytsh
+#EXTINF:-1 tvg-name="鱼台生活" tvg-logo="https://11.112114.xyz/logo/鱼台生活.png" group-title="山东",鱼台生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jiytsh
 #EXTINF:-1 tvg-name="鱼台生活" tvg-logo="https://11.112114.xyz/logo/鱼台生活.png" group-title="山东",鱼台生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jiytsh$酷9远程JS
 #EXTINF:-1 tvg-name="峄城综合" tvg-logo="https://11.112114.xyz/logo/峄城综合.png" group-title="山东",峄城综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zzyczh
 #EXTINF:-1 tvg-name="峄城综合" tvg-logo="https://11.112114.xyz/logo/峄城综合.png" group-title="山东",峄城综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zzyczh
+#EXTINF:-1 tvg-name="峄城综合" tvg-logo="https://11.112114.xyz/logo/峄城综合.png" group-title="山东",峄城综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zzyczh$酷9远程JS
 #EXTINF:-1 tvg-name="沂源综合" tvg-logo="https://11.112114.xyz/logo/沂源综合.png" group-title="山东",沂源综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zbyyzh
+#EXTINF:-1 tvg-name="沂源综合" tvg-logo="https://11.112114.xyz/logo/沂源综合.png" group-title="山东",沂源综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbyyzh
 #EXTINF:-1 tvg-name="沂源综合" tvg-logo="https://11.112114.xyz/logo/沂源综合.png" group-title="山东",沂源综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbyyzh$酷9远程JS
 #EXTINF:-1 tvg-name="沂源生活" tvg-logo="https://11.112114.xyz/logo/沂源生活.png" group-title="山东",沂源生活
 http://A/ku9/js/Shandong/sdqilu.js?id=zbyysh
 #EXTINF:-1 tvg-name="沂源生活" tvg-logo="https://11.112114.xyz/logo/沂源生活.png" group-title="山东",沂源生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbyysh
+#EXTINF:-1 tvg-name="沂源生活" tvg-logo="https://11.112114.xyz/logo/沂源生活.png" group-title="山东",沂源生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbyysh$酷9远程JS
 #EXTINF:-1 tvg-name="沂水综合" tvg-logo="https://11.112114.xyz/logo/沂水综合.png" group-title="山东",沂水综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lyys1
+#EXTINF:-1 tvg-name="沂水综合" tvg-logo="https://11.112114.xyz/logo/沂水综合.png" group-title="山东",沂水综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyys1
 #EXTINF:-1 tvg-name="沂水综合" tvg-logo="https://11.112114.xyz/logo/沂水综合.png" group-title="山东",沂水综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyys1$酷9远程JS
 #EXTINF:-1 tvg-name="沂水生活" tvg-logo="https://11.112114.xyz/logo/沂水生活.png" group-title="山东",沂水生活
 http://A/ku9/js/Shandong/sdqilu.js?id=lyys2
 #EXTINF:-1 tvg-name="沂水生活" tvg-logo="https://11.112114.xyz/logo/沂水生活.png" group-title="山东",沂水生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyys2
+#EXTINF:-1 tvg-name="沂水生活" tvg-logo="https://11.112114.xyz/logo/沂水生活.png" group-title="山东",沂水生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyys2$酷9远程JS
 #EXTINF:-1 tvg-name="沂南综合" tvg-logo="https://11.112114.xyz/logo/沂南综合.png" group-title="山东",沂南综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lyynzh
+#EXTINF:-1 tvg-name="沂南综合" tvg-logo="https://11.112114.xyz/logo/沂南综合.png" group-title="山东",沂南综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyynzh
 #EXTINF:-1 tvg-name="沂南综合" tvg-logo="https://11.112114.xyz/logo/沂南综合.png" group-title="山东",沂南综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyynzh$酷9远程JS
 #EXTINF:-1 tvg-name="沂南红色影视" tvg-logo="https://11.112114.xyz/logo/沂南红色影视.png" group-title="山东",沂南红色影视
 http://A/ku9/js/Shandong/sdqilu.js?id=lyynys
 #EXTINF:-1 tvg-name="沂南红色影视" tvg-logo="https://11.112114.xyz/logo/沂南红色影视.png" group-title="山东",沂南红色影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyynys
+#EXTINF:-1 tvg-name="沂南红色影视" tvg-logo="https://11.112114.xyz/logo/沂南红色影视.png" group-title="山东",沂南红色影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyynys$酷9远程JS
 #EXTINF:-1 tvg-name="阳信新闻综合" tvg-logo="https://11.112114.xyz/logo/阳信新闻综合.png" group-title="山东",阳信新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=bzyxxw
+#EXTINF:-1 tvg-name="阳信新闻综合" tvg-logo="https://11.112114.xyz/logo/阳信新闻综合.png" group-title="山东",阳信新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzyxxw
 #EXTINF:-1 tvg-name="阳信新闻综合" tvg-logo="https://11.112114.xyz/logo/阳信新闻综合.png" group-title="山东",阳信新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzyxxw$酷9远程JS
 #EXTINF:-1 tvg-name="阳谷综合" tvg-logo="https://11.112114.xyz/logo/阳谷综合.png" group-title="山东",阳谷综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lcygzh
 #EXTINF:-1 tvg-name="阳谷综合" tvg-logo="https://11.112114.xyz/logo/阳谷综合.png" group-title="山东",阳谷综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lcygzh
+#EXTINF:-1 tvg-name="阳谷综合" tvg-logo="https://11.112114.xyz/logo/阳谷综合.png" group-title="山东",阳谷综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lcygzh$酷9远程JS
 #EXTINF:-1 tvg-name="阳谷影视" tvg-logo="https://11.112114.xyz/logo/阳谷影视.png" group-title="山东",阳谷影视
 http://A/ku9/js/Shandong/sdqilu.js?id=lcygys
+#EXTINF:-1 tvg-name="阳谷影视" tvg-logo="https://11.112114.xyz/logo/阳谷影视.png" group-title="山东",阳谷影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lcygys
 #EXTINF:-1 tvg-name="阳谷影视" tvg-logo="https://11.112114.xyz/logo/阳谷影视.png" group-title="山东",阳谷影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lcygys$酷9远程JS
 #EXTINF:-1 tvg-name="兖州新闻" tvg-logo="https://11.112114.xyz/logo/兖州新闻.png" group-title="山东",兖州新闻
 http://A/ku9/js/Shandong/sdqilu.js?id=jiyzxw
 #EXTINF:-1 tvg-name="兖州新闻" tvg-logo="https://11.112114.xyz/logo/兖州新闻.png" group-title="山东",兖州新闻
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jiyzxw
+#EXTINF:-1 tvg-name="兖州新闻" tvg-logo="https://11.112114.xyz/logo/兖州新闻.png" group-title="山东",兖州新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jiyzxw$酷9远程JS
 #EXTINF:-1 tvg-name="兖州生活" tvg-logo="https://11.112114.xyz/logo/兖州生活.png" group-title="山东",兖州生活
 http://A/ku9/js/Shandong/sdqilu.js?id=jiyzsh
+#EXTINF:-1 tvg-name="兖州生活" tvg-logo="https://11.112114.xyz/logo/兖州生活.png" group-title="山东",兖州生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jiyzsh
 #EXTINF:-1 tvg-name="兖州生活" tvg-logo="https://11.112114.xyz/logo/兖州生活.png" group-title="山东",兖州生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jiyzsh$酷9远程JS
 #EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="https://11.112114.xyz/logo/烟台新闻综合.png" group-title="山东",烟台新闻综合
@@ -12532,67 +12610,93 @@ http://live.yantaitv.cn/live/412a6764092149faa58f80a0fd8004e9/22bbe85c960145dc95
 #EXTINF:-1 tvg-name="薛城新闻综合" tvg-logo="https://11.112114.xyz/logo/薛城新闻综合.png" group-title="山东",薛城新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zzxcxw
 #EXTINF:-1 tvg-name="薛城新闻综合" tvg-logo="https://11.112114.xyz/logo/薛城新闻综合.png" group-title="山东",薛城新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zzxcxw
+#EXTINF:-1 tvg-name="薛城新闻综合" tvg-logo="https://11.112114.xyz/logo/薛城新闻综合.png" group-title="山东",薛城新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zzxcxw$酷9远程JS
 #EXTINF:-1 tvg-name="新泰综合" tvg-logo="https://11.112114.xyz/logo/新泰综合.png" group-title="山东",新泰综合
 http://A/ku9/js/Shandong/sdqilu.js?id=taxtzh
+#EXTINF:-1 tvg-name="新泰综合" tvg-logo="https://11.112114.xyz/logo/新泰综合.png" group-title="山东",新泰综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=taxtzh
 #EXTINF:-1 tvg-name="新泰综合" tvg-logo="https://11.112114.xyz/logo/新泰综合.png" group-title="山东",新泰综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=taxtzh$酷9远程JS
 #EXTINF:-1 tvg-name="新泰乡村" tvg-logo="https://11.112114.xyz/logo/新泰乡村.png" group-title="山东",新泰乡村
 http://A/ku9/js/Shandong/sdqilu.js?id=taxtxc
 #EXTINF:-1 tvg-name="新泰乡村" tvg-logo="https://11.112114.xyz/logo/新泰乡村.png" group-title="山东",新泰乡村
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=taxtxc
+#EXTINF:-1 tvg-name="新泰乡村" tvg-logo="https://11.112114.xyz/logo/新泰乡村.png" group-title="山东",新泰乡村
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=taxtxc$酷9远程JS
 #EXTINF:-1 tvg-name="夏津综合" tvg-logo="https://11.112114.xyz/logo/夏津综合.png" group-title="山东",夏津综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dzxjzh
+#EXTINF:-1 tvg-name="夏津综合" tvg-logo="https://11.112114.xyz/logo/夏津综合.png" group-title="山东",夏津综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzxjzh
 #EXTINF:-1 tvg-name="夏津综合" tvg-logo="https://11.112114.xyz/logo/夏津综合.png" group-title="山东",夏津综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzxjzh$酷9远程JS
 #EXTINF:-1 tvg-name="夏津公共" tvg-logo="https://11.112114.xyz/logo/夏津公共.png" group-title="山东",夏津公共
 http://A/ku9/js/Shandong/sdqilu.js?id=dzxjgg
 #EXTINF:-1 tvg-name="夏津公共" tvg-logo="https://11.112114.xyz/logo/夏津公共.png" group-title="山东",夏津公共
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzxjgg
+#EXTINF:-1 tvg-name="夏津公共" tvg-logo="https://11.112114.xyz/logo/夏津公共.png" group-title="山东",夏津公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzxjgg$酷9远程JS
 #EXTINF:-1 tvg-name="武城综艺影视" tvg-logo="https://11.112114.xyz/logo/武城综艺影视.png" group-title="山东",武城综艺影视
 http://A/ku9/js/Shandong/sdqilu.js?id=dzwczy
+#EXTINF:-1 tvg-name="武城综艺影视" tvg-logo="https://11.112114.xyz/logo/武城综艺影视.png" group-title="山东",武城综艺影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzwczy
 #EXTINF:-1 tvg-name="武城综艺影视" tvg-logo="https://11.112114.xyz/logo/武城综艺影视.png" group-title="山东",武城综艺影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzwczy$酷9远程JS
 #EXTINF:-1 tvg-name="武城综合" tvg-logo="https://11.112114.xyz/logo/武城综合.png" group-title="山东",武城综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dzwczh
 #EXTINF:-1 tvg-name="武城综合" tvg-logo="https://11.112114.xyz/logo/武城综合.png" group-title="山东",武城综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzwczh
+#EXTINF:-1 tvg-name="武城综合" tvg-logo="https://11.112114.xyz/logo/武城综合.png" group-title="山东",武城综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzwczh$酷9远程JS
 #EXTINF:-1 tvg-name="五莲综合" tvg-logo="https://11.112114.xyz/logo/五莲综合.png" group-title="山东",五莲综合
 http://A/ku9/js/Shandong/sdqilu.js?id=rzwlzh
+#EXTINF:-1 tvg-name="五莲综合" tvg-logo="https://11.112114.xyz/logo/五莲综合.png" group-title="山东",五莲综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=rzwlzh
 #EXTINF:-1 tvg-name="五莲综合" tvg-logo="https://11.112114.xyz/logo/五莲综合.png" group-title="山东",五莲综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=rzwlzh$酷9远程JS
 #EXTINF:-1 tvg-name="五莲文化旅游" tvg-logo="https://11.112114.xyz/logo/五莲文化旅游.png" group-title="山东",五莲文化旅游
 http://A/ku9/js/Shandong/sdqilu.js?id=rzwlwh
 #EXTINF:-1 tvg-name="五莲文化旅游" tvg-logo="https://11.112114.xyz/logo/五莲文化旅游.png" group-title="山东",五莲文化旅游
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=rzwlwh
+#EXTINF:-1 tvg-name="五莲文化旅游" tvg-logo="https://11.112114.xyz/logo/五莲文化旅游.png" group-title="山东",五莲文化旅游
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=rzwlwh$酷9远程JS
 #EXTINF:-1 tvg-name="无棣综艺" tvg-logo="https://11.112114.xyz/logo/无棣综艺.png" group-title="山东",无棣综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=bzwdzy
+#EXTINF:-1 tvg-name="无棣综艺" tvg-logo="https://11.112114.xyz/logo/无棣综艺.png" group-title="山东",无棣综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzwdzy
 #EXTINF:-1 tvg-name="无棣综艺" tvg-logo="https://11.112114.xyz/logo/无棣综艺.png" group-title="山东",无棣综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzwdzy$酷9远程JS
 #EXTINF:-1 tvg-name="无棣综合" tvg-logo="https://11.112114.xyz/logo/无棣综合.png" group-title="山东",无棣综合
 http://A/ku9/js/Shandong/sdqilu.js?id=bzwdzh
 #EXTINF:-1 tvg-name="无棣综合" tvg-logo="https://11.112114.xyz/logo/无棣综合.png" group-title="山东",无棣综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzwdzh
+#EXTINF:-1 tvg-name="无棣综合" tvg-logo="https://11.112114.xyz/logo/无棣综合.png" group-title="山东",无棣综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzwdzh$酷9远程JS
 #EXTINF:-1 tvg-name="汶上综合" tvg-logo="https://11.112114.xyz/logo/汶上综合.png" group-title="山东",汶上综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jiwszh
+#EXTINF:-1 tvg-name="汶上综合" tvg-logo="https://11.112114.xyz/logo/汶上综合.png" group-title="山东",汶上综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jiwszh
 #EXTINF:-1 tvg-name="汶上综合" tvg-logo="https://11.112114.xyz/logo/汶上综合.png" group-title="山东",汶上综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jiwszh$酷9远程JS
 #EXTINF:-1 tvg-name="汶上生活" tvg-logo="https://11.112114.xyz/logo/汶上生活.png" group-title="山东",汶上生活
 http://A/ku9/js/Shandong/sdqilu.js?id=jiwssh
 #EXTINF:-1 tvg-name="汶上生活" tvg-logo="https://11.112114.xyz/logo/汶上生活.png" group-title="山东",汶上生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jiwssh
+#EXTINF:-1 tvg-name="汶上生活" tvg-logo="https://11.112114.xyz/logo/汶上生活.png" group-title="山东",汶上生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jiwssh$酷9远程JS
-#EXTINF:-1 tvg-name="文登TV2" tvg-logo="https://11.112114.xyz/logo/文登TV2.png" group-title="山东",文登TV2
-http://A/ku9/js/Shandong/sdqilu.js?id=whwd2
-#EXTINF:-1 tvg-name="文登TV2" tvg-logo="https://11.112114.xyz/logo/文登TV2.png" group-title="山东",文登TV2
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=whwd2$酷9远程JS
 #EXTINF:-1 tvg-name="文登TV1" tvg-logo="https://11.112114.xyz/logo/文登TV1.png" group-title="山东",文登TV1
 http://A/ku9/js/Shandong/sdqilu.js?id=whwd1
 #EXTINF:-1 tvg-name="文登TV1" tvg-logo="https://11.112114.xyz/logo/文登TV1.png" group-title="山东",文登TV1
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=whwd1
+#EXTINF:-1 tvg-name="文登TV1" tvg-logo="https://11.112114.xyz/logo/文登TV1.png" group-title="山东",文登TV1
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=whwd1$酷9远程JS
-#EXTINF:-1 tvg-name="潍坊影视综艺" tvg-logo="https://11.112114.xyz/logo/潍坊影视综艺.png" group-title="山东",潍坊影视综艺
-http://A/ku9/js/Shandong/sdqilu.js?id=wfyswy
-#EXTINF:-1 tvg-name="潍坊影视综艺" tvg-logo="https://11.112114.xyz/logo/潍坊影视综艺.png" group-title="山东",潍坊影视综艺
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfyswy$酷9远程JS
+#EXTINF:-1 tvg-name="文登TV2" tvg-logo="https://11.112114.xyz/logo/文登TV2.png" group-title="山东",文登TV2
+http://A/ku9/js/Shandong/sdqilu.js?id=whwd2
+#EXTINF:-1 tvg-name="文登TV2" tvg-logo="https://11.112114.xyz/logo/文登TV2.png" group-title="山东",文登TV2
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=whwd2
+#EXTINF:-1 tvg-name="文登TV2" tvg-logo="https://11.112114.xyz/logo/文登TV2.png" group-title="山东",文登TV2
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=whwd2$酷9远程JS
 #EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://11.112114.xyz/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
 https://mytv.easonzhang.eu.org/api/shandong_shandian.php?id=wfdst
 #EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://11.112114.xyz/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
@@ -12600,31 +12704,51 @@ http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科�
 #EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://11.112114.xyz/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=wfxwzh
 #EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://11.112114.xyz/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfxwzh
+#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://11.112114.xyz/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=wfdst&channelid=100013$酷9远程JS
 #EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://11.112114.xyz/logo/潍坊新闻综合.png" group-title="山东",潍坊新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfxwzh$酷9远程JS
-#EXTINF:-1 tvg-name="潍坊生活" tvg-logo="https://11.112114.xyz/logo/潍坊生活.png" group-title="山东",潍坊生活
+#EXTINF:-1 tvg-name="潍坊经济生活" tvg-logo="https://11.112114.xyz/logo/潍坊经济生活.png" group-title="山东",潍坊经济生活
 http://A/ku9/js/Shandong/sdqilu.js?id=wfsh
-#EXTINF:-1 tvg-name="潍坊生活" tvg-logo="https://11.112114.xyz/logo/潍坊生活.png" group-title="山东",潍坊生活
+#EXTINF:-1 tvg-name="潍坊经济生活" tvg-logo="https://11.112114.xyz/logo/潍坊经济生活.png" group-title="山东",潍坊经济生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfsh
+#EXTINF:-1 tvg-name="潍坊经济生活" tvg-logo="https://11.112114.xyz/logo/潍坊经济生活.png" group-title="山东",潍坊经济生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfsh$酷9远程JS
-#EXTINF:-1 tvg-name="潍坊科教文旅" tvg-logo="https://11.112114.xyz/logo/潍坊科教文旅.png" group-title="山东",潍坊科教文旅
+#EXTINF:-1 tvg-name="潍坊公共" tvg-logo="https://11.112114.xyz/logo/潍坊公共.png" group-title="山东",潍坊公共
+http://A/ku9/js/Shandong/sdqilu.js?id=wfyswy
+#EXTINF:-1 tvg-name="潍坊公共" tvg-logo="https://11.112114.xyz/logo/潍坊公共.png" group-title="山东",潍坊公共
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfyswy
+#EXTINF:-1 tvg-name="潍坊公共" tvg-logo="https://11.112114.xyz/logo/潍坊公共.png" group-title="山东",潍坊公共
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfyswy$酷9远程JS
+#EXTINF:-1 tvg-name="潍坊科教文化" tvg-logo="https://11.112114.xyz/logo/潍坊科教文化.png" group-title="山东",潍坊科教文化
 http://A/ku9/js/Shandong/sdqilu.js?id=wfkjwl
-#EXTINF:-1 tvg-name="潍坊科教文旅" tvg-logo="https://11.112114.xyz/logo/潍坊科教文旅.png" group-title="山东",潍坊科教文旅
+#EXTINF:-1 tvg-name="潍坊科教文化" tvg-logo="https://11.112114.xyz/logo/潍坊科教文化.png" group-title="山东",潍坊科教文化
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfkjwl
+#EXTINF:-1 tvg-name="潍坊科教文化" tvg-logo="https://11.112114.xyz/logo/潍坊科教文化.png" group-title="山东",潍坊科教文化
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfkjwl$酷9远程JS
 #EXTINF:-1 tvg-name="潍坊高新区" tvg-logo="https://11.112114.xyz/logo/潍坊高新区.png" group-title="山东",潍坊高新区
 http://A/ku9/js/Shandong/sdqilu.js?id=wfgxq
+#EXTINF:-1 tvg-name="潍坊高新区" tvg-logo="https://11.112114.xyz/logo/潍坊高新区.png" group-title="山东",潍坊高新区
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfgxq
 #EXTINF:-1 tvg-name="潍坊高新区" tvg-logo="https://11.112114.xyz/logo/潍坊高新区.png" group-title="山东",潍坊高新区
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfgxq$酷9远程JS
 #EXTINF:-1 tvg-name="潍城电视台" tvg-logo="https://11.112114.xyz/logo/潍城电视台.png" group-title="山东",潍城电视台
 http://A/ku9/js/Shandong/sdqilu.js?id=wfwc
 #EXTINF:-1 tvg-name="潍城电视台" tvg-logo="https://11.112114.xyz/logo/潍城电视台.png" group-title="山东",潍城电视台
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfwc
+#EXTINF:-1 tvg-name="潍城电视台" tvg-logo="https://11.112114.xyz/logo/潍城电视台.png" group-title="山东",潍城电视台
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfwc$酷9远程JS
 #EXTINF:-1 tvg-name="微山综合" tvg-logo="https://11.112114.xyz/logo/微山综合.png" group-title="山东",微山综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jiws1
 #EXTINF:-1 tvg-name="微山综合" tvg-logo="https://11.112114.xyz/logo/微山综合.png" group-title="山东",微山综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jiws1
+#EXTINF:-1 tvg-name="微山综合" tvg-logo="https://11.112114.xyz/logo/微山综合.png" group-title="山东",微山综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jiws1$酷9远程JS
 #EXTINF:-1 tvg-name="微山二套" tvg-logo="https://11.112114.xyz/logo/微山二套.png" group-title="山东",微山二套
 http://A/ku9/js/Shandong/sdqilu.js?id=jiws2
+#EXTINF:-1 tvg-name="微山二套" tvg-logo="https://11.112114.xyz/logo/微山二套.png" group-title="山东",微山二套
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jiws2
 #EXTINF:-1 tvg-name="微山二套" tvg-logo="https://11.112114.xyz/logo/微山二套.png" group-title="山东",微山二套
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jiws2$酷9远程JS
 #EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://11.112114.xyz/logo/威海新闻综合.png" group-title="山东",威海新闻综合
@@ -12634,6 +12758,8 @@ http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科�
 #EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://11.112114.xyz/logo/威海新闻综合.png" group-title="山东",威海新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=whxwzh
 #EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://11.112114.xyz/logo/威海新闻综合.png" group-title="山东",威海新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=whxwzh
+#EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://11.112114.xyz/logo/威海新闻综合.png" group-title="山东",威海新闻综合
 http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 #EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://11.112114.xyz/logo/威海新闻综合.png" group-title="山东",威海新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=whdst&channelid=100016$酷9远程JS
@@ -12642,11 +12768,15 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="威海都市生活" tvg-logo="https://11.112114.xyz/logo/威海都市生活.png" group-title="山东",威海都市生活
 http://A/ku9/js/Shandong/sdqilu.js?id=whdssh
 #EXTINF:-1 tvg-name="威海都市生活" tvg-logo="https://11.112114.xyz/logo/威海都市生活.png" group-title="山东",威海都市生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=whdssh
+#EXTINF:-1 tvg-name="威海都市生活" tvg-logo="https://11.112114.xyz/logo/威海都市生活.png" group-title="山东",威海都市生活
 http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
 #EXTINF:-1 tvg-name="威海都市生活" tvg-logo="https://11.112114.xyz/logo/威海都市生活.png" group-title="山东",威海都市生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=whdssh$酷9远程JS
 #EXTINF:-1 tvg-name="威海海洋" tvg-logo="https://11.112114.xyz/logo/威海海洋.png" group-title="山东",威海海洋
 http://A/ku9/js/Shandong/sdqilu.js?id=whhy
+#EXTINF:-1 tvg-name="威海海洋" tvg-logo="https://11.112114.xyz/logo/威海海洋.png" group-title="山东",威海海洋
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=whhy
 #EXTINF:-1 tvg-name="威海海洋" tvg-logo="https://11.112114.xyz/logo/威海海洋.png" group-title="山东",威海海洋
 http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
 #EXTINF:-1 tvg-name="威海海洋" tvg-logo="https://11.112114.xyz/logo/威海海洋.png" group-title="山东",威海海洋
@@ -12654,25 +12784,37 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="威海环翠综合" tvg-logo="https://11.112114.xyz/logo/威海环翠综合.png" group-title="山东",威海环翠综合
 http://A/ku9/js/Shandong/sdqilu.js?id=whhczh
 #EXTINF:-1 tvg-name="威海环翠综合" tvg-logo="https://11.112114.xyz/logo/威海环翠综合.png" group-title="山东",威海环翠综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=whhczh
+#EXTINF:-1 tvg-name="威海环翠综合" tvg-logo="https://11.112114.xyz/logo/威海环翠综合.png" group-title="山东",威海环翠综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=whhczh$酷9远程JS
 #EXTINF:-1 tvg-name="滕州综合" tvg-logo="https://11.112114.xyz/logo/滕州综合.png" group-title="山东",滕州综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zztzzh
+#EXTINF:-1 tvg-name="滕州综合" tvg-logo="https://11.112114.xyz/logo/滕州综合.png" group-title="山东",滕州综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zztzzh
 #EXTINF:-1 tvg-name="滕州综合" tvg-logo="https://11.112114.xyz/logo/滕州综合.png" group-title="山东",滕州综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zztzzh$酷9远程JS
 #EXTINF:-1 tvg-name="滕州民生" tvg-logo="https://11.112114.xyz/logo/滕州民生.png" group-title="山东",滕州民生
 http://A/ku9/js/Shandong/sdqilu.js?id=zztzms
 #EXTINF:-1 tvg-name="滕州民生" tvg-logo="https://11.112114.xyz/logo/滕州民生.png" group-title="山东",滕州民生
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zztzms
+#EXTINF:-1 tvg-name="滕州民生" tvg-logo="https://11.112114.xyz/logo/滕州民生.png" group-title="山东",滕州民生
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zztzms$酷9远程JS
 #EXTINF:-1 tvg-name="郯城综合" tvg-logo="https://11.112114.xyz/logo/郯城综合.png" group-title="山东",郯城综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lytc1
+#EXTINF:-1 tvg-name="郯城综合" tvg-logo="https://11.112114.xyz/logo/郯城综合.png" group-title="山东",郯城综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lytc1
 #EXTINF:-1 tvg-name="郯城综合" tvg-logo="https://11.112114.xyz/logo/郯城综合.png" group-title="山东",郯城综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lytc1$酷9远程JS
 #EXTINF:-1 tvg-name="郯城二套" tvg-logo="https://11.112114.xyz/logo/郯城二套.png" group-title="山东",郯城二套
 http://A/ku9/js/Shandong/sdqilu.js?id=lytc2
 #EXTINF:-1 tvg-name="郯城二套" tvg-logo="https://11.112114.xyz/logo/郯城二套.png" group-title="山东",郯城二套
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lytc2
+#EXTINF:-1 tvg-name="郯城二套" tvg-logo="https://11.112114.xyz/logo/郯城二套.png" group-title="山东",郯城二套
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lytc2$酷9远程JS
 #EXTINF:-1 tvg-name="泰山电视台" tvg-logo="https://11.112114.xyz/logo/泰山电视台.png" group-title="山东",泰山电视台
 http://A/ku9/js/Shandong/sdqilu.js?id=tats
+#EXTINF:-1 tvg-name="泰山电视台" tvg-logo="https://11.112114.xyz/logo/泰山电视台.png" group-title="山东",泰山电视台
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=tats
 #EXTINF:-1 tvg-name="泰山电视台" tvg-logo="https://11.112114.xyz/logo/泰山电视台.png" group-title="山东",泰山电视台
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=tats$酷9远程JS
 #EXTINF:-1 tvg-name="泰安综合" tvg-logo="https://11.112114.xyz/logo/泰安综合.png" group-title="山东",泰安综合
@@ -12692,49 +12834,73 @@ http://zzbb.1545ts.com:8068/live/tatv222.flv
 #EXTINF:-1 tvg-name="台儿庄新闻综合" tvg-logo="https://11.112114.xyz/logo/台儿庄新闻综合.png" group-title="山东",台儿庄新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zztezxw
 #EXTINF:-1 tvg-name="台儿庄新闻综合" tvg-logo="https://11.112114.xyz/logo/台儿庄新闻综合.png" group-title="山东",台儿庄新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zztezxw
+#EXTINF:-1 tvg-name="台儿庄新闻综合" tvg-logo="https://11.112114.xyz/logo/台儿庄新闻综合.png" group-title="山东",台儿庄新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zztezxw$酷9远程JS
 #EXTINF:-1 tvg-name="泗水新闻综合" tvg-logo="https://11.112114.xyz/logo/泗水新闻综合.png" group-title="山东",泗水新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jissxw
+#EXTINF:-1 tvg-name="泗水新闻综合" tvg-logo="https://11.112114.xyz/logo/泗水新闻综合.png" group-title="山东",泗水新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jissxw
 #EXTINF:-1 tvg-name="泗水新闻综合" tvg-logo="https://11.112114.xyz/logo/泗水新闻综合.png" group-title="山东",泗水新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jissxw$酷9远程JS
 #EXTINF:-1 tvg-name="泗水文化生活" tvg-logo="https://11.112114.xyz/logo/泗水文化生活.png" group-title="山东",泗水文化生活
 http://A/ku9/js/Shandong/sdqilu.js?id=jisswh
 #EXTINF:-1 tvg-name="泗水文化生活" tvg-logo="https://11.112114.xyz/logo/泗水文化生活.png" group-title="山东",泗水文化生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jisswh
+#EXTINF:-1 tvg-name="泗水文化生活" tvg-logo="https://11.112114.xyz/logo/泗水文化生活.png" group-title="山东",泗水文化生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jisswh$酷9远程JS
 #EXTINF:-1 tvg-name="莘县综合" tvg-logo="https://11.112114.xyz/logo/莘县综合.png" group-title="山东",莘县综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lcsxzh
+#EXTINF:-1 tvg-name="莘县综合" tvg-logo="https://11.112114.xyz/logo/莘县综合.png" group-title="山东",莘县综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lcsxzh
 #EXTINF:-1 tvg-name="莘县综合" tvg-logo="https://11.112114.xyz/logo/莘县综合.png" group-title="山东",莘县综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lcsxzh$酷9远程JS
 #EXTINF:-1 tvg-name="莘县生活" tvg-logo="https://11.112114.xyz/logo/莘县生活.png" group-title="山东",莘县生活
 http://A/ku9/js/Shandong/sdqilu.js?id=lcsxsh
 #EXTINF:-1 tvg-name="莘县生活" tvg-logo="https://11.112114.xyz/logo/莘县生活.png" group-title="山东",莘县生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lcsxsh
+#EXTINF:-1 tvg-name="莘县生活" tvg-logo="https://11.112114.xyz/logo/莘县生活.png" group-title="山东",莘县生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lcsxsh$酷9远程JS
 #EXTINF:-1 tvg-name="商河综合" tvg-logo="https://11.112114.xyz/logo/商河综合.png" group-title="山东",商河综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jnshzh
+#EXTINF:-1 tvg-name="商河综合" tvg-logo="https://11.112114.xyz/logo/商河综合.png" group-title="山东",商河综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jnshzh
 #EXTINF:-1 tvg-name="商河综合" tvg-logo="https://11.112114.xyz/logo/商河综合.png" group-title="山东",商河综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jnshzh$酷9远程JS
 #EXTINF:-1 tvg-name="商河影视" tvg-logo="https://11.112114.xyz/logo/商河影视.png" group-title="山东",商河影视
 http://A/ku9/js/Shandong/sdqilu.js?id=jnshys
 #EXTINF:-1 tvg-name="商河影视" tvg-logo="https://11.112114.xyz/logo/商河影视.png" group-title="山东",商河影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jnshys
+#EXTINF:-1 tvg-name="商河影视" tvg-logo="https://11.112114.xyz/logo/商河影视.png" group-title="山东",商河影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jnshys$酷9远程JS
 #EXTINF:-1 tvg-name="山亭综合" tvg-logo="https://11.112114.xyz/logo/山亭综合.png" group-title="山东",山亭综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zzstzh
+#EXTINF:-1 tvg-name="山亭综合" tvg-logo="https://11.112114.xyz/logo/山亭综合.png" group-title="山东",山亭综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zzstzh
 #EXTINF:-1 tvg-name="山亭综合" tvg-logo="https://11.112114.xyz/logo/山亭综合.png" group-title="山东",山亭综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zzstzh$酷9远程JS
 #EXTINF:-1 tvg-name="乳山综合" tvg-logo="https://11.112114.xyz/logo/乳山综合.png" group-title="山东",乳山综合
 http://A/ku9/js/Shandong/sdqilu.js?id=whrszh
 #EXTINF:-1 tvg-name="乳山综合" tvg-logo="https://11.112114.xyz/logo/乳山综合.png" group-title="山东",乳山综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=whrszh
+#EXTINF:-1 tvg-name="乳山综合" tvg-logo="https://11.112114.xyz/logo/乳山综合.png" group-title="山东",乳山综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=whrszh$酷9远程JS
 #EXTINF:-1 tvg-name="乳山生活" tvg-logo="https://11.112114.xyz/logo/乳山生活.png" group-title="山东",乳山生活
 http://A/ku9/js/Shandong/sdqilu.js?id=whrssh
+#EXTINF:-1 tvg-name="乳山生活" tvg-logo="https://11.112114.xyz/logo/乳山生活.png" group-title="山东",乳山生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=whrssh
 #EXTINF:-1 tvg-name="乳山生活" tvg-logo="https://11.112114.xyz/logo/乳山生活.png" group-title="山东",乳山生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=whrssh$酷9远程JS
 #EXTINF:-1 tvg-name="荣成综合" tvg-logo="https://11.112114.xyz/logo/荣成综合.png" group-title="山东",荣成综合
 http://A/ku9/js/Shandong/sdqilu.js?id=whrczh
 #EXTINF:-1 tvg-name="荣成综合" tvg-logo="https://11.112114.xyz/logo/荣成综合.png" group-title="山东",荣成综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=whrczh
+#EXTINF:-1 tvg-name="荣成综合" tvg-logo="https://11.112114.xyz/logo/荣成综合.png" group-title="山东",荣成综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=whrczh$酷9远程JS
 #EXTINF:-1 tvg-name="荣成生活" tvg-logo="https://11.112114.xyz/logo/荣成生活.png" group-title="山东",荣成生活
 http://A/ku9/js/Shandong/sdqilu.js?id=whrcsh
+#EXTINF:-1 tvg-name="荣成生活" tvg-logo="https://11.112114.xyz/logo/荣成生活.png" group-title="山东",荣成生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=whrcsh
 #EXTINF:-1 tvg-name="荣成生活" tvg-logo="https://11.112114.xyz/logo/荣成生活.png" group-title="山东",荣成生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=whrcsh$酷9远程JS
 #EXTINF:-1 tvg-name="日照新闻综合" tvg-logo="https://11.112114.xyz/logo/日照新闻综合.png" group-title="山东",日照新闻综合
@@ -12746,27 +12912,39 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="任城影视娱乐" tvg-logo="https://11.112114.xyz/logo/任城影视娱乐.png" group-title="山东",任城影视娱乐
 http://A/ku9/js/Shandong/sdqilu.js?id=jircys
 #EXTINF:-1 tvg-name="任城影视娱乐" tvg-logo="https://11.112114.xyz/logo/任城影视娱乐.png" group-title="山东",任城影视娱乐
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jircys
+#EXTINF:-1 tvg-name="任城影视娱乐" tvg-logo="https://11.112114.xyz/logo/任城影视娱乐.png" group-title="山东",任城影视娱乐
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jircys$酷9远程JS
 #EXTINF:-1 tvg-name="任城新闻综合" tvg-logo="https://11.112114.xyz/logo/任城新闻综合.png" group-title="山东",任城新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jircxw
+#EXTINF:-1 tvg-name="任城新闻综合" tvg-logo="https://11.112114.xyz/logo/任城新闻综合.png" group-title="山东",任城新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jircxw
 #EXTINF:-1 tvg-name="任城新闻综合" tvg-logo="https://11.112114.xyz/logo/任城新闻综合.png" group-title="山东",任城新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jircxw$酷9远程JS
 #EXTINF:-1 tvg-name="曲阜新闻综合" tvg-logo="https://11.112114.xyz/logo/曲阜新闻综合.png" group-title="山东",曲阜新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jiqfxw
 #EXTINF:-1 tvg-name="曲阜新闻综合" tvg-logo="https://11.112114.xyz/logo/曲阜新闻综合.png" group-title="山东",曲阜新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jiqfxw
+#EXTINF:-1 tvg-name="曲阜新闻综合" tvg-logo="https://11.112114.xyz/logo/曲阜新闻综合.png" group-title="山东",曲阜新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jiqfxw$酷9远程JS
 #EXTINF:-1 tvg-name="庆云综合" tvg-logo="https://11.112114.xyz/logo/庆云综合.png" group-title="山东",庆云综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dzqyzh
 #EXTINF:-1 tvg-name="庆云综合" tvg-logo="https://11.112114.xyz/logo/庆云综合.png" group-title="山东",庆云综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzqyzh
+#EXTINF:-1 tvg-name="庆云综合" tvg-logo="https://11.112114.xyz/logo/庆云综合.png" group-title="山东",庆云综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzqyzh$酷9远程JS
 #EXTINF:-1 tvg-name="庆云生活" tvg-logo="https://11.112114.xyz/logo/庆云生活.png" group-title="山东",庆云生活
 http://A/ku9/js/Shandong/sdqilu.js?id=dzqysh
+#EXTINF:-1 tvg-name="庆云生活" tvg-logo="https://11.112114.xyz/logo/庆云生活.png" group-title="山东",庆云生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzqysh
 #EXTINF:-1 tvg-name="庆云生活" tvg-logo="https://11.112114.xyz/logo/庆云生活.png" group-title="山东",庆云生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzqysh$酷9远程JS
 #EXTINF:-1 tvg-name="青州综合" tvg-logo="https://11.112114.xyz/logo/青州综合.png" group-title="山东",青州综合
 rtmp://sdqz.chinashadt.com:2036/live/1.stream
 #EXTINF:-1 tvg-name="青州综合" tvg-logo="https://11.112114.xyz/logo/青州综合.png" group-title="山东",青州综合
 http://A/ku9/js/Shandong/sdqilu.js?id=wfqzzh
+#EXTINF:-1 tvg-name="青州综合" tvg-logo="https://11.112114.xyz/logo/青州综合.png" group-title="山东",青州综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfqzzh
 #EXTINF:-1 tvg-name="青州综合" tvg-logo="https://11.112114.xyz/logo/青州综合.png" group-title="山东",青州综合
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
 #EXTINF:-1 tvg-name="青州综合" tvg-logo="https://11.112114.xyz/logo/青州综合.png" group-title="山东",青州综合
@@ -12780,6 +12958,8 @@ rtmp://sdqz.chinashadt.com:2036/live/3.stream
 #EXTINF:-1 tvg-name="青州文化旅游" tvg-logo="https://11.112114.xyz/logo/青州文化旅游.png" group-title="山东",青州文化旅游
 http://A/ku9/js/Shandong/sdqilu.js?id=wfqzwh
 #EXTINF:-1 tvg-name="青州文化旅游" tvg-logo="https://11.112114.xyz/logo/青州文化旅游.png" group-title="山东",青州文化旅游
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfqzwh
+#EXTINF:-1 tvg-name="青州文化旅游" tvg-logo="https://11.112114.xyz/logo/青州文化旅游.png" group-title="山东",青州文化旅游
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
 #EXTINF:-1 tvg-name="青州文化旅游" tvg-logo="https://11.112114.xyz/logo/青州文化旅游.png" group-title="山东",青州文化旅游
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
@@ -12790,117 +12970,175 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="齐河综合" tvg-logo="https://11.112114.xyz/logo/齐河综合.png" group-title="山东",齐河综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dzqhzh
 #EXTINF:-1 tvg-name="齐河综合" tvg-logo="https://11.112114.xyz/logo/齐河综合.png" group-title="山东",齐河综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzqhzh
+#EXTINF:-1 tvg-name="齐河综合" tvg-logo="https://11.112114.xyz/logo/齐河综合.png" group-title="山东",齐河综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzqhzh$酷9远程JS
 #EXTINF:-1 tvg-name="栖霞综合" tvg-logo="https://11.112114.xyz/logo/栖霞综合.png" group-title="山东",栖霞综合
 http://A/ku9/js/Shandong/sdqilu.js?id=ytqxzh
+#EXTINF:-1 tvg-name="栖霞综合" tvg-logo="https://11.112114.xyz/logo/栖霞综合.png" group-title="山东",栖霞综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytqxzh
 #EXTINF:-1 tvg-name="栖霞综合" tvg-logo="https://11.112114.xyz/logo/栖霞综合.png" group-title="山东",栖霞综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytqxzh$酷9远程JS
 #EXTINF:-1 tvg-name="栖霞苹果" tvg-logo="https://11.112114.xyz/logo/栖霞苹果.png" group-title="山东",栖霞苹果
 http://A/ku9/js/Shandong/sdqilu.js?id=ytqxpg
 #EXTINF:-1 tvg-name="栖霞苹果" tvg-logo="https://11.112114.xyz/logo/栖霞苹果.png" group-title="山东",栖霞苹果
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytqxpg
+#EXTINF:-1 tvg-name="栖霞苹果" tvg-logo="https://11.112114.xyz/logo/栖霞苹果.png" group-title="山东",栖霞苹果
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytqxpg$酷9远程JS
 #EXTINF:-1 tvg-name="平原综合" tvg-logo="https://11.112114.xyz/logo/平原综合.png" group-title="山东",平原综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dzpyzh
+#EXTINF:-1 tvg-name="平原综合" tvg-logo="https://11.112114.xyz/logo/平原综合.png" group-title="山东",平原综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzpyzh
 #EXTINF:-1 tvg-name="平原综合" tvg-logo="https://11.112114.xyz/logo/平原综合.png" group-title="山东",平原综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzpyzh$酷9远程JS
 #EXTINF:-1 tvg-name="平阴综合" tvg-logo="https://11.112114.xyz/logo/平阴综合.png" group-title="山东",平阴综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jnpyzh
 #EXTINF:-1 tvg-name="平阴综合" tvg-logo="https://11.112114.xyz/logo/平阴综合.png" group-title="山东",平阴综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jnpyzh
+#EXTINF:-1 tvg-name="平阴综合" tvg-logo="https://11.112114.xyz/logo/平阴综合.png" group-title="山东",平阴综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jnpyzh$酷9远程JS
 #EXTINF:-1 tvg-name="平阴乡村振兴" tvg-logo="https://11.112114.xyz/logo/平阴乡村振兴.png" group-title="山东",平阴乡村振兴
 http://A/ku9/js/Shandong/sdqilu.js?id=jnpyxc
+#EXTINF:-1 tvg-name="平阴乡村振兴" tvg-logo="https://11.112114.xyz/logo/平阴乡村振兴.png" group-title="山东",平阴乡村振兴
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jnpyxc
 #EXTINF:-1 tvg-name="平阴乡村振兴" tvg-logo="https://11.112114.xyz/logo/平阴乡村振兴.png" group-title="山东",平阴乡村振兴
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jnpyxc$酷9远程JS
 #EXTINF:-1 tvg-name="平邑综合" tvg-logo="https://11.112114.xyz/logo/平邑综合.png" group-title="山东",平邑综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lypyzh
 #EXTINF:-1 tvg-name="平邑综合" tvg-logo="https://11.112114.xyz/logo/平邑综合.png" group-title="山东",平邑综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lypyzh
+#EXTINF:-1 tvg-name="平邑综合" tvg-logo="https://11.112114.xyz/logo/平邑综合.png" group-title="山东",平邑综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lypyzh$酷9远程JS
 #EXTINF:-1 tvg-name="平邑生活" tvg-logo="https://11.112114.xyz/logo/平邑生活.png" group-title="山东",平邑生活
 http://A/ku9/js/Shandong/sdqilu.js?id=lypysh
+#EXTINF:-1 tvg-name="平邑生活" tvg-logo="https://11.112114.xyz/logo/平邑生活.png" group-title="山东",平邑生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lypysh
 #EXTINF:-1 tvg-name="平邑生活" tvg-logo="https://11.112114.xyz/logo/平邑生活.png" group-title="山东",平邑生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lypysh$酷9远程JS
 #EXTINF:-1 tvg-name="平度新闻综合" tvg-logo="https://11.112114.xyz/logo/平度新闻综合.png" group-title="山东",平度新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=qdpdxw
 #EXTINF:-1 tvg-name="平度新闻综合" tvg-logo="https://11.112114.xyz/logo/平度新闻综合.png" group-title="山东",平度新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdpdxw
+#EXTINF:-1 tvg-name="平度新闻综合" tvg-logo="https://11.112114.xyz/logo/平度新闻综合.png" group-title="山东",平度新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdpdxw$酷9远程JS
 #EXTINF:-1 tvg-name="平度生活服务" tvg-logo="https://11.112114.xyz/logo/平度生活服务.png" group-title="山东",平度生活服务
 http://A/ku9/js/Shandong/sdqilu.js?id=qdpdsh
+#EXTINF:-1 tvg-name="平度生活服务" tvg-logo="https://11.112114.xyz/logo/平度生活服务.png" group-title="山东",平度生活服务
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdpdsh
 #EXTINF:-1 tvg-name="平度生活服务" tvg-logo="https://11.112114.xyz/logo/平度生活服务.png" group-title="山东",平度生活服务
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdpdsh$酷9远程JS
 #EXTINF:-1 tvg-name="蓬莱综艺" tvg-logo="https://11.112114.xyz/logo/蓬莱综艺.png" group-title="山东",蓬莱综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=ytplzy
 #EXTINF:-1 tvg-name="蓬莱综艺" tvg-logo="https://11.112114.xyz/logo/蓬莱综艺.png" group-title="山东",蓬莱综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytplzy
+#EXTINF:-1 tvg-name="蓬莱综艺" tvg-logo="https://11.112114.xyz/logo/蓬莱综艺.png" group-title="山东",蓬莱综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytplzy$酷9远程JS
 #EXTINF:-1 tvg-name="蓬莱综合" tvg-logo="https://11.112114.xyz/logo/蓬莱综合.png" group-title="山东",蓬莱综合
 http://A/ku9/js/Shandong/sdqilu.js?id=ytplzh
+#EXTINF:-1 tvg-name="蓬莱综合" tvg-logo="https://11.112114.xyz/logo/蓬莱综合.png" group-title="山东",蓬莱综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytplzh
 #EXTINF:-1 tvg-name="蓬莱综合" tvg-logo="https://11.112114.xyz/logo/蓬莱综合.png" group-title="山东",蓬莱综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytplzh$酷9远程JS
 #EXTINF:-1 tvg-name="宁阳综合" tvg-logo="https://11.112114.xyz/logo/宁阳综合.png" group-title="山东",宁阳综合
 http://A/ku9/js/Shandong/sdqilu.js?id=tany1
 #EXTINF:-1 tvg-name="宁阳综合" tvg-logo="https://11.112114.xyz/logo/宁阳综合.png" group-title="山东",宁阳综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=tany1
+#EXTINF:-1 tvg-name="宁阳综合" tvg-logo="https://11.112114.xyz/logo/宁阳综合.png" group-title="山东",宁阳综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=tany1$酷9远程JS
 #EXTINF:-1 tvg-name="宁阳二套" tvg-logo="https://11.112114.xyz/logo/宁阳二套.png" group-title="山东",宁阳二套
 http://A/ku9/js/Shandong/sdqilu.js?id=tany2
+#EXTINF:-1 tvg-name="宁阳二套" tvg-logo="https://11.112114.xyz/logo/宁阳二套.png" group-title="山东",宁阳二套
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=tany2
 #EXTINF:-1 tvg-name="宁阳二套" tvg-logo="https://11.112114.xyz/logo/宁阳二套.png" group-title="山东",宁阳二套
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=tany2$酷9远程JS
 #EXTINF:-1 tvg-name="宁津综合" tvg-logo="https://11.112114.xyz/logo/宁津综合.png" group-title="山东",宁津综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dznjzh
 #EXTINF:-1 tvg-name="宁津综合" tvg-logo="https://11.112114.xyz/logo/宁津综合.png" group-title="山东",宁津综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dznjzh
+#EXTINF:-1 tvg-name="宁津综合" tvg-logo="https://11.112114.xyz/logo/宁津综合.png" group-title="山东",宁津综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dznjzh$酷9远程JS
 #EXTINF:-1 tvg-name="牡丹区综艺" tvg-logo="https://11.112114.xyz/logo/牡丹区综艺.png" group-title="山东",牡丹区综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=hzmdzy
+#EXTINF:-1 tvg-name="牡丹区综艺" tvg-logo="https://11.112114.xyz/logo/牡丹区综艺.png" group-title="山东",牡丹区综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzmdzy
 #EXTINF:-1 tvg-name="牡丹区综艺" tvg-logo="https://11.112114.xyz/logo/牡丹区综艺.png" group-title="山东",牡丹区综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzmdzy$酷9远程JS
 #EXTINF:-1 tvg-name="牡丹区新闻综合" tvg-logo="https://11.112114.xyz/logo/牡丹区新闻综合.png" group-title="山东",牡丹区新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=hzmdxw
 #EXTINF:-1 tvg-name="牡丹区新闻综合" tvg-logo="https://11.112114.xyz/logo/牡丹区新闻综合.png" group-title="山东",牡丹区新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzmdxw
+#EXTINF:-1 tvg-name="牡丹区新闻综合" tvg-logo="https://11.112114.xyz/logo/牡丹区新闻综合.png" group-title="山东",牡丹区新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzmdxw$酷9远程JS
 #EXTINF:-1 tvg-name="牟平综合" tvg-logo="https://11.112114.xyz/logo/牟平综合.png" group-title="山东",牟平综合
 http://A/ku9/js/Shandong/sdqilu.js?id=ytmpzh
+#EXTINF:-1 tvg-name="牟平综合" tvg-logo="https://11.112114.xyz/logo/牟平综合.png" group-title="山东",牟平综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytmpzh
 #EXTINF:-1 tvg-name="牟平综合" tvg-logo="https://11.112114.xyz/logo/牟平综合.png" group-title="山东",牟平综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytmpzh$酷9远程JS
 #EXTINF:-1 tvg-name="蒙阴综合" tvg-logo="https://11.112114.xyz/logo/蒙阴综合.png" group-title="山东",蒙阴综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lymy1
 #EXTINF:-1 tvg-name="蒙阴综合" tvg-logo="https://11.112114.xyz/logo/蒙阴综合.png" group-title="山东",蒙阴综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lymy1
+#EXTINF:-1 tvg-name="蒙阴综合" tvg-logo="https://11.112114.xyz/logo/蒙阴综合.png" group-title="山东",蒙阴综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lymy1$酷9远程JS
 #EXTINF:-1 tvg-name="蒙阴二套" tvg-logo="https://11.112114.xyz/logo/蒙阴二套.png" group-title="山东",蒙阴二套
 http://A/ku9/js/Shandong/sdqilu.js?id=lymy2
+#EXTINF:-1 tvg-name="蒙阴二套" tvg-logo="https://11.112114.xyz/logo/蒙阴二套.png" group-title="山东",蒙阴二套
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lymy2
 #EXTINF:-1 tvg-name="蒙阴二套" tvg-logo="https://11.112114.xyz/logo/蒙阴二套.png" group-title="山东",蒙阴二套
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lymy2$酷9远程JS
 #EXTINF:-1 tvg-name="罗庄综合" tvg-logo="https://11.112114.xyz/logo/罗庄综合.png" group-title="山东",罗庄综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lylzzh
 #EXTINF:-1 tvg-name="罗庄综合" tvg-logo="https://11.112114.xyz/logo/罗庄综合.png" group-title="山东",罗庄综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lylzzh
+#EXTINF:-1 tvg-name="罗庄综合" tvg-logo="https://11.112114.xyz/logo/罗庄综合.png" group-title="山东",罗庄综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lylzzh$酷9远程JS
 #EXTINF:-1 tvg-name="罗庄影视" tvg-logo="https://11.112114.xyz/logo/罗庄影视.png" group-title="山东",罗庄影视
 http://A/ku9/js/Shandong/sdqilu.js?id=lylzys
+#EXTINF:-1 tvg-name="罗庄影视" tvg-logo="https://11.112114.xyz/logo/罗庄影视.png" group-title="山东",罗庄影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lylzys
 #EXTINF:-1 tvg-name="罗庄影视" tvg-logo="https://11.112114.xyz/logo/罗庄影视.png" group-title="山东",罗庄影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lylzys$酷9远程JS
 #EXTINF:-1 tvg-name="龙口综合" tvg-logo="https://11.112114.xyz/logo/龙口综合.png" group-title="山东",龙口综合
 http://A/ku9/js/Shandong/sdqilu.js?id=ytlkzh
 #EXTINF:-1 tvg-name="龙口综合" tvg-logo="https://11.112114.xyz/logo/龙口综合.png" group-title="山东",龙口综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytlkzh
+#EXTINF:-1 tvg-name="龙口综合" tvg-logo="https://11.112114.xyz/logo/龙口综合.png" group-title="山东",龙口综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytlkzh$酷9远程JS
 #EXTINF:-1 tvg-name="龙口生活" tvg-logo="https://11.112114.xyz/logo/龙口生活.png" group-title="山东",龙口生活
 http://A/ku9/js/Shandong/sdqilu.js?id=ytlksh
+#EXTINF:-1 tvg-name="龙口生活" tvg-logo="https://11.112114.xyz/logo/龙口生活.png" group-title="山东",龙口生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytlksh
 #EXTINF:-1 tvg-name="龙口生活" tvg-logo="https://11.112114.xyz/logo/龙口生活.png" group-title="山东",龙口生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytlksh$酷9远程JS
 #EXTINF:-1 tvg-name="陵城综合" tvg-logo="https://11.112114.xyz/logo/陵城综合.png" group-title="山东",陵城综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dzlczh
 #EXTINF:-1 tvg-name="陵城综合" tvg-logo="https://11.112114.xyz/logo/陵城综合.png" group-title="山东",陵城综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzlczh
+#EXTINF:-1 tvg-name="陵城综合" tvg-logo="https://11.112114.xyz/logo/陵城综合.png" group-title="山东",陵城综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzlczh$酷9远程JS
 #EXTINF:-1 tvg-name="临淄新闻综合" tvg-logo="https://11.112114.xyz/logo/临淄新闻综合.png" group-title="山东",临淄新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zblzxw
+#EXTINF:-1 tvg-name="临淄新闻综合" tvg-logo="https://11.112114.xyz/logo/临淄新闻综合.png" group-title="山东",临淄新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zblzxw
 #EXTINF:-1 tvg-name="临淄新闻综合" tvg-logo="https://11.112114.xyz/logo/临淄新闻综合.png" group-title="山东",临淄新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zblzxw$酷9远程JS
 #EXTINF:-1 tvg-name="临淄生活服务" tvg-logo="https://11.112114.xyz/logo/临淄生活服务.png" group-title="山东",临淄生活服务
 http://A/ku9/js/Shandong/sdqilu.js?id=zblzsh
 #EXTINF:-1 tvg-name="临淄生活服务" tvg-logo="https://11.112114.xyz/logo/临淄生活服务.png" group-title="山东",临淄生活服务
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zblzsh
+#EXTINF:-1 tvg-name="临淄生活服务" tvg-logo="https://11.112114.xyz/logo/临淄生活服务.png" group-title="山东",临淄生活服务
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zblzsh$酷9远程JS
 #EXTINF:-1 tvg-name="临邑一套" tvg-logo="https://11.112114.xyz/logo/临邑一套.png" group-title="山东",临邑一套
 http://A/ku9/js/Shandong/sdqilu.js?id=dzly1
 #EXTINF:-1 tvg-name="临邑一套" tvg-logo="https://11.112114.xyz/logo/临邑一套.png" group-title="山东",临邑一套
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzly1
+#EXTINF:-1 tvg-name="临邑一套" tvg-logo="https://11.112114.xyz/logo/临邑一套.png" group-title="山东",临邑一套
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzly1$酷9远程JS
 #EXTINF:-1 tvg-name="临邑二套" tvg-logo="https://11.112114.xyz/logo/临邑二套.png" group-title="山东",临邑二套
 http://A/ku9/js/Shandong/sdqilu.js?id=dzly2
+#EXTINF:-1 tvg-name="临邑二套" tvg-logo="https://11.112114.xyz/logo/临邑二套.png" group-title="山东",临邑二套
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzly2
 #EXTINF:-1 tvg-name="临邑二套" tvg-logo="https://11.112114.xyz/logo/临邑二套.png" group-title="山东",临邑二套
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzly2$酷9远程JS
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://11.112114.xyz/logo/临沂综合.png" group-title="山东",临沂综合
@@ -12914,11 +13152,15 @@ http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科�
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://11.112114.xyz/logo/临沂综合.png" group-title="山东",临沂综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lyzh
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://11.112114.xyz/logo/临沂综合.png" group-title="山东",临沂综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyzh
+#EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://11.112114.xyz/logo/临沂综合.png" group-title="山东",临沂综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=lydst&channelid=100019$酷9远程JS
 #EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://11.112114.xyz/logo/临沂综合.png" group-title="山东",临沂综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyzh$酷9远程JS
 #EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://11.112114.xyz/logo/临沂公共.png" group-title="山东",临沂公共
 http://A/ku9/js/Shandong/sdqilu.js?id=lygg
+#EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://11.112114.xyz/logo/临沂公共.png" group-title="山东",临沂公共
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lygg
 #EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://11.112114.xyz/logo/临沂公共.png" group-title="山东",临沂公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lygg$酷9远程JS
 #EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://11.112114.xyz/logo/临沂公共.png" group-title="山东",临沂公共
@@ -12932,25 +13174,37 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 #EXTINF:-1 tvg-name="临沂农科" tvg-logo="https://11.112114.xyz/logo/临沂农科.png" group-title="山东",临沂农科
 http://A/ku9/js/Shandong/sdqilu.js?id=lynk
 #EXTINF:-1 tvg-name="临沂农科" tvg-logo="https://11.112114.xyz/logo/临沂农科.png" group-title="山东",临沂农科
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lynk
+#EXTINF:-1 tvg-name="临沂农科" tvg-logo="https://11.112114.xyz/logo/临沂农科.png" group-title="山东",临沂农科
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lynk$酷9远程JS
 #EXTINF:-1 tvg-name="临沭综合" tvg-logo="https://11.112114.xyz/logo/临沭综合.png" group-title="山东",临沭综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lyls1
+#EXTINF:-1 tvg-name="临沭综合" tvg-logo="https://11.112114.xyz/logo/临沭综合.png" group-title="山东",临沭综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyls1
 #EXTINF:-1 tvg-name="临沭综合" tvg-logo="https://11.112114.xyz/logo/临沭综合.png" group-title="山东",临沭综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyls1$酷9远程JS
 #EXTINF:-1 tvg-name="临沭生活" tvg-logo="https://11.112114.xyz/logo/临沭生活.png" group-title="山东",临沭生活
 http://A/ku9/js/Shandong/sdqilu.js?id=lyls2
 #EXTINF:-1 tvg-name="临沭生活" tvg-logo="https://11.112114.xyz/logo/临沭生活.png" group-title="山东",临沭生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyls2
+#EXTINF:-1 tvg-name="临沭生活" tvg-logo="https://11.112114.xyz/logo/临沭生活.png" group-title="山东",临沭生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyls2$酷9远程JS
 #EXTINF:-1 tvg-name="临朐新闻综合" tvg-logo="https://11.112114.xyz/logo/临朐新闻综合.png" group-title="山东",临朐新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=wflqxw
+#EXTINF:-1 tvg-name="临朐新闻综合" tvg-logo="https://11.112114.xyz/logo/临朐新闻综合.png" group-title="山东",临朐新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wflqxw
 #EXTINF:-1 tvg-name="临朐新闻综合" tvg-logo="https://11.112114.xyz/logo/临朐新闻综合.png" group-title="山东",临朐新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wflqxw$酷9远程JS
 #EXTINF:-1 tvg-name="临清综合" tvg-logo="https://11.112114.xyz/logo/临清综合.png" group-title="山东",临清综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lclqzh
 #EXTINF:-1 tvg-name="临清综合" tvg-logo="https://11.112114.xyz/logo/临清综合.png" group-title="山东",临清综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lclqzh
+#EXTINF:-1 tvg-name="临清综合" tvg-logo="https://11.112114.xyz/logo/临清综合.png" group-title="山东",临清综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lclqzh$酷9远程JS
 #EXTINF:-1 tvg-name="临清经济信息" tvg-logo="https://11.112114.xyz/logo/临清经济信息.png" group-title="山东",临清经济信息
 http://A/ku9/js/Shandong/sdqilu.js?id=lclqjj
+#EXTINF:-1 tvg-name="临清经济信息" tvg-logo="https://11.112114.xyz/logo/临清经济信息.png" group-title="山东",临清经济信息
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lclqjj
 #EXTINF:-1 tvg-name="临清经济信息" tvg-logo="https://11.112114.xyz/logo/临清经济信息.png" group-title="山东",临清经济信息
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lclqjj$酷9远程JS
 #EXTINF:-1 tvg-name="聊城综合" tvg-logo="https://11.112114.xyz/logo/聊城综合.png" group-title="山东",聊城综合
@@ -12966,129 +13220,193 @@ http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
 #EXTINF:-1 tvg-name="梁山综合" tvg-logo="https://11.112114.xyz/logo/梁山综合.png" group-title="山东",梁山综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jilszh
 #EXTINF:-1 tvg-name="梁山综合" tvg-logo="https://11.112114.xyz/logo/梁山综合.png" group-title="山东",梁山综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jilszh
+#EXTINF:-1 tvg-name="梁山综合" tvg-logo="https://11.112114.xyz/logo/梁山综合.png" group-title="山东",梁山综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jilszh$酷9远程JS
 #EXTINF:-1 tvg-name="利津综合" tvg-logo="https://11.112114.xyz/logo/利津综合.png" group-title="山东",利津综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dyljzh
+#EXTINF:-1 tvg-name="利津综合" tvg-logo="https://11.112114.xyz/logo/利津综合.png" group-title="山东",利津综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dyljzh
 #EXTINF:-1 tvg-name="利津综合" tvg-logo="https://11.112114.xyz/logo/利津综合.png" group-title="山东",利津综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dyljzh$酷9远程JS
 #EXTINF:-1 tvg-name="利津文化生活" tvg-logo="https://11.112114.xyz/logo/利津文化生活.png" group-title="山东",利津文化生活
 http://A/ku9/js/Shandong/sdqilu.js?id=dyljwh
 #EXTINF:-1 tvg-name="利津文化生活" tvg-logo="https://11.112114.xyz/logo/利津文化生活.png" group-title="山东",利津文化生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dyljwh
+#EXTINF:-1 tvg-name="利津文化生活" tvg-logo="https://11.112114.xyz/logo/利津文化生活.png" group-title="山东",利津文化生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dyljwh$酷9远程JS
 #EXTINF:-1 tvg-name="历城新闻综合" tvg-logo="https://11.112114.xyz/logo/历城新闻综合.png" group-title="山东",历城新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jnlcxw
+#EXTINF:-1 tvg-name="历城新闻综合" tvg-logo="https://11.112114.xyz/logo/历城新闻综合.png" group-title="山东",历城新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jnlcxw
 #EXTINF:-1 tvg-name="历城新闻综合" tvg-logo="https://11.112114.xyz/logo/历城新闻综合.png" group-title="山东",历城新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jnlcxw$酷9远程JS
 #EXTINF:-1 tvg-name="李沧电视台" tvg-logo="https://11.112114.xyz/logo/李沧电视台.png" group-title="山东",李沧电视台
 http://A/ku9/js/Shandong/sdqilu.js?id=qdlc
 #EXTINF:-1 tvg-name="李沧电视台" tvg-logo="https://11.112114.xyz/logo/李沧电视台.png" group-title="山东",李沧电视台
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdlc
+#EXTINF:-1 tvg-name="李沧电视台" tvg-logo="https://11.112114.xyz/logo/李沧电视台.png" group-title="山东",李沧电视台
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdlc$酷9远程JS
 #EXTINF:-1 tvg-name="乐陵新闻综合" tvg-logo="https://11.112114.xyz/logo/乐陵新闻综合.png" group-title="山东",乐陵新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dzllxw
+#EXTINF:-1 tvg-name="乐陵新闻综合" tvg-logo="https://11.112114.xyz/logo/乐陵新闻综合.png" group-title="山东",乐陵新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzllxw
 #EXTINF:-1 tvg-name="乐陵新闻综合" tvg-logo="https://11.112114.xyz/logo/乐陵新闻综合.png" group-title="山东",乐陵新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzllxw$酷9远程JS
 #EXTINF:-1 tvg-name="乐陵城市生活" tvg-logo="https://11.112114.xyz/logo/乐陵城市生活.png" group-title="山东",乐陵城市生活
 http://A/ku9/js/Shandong/sdqilu.js?id=dzllcs
 #EXTINF:-1 tvg-name="乐陵城市生活" tvg-logo="https://11.112114.xyz/logo/乐陵城市生活.png" group-title="山东",乐陵城市生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzllcs
+#EXTINF:-1 tvg-name="乐陵城市生活" tvg-logo="https://11.112114.xyz/logo/乐陵城市生活.png" group-title="山东",乐陵城市生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzllcs$酷9远程JS
 #EXTINF:-1 tvg-name="崂山电视台" tvg-logo="https://11.112114.xyz/logo/崂山电视台.png" group-title="山东",崂山电视台
 http://A/ku9/js/Shandong/sdqilu.js?id=qdls
+#EXTINF:-1 tvg-name="崂山电视台" tvg-logo="https://11.112114.xyz/logo/崂山电视台.png" group-title="山东",崂山电视台
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdls
 #EXTINF:-1 tvg-name="崂山电视台" tvg-logo="https://11.112114.xyz/logo/崂山电视台.png" group-title="山东",崂山电视台
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdls$酷9远程JS
 #EXTINF:-1 tvg-name="岚山电视台" tvg-logo="https://11.112114.xyz/logo/岚山电视台.png" group-title="山东",岚山电视台
 http://A/ku9/js/Shandong/sdqilu.js?id=rzls
 #EXTINF:-1 tvg-name="岚山电视台" tvg-logo="https://11.112114.xyz/logo/岚山电视台.png" group-title="山东",岚山电视台
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=rzls
+#EXTINF:-1 tvg-name="岚山电视台" tvg-logo="https://11.112114.xyz/logo/岚山电视台.png" group-title="山东",岚山电视台
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=rzls$酷9远程JS
 #EXTINF:-1 tvg-name="兰山综合" tvg-logo="https://11.112114.xyz/logo/兰山综合.png" group-title="山东",兰山综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lylszh
+#EXTINF:-1 tvg-name="兰山综合" tvg-logo="https://11.112114.xyz/logo/兰山综合.png" group-title="山东",兰山综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lylszh
 #EXTINF:-1 tvg-name="兰山综合" tvg-logo="https://11.112114.xyz/logo/兰山综合.png" group-title="山东",兰山综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lylszh$酷9远程JS
 #EXTINF:-1 tvg-name="兰陵综合" tvg-logo="https://11.112114.xyz/logo/兰陵综合.png" group-title="山东",兰陵综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lyllzh
 #EXTINF:-1 tvg-name="兰陵综合" tvg-logo="https://11.112114.xyz/logo/兰陵综合.png" group-title="山东",兰陵综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyllzh
+#EXTINF:-1 tvg-name="兰陵综合" tvg-logo="https://11.112114.xyz/logo/兰陵综合.png" group-title="山东",兰陵综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyllzh$酷9远程JS
 #EXTINF:-1 tvg-name="兰陵公共" tvg-logo="https://11.112114.xyz/logo/兰陵公共.png" group-title="山东",兰陵公共
 http://A/ku9/js/Shandong/sdqilu.js?id=lyllgg
+#EXTINF:-1 tvg-name="兰陵公共" tvg-logo="https://11.112114.xyz/logo/兰陵公共.png" group-title="山东",兰陵公共
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyllgg
 #EXTINF:-1 tvg-name="兰陵公共" tvg-logo="https://11.112114.xyz/logo/兰陵公共.png" group-title="山东",兰陵公共
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyllgg$酷9远程JS
 #EXTINF:-1 tvg-name="莱州综合" tvg-logo="https://11.112114.xyz/logo/莱州综合.png" group-title="山东",莱州综合
 http://A/ku9/js/Shandong/sdqilu.js?id=ytlzzh
 #EXTINF:-1 tvg-name="莱州综合" tvg-logo="https://11.112114.xyz/logo/莱州综合.png" group-title="山东",莱州综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytlzzh
+#EXTINF:-1 tvg-name="莱州综合" tvg-logo="https://11.112114.xyz/logo/莱州综合.png" group-title="山东",莱州综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytlzzh$酷9远程JS
 #EXTINF:-1 tvg-name="莱阳综合" tvg-logo="https://11.112114.xyz/logo/莱阳综合.png" group-title="山东",莱阳综合
 http://A/ku9/js/Shandong/sdqilu.js?id=ytlyzh
+#EXTINF:-1 tvg-name="莱阳综合" tvg-logo="https://11.112114.xyz/logo/莱阳综合.png" group-title="山东",莱阳综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytlyzh
 #EXTINF:-1 tvg-name="莱阳综合" tvg-logo="https://11.112114.xyz/logo/莱阳综合.png" group-title="山东",莱阳综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytlyzh$酷9远程JS
 #EXTINF:-1 tvg-name="莱阳民生综艺" tvg-logo="https://11.112114.xyz/logo/莱阳民生综艺.png" group-title="山东",莱阳民生综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=ytlyms
 #EXTINF:-1 tvg-name="莱阳民生综艺" tvg-logo="https://11.112114.xyz/logo/莱阳民生综艺.png" group-title="山东",莱阳民生综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytlyms
+#EXTINF:-1 tvg-name="莱阳民生综艺" tvg-logo="https://11.112114.xyz/logo/莱阳民生综艺.png" group-title="山东",莱阳民生综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytlyms$酷9远程JS
 #EXTINF:-1 tvg-name="莱西综合" tvg-logo="https://11.112114.xyz/logo/莱西综合.png" group-title="山东",莱西综合
 http://A/ku9/js/Shandong/sdqilu.js?id=qdlxzh
+#EXTINF:-1 tvg-name="莱西综合" tvg-logo="https://11.112114.xyz/logo/莱西综合.png" group-title="山东",莱西综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdlxzh
 #EXTINF:-1 tvg-name="莱西综合" tvg-logo="https://11.112114.xyz/logo/莱西综合.png" group-title="山东",莱西综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdlxzh$酷9远程JS
 #EXTINF:-1 tvg-name="莱西生活" tvg-logo="https://11.112114.xyz/logo/莱西生活.png" group-title="山东",莱西生活
 http://A/ku9/js/Shandong/sdqilu.js?id=qdlxsh
 #EXTINF:-1 tvg-name="莱西生活" tvg-logo="https://11.112114.xyz/logo/莱西生活.png" group-title="山东",莱西生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdlxsh
+#EXTINF:-1 tvg-name="莱西生活" tvg-logo="https://11.112114.xyz/logo/莱西生活.png" group-title="山东",莱西生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdlxsh$酷9远程JS
 #EXTINF:-1 tvg-name="莱山综合" tvg-logo="https://11.112114.xyz/logo/莱山综合.png" group-title="山东",莱山综合
 http://A/ku9/js/Shandong/sdqilu.js?id=ytlszh
+#EXTINF:-1 tvg-name="莱山综合" tvg-logo="https://11.112114.xyz/logo/莱山综合.png" group-title="山东",莱山综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytlszh
 #EXTINF:-1 tvg-name="莱山综合" tvg-logo="https://11.112114.xyz/logo/莱山综合.png" group-title="山东",莱山综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytlszh$酷9远程JS
 #EXTINF:-1 tvg-name="莱山影视" tvg-logo="https://11.112114.xyz/logo/莱山影视.png" group-title="山东",莱山影视
 http://A/ku9/js/Shandong/sdqilu.js?id=ytlsys
 #EXTINF:-1 tvg-name="莱山影视" tvg-logo="https://11.112114.xyz/logo/莱山影视.png" group-title="山东",莱山影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytlsys
+#EXTINF:-1 tvg-name="莱山影视" tvg-logo="https://11.112114.xyz/logo/莱山影视.png" group-title="山东",莱山影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytlsys$酷9远程JS
 #EXTINF:-1 tvg-name="奎文电视台" tvg-logo="https://11.112114.xyz/logo/奎文电视台.png" group-title="山东",奎文电视台
 http://A/ku9/js/Shandong/sdqilu.js?id=wfkwtv
+#EXTINF:-1 tvg-name="奎文电视台" tvg-logo="https://11.112114.xyz/logo/奎文电视台.png" group-title="山东",奎文电视台
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfkwtv
 #EXTINF:-1 tvg-name="奎文电视台" tvg-logo="https://11.112114.xyz/logo/奎文电视台.png" group-title="山东",奎文电视台
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfkwtv$酷9远程JS
 #EXTINF:-1 tvg-name="垦利新闻综合" tvg-logo="https://11.112114.xyz/logo/垦利新闻综合.png" group-title="山东",垦利新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dyklxw
 #EXTINF:-1 tvg-name="垦利新闻综合" tvg-logo="https://11.112114.xyz/logo/垦利新闻综合.png" group-title="山东",垦利新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dyklxw
+#EXTINF:-1 tvg-name="垦利新闻综合" tvg-logo="https://11.112114.xyz/logo/垦利新闻综合.png" group-title="山东",垦利新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dyklxw$酷9远程JS
 #EXTINF:-1 tvg-name="鄄城综合" tvg-logo="https://11.112114.xyz/logo/鄄城综合.png" group-title="山东",鄄城综合
 http://A/ku9/js/Shandong/sdqilu.js?id=hzjczh
+#EXTINF:-1 tvg-name="鄄城综合" tvg-logo="https://11.112114.xyz/logo/鄄城综合.png" group-title="山东",鄄城综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzjczh
 #EXTINF:-1 tvg-name="鄄城综合" tvg-logo="https://11.112114.xyz/logo/鄄城综合.png" group-title="山东",鄄城综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzjczh$酷9远程JS
 #EXTINF:-1 tvg-name="巨野新闻" tvg-logo="https://11.112114.xyz/logo/巨野新闻.png" group-title="山东",巨野新闻
 http://A/ku9/js/Shandong/sdqilu.js?id=hzjyxw
 #EXTINF:-1 tvg-name="巨野新闻" tvg-logo="https://11.112114.xyz/logo/巨野新闻.png" group-title="山东",巨野新闻
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzjyxw
+#EXTINF:-1 tvg-name="巨野新闻" tvg-logo="https://11.112114.xyz/logo/巨野新闻.png" group-title="山东",巨野新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzjyxw$酷9远程JS
 #EXTINF:-1 tvg-name="莒县综合" tvg-logo="https://11.112114.xyz/logo/莒县综合.png" group-title="山东",莒县综合
 http://A/ku9/js/Shandong/sdqilu.js?id=rzjx1
+#EXTINF:-1 tvg-name="莒县综合" tvg-logo="https://11.112114.xyz/logo/莒县综合.png" group-title="山东",莒县综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=rzjx1
 #EXTINF:-1 tvg-name="莒县综合" tvg-logo="https://11.112114.xyz/logo/莒县综合.png" group-title="山东",莒县综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=rzjx1$酷9远程JS
 #EXTINF:-1 tvg-name="莒县生活" tvg-logo="https://11.112114.xyz/logo/莒县生活.png" group-title="山东",莒县生活
 http://A/ku9/js/Shandong/sdqilu.js?id=rzjx2
 #EXTINF:-1 tvg-name="莒县生活" tvg-logo="https://11.112114.xyz/logo/莒县生活.png" group-title="山东",莒县生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=rzjx2
+#EXTINF:-1 tvg-name="莒县生活" tvg-logo="https://11.112114.xyz/logo/莒县生活.png" group-title="山东",莒县生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=rzjx2$酷9远程JS
 #EXTINF:-1 tvg-name="莒南综合" tvg-logo="https://11.112114.xyz/logo/莒南综合.png" group-title="山东",莒南综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lyjnzh
+#EXTINF:-1 tvg-name="莒南综合" tvg-logo="https://11.112114.xyz/logo/莒南综合.png" group-title="山东",莒南综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyjnzh
 #EXTINF:-1 tvg-name="莒南综合" tvg-logo="https://11.112114.xyz/logo/莒南综合.png" group-title="山东",莒南综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyjnzh$酷9远程JS
 #EXTINF:-1 tvg-name="莒南影视" tvg-logo="https://11.112114.xyz/logo/莒南影视.png" group-title="山东",莒南影视
 http://A/ku9/js/Shandong/sdqilu.js?id=lyjnys
 #EXTINF:-1 tvg-name="莒南影视" tvg-logo="https://11.112114.xyz/logo/莒南影视.png" group-title="山东",莒南影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyjnys
+#EXTINF:-1 tvg-name="莒南影视" tvg-logo="https://11.112114.xyz/logo/莒南影视.png" group-title="山东",莒南影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyjnys$酷9远程JS
 #EXTINF:-1 tvg-name="金乡综合" tvg-logo="https://11.112114.xyz/logo/金乡综合.png" group-title="山东",金乡综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jijxzh
+#EXTINF:-1 tvg-name="金乡综合" tvg-logo="https://11.112114.xyz/logo/金乡综合.png" group-title="山东",金乡综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jijxzh
 #EXTINF:-1 tvg-name="金乡综合" tvg-logo="https://11.112114.xyz/logo/金乡综合.png" group-title="山东",金乡综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jijxzh$酷9远程JS
 #EXTINF:-1 tvg-name="金乡生活" tvg-logo="https://11.112114.xyz/logo/金乡生活.png" group-title="山东",金乡生活
 http://A/ku9/js/Shandong/sdqilu.js?id=jijxsh
 #EXTINF:-1 tvg-name="金乡生活" tvg-logo="https://11.112114.xyz/logo/金乡生活.png" group-title="山东",金乡生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jijxsh
+#EXTINF:-1 tvg-name="金乡生活" tvg-logo="https://11.112114.xyz/logo/金乡生活.png" group-title="山东",金乡生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jijxsh$酷9远程JS
 #EXTINF:-1 tvg-name="胶州综合" tvg-logo="https://11.112114.xyz/logo/胶州综合.png" group-title="山东",胶州综合
 http://A/ku9/js/Shandong/sdqilu.js?id=qdjzzh
+#EXTINF:-1 tvg-name="胶州综合" tvg-logo="https://11.112114.xyz/logo/胶州综合.png" group-title="山东",胶州综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdjzzh
 #EXTINF:-1 tvg-name="胶州综合" tvg-logo="https://11.112114.xyz/logo/胶州综合.png" group-title="山东",胶州综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdjzzh$酷9远程JS
 #EXTINF:-1 tvg-name="胶州生活" tvg-logo="https://11.112114.xyz/logo/胶州生活.png" group-title="山东",胶州生活
 http://A/ku9/js/Shandong/sdqilu.js?id=qdjzsh
 #EXTINF:-1 tvg-name="胶州生活" tvg-logo="https://11.112114.xyz/logo/胶州生活.png" group-title="山东",胶州生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdjzsh
+#EXTINF:-1 tvg-name="胶州生活" tvg-logo="https://11.112114.xyz/logo/胶州生活.png" group-title="山东",胶州生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdjzsh$酷9远程JS
 #EXTINF:-1 tvg-name="嘉祥综合" tvg-logo="https://11.112114.xyz/logo/嘉祥综合.png" group-title="山东",嘉祥综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jijiazh
+#EXTINF:-1 tvg-name="嘉祥综合" tvg-logo="https://11.112114.xyz/logo/嘉祥综合.png" group-title="山东",嘉祥综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jijiazh
 #EXTINF:-1 tvg-name="嘉祥综合" tvg-logo="https://11.112114.xyz/logo/嘉祥综合.png" group-title="山东",嘉祥综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jijiazh$酷9远程JS
 #EXTINF:-1 tvg-name="嘉祥新闻" tvg-logo="https://11.112114.xyz/logo/嘉祥新闻.png" group-title="山东",嘉祥新闻
@@ -13096,19 +13414,27 @@ http://192.168.1.200/myphp/gdy.php?pid=1306&cid=2606
 #EXTINF:-1 tvg-name="嘉祥生活" tvg-logo="https://11.112114.xyz/logo/嘉祥生活.png" group-title="山东",嘉祥生活
 http://A/ku9/js/Shandong/sdqilu.js?id=jijiash
 #EXTINF:-1 tvg-name="嘉祥生活" tvg-logo="https://11.112114.xyz/logo/嘉祥生活.png" group-title="山东",嘉祥生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jijiash
+#EXTINF:-1 tvg-name="嘉祥生活" tvg-logo="https://11.112114.xyz/logo/嘉祥生活.png" group-title="山东",嘉祥生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jijiash$酷9远程JS
 #EXTINF:-1 tvg-name="嘉祥生活" tvg-logo="https://11.112114.xyz/logo/嘉祥生活.png" group-title="山东",嘉祥生活
 http://192.168.1.200/myphp/gdy.php?pid=1307&cid=2606
 #EXTINF:-1 tvg-name="济阳综合" tvg-logo="https://11.112114.xyz/logo/济阳综合.png" group-title="山东",济阳综合
 http://A/ku9/js/Shandong/sdqilu.js?id=jnjyzh
 #EXTINF:-1 tvg-name="济阳综合" tvg-logo="https://11.112114.xyz/logo/济阳综合.png" group-title="山东",济阳综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jnjyzh
+#EXTINF:-1 tvg-name="济阳综合" tvg-logo="https://11.112114.xyz/logo/济阳综合.png" group-title="山东",济阳综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jnjyzh$酷9远程JS
 #EXTINF:-1 tvg-name="济阳影视" tvg-logo="https://11.112114.xyz/logo/济阳影视.png" group-title="山东",济阳影视
 http://A/ku9/js/Shandong/sdqilu.js?id=jnjyys
 #EXTINF:-1 tvg-name="济阳影视" tvg-logo="https://11.112114.xyz/logo/济阳影视.png" group-title="山东",济阳影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jnjyys
+#EXTINF:-1 tvg-name="济阳影视" tvg-logo="https://11.112114.xyz/logo/济阳影视.png" group-title="山东",济阳影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jnjyys$酷9远程JS
 #EXTINF:-1 tvg-name="济铁电视台" tvg-logo="https://11.112114.xyz/logo/济铁电视台.png" group-title="山东",济铁电视台
 http://A/ku9/js/Shandong/sdqilu.js?id=jnjrtv
+#EXTINF:-1 tvg-name="济铁电视台" tvg-logo="https://11.112114.xyz/logo/济铁电视台.png" group-title="山东",济铁电视台
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=jnjrtv
 #EXTINF:-1 tvg-name="济铁电视台" tvg-logo="https://11.112114.xyz/logo/济铁电视台.png" group-title="山东",济铁电视台
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=jnjrtv$酷9远程JS
 #EXTINF:-1 tvg-name="济宁综合" tvg-logo="https://11.112114.xyz/logo/济宁综合.png" group-title="山东",济宁综合
@@ -13122,33 +13448,49 @@ http://221.2.36.14/video/s10001-JNTV3/index.m3u8
 #EXTINF:-1 tvg-name="即墨综合" tvg-logo="https://11.112114.xyz/logo/即墨综合.png" group-title="山东",即墨综合
 http://A/ku9/js/Shandong/sdqilu.js?id=qdjmzh
 #EXTINF:-1 tvg-name="即墨综合" tvg-logo="https://11.112114.xyz/logo/即墨综合.png" group-title="山东",即墨综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdjmzh
+#EXTINF:-1 tvg-name="即墨综合" tvg-logo="https://11.112114.xyz/logo/即墨综合.png" group-title="山东",即墨综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdjmzh$酷9远程JS
 #EXTINF:-1 tvg-name="即墨生活服务" tvg-logo="https://11.112114.xyz/logo/即墨生活服务.png" group-title="山东",即墨生活服务
 http://A/ku9/js/Shandong/sdqilu.js?id=qdjmsh
+#EXTINF:-1 tvg-name="即墨生活服务" tvg-logo="https://11.112114.xyz/logo/即墨生活服务.png" group-title="山东",即墨生活服务
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdjmsh
 #EXTINF:-1 tvg-name="即墨生活服务" tvg-logo="https://11.112114.xyz/logo/即墨生活服务.png" group-title="山东",即墨生活服务
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdjmsh$酷9远程JS
 #EXTINF:-1 tvg-name="惠民综合" tvg-logo="https://11.112114.xyz/logo/惠民综合.png" group-title="山东",惠民综合
 http://A/ku9/js/Shandong/sdqilu.js?id=bzhmzh
 #EXTINF:-1 tvg-name="惠民综合" tvg-logo="https://11.112114.xyz/logo/惠民综合.png" group-title="山东",惠民综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzhmzh
+#EXTINF:-1 tvg-name="惠民综合" tvg-logo="https://11.112114.xyz/logo/惠民综合.png" group-title="山东",惠民综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzhmzh$酷9远程JS
 #EXTINF:-1 tvg-name="惠民影视" tvg-logo="https://11.112114.xyz/logo/惠民影视.png" group-title="山东",惠民影视
 http://A/ku9/js/Shandong/sdqilu.js?id=bzhmys
+#EXTINF:-1 tvg-name="惠民影视" tvg-logo="https://11.112114.xyz/logo/惠民影视.png" group-title="山东",惠民影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzhmys
 #EXTINF:-1 tvg-name="惠民影视" tvg-logo="https://11.112114.xyz/logo/惠民影视.png" group-title="山东",惠民影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzhmys$酷9远程JS
 #EXTINF:-1 tvg-name="黄岛综合" tvg-logo="https://11.112114.xyz/logo/黄岛综合.png" group-title="山东",黄岛综合
 http://A/ku9/js/Shandong/sdqilu.js?id=qdhdzh
 #EXTINF:-1 tvg-name="黄岛综合" tvg-logo="https://11.112114.xyz/logo/黄岛综合.png" group-title="山东",黄岛综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdhdzh
+#EXTINF:-1 tvg-name="黄岛综合" tvg-logo="https://11.112114.xyz/logo/黄岛综合.png" group-title="山东",黄岛综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdhdzh$酷9远程JS
 #EXTINF:-1 tvg-name="黄岛生活" tvg-logo="https://11.112114.xyz/logo/黄岛生活.png" group-title="山东",黄岛生活
 http://A/ku9/js/Shandong/sdqilu.js?id=qdhdsh
+#EXTINF:-1 tvg-name="黄岛生活" tvg-logo="https://11.112114.xyz/logo/黄岛生活.png" group-title="山东",黄岛生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=qdhdsh
 #EXTINF:-1 tvg-name="黄岛生活" tvg-logo="https://11.112114.xyz/logo/黄岛生活.png" group-title="山东",黄岛生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=qdhdsh$酷9远程JS
 #EXTINF:-1 tvg-name="桓台综合" tvg-logo="https://11.112114.xyz/logo/桓台综合.png" group-title="山东",桓台综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zbht1
 #EXTINF:-1 tvg-name="桓台综合" tvg-logo="https://11.112114.xyz/logo/桓台综合.png" group-title="山东",桓台综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbht1
+#EXTINF:-1 tvg-name="桓台综合" tvg-logo="https://11.112114.xyz/logo/桓台综合.png" group-title="山东",桓台综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbht1$酷9远程JS
 #EXTINF:-1 tvg-name="桓台影视" tvg-logo="https://11.112114.xyz/logo/桓台影视.png" group-title="山东",桓台影视
 http://A/ku9/js/Shandong/sdqilu.js?id=zbht2
+#EXTINF:-1 tvg-name="桓台影视" tvg-logo="https://11.112114.xyz/logo/桓台影视.png" group-title="山东",桓台影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbht2
 #EXTINF:-1 tvg-name="桓台影视" tvg-logo="https://11.112114.xyz/logo/桓台影视.png" group-title="山东",桓台影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbht2$酷9远程JS
 #EXTINF:-1 tvg-name="菏泽新闻综合" tvg-logo="https://11.112114.xyz/logo/菏泽新闻综合.png" group-title="山东",菏泽新闻综合
@@ -13176,81 +13518,121 @@ http://192.168.1.200/myphp/gdy.php?pid=3520&cid=4042
 #EXTINF:-1 tvg-name="河东综合" tvg-logo="https://11.112114.xyz/logo/河东综合.png" group-title="山东",河东综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lyhdzh
 #EXTINF:-1 tvg-name="河东综合" tvg-logo="https://11.112114.xyz/logo/河东综合.png" group-title="山东",河东综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyhdzh
+#EXTINF:-1 tvg-name="河东综合" tvg-logo="https://11.112114.xyz/logo/河东综合.png" group-title="山东",河东综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyhdzh$酷9远程JS
 #EXTINF:-1 tvg-name="河东影视" tvg-logo="https://11.112114.xyz/logo/河东影视.png" group-title="山东",河东影视
 http://A/ku9/js/Shandong/sdqilu.js?id=lyhdys
+#EXTINF:-1 tvg-name="河东影视" tvg-logo="https://11.112114.xyz/logo/河东影视.png" group-title="山东",河东影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyhdys
 #EXTINF:-1 tvg-name="河东影视" tvg-logo="https://11.112114.xyz/logo/河东影视.png" group-title="山东",河东影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyhdys$酷9远程JS
 #EXTINF:-1 tvg-name="寒亭新闻" tvg-logo="https://11.112114.xyz/logo/寒亭新闻.png" group-title="山东",寒亭新闻
 http://A/ku9/js/Shandong/sdqilu.js?id=wfhtxw
 #EXTINF:-1 tvg-name="寒亭新闻" tvg-logo="https://11.112114.xyz/logo/寒亭新闻.png" group-title="山东",寒亭新闻
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfhtxw
+#EXTINF:-1 tvg-name="寒亭新闻" tvg-logo="https://11.112114.xyz/logo/寒亭新闻.png" group-title="山东",寒亭新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfhtxw$酷9远程JS
 #EXTINF:-1 tvg-name="海阳综合" tvg-logo="https://11.112114.xyz/logo/海阳综合.png" group-title="山东",海阳综合
 http://A/ku9/js/Shandong/sdqilu.js?id=ythyzh
+#EXTINF:-1 tvg-name="海阳综合" tvg-logo="https://11.112114.xyz/logo/海阳综合.png" group-title="山东",海阳综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ythyzh
 #EXTINF:-1 tvg-name="海阳综合" tvg-logo="https://11.112114.xyz/logo/海阳综合.png" group-title="山东",海阳综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ythyzh$酷9远程JS
 #EXTINF:-1 tvg-name="广饶综合" tvg-logo="https://11.112114.xyz/logo/广饶综合.png" group-title="山东",广饶综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dygrzh
 #EXTINF:-1 tvg-name="广饶综合" tvg-logo="https://11.112114.xyz/logo/广饶综合.png" group-title="山东",广饶综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dygrzh
+#EXTINF:-1 tvg-name="广饶综合" tvg-logo="https://11.112114.xyz/logo/广饶综合.png" group-title="山东",广饶综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dygrzh$酷9远程JS
 #EXTINF:-1 tvg-name="广饶科教文艺" tvg-logo="https://11.112114.xyz/logo/广饶科教文艺.png" group-title="山东",广饶科教文艺
 http://A/ku9/js/Shandong/sdqilu.js?id=dygrkj
+#EXTINF:-1 tvg-name="广饶科教文艺" tvg-logo="https://11.112114.xyz/logo/广饶科教文艺.png" group-title="山东",广饶科教文艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dygrkj
 #EXTINF:-1 tvg-name="广饶科教文艺" tvg-logo="https://11.112114.xyz/logo/广饶科教文艺.png" group-title="山东",广饶科教文艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dygrkj$酷9远程JS
 #EXTINF:-1 tvg-name="冠县综合" tvg-logo="https://11.112114.xyz/logo/冠县综合.png" group-title="山东",冠县综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lcgxzh
 #EXTINF:-1 tvg-name="冠县综合" tvg-logo="https://11.112114.xyz/logo/冠县综合.png" group-title="山东",冠县综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lcgxzh
+#EXTINF:-1 tvg-name="冠县综合" tvg-logo="https://11.112114.xyz/logo/冠县综合.png" group-title="山东",冠县综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lcgxzh$酷9远程JS
 #EXTINF:-1 tvg-name="高唐综艺" tvg-logo="https://11.112114.xyz/logo/高唐综艺.png" group-title="山东",高唐综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=lcgtzy
+#EXTINF:-1 tvg-name="高唐综艺" tvg-logo="https://11.112114.xyz/logo/高唐综艺.png" group-title="山东",高唐综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lcgtzy
 #EXTINF:-1 tvg-name="高唐综艺" tvg-logo="https://11.112114.xyz/logo/高唐综艺.png" group-title="山东",高唐综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lcgtzy$酷9远程JS
 #EXTINF:-1 tvg-name="高唐综合" tvg-logo="https://11.112114.xyz/logo/高唐综合.png" group-title="山东",高唐综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lcgtzh
 #EXTINF:-1 tvg-name="高唐综合" tvg-logo="https://11.112114.xyz/logo/高唐综合.png" group-title="山东",高唐综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lcgtzh
+#EXTINF:-1 tvg-name="高唐综合" tvg-logo="https://11.112114.xyz/logo/高唐综合.png" group-title="山东",高唐综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lcgtzh$酷9远程JS
 #EXTINF:-1 tvg-name="高青综合" tvg-logo="https://11.112114.xyz/logo/高青综合.png" group-title="山东",高青综合
 http://A/ku9/js/Shandong/sdqilu.js?id=zbgqzh
+#EXTINF:-1 tvg-name="高青综合" tvg-logo="https://11.112114.xyz/logo/高青综合.png" group-title="山东",高青综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbgqzh
 #EXTINF:-1 tvg-name="高青综合" tvg-logo="https://11.112114.xyz/logo/高青综合.png" group-title="山东",高青综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbgqzh$酷9远程JS
 #EXTINF:-1 tvg-name="高青影视" tvg-logo="https://11.112114.xyz/logo/高青影视.png" group-title="山东",高青影视
 http://A/ku9/js/Shandong/sdqilu.js?id=zbgqys
 #EXTINF:-1 tvg-name="高青影视" tvg-logo="https://11.112114.xyz/logo/高青影视.png" group-title="山东",高青影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbgqys
+#EXTINF:-1 tvg-name="高青影视" tvg-logo="https://11.112114.xyz/logo/高青影视.png" group-title="山东",高青影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbgqys$酷9远程JS
 #EXTINF:-1 tvg-name="高密综合" tvg-logo="https://11.112114.xyz/logo/高密综合.png" group-title="山东",高密综合
 http://A/ku9/js/Shandong/sdqilu.js?id=wfgmzh
+#EXTINF:-1 tvg-name="高密综合" tvg-logo="https://11.112114.xyz/logo/高密综合.png" group-title="山东",高密综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfgmzh
 #EXTINF:-1 tvg-name="高密综合" tvg-logo="https://11.112114.xyz/logo/高密综合.png" group-title="山东",高密综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfgmzh$酷9远程JS
 #EXTINF:-1 tvg-name="高密党建农科" tvg-logo="https://11.112114.xyz/logo/高密党建农科.png" group-title="山东",高密党建农科
 http://A/ku9/js/Shandong/sdqilu.js?id=wfgmdj
 #EXTINF:-1 tvg-name="高密党建农科" tvg-logo="https://11.112114.xyz/logo/高密党建农科.png" group-title="山东",高密党建农科
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfgmdj
+#EXTINF:-1 tvg-name="高密党建农科" tvg-logo="https://11.112114.xyz/logo/高密党建农科.png" group-title="山东",高密党建农科
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfgmdj$酷9远程JS
 #EXTINF:-1 tvg-name="福山综合" tvg-logo="https://11.112114.xyz/logo/福山综合.png" group-title="山东",福山综合
 http://A/ku9/js/Shandong/sdqilu.js?id=ytfszh
+#EXTINF:-1 tvg-name="福山综合" tvg-logo="https://11.112114.xyz/logo/福山综合.png" group-title="山东",福山综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytfszh
 #EXTINF:-1 tvg-name="福山综合" tvg-logo="https://11.112114.xyz/logo/福山综合.png" group-title="山东",福山综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytfszh$酷9远程JS
 #EXTINF:-1 tvg-name="福山生活" tvg-logo="https://11.112114.xyz/logo/福山生活.png" group-title="山东",福山生活
 http://A/ku9/js/Shandong/sdqilu.js?id=ytfssh
 #EXTINF:-1 tvg-name="福山生活" tvg-logo="https://11.112114.xyz/logo/福山生活.png" group-title="山东",福山生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=ytfssh
+#EXTINF:-1 tvg-name="福山生活" tvg-logo="https://11.112114.xyz/logo/福山生活.png" group-title="山东",福山生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=ytfssh$酷9远程JS
 #EXTINF:-1 tvg-name="费县综合" tvg-logo="https://11.112114.xyz/logo/费县综合.png" group-title="山东",费县综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lyfxzh
+#EXTINF:-1 tvg-name="费县综合" tvg-logo="https://11.112114.xyz/logo/费县综合.png" group-title="山东",费县综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyfxzh
 #EXTINF:-1 tvg-name="费县综合" tvg-logo="https://11.112114.xyz/logo/费县综合.png" group-title="山东",费县综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyfxzh$酷9远程JS
 #EXTINF:-1 tvg-name="费县生活" tvg-logo="https://11.112114.xyz/logo/费县生活.png" group-title="山东",费县生活
 http://A/ku9/js/Shandong/sdqilu.js?id=lyfxsh
 #EXTINF:-1 tvg-name="费县生活" tvg-logo="https://11.112114.xyz/logo/费县生活.png" group-title="山东",费县生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lyfxsh
+#EXTINF:-1 tvg-name="费县生活" tvg-logo="https://11.112114.xyz/logo/费县生活.png" group-title="山东",费县生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lyfxsh$酷9远程JS
 #EXTINF:-1 tvg-name="肥城综合" tvg-logo="https://11.112114.xyz/logo/肥城综合.png" group-title="山东",肥城综合
 http://A/ku9/js/Shandong/sdqilu.js?id=tafczh
+#EXTINF:-1 tvg-name="肥城综合" tvg-logo="https://11.112114.xyz/logo/肥城综合.png" group-title="山东",肥城综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=tafczh
 #EXTINF:-1 tvg-name="肥城综合" tvg-logo="https://11.112114.xyz/logo/肥城综合.png" group-title="山东",肥城综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=tafczh$酷9远程JS
 #EXTINF:-1 tvg-name="肥城生活" tvg-logo="https://11.112114.xyz/logo/肥城生活.png" group-title="山东",肥城生活
 http://A/ku9/js/Shandong/sdqilu.js?id=tafcsh
 #EXTINF:-1 tvg-name="肥城生活" tvg-logo="https://11.112114.xyz/logo/肥城生活.png" group-title="山东",肥城生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=tafcsh
+#EXTINF:-1 tvg-name="肥城生活" tvg-logo="https://11.112114.xyz/logo/肥城生活.png" group-title="山东",肥城生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=tafcsh$酷9远程JS
 #EXTINF:-1 tvg-name="坊子新闻综合" tvg-logo="https://11.112114.xyz/logo/坊子新闻综合.png" group-title="山东",坊子新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=wffzxw
+#EXTINF:-1 tvg-name="坊子新闻综合" tvg-logo="https://11.112114.xyz/logo/坊子新闻综合.png" group-title="山东",坊子新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wffzxw
 #EXTINF:-1 tvg-name="坊子新闻综合" tvg-logo="https://11.112114.xyz/logo/坊子新闻综合.png" group-title="山东",坊子新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wffzxw$酷9远程JS
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://11.112114.xyz/logo/东营新闻综合.png" group-title="山东",东营新闻综合
@@ -13261,6 +13643,8 @@ https://mytv.easonzhang.eu.org/api/shandong_shandian.php?id=dydst
 http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dydst&channelid=100011
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://11.112114.xyz/logo/东营新闻综合.png" group-title="山东",东营新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dyxwzh
+#EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://11.112114.xyz/logo/东营新闻综合.png" group-title="山东",东营新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dyxwzh
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://11.112114.xyz/logo/东营新闻综合.png" group-title="山东",东营新闻综合
 http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://11.112114.xyz/logo/东营新闻综合.png" group-title="山东",东营新闻综合
@@ -13274,6 +13658,8 @@ rtmp://stream.hhek.cn:9936/live/dyjy_sd
 #EXTINF:-1 tvg-name="东营科教" tvg-logo="https://11.112114.xyz/logo/东营科教.png" group-title="山东",东营科教
 http://A/ku9/js/Shandong/sdqilu.js?id=dykj
 #EXTINF:-1 tvg-name="东营科教" tvg-logo="https://11.112114.xyz/logo/东营科教.png" group-title="山东",东营科教
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dykj
+#EXTINF:-1 tvg-name="东营科教" tvg-logo="https://11.112114.xyz/logo/东营科教.png" group-title="山东",东营科教
 http://stream.hhek.cn/dyjy/sd/live.m3u8?shandd
 #EXTINF:-1 tvg-name="东营科教" tvg-logo="https://11.112114.xyz/logo/东营科教.png" group-title="山东",东营科教
 http://stream.hhek.cn/dyjy/sd/live.m3u8
@@ -13284,7 +13670,11 @@ rtmp://stream.hhek.cn:9936/live/ggpd_sd
 #EXTINF:-1 tvg-name="东营公共" tvg-logo="https://11.112114.xyz/logo/东营公共.png" group-title="山东",东营公共
 http://A/ku9/js/Shandong/sdqilu.js?id=dygg2
 #EXTINF:-1 tvg-name="东营公共" tvg-logo="https://11.112114.xyz/logo/东营公共.png" group-title="山东",东营公共
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dygg2
+#EXTINF:-1 tvg-name="东营公共" tvg-logo="https://11.112114.xyz/logo/东营公共.png" group-title="山东",东营公共
 http://A/ku9/js/Shandong/sdqilu.js?id=dygg
+#EXTINF:-1 tvg-name="东营公共" tvg-logo="https://11.112114.xyz/logo/东营公共.png" group-title="山东",东营公共
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dygg
 #EXTINF:-1 tvg-name="东营公共" tvg-logo="https://11.112114.xyz/logo/东营公共.png" group-title="山东",东营公共
 http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd
 #EXTINF:-1 tvg-name="东营公共" tvg-logo="https://11.112114.xyz/logo/东营公共.png" group-title="山东",东营公共
@@ -13296,41 +13686,61 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="东营区新闻综合" tvg-logo="https://11.112114.xyz/logo/东营区新闻综合.png" group-title="山东",东营区新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dydyqxw
 #EXTINF:-1 tvg-name="东营区新闻综合" tvg-logo="https://11.112114.xyz/logo/东营区新闻综合.png" group-title="山东",东营区新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dydyqxw
+#EXTINF:-1 tvg-name="东营区新闻综合" tvg-logo="https://11.112114.xyz/logo/东营区新闻综合.png" group-title="山东",东营区新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dydyqxw$酷9远程JS
 #EXTINF:-1 tvg-name="东营区科教影视" tvg-logo="https://11.112114.xyz/logo/东营区科教影视.png" group-title="山东",东营区科教影视
 http://A/ku9/js/Shandong/sdqilu.js?id=dydyqkj
+#EXTINF:-1 tvg-name="东营区科教影视" tvg-logo="https://11.112114.xyz/logo/东营区科教影视.png" group-title="山东",东营区科教影视
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dydyqkj
 #EXTINF:-1 tvg-name="东营区科教影视" tvg-logo="https://11.112114.xyz/logo/东营区科教影视.png" group-title="山东",东营区科教影视
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dydyqkj$酷9远程JS
 #EXTINF:-1 tvg-name="东平综合" tvg-logo="https://11.112114.xyz/logo/东平综合.png" group-title="山东",东平综合
 http://A/ku9/js/Shandong/sdqilu.js?id=tadpzh
 #EXTINF:-1 tvg-name="东平综合" tvg-logo="https://11.112114.xyz/logo/东平综合.png" group-title="山东",东平综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=tadpzh
+#EXTINF:-1 tvg-name="东平综合" tvg-logo="https://11.112114.xyz/logo/东平综合.png" group-title="山东",东平综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=tadpzh$酷9远程JS
 #EXTINF:-1 tvg-name="东平民生" tvg-logo="https://11.112114.xyz/logo/东平民生.png" group-title="山东",东平民生
 http://A/ku9/js/Shandong/sdqilu.js?id=tadpms
+#EXTINF:-1 tvg-name="东平民生" tvg-logo="https://11.112114.xyz/logo/东平民生.png" group-title="山东",东平民生
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=tadpms
 #EXTINF:-1 tvg-name="东平民生" tvg-logo="https://11.112114.xyz/logo/东平民生.png" group-title="山东",东平民生
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=tadpms$酷9远程JS
 #EXTINF:-1 tvg-name="东明新闻综合" tvg-logo="https://11.112114.xyz/logo/东明新闻综合.png" group-title="山东",东明新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=hzdmxw
 #EXTINF:-1 tvg-name="东明新闻综合" tvg-logo="https://11.112114.xyz/logo/东明新闻综合.png" group-title="山东",东明新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzdmxw
+#EXTINF:-1 tvg-name="东明新闻综合" tvg-logo="https://11.112114.xyz/logo/东明新闻综合.png" group-title="山东",东明新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzdmxw$酷9远程JS
 #EXTINF:-1 tvg-name="东昌综合" tvg-logo="https://11.112114.xyz/logo/东昌综合.png" group-title="山东",东昌综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lcdczh
+#EXTINF:-1 tvg-name="东昌综合" tvg-logo="https://11.112114.xyz/logo/东昌综合.png" group-title="山东",东昌综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lcdczh
 #EXTINF:-1 tvg-name="东昌综合" tvg-logo="https://11.112114.xyz/logo/东昌综合.png" group-title="山东",东昌综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lcdczh$酷9远程JS
 #EXTINF:-1 tvg-name="东阿综艺" tvg-logo="https://11.112114.xyz/logo/东阿综艺.png" group-title="山东",东阿综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=lcdezy
 #EXTINF:-1 tvg-name="东阿综艺" tvg-logo="https://11.112114.xyz/logo/东阿综艺.png" group-title="山东",东阿综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lcdezy
+#EXTINF:-1 tvg-name="东阿综艺" tvg-logo="https://11.112114.xyz/logo/东阿综艺.png" group-title="山东",东阿综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lcdezy$酷9远程JS
 #EXTINF:-1 tvg-name="东阿综合" tvg-logo="https://11.112114.xyz/logo/东阿综合.png" group-title="山东",东阿综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lcdezh
+#EXTINF:-1 tvg-name="东阿综合" tvg-logo="https://11.112114.xyz/logo/东阿综合.png" group-title="山东",东阿综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lcdezh
 #EXTINF:-1 tvg-name="东阿综合" tvg-logo="https://11.112114.xyz/logo/东阿综合.png" group-title="山东",东阿综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lcdezh$酷9远程JS
 #EXTINF:-1 tvg-name="定陶新闻" tvg-logo="https://11.112114.xyz/logo/定陶新闻.png" group-title="山东",定陶新闻
 http://A/ku9/js/Shandong/sdqilu.js?id=hzdt1
 #EXTINF:-1 tvg-name="定陶新闻" tvg-logo="https://11.112114.xyz/logo/定陶新闻.png" group-title="山东",定陶新闻
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzdt1
+#EXTINF:-1 tvg-name="定陶新闻" tvg-logo="https://11.112114.xyz/logo/定陶新闻.png" group-title="山东",定陶新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzdt1$酷9远程JS
 #EXTINF:-1 tvg-name="定陶综艺" tvg-logo="https://11.112114.xyz/logo/定陶综艺.png" group-title="山东",定陶综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=hzdt2
+#EXTINF:-1 tvg-name="定陶综艺" tvg-logo="https://11.112114.xyz/logo/定陶综艺.png" group-title="山东",定陶综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzdt2
 #EXTINF:-1 tvg-name="定陶综艺" tvg-logo="https://11.112114.xyz/logo/定陶综艺.png" group-title="山东",定陶综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzdt2$酷9远程JS
 #EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://11.112114.xyz/logo/德州新闻综合.png" group-title="山东",德州新闻综合
@@ -13340,71 +13750,105 @@ http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科�
 #EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://11.112114.xyz/logo/德州新闻综合.png" group-title="山东",德州新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=dzxwzh
 #EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://11.112114.xyz/logo/德州新闻综合.png" group-title="山东",德州新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzxwzh
+#EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://11.112114.xyz/logo/德州新闻综合.png" group-title="山东",德州新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=dzdst&channelid=100020$酷9远程JS
 #EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://11.112114.xyz/logo/德州新闻综合.png" group-title="山东",德州新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzxwzh$酷9远程JS
 #EXTINF:-1 tvg-name="德州经济生活" tvg-logo="https://11.112114.xyz/logo/德州经济生活.png" group-title="山东",德州经济生活
 http://A/ku9/js/Shandong/sdqilu.js?id=dzjjsh
 #EXTINF:-1 tvg-name="德州经济生活" tvg-logo="https://11.112114.xyz/logo/德州经济生活.png" group-title="山东",德州经济生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dzjjsh
+#EXTINF:-1 tvg-name="德州经济生活" tvg-logo="https://11.112114.xyz/logo/德州经济生活.png" group-title="山东",德州经济生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dzjjsh$酷9远程JS
 #EXTINF:-1 tvg-name="德州图文" tvg-logo="https://11.112114.xyz/logo/德州图文.png" group-title="山东",德州图文
 http://A/ku9/js/Shandong/sdqilu.js?id=dztw
+#EXTINF:-1 tvg-name="德州图文" tvg-logo="https://11.112114.xyz/logo/德州图文.png" group-title="山东",德州图文
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=dztw
 #EXTINF:-1 tvg-name="德州图文" tvg-logo="https://11.112114.xyz/logo/德州图文.png" group-title="山东",德州图文
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=dztw$酷9远程JS
 #EXTINF:-1 tvg-name="单县综合" tvg-logo="https://11.112114.xyz/logo/单县综合.png" group-title="山东",单县综合
 http://A/ku9/js/Shandong/sdqilu.js?id=hzsxzh
 #EXTINF:-1 tvg-name="单县综合" tvg-logo="https://11.112114.xyz/logo/单县综合.png" group-title="山东",单县综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzsxzh
+#EXTINF:-1 tvg-name="单县综合" tvg-logo="https://11.112114.xyz/logo/单县综合.png" group-title="山东",单县综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzsxzh$酷9远程JS
 #EXTINF:-1 tvg-name="岱岳电视台" tvg-logo="https://11.112114.xyz/logo/岱岳电视台.png" group-title="山东",岱岳电视台
 http://A/ku9/js/Shandong/sdqilu.js?id=tady
+#EXTINF:-1 tvg-name="岱岳电视台" tvg-logo="https://11.112114.xyz/logo/岱岳电视台.png" group-title="山东",岱岳电视台
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=tady
 #EXTINF:-1 tvg-name="岱岳电视台" tvg-logo="https://11.112114.xyz/logo/岱岳电视台.png" group-title="山东",岱岳电视台
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=tady$酷9远程JS
 #EXTINF:-1 tvg-name="茌平综合" tvg-logo="https://11.112114.xyz/logo/茌平综合.png" group-title="山东",茌平综合
 http://A/ku9/js/Shandong/sdqilu.js?id=lccpzh
 #EXTINF:-1 tvg-name="茌平综合" tvg-logo="https://11.112114.xyz/logo/茌平综合.png" group-title="山东",茌平综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lccpzh
+#EXTINF:-1 tvg-name="茌平综合" tvg-logo="https://11.112114.xyz/logo/茌平综合.png" group-title="山东",茌平综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lccpzh$酷9远程JS
 #EXTINF:-1 tvg-name="茌平生活" tvg-logo="https://11.112114.xyz/logo/茌平生活.png" group-title="山东",茌平生活
 http://A/ku9/js/Shandong/sdqilu.js?id=lccpsh
+#EXTINF:-1 tvg-name="茌平生活" tvg-logo="https://11.112114.xyz/logo/茌平生活.png" group-title="山东",茌平生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=lccpsh
 #EXTINF:-1 tvg-name="茌平生活" tvg-logo="https://11.112114.xyz/logo/茌平生活.png" group-title="山东",茌平生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=lccpsh$酷9远程JS
 #EXTINF:-1 tvg-name="成武综合" tvg-logo="https://11.112114.xyz/logo/成武综合.png" group-title="山东",成武综合
 http://A/ku9/js/Shandong/sdqilu.js?id=hzcwzh
 #EXTINF:-1 tvg-name="成武综合" tvg-logo="https://11.112114.xyz/logo/成武综合.png" group-title="山东",成武综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzcwzh
+#EXTINF:-1 tvg-name="成武综合" tvg-logo="https://11.112114.xyz/logo/成武综合.png" group-title="山东",成武综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzcwzh$酷9远程JS
 #EXTINF:-1 tvg-name="成武综艺" tvg-logo="https://11.112114.xyz/logo/成武综艺.png" group-title="山东",成武综艺
 http://A/ku9/js/Shandong/sdqilu.js?id=hzcwzy
+#EXTINF:-1 tvg-name="成武综艺" tvg-logo="https://11.112114.xyz/logo/成武综艺.png" group-title="山东",成武综艺
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzcwzy
 #EXTINF:-1 tvg-name="成武综艺" tvg-logo="https://11.112114.xyz/logo/成武综艺.png" group-title="山东",成武综艺
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzcwzy$酷9远程JS
 #EXTINF:-1 tvg-name="昌邑综合" tvg-logo="https://11.112114.xyz/logo/昌邑综合.png" group-title="山东",昌邑综合
 http://A/ku9/js/Shandong/sdqilu.js?id=wfcyzh
 #EXTINF:-1 tvg-name="昌邑综合" tvg-logo="https://11.112114.xyz/logo/昌邑综合.png" group-title="山东",昌邑综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfcyzh
+#EXTINF:-1 tvg-name="昌邑综合" tvg-logo="https://11.112114.xyz/logo/昌邑综合.png" group-title="山东",昌邑综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfcyzh$酷9远程JS
 #EXTINF:-1 tvg-name="昌邑经济生活" tvg-logo="https://11.112114.xyz/logo/昌邑经济生活.png" group-title="山东",昌邑经济生活
 http://A/ku9/js/Shandong/sdqilu.js?id=wfcyjj
+#EXTINF:-1 tvg-name="昌邑经济生活" tvg-logo="https://11.112114.xyz/logo/昌邑经济生活.png" group-title="山东",昌邑经济生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfcyjj
 #EXTINF:-1 tvg-name="昌邑经济生活" tvg-logo="https://11.112114.xyz/logo/昌邑经济生活.png" group-title="山东",昌邑经济生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfcyjj$酷9远程JS
 #EXTINF:-1 tvg-name="昌乐综合" tvg-logo="https://11.112114.xyz/logo/昌乐综合.png" group-title="山东",昌乐综合
 http://A/ku9/js/Shandong/sdqilu.js?id=wfclzh
 #EXTINF:-1 tvg-name="昌乐综合" tvg-logo="https://11.112114.xyz/logo/昌乐综合.png" group-title="山东",昌乐综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfclzh
+#EXTINF:-1 tvg-name="昌乐综合" tvg-logo="https://11.112114.xyz/logo/昌乐综合.png" group-title="山东",昌乐综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfclzh$酷9远程JS
 #EXTINF:-1 tvg-name="曹县综合" tvg-logo="https://11.112114.xyz/logo/曹县综合.png" group-title="山东",曹县综合
 http://A/ku9/js/Shandong/sdqilu.js?id=hzcxzh
+#EXTINF:-1 tvg-name="曹县综合" tvg-logo="https://11.112114.xyz/logo/曹县综合.png" group-title="山东",曹县综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=hzcxzh
 #EXTINF:-1 tvg-name="曹县综合" tvg-logo="https://11.112114.xyz/logo/曹县综合.png" group-title="山东",曹县综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=hzcxzh$酷9远程JS
 #EXTINF:-1 tvg-name="博兴综合" tvg-logo="https://11.112114.xyz/logo/博兴综合.png" group-title="山东",博兴综合
 http://A/ku9/js/Shandong/sdqilu.js?id=bzbxzh
 #EXTINF:-1 tvg-name="博兴综合" tvg-logo="https://11.112114.xyz/logo/博兴综合.png" group-title="山东",博兴综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzbxzh
+#EXTINF:-1 tvg-name="博兴综合" tvg-logo="https://11.112114.xyz/logo/博兴综合.png" group-title="山东",博兴综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzbxzh$酷9远程JS
 #EXTINF:-1 tvg-name="博兴生活" tvg-logo="https://11.112114.xyz/logo/博兴生活.png" group-title="山东",博兴生活
 http://A/ku9/js/Shandong/sdqilu.js?id=bzbxsh
+#EXTINF:-1 tvg-name="博兴生活" tvg-logo="https://11.112114.xyz/logo/博兴生活.png" group-title="山东",博兴生活
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzbxsh
 #EXTINF:-1 tvg-name="博兴生活" tvg-logo="https://11.112114.xyz/logo/博兴生活.png" group-title="山东",博兴生活
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzbxsh$酷9远程JS
 #EXTINF:-1 tvg-name="博山新闻" tvg-logo="https://11.112114.xyz/logo/博山新闻.png" group-title="山东",博山新闻
 http://A/ku9/js/Shandong/sdqilu.js?id=zbbsxw
 #EXTINF:-1 tvg-name="博山新闻" tvg-logo="https://11.112114.xyz/logo/博山新闻.png" group-title="山东",博山新闻
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbbsxw
+#EXTINF:-1 tvg-name="博山新闻" tvg-logo="https://11.112114.xyz/logo/博山新闻.png" group-title="山东",博山新闻
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbbsxw$酷9远程JS
 #EXTINF:-1 tvg-name="博山图文" tvg-logo="https://11.112114.xyz/logo/博山图文.png" group-title="山东",博山图文
 http://A/ku9/js/Shandong/sdqilu.js?id=zbbstw
+#EXTINF:-1 tvg-name="博山图文" tvg-logo="https://11.112114.xyz/logo/博山图文.png" group-title="山东",博山图文
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=zbbstw
 #EXTINF:-1 tvg-name="博山图文" tvg-logo="https://11.112114.xyz/logo/博山图文.png" group-title="山东",博山图文
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=zbbstw$酷9远程JS
 #EXTINF:-1 tvg-name="滨州新闻综合" tvg-logo="https://11.112114.xyz/logo/滨州新闻综合.png" group-title="山东",滨州新闻综合
@@ -13416,17 +13860,25 @@ https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/m
 #EXTINF:-1 tvg-name="滨海新闻综合" tvg-logo="https://11.112114.xyz/logo/滨海新闻综合.png" group-title="山东",滨海新闻综合
 http://A/ku9/js/Shandong/sdqilu.js?id=wfbhxw
 #EXTINF:-1 tvg-name="滨海新闻综合" tvg-logo="https://11.112114.xyz/logo/滨海新闻综合.png" group-title="山东",滨海新闻综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfbhxw
+#EXTINF:-1 tvg-name="滨海新闻综合" tvg-logo="https://11.112114.xyz/logo/滨海新闻综合.png" group-title="山东",滨海新闻综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfbhxw$酷9远程JS
 #EXTINF:-1 tvg-name="滨城电视台" tvg-logo="https://11.112114.xyz/logo/滨城电视台.png" group-title="山东",滨城电视台
 http://A/ku9/js/Shandong/sdqilu.js?id=bzbctv
+#EXTINF:-1 tvg-name="滨城电视台" tvg-logo="https://11.112114.xyz/logo/滨城电视台.png" group-title="山东",滨城电视台
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=bzbctv
 #EXTINF:-1 tvg-name="滨城电视台" tvg-logo="https://11.112114.xyz/logo/滨城电视台.png" group-title="山东",滨城电视台
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=bzbctv$酷9远程JS
 #EXTINF:-1 tvg-name="安丘综合" tvg-logo="https://11.112114.xyz/logo/安丘综合.png" group-title="山东",安丘综合
 http://A/ku9/js/Shandong/sdqilu.js?id=wfaqzh
 #EXTINF:-1 tvg-name="安丘综合" tvg-logo="https://11.112114.xyz/logo/安丘综合.png" group-title="山东",安丘综合
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfaqzh
+#EXTINF:-1 tvg-name="安丘综合" tvg-logo="https://11.112114.xyz/logo/安丘综合.png" group-title="山东",安丘综合
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfaqzh$酷9远程JS
 #EXTINF:-1 tvg-name="安丘民生" tvg-logo="https://11.112114.xyz/logo/安丘民生.png" group-title="山东",安丘民生
 http://A/ku9/js/Shandong/sdqilu.js?id=wfaqms
+#EXTINF:-1 tvg-name="安丘民生" tvg-logo="https://11.112114.xyz/logo/安丘民生.png" group-title="山东",安丘民生
+https://mytv.easonzhang.eu.org/api/sdqilu.php?id=wfaqms
 #EXTINF:-1 tvg-name="安丘民生" tvg-logo="https://11.112114.xyz/logo/安丘民生.png" group-title="山东",安丘民生
 https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/sdqilu.js?id=wfaqms$酷9远程JS
 #EXTINF:-1 tvg-name="山西黄河" tvg-logo="http://11.112114.xyz/logo/山西黄河.png" group-title="山西",山西黄河
