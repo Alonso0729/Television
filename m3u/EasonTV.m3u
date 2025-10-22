@@ -2828,11 +2828,11 @@ http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000045
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000001000005829/1.m3u8?channel-id=bestzb&Contentid=5000000001000005829&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
-http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3$上海移动V4
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://39.134.87.62/000000001000/5000000001000005829/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://39.134.87.62/000000001000/5000000004000010584/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
