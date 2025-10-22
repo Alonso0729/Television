@@ -3234,13 +3234,13 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000027730
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=6042486520432105075
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000019351/1.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=3$上海移动V4
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000010000018509/1.m3u8?channel-id=bestzb&Contentid=5000000010000018509&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://39.134.87.62/000000001000/5000000004000019351/index.m3u8?IASHttpSessionId=$上海移动V4
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://39.134.87.62/000000001000/5000000010000018509/index.m3u8?IASHttpSessionId=$上海移动V4
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000019351/1.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8?IASHttpSessionId=$上海移动V6
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
