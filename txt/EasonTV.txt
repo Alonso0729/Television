@@ -1855,6 +1855,7 @@ NBC UNIVERSO,https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web
 延边卫视,http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001470/index.m3u8?IASHttpSessionId=$上海移动V6
 延边卫视,http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001470/index.m3u8?IASHttpSessionId=$上海移动V6
 延边卫视,http://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
+延边卫视,http://192.168.1.200/myphp/test/jst.php?id=812244
 延边卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266008
 延边卫视,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000049
 云南卫视,http://gslbserv.itv.cmvideo.cn/000000001000/5000000006000040019/1.m3u8?channel-id=bestzb&Contentid=5000000006000040019&livemode=1&stbId=3$上海移动V4
@@ -4836,10 +4837,15 @@ GRTN荔枝台,https://tplaylive.grtn.cn/live/lizhi.m3u8
 宜章新闻综合,http://192.168.1.200/myphp/gdy.php?pid=3088&cid=4100
 
 吉林,#genre#
+吉林都市,http://192.168.1.200/myphp/test/jst.php?id=1532
 吉林都市,http://192.168.1.200/myphp/jltv.php?id=jlds
+吉林生活,http://192.168.1.200/myphp/test/jst.php?id=1534
 吉林生活,http://192.168.1.200/myphp/jltv.php?id=jlsh
+吉林影视,http://192.168.1.200/myphp/test/jst.php?id=1535
 吉林影视,http://192.168.1.200/myphp/jltv.php?id=jlys
+吉林乡村,http://192.168.1.200/myphp/test/jst.php?id=1536
 吉林乡村,http://192.168.1.200/myphp/jltv.php?id=jlxc
+吉林综艺文化,http://192.168.1.200/myphp/test/jst.php?id=1538
 吉林综艺文化,http://192.168.1.200/myphp/jltv.php?id=jlzy
 长春综合,https://mytv.easonzhang.eu.org/api/changchun.php?id=cczh
 长春综合,http://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
@@ -4848,6 +4854,7 @@ GRTN荔枝台,https://tplaylive.grtn.cn/live/lizhi.m3u8
 长春综合,rtmp://r2bj.vzan.com/v/slowlive_763922717250086092
 长春综合,http://stream2.jlntv.cn/jlcc/sd/live.m3u8
 长春综合,https://p2bj.vzan.com/slowlive/662567539514013385/live.m3u8
+长春综合,http://192.168.1.200/myphp/test/jst.php?id=812402
 长春文旅体育,https://mytv.easonzhang.eu.org/api/changchun.php?id=wlty
 长春文旅体育,http://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
 长春文旅体育,http://r2bj.vzan.com/v/slowlive_077592635708642635.m3u8
@@ -4886,12 +4893,15 @@ GRTN荔枝台,https://tplaylive.grtn.cn/live/lizhi.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/playlist.m3u8
 图们电视台,http://stream6.jlntv.cn/tm/playlist.m3u8
 通榆综合,http://stream6.jlntv.cn/ty/playlist.m3u8
-通化新闻,https://live-master.jlntv.cn/thhd/sd/live.m3u8
+通化新闻综合,https://live-master.jlntv.cn/thhd/sd/live.m3u8
+通化新闻综合,http://192.168.1.200/myphp/test/jst.php?id=812379
 通化县综合,http://stream5.jlntv.cn/thx/playlist.m3u8
 洮南综合,http://stream5.jlntv.cn/tn/playlist.m3u8
-松原综合,http://stream2.jlntv.cn/sytv/playlist.m3u8
+松原新闻综合,http://stream2.jlntv.cn/sytv/playlist.m3u8
+松原新闻综合,http://192.168.1.200/myphp/test/jst.php?id=812382
 松原公共,http://stream8.jlntv.cn/sytv2/playlist.m3u8
-四平综合,http://stream2.jlntv.cn/sptv/sd/live.m3u8
+四平新闻综合,http://stream2.jlntv.cn/sptv/sd/live.m3u8
+四平新闻综合,http://192.168.1.200/myphp/test/jst.php?id=812374
 双阳综合,http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
 双阳综合,http://stream11.jlntv.cn/shuangyang/playlist.m3u8
 双辽综合,http://stream5.jlntv.cn/sl/playlist.m3u8
@@ -4907,6 +4917,7 @@ GRTN荔枝台,https://tplaylive.grtn.cn/live/lizhi.m3u8
 柳河综合,http://stream5.jlntv.cn/lh/playlist.m3u8
 临江综合,http://stream8.jlntv.cn/linjiang/playlist.m3u8
 辽源新闻综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+辽源新闻综合,http://192.168.1.200/myphp/test/jst.php?id=812376
 梨树新闻,http://stream6.jlntv.cn/ls/playlist.m3u8
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 九台综合,http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
@@ -4918,8 +4929,9 @@ GRTN荔枝台,https://tplaylive.grtn.cn/live/lizhi.m3u8
 集安综合,http://stream2.jlntv.cn/ja/playlist.m3u8
 吉林市新闻综合,https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
 吉林市新闻综合,http://stream2.jlntv.cn:80/jilin1/sd/live.m3u8
+吉林市新闻综合,http://192.168.1.200/myphp/test/jst.php?id=812373
 辉南综合,http://stream5.jlntv.cn/hn/playlist.m3u8
-辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
+辉南综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
 珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8
 珲春电视台,http://stream8.jlntv.cn/hctv/playlist.m3u8
@@ -4937,9 +4949,11 @@ GRTN荔枝台,https://tplaylive.grtn.cn/live/lizhi.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/playlist.m3u8
 大安新闻综合,http://stream6.jlntv.cn/da/playlist.m3u8
-白山综合,http://stream2.jlntv.cn/baishan1/sd/live.m3u8
+白山新闻综合,http://stream2.jlntv.cn/baishan1/sd/live.m3u8
+白山新闻综合,http://192.168.1.200/myphp/test/jst.php?id=812383
 白山旅游生活,http://stream8.jlntv.cn/baishan2/playlist.m3u8
 白城新闻综合,http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+白城新闻综合,http://192.168.1.200/myphp/test/jst.php?id=812380
 
 江苏,#genre#
 江苏城市,https://mytv.easonzhang.eu.org/api/jiangsulitchi_app.php?id=jscspro
