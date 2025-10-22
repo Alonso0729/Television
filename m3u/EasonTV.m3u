@@ -886,6 +886,10 @@ http://www.cdnstv.com:6398/hls/1176/index.m3u8
 #EXTINF:-1 tvg-name="书画" tvg-logo="https://11.112114.xyz/logo/书画.png" group-title="央视",书画
 http://php.jdshipin.com/cqyx.php?id=shuhua
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+http://A/ku9/js/Others/tengxun.js?id=http://livebroadcast-pull.netapitest.com/live/dtv4k
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Others/tengxun.js?id=http://livebroadcast-pull.netapitest.com/live/dtv4k$酷9远程JS
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000010000032246/1.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=3$上海移动V4
@@ -913,10 +917,6 @@ https://mytv.easonzhang.eu.org/api/Shanghai_KanKanNews.php?id=dfws
 https://mytv.easonzhang.eu.org/api/Shanghai_shtv.php?id=dfws
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 https://mytv.easonzhang.eu.org/api/Shanghai_KanDongFang.php?id=2030
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-http://A/ku9/js/Others/tengxun.js?id=http://livebroadcast-pull.netapitest.com/live/dtv4k
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Others/tengxun.js?id=http://livebroadcast-pull.netapitest.com/live/dtv4k$酷9远程JS
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
 http://A/ku9/js/Shanghai/shanghai.js?id=dfws&key=关注公共号❤：AI科技生活
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="上海",东方卫视
@@ -3494,6 +3494,12 @@ http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000004097
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://11.112114.xyz/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000013
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+https://mytv.easonzhang.eu.org/api/shandong_shandian.php?id=sdws
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1$酷9远程JS
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://gslbserv.itv.cmvideo.cn/000000001000/5000000010000027763/1.m3u8?channel-id=bestzb&Contentid=5000000010000027763&livemode=1&stbId=3$上海移动V4
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://39.134.87.62/000000001000/5000000004000020424/index.m3u8?IASHttpSessionId=$上海移动V4
@@ -3513,12 +3519,6 @@ http://[2409:8087:1e68:21::21]:6060/cms001/ch00000090990000001582/index.m3u8?IAS
 http://[2409:8087:1e03:21::37]:6610/cms001/ch00000090990000001582/index.m3u8?IASHttpSessionId=$上海移动V6_4K源
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 https://mytv.easonzhang.eu.org/api/shandong_qilu.php?id=sdws
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
-https://mytv.easonzhang.eu.org/api/shandong_shandian.php?id=sdws
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
-http://A/ku9/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
-https://gh-proxy.com/https://github.com/Alonso0729/Television/k-web/ku9/js/raw/main/Scripts/js/Shandong/shandongsd.js?key=关注公共号❤️❤️：AI科技生活&id=sdws&channelid=1$酷9远程JS
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
 http://k.061899.xyz/k.php?id=sdws
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
